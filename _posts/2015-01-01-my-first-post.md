@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Mon premier message !
 ---
 {% include katex_import.html %}
