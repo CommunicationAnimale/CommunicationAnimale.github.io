@@ -6,7 +6,7 @@ url: "https://communicationanimale.github.io/" # the base hostname & protocol fo
 theme:
   # Meta
   title: La Communication Animale
-  avatar: "img/avatar.png"
+  avatar: avatar.png
   gravatar: # email md5 hash
   description: "TPE : Que permettent les nouvelles connaissances en matière de communication animale ?" # used by search engines
   
