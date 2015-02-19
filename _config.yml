@@ -1,23 +1,21 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+url: "https://communicationanimale.github.io/" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Type Theme
-  avatar: avatar.png
+  title: La Communication Animale
+  avatar:
   gravatar: # email md5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "TPE : Que permettent les nouvelles connaissances en matière de communication animale ?" # used by search engines
   
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-     
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+     <p>Que permettent les nouvelles connaissances en matière de communication animale ?</p>
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
-  
+   Créé par des élèves du <a href="http://www.lycee-delacroix-maisons-alfort.fr/">Lycée Delacroix</a>
+   
   # Icons
   rss: false
   email_address: # full email address, e.g. "sam@example.com"
@@ -26,7 +24,7 @@ theme:
   dribbble: 
   facebook: 
   flickr: 
-  github: "rohanchandra/type-theme"
+  github:
   google_plus: 
   instagram: 
   linkedin:  # full URL
@@ -36,7 +34,7 @@ theme:
   stack_exchange:  # full URL
   steam: 
   tumblr: 
-  twitter: "twitter"
+  twitter:
   wordpress: 
   youtube: 
   
@@ -45,12 +43,12 @@ theme:
   disqus_shortname:
   
   # Localization strings
-  str_follow_on: "Follow on"
-  str_rss_follow: "Follow RSS feed"
+  str_follow_on: "Suivre sur"
+  str_rss_follow: "S'abonner au flux RSS"
   str_email: "Email"
-  str_next: "Next"
-  str_prev: "Prev"
-  str_continue_reading: "Continue reading"
+  str_next: "Suivant"
+  str_prev: "Précédent"
+  str_continue_reading: "Lire la suite"
   
   # Colors, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
