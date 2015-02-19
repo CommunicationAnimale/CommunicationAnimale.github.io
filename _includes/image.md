@@ -1,5 +1,3 @@
----
----
 <!-- _includes/image.html -->
 <div class="image-wrapper" >
     {% if include.url %}
