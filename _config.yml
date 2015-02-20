@@ -68,6 +68,6 @@ sass:
 
 # Collections
 collections:
-  - tpe
+  tpe:
     output: true
     permalink: /:collection/:title
