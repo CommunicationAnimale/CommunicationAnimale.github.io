@@ -8,3 +8,5 @@ Introduction
 
 Ceci est un test.
 <!--more-->
+
+{% include buttons %}

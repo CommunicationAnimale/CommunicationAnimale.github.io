@@ -5,3 +5,5 @@ title: Conclusion
 
 Conclusion...
 <!--more-->
+
+{% include buttons %}

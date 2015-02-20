@@ -3,31 +3,7 @@ layout: page
 title: Introduction
 ---
 Voici l'introduction.
-<!--more-->
-Ceci n'est pas dans l'extrait.
 
-<div class="buttons">
-{% for post in site.tpe %}
-  {% if found %}
-    <a href="{{ post.url | prepend: site.url | replace: '//', '/' }}" class="button" >
-      {{ site.theme.str_next }} 
-      <i class="fa fa-chevron-right"></i>
-    </a>
-	{% break %}
-  {% endif %}
-
-  {% if post.title == page.title %}
-    {% assign found = 1 %}
-    {% if previous_post %}
-      <a href="{{ previous_post | prepend: site.url | replace: '//', '/' }}" class="button" >
-        <i class="fa fa-chevron-left"></i> 
-        {{ site.theme.str_prev }}
-      </a>
-    {% endif %}
-  {% endif %}
-	
-  {% assign previous_post = post.url %}
-{% endfor %}
-</div>
+{% include buttons %}
 
 
