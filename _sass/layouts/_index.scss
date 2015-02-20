@@ -11,9 +11,9 @@
 .call-out p:last-child {
   margin-bottom: 0;
 }
-// post listing
-.posts {
-  .post-teaser {
+// page listing
+.pages {
+  .pages-teaser {
     @extend %padding-regular;
     width: 100%;
     margin-bottom: 0;
