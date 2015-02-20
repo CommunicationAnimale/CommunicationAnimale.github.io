@@ -7,3 +7,4 @@ Introduction
 ------------
 
 Ceci est un test.
+<!--more-->

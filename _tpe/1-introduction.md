@@ -4,3 +4,4 @@ title: Introduction
 ---
 
 Voici l'introduction.
+<!--more-->

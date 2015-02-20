@@ -8,6 +8,7 @@ Introduction
 ------------
 
 On imagine souvent les araignées comme des animaux solitaire, pourtant elles ont à leur disposition différents types de signaux pour communiquer&nbsp;: signaux visuels, notamment lors de la parade amoureuse, signaux sonores, en effet les araignées stridulent en frottant différentes parties de leur corps, signaux chimiques, comme toutes les espèces animales, les araignées communiquent par l’intermédiaire de phéromones, mais aussi signaux vibratoires, qui est le moyen de communication prédominent chez les araignées.
+<!--more-->
 
 Toutefois, l’étude de la communication vibratoire est très récente,
 c’est Peter N. <span style="font-variant:small-caps;">Witt</span>, en 1982 qui le premier l’étudia en profondeur dans son
@@ -133,7 +134,7 @@ vibrations.
 
 {% include image.html img="img/SignalSpiders.png" caption="Vibrations émises par un mâle <em>Tegenaria parietina</em> dans la toile." %}
 
-<a href="{{ 'communication-chimique' | prepend: site.url }}" class="button" >
+<a href="{{ 'conclusion' | prepend: site.url }}" class="button" >
       {{ site.theme.str_next }} 
       <i class="fa fa-chevron-right"></i>
     </a>
