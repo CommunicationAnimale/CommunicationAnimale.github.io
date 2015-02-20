@@ -154,9 +154,9 @@ d’araignée.
 
 ### Mesure de la taille d’un fil de soie d’araignée
 
-{% include image.html img="/img/schemaDiffraction.svg" caption="Montage pour mesurer la taille du fil de soie" fallback="img/schemaDiffraction.png"%}
+{% include image.html img="img/schemaDiffraction.svg" caption="Montage pour mesurer la taille du fil de soie" fallback="img/schemaDiffraction.png"%}
 
-
+<img src="{{ site.url }}img/schemaDiffraction.svg"/>
 
 {% include buttons.html %}
 
