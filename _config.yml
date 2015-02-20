@@ -40,7 +40,7 @@ theme:
   youtube: 
   
   # Scripts
-  google_analytics: # tracking id, e.g. "UA-000000-01"
+  google_analytics: "UA-59973342-1" # tracking id, e.g. "UA-000000-01"
   disqus_shortname:
   
   # Localization strings
