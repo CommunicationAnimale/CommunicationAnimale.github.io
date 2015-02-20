@@ -59,7 +59,7 @@ paginate_path: "blog/page:num"
 
 # BUILD SETTINGS
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 kramdown:
    math_engine: mathjax 
 sass:
