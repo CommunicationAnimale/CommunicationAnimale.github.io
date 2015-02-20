@@ -1,6 +1,6 @@
 ---
 layout: page
-title: La communication vibratoire
+title: La communication chimique
 #permalink: communication-chimiqueAAA
 ---
 
