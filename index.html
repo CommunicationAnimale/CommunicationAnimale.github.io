@@ -23,7 +23,7 @@ layout: default
       </header>
 
       <div class="excerpt">
-        {{ post.content | truncate: 40, '...' }}
+        {{ post.excerpt | strip_html }}
 
         <a class="button" href="{{ post.url | prepend: site.baseurl }}">{{ site.theme.str_continue_reading }}</a>
       </div>
