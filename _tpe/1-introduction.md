@@ -23,7 +23,7 @@ Ceci n'est pas dans l'extrait.
             <i class="fa fa-chevron-left"></i> 
             {{ site.theme.str_prev }}
           </a>
-		{% endunless %}
+		{% endif %}
 	{% endif %}
 	
 	{% assign previous_post = post.url %}
