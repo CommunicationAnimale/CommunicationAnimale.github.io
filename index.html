@@ -9,12 +9,12 @@ layout: default
   {% endif %}
 
   <div class="pages">
-    {% for page in site.tpe %}
+    {% for post in site.tpe %}
     <div class="pages-teaser">
     
       <header>
         <h1>
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          <a class="page-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h1>
         
         <!---
@@ -23,9 +23,9 @@ layout: default
       </header>
 
       <div class="excerpt">
-        {{ page.excerpt }}
+        {{ post.excerpt }}
 
-        <a class="button" href="{{ page.url | prepend: site.baseurl }}">{{ site.theme.str_continue_reading }}</a>
+        <a class="button" href="{{ post.url | prepend: site.baseurl }}">{{ site.theme.str_continue_reading }}</a>
       </div>
       
     </div>
