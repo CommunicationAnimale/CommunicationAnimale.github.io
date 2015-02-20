@@ -4,8 +4,6 @@ title: La communication vibratoire
 ---
 {% include katex_import.html %}
 
-{% include buttons.html %}
-
 Introduction
 ------------
 
