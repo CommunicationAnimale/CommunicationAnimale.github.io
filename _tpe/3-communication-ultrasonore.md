@@ -7,4 +7,4 @@ Voici la communication ultrasonore.
 <!--more-->
 
 
-{% include buttons %}
+{% include buttons.html %}

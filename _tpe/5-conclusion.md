@@ -6,4 +6,4 @@ title: Conclusion
 Conclusion...
 <!--more-->
 
-{% include buttons %}
+{% include buttons.html %}

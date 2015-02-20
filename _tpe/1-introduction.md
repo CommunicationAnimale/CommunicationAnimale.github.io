@@ -4,6 +4,6 @@ title: Introduction
 ---
 Voici l'introduction.
 
-{% include buttons %}
+{% include buttons.html %}
 
 

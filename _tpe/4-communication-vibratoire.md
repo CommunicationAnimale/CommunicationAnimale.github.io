@@ -134,7 +134,7 @@ vibrations.
 
 {% include image.html img="img/SignalSpiders.png" caption="Vibrations émises par un mâle <em>Tegenaria parietina</em> dans la toile." %}
 
-{% include buttons %}
+{% include buttons.html %}
 
 ## Bibliography
 {% include bibliography.html %}

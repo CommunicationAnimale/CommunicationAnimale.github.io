@@ -9,4 +9,4 @@ Introduction
 Ceci est un test.
 <!--more-->
 
-{% include buttons %}
+{% include buttons.html %}
