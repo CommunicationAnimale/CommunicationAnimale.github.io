@@ -14,7 +14,7 @@ Ceci n'est pas dans l'extrait.
 
 	{% if post.title == page.title %}
 		{% assign found = 1 %}
-		{% unless previous_post}
+		{% unless previous_post %}
 			button with previous post
 		{% endunless %}
 	{% endif %}
