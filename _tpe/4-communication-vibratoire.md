@@ -131,8 +131,32 @@ l’amplitude des vibrations, ainsi que la répartition de ces vibrations
 au cours du temps. Nous pouvons voir en cette variation du motif des
 vibrations.
 
-
 {% include image.html img="img/SignalSpiders.png" caption="Vibrations émises par un mâle <em>Tegenaria parietina</em> dans la toile." %}
+
+
+##Transmission du signal vibratoire
+
+Une fois produit par l’araignée, la vibration se propage dans le
+substrat, la plupart du temps de la soie d’araignée. C’est pourquoi nous
+avons effectué différentes expériences pour étudier les propriétés de la
+soie d’araignée.
+
+### Analyse microscopique
+
+Nous avons procédé à une analyse microscopique de fil de soie
+d’araignée. Afin d’avoir les fils, nous avons capturé une araignée qui a
+ensuite fait sa toile dans une boite. Grâce à un appareil photo
+numérique pour microscope, nous avons pu obtenir des clichés du fil
+d’araignée.
+
+{% include image.html img="/img/FilMicroscopeA.png"%}
+{% include image.html img="/img/FilMicroscopeB.png" caption="Photographie de fils d’araignée vus au microscope optique ($\times???$)" %}
+
+### Mesure de la taille d’un fil de soie d’araignée
+
+{% include image.html img="/img/schemaDiffraction.svg" caption="Montage pour mesurer la taille du fil de soie" fallback="/img/schemaDiffraction.png"%}
+
+
 
 {% include buttons.html %}
 
