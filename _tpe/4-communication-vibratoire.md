@@ -135,9 +135,36 @@ vibrations.
 {% include image.html img="img/SignalSpiders.png" caption="Vibrations émises par un mâle <em>Tegenaria parietina</em> dans la toile." %}
 
 <a href="{{ 'conclusion' | prepend: site.url }}" class="button" >
+  {{ site.theme.str_next }} 
+  <i class="fa fa-chevron-right"></i>
+</a>
+
+
+D'autres boutons
+
+<div class="buttons">
+{% for post in site.tpe %}
+  {% if found %}
+    <a href="{{ post.url | prepend: site.url | replace: '//', '/' }}" class="button" >
       {{ site.theme.str_next }} 
       <i class="fa fa-chevron-right"></i>
     </a>
+	{% break %}
+  {% endif %}
+
+  {% if post.title == page.title %}
+    {% assign found = 1 %}
+    {% if previous_post %}
+      <a href="{{ previous_post | prepend: site.url | replace: '//', '/' }}" class="button" >
+        <i class="fa fa-chevron-left"></i> 
+        {{ site.theme.str_prev }}
+      </a>
+    {% endif %}
+  {% endif %}
+	
+  {% assign previous_post = post.url %}
+{% endfor %}
+</div>
 
 ## Bibliography
 {% include bibliography.html %}
