@@ -18,7 +18,7 @@ Ceci n'est pas dans l'extrait.
 
 	{% if post.title == page.title %}
 		{% assign found = 1 %}
-		{% unless previous_post %}
+		{% if previous_post %}
           <a href="{{ previous_post | prepend: site.url }}" class="button" >
             <i class="fa fa-chevron-left"></i> 
             {{ site.theme.str_prev }}
