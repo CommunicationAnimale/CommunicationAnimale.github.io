@@ -134,7 +134,7 @@ vibrations.
 
 {% include image.html img="img/SignalSpiders.png" caption="Vibrations émises par un mâle <em>Tegenaria parietina</em> dans la toile." %}
 
-<a href="{{ 'communication-chimique' | prepend: site.url }}" class="button" >
+<a href="{{ 'communication-chimique' | prepend: site.baseurl }}" class="button" >
       {{ site.theme.str_next }} 
       <i class="fa fa-chevron-right"></i>
     </a>
