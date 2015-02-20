@@ -53,7 +53,7 @@ toutes les espèces sociales, un rôle majeur. Or, toutes les espèces
 sociales sont fileuses, elles organisent leur vie dans des structures
 soyeuses pouvant atteindre (voir ).
 
-{% include image.html img="/img/toileSociale.jpg" caption="Toile d’une société d’<em>Anolesimius Eximius</em>, espèce d’araignée sociale" %}
+{% include image.html img="img/toileSociale.jpg" caption="Toile d’une société d’<em>Anolesimius Eximius</em>, espèce d’araignée sociale" %}
 
 Ces structures soyeuses, qu’elles ne quittent jamais, favorisent la
 communication vibratoire. Tout comme pour les araignées solitaires, les
@@ -89,7 +89,7 @@ force du signal vibratoire est directement lié à la masse de l’animal à
 l’origine de la vibration, plus l’animal est massif et plus le rayon de
 propagation est large.
 
-{% include image.html img="/img/anatomie_araignee.jpg" caption="Anatomie d’une araignée" %}
+{% include image.html img="img/anatomie_araignee.jpg" caption="Anatomie d’une araignée" %}
 
 Ce type d’émission est utilisé surtout par les espèces qui ne font pas
 de toile, comme les araignées sauteuses (*Salticidae*) ou les
@@ -149,12 +149,12 @@ ensuite fait sa toile dans une boite. Grâce à un appareil photo
 numérique pour microscope, nous avons pu obtenir des clichés du fil
 d’araignée.
 
-{% include image.html img="/img/FilMicroscopeA.png"%}
-{% include image.html img="/img/FilMicroscopeB.png" caption="Photographie de fils d’araignée vus au microscope optique ($\times???$)" %}
+{% include image.html img="img/FilMicroscopeA.png" %}
+{% include image.html img="img/FilMicroscopeB.png" caption="Photographie de fils d’araignée vus au microscope optique ($$ \times??? $$)" %}
 
 ### Mesure de la taille d’un fil de soie d’araignée
 
-{% include image.html img="/img/schemaDiffraction.svg" caption="Montage pour mesurer la taille du fil de soie" fallback="/img/schemaDiffraction.png"%}
+{% include image.html img="/img/schemaDiffraction.svg" caption="Montage pour mesurer la taille du fil de soie" fallback="img/schemaDiffraction.png"%}
 
 
 
