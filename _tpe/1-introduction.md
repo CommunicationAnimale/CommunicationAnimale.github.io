@@ -6,6 +6,7 @@ Voici l'introduction.
 <!--more-->
 Ceci n'est pas dans l'extrait.
 
+<div class="buttons">
 {% for post in site.tpe %}
   {% if found %}
     <a href="{{ post.url | prepend: site.url | replace: '//', '/' }}" class="button" >
@@ -27,6 +28,6 @@ Ceci n'est pas dans l'extrait.
 	
   {% assign previous_post = post.url %}
 {% endfor %}
-
+</div>
 
 
