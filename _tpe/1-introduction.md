@@ -10,6 +10,7 @@ Ceci n'est pas dans l'extrait.
 {% for post in site.tpe %}
 	{% if found %}
 		button with next page
+	{% break %}
 	{% endif %}
 
 	{% if post.title == page.title %}
