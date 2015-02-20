@@ -65,3 +65,9 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
+
+# Collections
+collections:
+  - tpe
+    output: true
+    permalink: /:collection/:name
