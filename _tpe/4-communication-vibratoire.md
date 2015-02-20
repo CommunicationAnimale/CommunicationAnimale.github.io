@@ -1,7 +1,6 @@
 ---
 layout: page
 title: La communication vibratoire
-#permalink: communication-vibratoireAAA
 ---
 {% include katex_import.html %}
 

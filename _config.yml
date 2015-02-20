@@ -70,4 +70,4 @@ sass:
 collections:
   - tpe
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:title
