@@ -23,7 +23,7 @@ layout: default
       </header>
 
       <div class="excerpt">
-        {% if post.excerpt %}{{ post.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}
+        {{ post.content | truncate: 40, '...' }}
 
         <a class="button" href="{{ post.url | prepend: site.baseurl }}">{{ site.theme.str_continue_reading }}</a>
       </div>
