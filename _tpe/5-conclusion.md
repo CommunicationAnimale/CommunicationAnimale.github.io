@@ -2,6 +2,6 @@
 layout: page
 title: Conclusion
 ---
+Ceci est la conclusion
 
-Conclusion...
-<!--more-->
+{% include buttons %}
