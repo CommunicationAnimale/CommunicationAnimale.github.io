@@ -156,8 +156,6 @@ d’araignée.
 
 {% include image.html img="img/schemaDiffraction.svg" caption="Montage pour mesurer la taille du fil de soie" fallback="img/schemaDiffraction.png"%}
 
-<img src="{{ site.url }}img/schemaDiffraction.svg"/>
-
 {% include buttons.html %}
 
 ## Bibliography
