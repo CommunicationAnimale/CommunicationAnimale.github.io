@@ -12,7 +12,7 @@ On imagine souvent les araignées comme des animaux solitaire, pourtant elles on
 
 Toutefois, l’étude de la communication vibratoire est très récente,
 c’est Peter N. <span style="font-variant:small-caps;">Witt</span>, en 1982 qui le premier l’étudia en profondeur dans son
-ouvrage @witt_spider_1982, dans lequel il s’intéresse à la communication
+ouvrage *Spider Communication* [TODO : mettre numéro livre], dans lequel il s’intéresse à la communication
 entre araignées et à la détection des proies, suivant la définition
 large de la communication comme tout comportement qui transmet une
 information d’un individu à un autre .
@@ -51,9 +51,9 @@ Pour les espèces sociales, soit environ douze genres d’araignées, c’est
 à dire douze regroupements d’espèces, la communication a, comme pour
 toutes les espèces sociales, un rôle majeur. Or, toutes les espèces
 sociales sont fileuses, elles organisent leur vie dans des structures
-soyeuses pouvant atteindre (voir ).
+soyeuses pouvant atteindre (voir Figure 1)).
 
-{% include image.html img="img/toileSociale.jpg" caption="Toile d’une société d’<em>Anolesimius Eximius</em>, espèce d’araignée sociale" %}
+{% include image.html img="img/toileSociale.jpg" caption="Figure 1: Toile d’une société d’<em>Anolesimius Eximius</em>, espèce d’araignée sociale" %}
 
 Ces structures soyeuses, qu’elles ne quittent jamais, favorisent la
 communication vibratoire. Tout comme pour les araignées solitaires, les
@@ -83,13 +83,13 @@ les stridulations et en tirant directement sur la toile.
 
 ### La percussion
 
-En frappant le sol de son abdomen ou de son pédipalpe (voir ),
+En frappant le sol de son abdomen ou de son pédipalpe (voir Figure 2),
 l’araignée peut créer des vibrations qui se propagent dans le sol. La
 force du signal vibratoire est directement lié à la masse de l’animal à
 l’origine de la vibration, plus l’animal est massif et plus le rayon de
 propagation est large.
 
-{% include image.html img="img/anatomie_araignee.jpg" caption="Anatomie d’une araignée" %}
+{% include image.html img="img/anatomie_araignee.jpg" caption="Figure 2 : Anatomie d’une araignée" %}
 
 Ce type d’émission est utilisé surtout par les espèces qui ne font pas
 de toile, comme les araignées sauteuses (*Salticidae*) ou les
@@ -114,7 +114,7 @@ en frottant deux parties de leur corps, elles sont ensuite transmises au
 sol par les pattes, et dans l’air sous la forme de sons audibles. Une
 araignée peut striduler en frottant son abdomen et son céphalothorax, ou
 en frottant différents appendices, comme patte contre patte, patte
-contre pédipalpe ou chélicère contre chélicère (voir )
+contre pédipalpe ou chélicère contre chélicère (voir Figure 2))
 
 ### Le tiraillement
 
@@ -124,14 +124,14 @@ une forte traction sur la toile puis en relâchant rapidement cette
 tension, envoyant un signal de grande amplitude.
 
 
+{% include image.html img="img/SignalSpiders.png" caption="Figure 3 : Vibrations émises par un mâle <em>Tegenaria parietina</em> dans la toile. 
+A : trémulations abdominales ; K : percussions avec l'abdomen" %}
 
 Afin que les signaux soit reconnaissables, les araignées produisent des
 vibrations caractéristiques en faisant varier la fréquence et
 l’amplitude des vibrations, ainsi que la répartition de ces vibrations
 au cours du temps. Nous pouvons voir en cette variation du motif des
-vibrations.
-
-{% include image.html img="img/SignalSpiders.png" caption="Vibrations émises par un mâle <em>Tegenaria parietina</em> dans la toile." %}
+vibrations en Figure 3, en effet on peut remarquer la répétition des trois trémulations abdominales.
 
 
 ##Transmission du signal vibratoire
@@ -150,11 +150,31 @@ numérique pour microscope, nous avons pu obtenir des clichés du fil
 d’araignée.
 
 {% include image.html img="img/FilMicroscopeA.png" %}
-{% include image.html img="img/FilMicroscopeB.png" caption="Photographie de fils d’araignée vus au microscope optique ($$ \times??? $$)" %}
+{% include image.html img="img/FilMicroscopeB.png" caption="Photographie de fils d’araignée vus au microscope optique (×600) ($$ \times600 $$)" %}
 
+Le premier fil n'a pas été coloré, et le second a été coloré au bleu de méthylène.
+Nous pouvons voir sur ces photographies que les fils d'araignés sont en fait constitués de plusieurs fils tressés les uns autour des autres, toutefois la coloration au bleu de méthylène ne permet pas de différencier différente partie dans chacun des fils.
 ### Mesure de la taille d’un fil de soie d’araignée
 
+Afin d'étudier plus précisement le fil d'araignée, nous avons souhaité mesurer son diamètre. Ceci est possible en analysant le phénomène de diffraction ayant lieu lorsqu'un laser rencontre ce fil d'araignée, c'est-à-dire la manière dont dont la lumière est diffusée après avoir rencontrée le fil.
+Lorsqu'on projette la lumière après le fil sur un écran, on obtient des tâches, et la taille de la tâche centrale (mesurée à partir des milieux entre la tâche centrale et les tâches autour de la tâche centrale) est inversement proportionnelle au diamètre du fil.
+
+C'est pourquoi à l'aide d'un montage composée d'une diode laser, d'un écran et d'un fil dans une diapositive, on peut former une 
+
+
 {% include image.html img="img/schemaDiffraction.svg" caption="Montage pour mesurer la taille du fil de soie" fallback="img/schemaDiffraction.png"%}
+
+| Diamètre fil (mm) | $$ \frac{1}{Largeur de la tâche centrale (mm) $$ |
+| ------- | -------- |
+| 0 | 0 |
+|$$ 4×10 $$
+
+
+
+
+
+
+
 
 {% include buttons.html %}
 
