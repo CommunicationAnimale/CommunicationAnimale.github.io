@@ -114,7 +114,7 @@ en frottant deux parties de leur corps, elles sont ensuite transmises au
 sol par les pattes, et dans l’air sous la forme de sons audibles. Une
 araignée peut striduler en frottant son abdomen et son céphalothorax, ou
 en frottant différents appendices, comme patte contre patte, patte
-contre pédipalpe ou chélicère contre chélicère (voir Figure 2))
+contre pédipalpe ou chélicère contre chélicère (voir Figure 2).
 
 ### Le tiraillement
 
@@ -124,8 +124,7 @@ une forte traction sur la toile puis en relâchant rapidement cette
 tension, envoyant un signal de grande amplitude.
 
 
-{% include image.html img="img/SignalSpiders.png" caption="Figure 3 : Vibrations émises par un mâle <em>Tegenaria parietina</em> dans la toile. 
-A : trémulations abdominales ; K : percussions avec l'abdomen" %}
+{% include image.html img="img/SignalSpiders.png" caption="Figure 3 : Vibrations émises par un mâle <em>Tegenaria parietina</em> dans la toile. A : trémulations abdominales ; K : percussions avec l'abdomen" %}
 
 Afin que les signaux soit reconnaissables, les araignées produisent des
 vibrations caractéristiques en faisant varier la fréquence et
@@ -150,7 +149,7 @@ numérique pour microscope, nous avons pu obtenir des clichés du fil
 d’araignée.
 
 {% include image.html img="img/FilMicroscopeA.png" %}
-{% include image.html img="img/FilMicroscopeB.png" caption="Figure 4 : Photographie de fils d’araignée vus au microscope optique (x600) " %}
+{% include image.html img="img/FilMicroscopeB.png" caption="Figure 4 : Photographie de fils d’araignée vus au microscope optique (x600)" %}
 ($$ \times600 $$)
 Le premier fil n'a pas été coloré, et le second a été coloré au bleu de méthylène.
 Nous pouvons voir sur ces photographies que les fils d'araignés sont en fait constitués de plusieurs fils tressés les uns autour des autres, toutefois la coloration au bleu de méthylène ne permet pas de différencier différente partie dans chacun des fils.
@@ -167,9 +166,9 @@ C'est pourquoi à l'aide d'un montage composée d'une diode laser, d'un écran e
 | Diamètre fil (mm) | Largeur tâche centrale | $$ \frac{1}{Largeur de la tâche centrale (mm) $$ |
 | ------- | -------- | ------ |
 | 0 | 0 | 0 |
-| $$ 4.0\times10^{-2} $$ | $$ 3.3\times10^{1} |
-| $$ 6.0\times10^{-2} $$ | $$ 2.2\times10^{1} |
-| $$ 4.0\times10^{-2} $$ | $$ 3.3\times10^{1} |
+| $$ 4.0\times10^{-2} $$ | $$ 3.3\times10^{1} $$ |
+| $$ 6.0\times10^{-2} $$ | $$ 2.2\times10^{1} $$ |
+| $$ 4.0\times10^{-2} $$ | $$ 3.3\times10^{1} $$ |
 
 
 
