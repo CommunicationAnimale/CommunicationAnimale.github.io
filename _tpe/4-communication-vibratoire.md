@@ -150,8 +150,8 @@ numérique pour microscope, nous avons pu obtenir des clichés du fil
 d’araignée.
 
 {% include image.html img="img/FilMicroscopeA.png" %}
-{% include image.html img="img/FilMicroscopeB.png" caption="Figure 4 : Photographie de fils d’araignée vus au microscope optique (x600) ($$ \times600 $$)" %}
-
+{% include image.html img="img/FilMicroscopeB.png" caption="Figure 4 : Photographie de fils d’araignée vus au microscope optique (x600) " %}
+($$ \times600 $$)
 Le premier fil n'a pas été coloré, et le second a été coloré au bleu de méthylène.
 Nous pouvons voir sur ces photographies que les fils d'araignés sont en fait constitués de plusieurs fils tressés les uns autour des autres, toutefois la coloration au bleu de méthylène ne permet pas de différencier différente partie dans chacun des fils.
 ### Mesure de la taille d’un fil de soie d’araignée
@@ -162,7 +162,7 @@ Lorsqu'on projette la lumière après le fil sur un écran, on obtient des tâch
 C'est pourquoi à l'aide d'un montage composée d'une diode laser, d'un écran et d'un fil dans une diapositive, on peut former une 
 
 
-{% include image.html img="img/schemaDiffraction.svg" caption="Montage pour mesurer la taille du fil de soie" fallback="img/schemaDiffraction.png"%}
+{% include image.html img="img/schemaDiffraction.svg" caption="Montage pour mesurer la taille du fil de soie" fallback="img/schemaDiffraction.png" %}
 
 | Diamètre fil (mm) | Largeur tâche centrale | $$ \frac{1}{Largeur de la tâche centrale (mm) $$ |
 | ------- | -------- | ------ |
