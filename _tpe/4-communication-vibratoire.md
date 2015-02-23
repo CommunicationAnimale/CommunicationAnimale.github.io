@@ -150,7 +150,7 @@ numérique pour microscope, nous avons pu obtenir des clichés du fil
 d’araignée.
 
 {% include image.html img="img/FilMicroscopeA.png" %}
-{% include image.html img="img/FilMicroscopeB.png" caption="Photographie de fils d’araignée vus au microscope optique (×600) ($$ \times600 $$)" %}
+{% include image.html img="img/FilMicroscopeB.png" caption="Figure 4 : Photographie de fils d’araignée vus au microscope optique (x600) ($$ \times600 $$)" %}
 
 Le premier fil n'a pas été coloré, et le second a été coloré au bleu de méthylène.
 Nous pouvons voir sur ces photographies que les fils d'araignés sont en fait constitués de plusieurs fils tressés les uns autour des autres, toutefois la coloration au bleu de méthylène ne permet pas de différencier différente partie dans chacun des fils.
