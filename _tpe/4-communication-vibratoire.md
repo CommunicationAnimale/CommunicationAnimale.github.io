@@ -185,7 +185,9 @@ $$ D(filA) = \frac{1}{0.76} $$
 
 $$ D(filA) = \frac{\frac{1}{2}}{0.76} $$
 
-$$ D(filA) = \frac{\frac{1}{L_{Tâche centrale fil A}}}{0.76} $$
+$$ D(filA) = \frac{\frac{1}{L_{\text{Tâche centrale fil A}}}{0.76} $$
+
+$$ D(filA) = \frac{\frac{1}{L_{\textup{Tâche centrale fil A}}}{0.76} $$
 
 
 $$ D(filA) = \frac{\frac{1}{L_{Tâche centrale fil A}}}{0.76} $$
