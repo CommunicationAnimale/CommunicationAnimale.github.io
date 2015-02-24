@@ -185,8 +185,9 @@ $$ D(fil) = \frac{\frac{1}{L}}{0.76}$$
 
 $$D(filA) = \frac{9,26\times10^{-3}}{0.76}$$
 
+$$D(filA) = 1,2\times10^{-2}\text{mm} = 1,2\times10^{-5}\text{m} = 12$$
 
-$$D(filA) = 1,2\times10^{-2}\text{mm} = 1,2\times10^{-5}\text{m} = 12\mu{}\text{µm}$$
+$$D(filA) = 1,2\times10^{-2}\text{mm} = 1,2\times10^{-5}\text{m} = 12\text{µm}$$
 
 
 
