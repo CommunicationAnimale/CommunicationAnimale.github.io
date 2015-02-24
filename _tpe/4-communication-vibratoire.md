@@ -6,7 +6,7 @@ title: La communication vibratoire
 
 Introduction
 ------------
-
+$$ x^{2} $$
 On imagine souvent les araignées comme des animaux solitaire, pourtant elles ont à leur disposition différents types de signaux pour communiquer&nbsp;: signaux visuels, notamment lors de la parade amoureuse, signaux sonores, en effet les araignées stridulent en frottant différentes parties de leur corps, signaux chimiques, comme toutes les espèces animales, les araignées communiquent par l’intermédiaire de phéromones, mais aussi signaux vibratoires, qui est le moyen de communication prédominent chez les araignées.
 <!--more-->
 
