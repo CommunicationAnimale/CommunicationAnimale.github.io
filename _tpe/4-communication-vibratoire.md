@@ -183,13 +183,18 @@ Dès lors on peut calculer :
 $$ D(fil) = \frac{\frac{1}{L}}{0.76}$$
 
 Donc :
+
 $$D(filA) = \frac{9,26\times10^{-3}}{0.76}$$
 
 
-$$D(filA) = 1,2\times10^{-2}\text{mm} = 1,2\times10^{-5}\text{m} = 12$$µm
+$$D(filA) = 1,2\times10^{-2} \text{mm} = 1,2\times10^{-5} \text{m} = 12$$ µm
+
+Et,
+
+$$D(filB) = \frac{1,25\times10^{-2}}{0.76}$$
 
 
-
+$$D(filB) = 1,6\times10^{-2} \text{mm} = 1,6\times10^{-5} \text{m} = 16$$ µm
 
 
 {% include buttons.html %}
