@@ -179,22 +179,12 @@ Ces mesures permettent de tracer un graphique. La proportionnalité entre le dia
 {% include image.html img="img/graphiqueDiffraction.svg" fallback="img/graphiqueDiffraction.png" %}
 
 Dès lors on peut calculer :
-$$ D(filA) = 1 $$
 
-$$ D(filA) = \frac{1}{0.76} $$
-
-$$ D(filA) = \frac{\frac{1}{2}}{0.76}\text{mm} $$
-
-$$ D(filA) = \frac{\frac{1}{L_{\text{Tâche centrale fil A}}}{0.76} $$
-
-$$ D(filA) = \frac{\frac{1}{L_{\textup{Tâche centrale fil A}}}{0.76} $$
-
-
-$$ D(filA) = \frac{\frac{1}{L_{Tâche centrale fil A}}}{0.76} $$
+$$ D(fil) = \frac{\frac{1}{L}}{0.76} $$
 
 $$ D(filA) = \frac{9,26\times10^{-3}}{0.76} $$
 
-$$ D(filA) = 1,2\times10^{-2}mm = 1,2\times10^{-5}m = 12\mu{}m$$
+$$ D(filA) = 1,2\times10^{-2}\text{mm} = 1,2\times10^{-5}\text{m} = 12\mu{}\text{\mu{}m}$$
 
 
 
