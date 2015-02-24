@@ -174,7 +174,7 @@ C'est pourquoi à l'aide d'un montage composée d'une diode laser, d'un écran e
 | 1,0×10<sup>-1</sup> | 1,3×10<sup>1</sup> | 7,7×10<sup>-2</sup> |
 | 1,2×10<sup>-1</sup> | 1,1×10<sup>1</sup> | 9,1×10<sup>-2</sup> |
 
-
+{% include image.html img="img/graphiqueDiffraction.svg" fallback="img/graphiqueDiffraction.png" %}
 
 
 
