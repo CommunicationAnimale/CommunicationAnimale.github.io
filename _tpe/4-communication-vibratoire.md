@@ -50,7 +50,7 @@ Pour les espèces sociales, soit environ douze genres d’araignées, c’est
 à dire douze regroupements d’espèces, la communication a, comme pour
 toutes les espèces sociales, un rôle majeur. Or, toutes les espèces
 sociales sont fileuses, elles organisent leur vie dans des structures
-soyeuses pouvant atteindre (voir Figure 1)).
+soyeuses pouvant atteindre (voir Figure 1).
 
 {% include image.html img="img/toileSociale.jpg" caption="Figure 1: Toile d’une société d’<em>Anolesimius Eximius</em>, espèce d’araignée sociale" %}
 
