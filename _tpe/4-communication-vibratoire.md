@@ -148,7 +148,7 @@ numérique pour microscope, nous avons pu obtenir des clichés du fil
 d’araignée.
 
 {% include image.html img="img/FilMicroscopeA.png" %}
-{% include image.html img="img/FilMicroscopeB.png" caption="Figure 4 : Photographie de fils d’araignée vus au microscope optique (×600)" %}
+{% include image.html img="img/FilMicroscopeB.png" caption="Figure 4 : Photographies de fils d’araignée vus au microscope optique (×600)" %}
 
 Le premier fil n'a pas été coloré, et le second a été coloré au bleu de méthylène.
 Nous pouvons voir sur ces photographies que les fils d'araignés sont en fait constitués de plusieurs fils tressés les uns autour des autres, toutefois la coloration au bleu de méthylène ne permet pas de différencier différente partie dans chacun des fils.
@@ -176,7 +176,7 @@ Afin de pouvoir calculer le coefficient de proportionnalité entre le diamètre 
 
 Ces mesures permettent de tracer un graphique. La proportionnalité entre le diamètre du fil et la taille de la tâche centrale est modélisée par une droite de coefficient directeur 0,76 et passant par l'origine du repère. 
 
-{% include image.html img="img/graphiqueDiffraction.svg" fallback="img/graphiqueDiffraction.png" %}
+{% include image.html img="img/graphiqueDiffraction.svg" fallback="img/graphiqueDiffraction.png" caption="1 / L en fonction du diamètre du fil"%}
 
 Dès lors on peut calculer :
 
