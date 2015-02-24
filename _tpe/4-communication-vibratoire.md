@@ -167,8 +167,8 @@ Afin de pouvoir calculer le coefficient de proportionnalité entre le diamètre 
 
 | Diamètre fil (mm) | Largeur L de la tâche centrale (mm) | 1 / L |
 | ------- | -------- | ------ |
-| d(filA) | 1,08×10<sup>2</sup> | 9,26×10<sup>-3</sup> |
-| d(filB) | 8,0×10<sup>1</sup> | 1,25×10<sup>-2</sup> |
+| D(filA) | 1,08×10<sup>2</sup> | 9,26×10<sup>-3</sup> |
+| D(filB) | 8,0×10<sup>1</sup> | 1,25×10<sup>-2</sup> |
 | 4,0×10<sup>-2</sup> | 3,3×10<sup>1</sup> | 3,0×10<sup>-2</sup> |
 | 6,0×10<sup>-2</sup> | 2,2×10<sup>1</sup> | 4,6×10<sup>-2</sup> |
 | 1,0×10<sup>-1</sup> | 1,3×10<sup>1</sup> | 7,7×10<sup>-2</sup> |
@@ -180,11 +180,13 @@ Ces mesures permettent de tracer un graphique. La proportionnalité entre le dia
 
 Dès lors on peut calculer :
 
-$$ D(fil) = \frac{\frac{1}{L}}{0.76} $$
+$$ D(fil) = \frac{\frac{1}{L}}{0.76}
 
-$$ D(filA) = \frac{9,26\times10^{-3}}{0.76} $$
 
-$$ D(filA) = 1,2\times10^{-2}\text{mm} = 1,2\times10^{-5}\text{m} = 12\mu{}\text{\mu{}m}$$
+D(filA) = \frac{9,26\times10^{-3}}{0.76}
+
+
+D(filA) = 1,2\times10^{-2}\text{mm} = 1,2\times10^{-5}\text{m} = 12\mu{}\text{µm}$$
 
 
 
