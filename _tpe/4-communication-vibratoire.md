@@ -166,12 +166,12 @@ C'est pourquoi à l'aide d'un montage composée d'une diode laser, d'un écran e
 
 | Diamètre fil (mm) | Largeur tâche centrale (mm) | 1/(Largeur de la tâche centrale (mm)) |
 | ------- | -------- | ------ |
-| d(filA) | 8,0×10<sup>1</sup> |
-| d(filB) | 1,08×10<sup>2</sup> |
-| 4.0×10<sup>-2</sup> | 3.3×10<sup>1</sup> |
-| 6.0×10<sup>-2</sup> | 2.2×10<sup>1</sup> |
-| 1.0×10<sup>-1</sup> | 1.3×10<sup>1</sup> |
-| 1.2×10<sup>-1</sup> | 1.1×10<sup>1</sup> |
+| d(filA) | 8,0×10<sup>1</sup> | 1,25×10<sup>-2</sup> |
+| d(filB) | 1,08×10<sup>2</sup> | 9,26×10<sup>-3</sup> |
+| 4,0×10<sup>-2</sup> | 3,3×10<sup>1</sup> | 3,0×10<sup>-2</sup> |
+| 6,0×10<sup>-2</sup> | 2,2×10<sup>1</sup> | 4,6×10<sup>-2</sup> |
+| 1,0×10<sup>-1</sup> | 1,3×10<sup>1</sup> | 7,7×10<sup>-2</sup> |
+| 1,2×10<sup>-1</sup> | 1,1×10<sup>1</sup> | 9,1×10<sup>-2</sup> |
 
 
 
