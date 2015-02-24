@@ -149,13 +149,14 @@ numérique pour microscope, nous avons pu obtenir des clichés du fil
 d’araignée.
 
 {% include image.html img="img/FilMicroscopeA.png" %}
-{% include image.html img="img/FilMicroscopeB.png" caption="Figure 4 : Photographie de fils d’araignée vus au microscope optique (x600)" %}
-($$ \times600 $$)
+{% include image.html img="img/FilMicroscopeB.png" caption="Figure 4 : Photographie de fils d’araignée vus au microscope optique (×600)" %}
+
 Le premier fil n'a pas été coloré, et le second a été coloré au bleu de méthylène.
 Nous pouvons voir sur ces photographies que les fils d'araignés sont en fait constitués de plusieurs fils tressés les uns autour des autres, toutefois la coloration au bleu de méthylène ne permet pas de différencier différente partie dans chacun des fils.
 ### Mesure de la taille d’un fil de soie d’araignée
 
 Afin d'étudier plus précisement le fil d'araignée, nous avons souhaité mesurer son diamètre. Ceci est possible en analysant le phénomène de diffraction ayant lieu lorsqu'un laser rencontre ce fil d'araignée, c'est-à-dire la manière dont dont la lumière est diffusée après avoir rencontrée le fil.
+
 Lorsqu'on projette la lumière après le fil sur un écran, on obtient des tâches, et la taille de la tâche centrale (mesurée à partir des milieux entre la tâche centrale et les tâches autour de la tâche centrale) est inversement proportionnelle au diamètre du fil.
 
 C'est pourquoi à l'aide d'un montage composée d'une diode laser, d'un écran et d'un fil dans une diapositive, on peut former une 
@@ -163,12 +164,12 @@ C'est pourquoi à l'aide d'un montage composée d'une diode laser, d'un écran e
 
 {% include image.html img="img/schemaDiffraction.svg" caption="Montage pour mesurer la taille du fil de soie" fallback="img/schemaDiffraction.png" %}
 
-| Diamètre fil (mm) | Largeur tâche centrale | $$ \frac{1}{Largeur de la tâche centrale (mm) $$ |
+| Diamètre fil (mm) | Largeur tâche centrale | \frac{1}{Largeur de la tâche centrale (mm) |
 | ------- | -------- | ------ |
 | 0 | 0 | 0 |
-| $$ 4.0\times10^{-2} $$ | $$ 3.3\times10^{1} $$ |
-| $$ 6.0\times10^{-2} $$ | $$ 2.2\times10^{1} $$ |
-| $$ 4.0\times10^{-2} $$ | $$ 3.3\times10^{1} $$ |
+| 4.0×10^{-2} | 3.3×10^{1} |
+| 6.0×10^{-2} | 2.2×10^{1} |
+| 4.0×10^{-2} | 3.3×10^{1} |
 
 
 
