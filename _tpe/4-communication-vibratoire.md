@@ -164,12 +164,14 @@ C'est pourquoi à l'aide d'un montage composée d'une diode laser, d'un écran e
 
 {% include image.html img="img/schemaDiffraction.svg" caption="Montage pour mesurer la taille du fil de soie" fallback="img/schemaDiffraction.png" %}
 
-| Diamètre fil (mm) | Largeur tâche centrale | \frac{1}{Largeur de la tâche centrale (mm) |
+| Diamètre fil (mm) | Largeur tâche centrale (mm) | 1/(Largeur de la tâche centrale (mm)) |
 | ------- | -------- | ------ |
-| 0 | 0 | 0 |
-| 4.0×10^{-2} | 3.3×10^{1} |
-| 6.0×10^{-2} | 2.2×10^{1} |
-| 4.0×10^{-2} | 3.3×10^{1} |
+| d(filA) | 8,0×10<sup>1</sup> |
+| d(filB) | 1,08×10<sup>2</sup> |
+| 4.0×10<sup>-2</sup> | 3.3×10<sup>1</sup> |
+| 6.0×10<sup>-2</sup> | 2.2×10<sup>1</sup> |
+| 1.0×10<sup>-1</sup> | 1.3×10<sup>1</sup> |
+| 1.2×10<sup>-1</sup> | 1.1×10<sup>1</sup> |
 
 
 
