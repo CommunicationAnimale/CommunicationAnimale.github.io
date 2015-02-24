@@ -159,12 +159,13 @@ Afin d'étudier plus précisement le fil d'araignée, nous avons souhaité mesur
 
 Lorsqu'on projette la lumière après le fil sur un écran, on obtient des tâches, et la taille de la tâche centrale (mesurée à partir des milieux entre la tâche centrale et les tâches autour de la tâche centrale) est inversement proportionnelle au diamètre du fil.
 
-C'est pourquoi à l'aide d'un montage composée d'une diode laser, d'un écran et d'un fil dans une diapositive, on peut former une 
+C'est pourquoi à l'aide d'un montage composée d'une diode laser, d'un écran et d'un fil dans une diapositive positionné entre la diode et l'écran, à un mètre de l'écran, on peut former les tâches sur l'écran et mesurer la taille de la tâche centrale.
 
 
-{% include image.html img="img/schemaDiffraction.svg" caption="Montage pour mesurer la taille du fil de soie" fallback="img/schemaDiffraction.png" %}
+{% include image.html img="img/schemaDiffraction.svg" caption="Figure 5 : Montage pour mesurer la taille du fil de soie" fallback="img/schemaDiffraction.png" %}
 
-| Diamètre fil (mm) | Largeur tâche centrale (mm) | 1/(Largeur de la tâche centrale (mm)) |
+
+| Diamètre fil (mm) | Largeur L de la tâche centrale (mm) | 1 / L |
 | ------- | -------- | ------ |
 | d(filA) | 1,08×10<sup>2</sup> | 9,26×10<sup>-3</sup> |
 | d(filB) | 8,0×10<sup>1</sup> | 1,25×10<sup>-2</sup> |
