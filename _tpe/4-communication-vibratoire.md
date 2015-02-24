@@ -6,7 +6,6 @@ title: La communication vibratoire
 
 Introduction
 ------------
-$$ x^{2} $$
 On imagine souvent les araignées comme des animaux solitaire, pourtant elles ont à leur disposition différents types de signaux pour communiquer&nbsp;: signaux visuels, notamment lors de la parade amoureuse, signaux sonores, en effet les araignées stridulent en frottant différentes parties de leur corps, signaux chimiques, comme toutes les espèces animales, les araignées communiquent par l’intermédiaire de phéromones, mais aussi signaux vibratoires, qui est le moyen de communication prédominent chez les araignées.
 <!--more-->
 
@@ -180,8 +179,19 @@ Ces mesures permettent de tracer un graphique. La proportionnalité entre le dia
 {% include image.html img="img/graphiqueDiffraction.svg" fallback="img/graphiqueDiffraction.png" %}
 
 Dès lors on peut calculer :
+$$ D(filA) = 1 $$
+
+$$ D(filA) = \frac{1}{0.76} $$
+
+$$ D(filA) = \frac{\frac{1}{2}}{0.76} $$
+
 $$ D(filA) = \frac{\frac{1}{L_{Tâche centrale fil A}}}{0.76} $$
+
+
+$$ D(filA) = \frac{\frac{1}{L_{Tâche centrale fil A}}}{0.76} $$
+
 $$ D(filA) = \frac{9,26\times10^{-3}}{0.76} $$
+
 $$ D(filA) = 1,2\times10^{-2}mm = 1,2\times10^{-5}m = 12\mu{}m$$
 
 
