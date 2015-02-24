@@ -175,16 +175,14 @@ Afin de pouvoir calculer le coefficient de proportionnalité entre le diamètre 
 | 1,0×10<sup>-1</sup> | 1,3×10<sup>1</sup> | 7,7×10<sup>-2</sup> |
 | 1,2×10<sup>-1</sup> | 1,1×10<sup>1</sup> | 9,1×10<sup>-2</sup> |
 
-Ces mesures permettent de tracer un graphique. La proportionnalité entre le diamètre du fil et la taille de la tâche centrale est modélisée par une droite de coefficient directeur 0,76 et passant par l'origine du repère. Dès lors on peut calculer :
-$$ D(filA) = \frac{\frac{1}{L_{Tâche centrale fil A}}}{0.76} $$
-$$ D(filA) = \frac{9,26\times10^{-3}}{0.76} $$
-$$ D(filA) = 1,2\times10^{-2}$$mm
-
-
+Ces mesures permettent de tracer un graphique. La proportionnalité entre le diamètre du fil et la taille de la tâche centrale est modélisée par une droite de coefficient directeur 0,76 et passant par l'origine du repère. 
 
 {% include image.html img="img/graphiqueDiffraction.svg" fallback="img/graphiqueDiffraction.png" %}
 
-
+Dès lors on peut calculer :
+$$ D(filA) = \frac{\frac{1}{L_{Tâche centrale fil A}}}{0.76} $$
+$$ D(filA) = \frac{9,26\times10^{-3}}{0.76} $$
+$$ D(filA) = 1,2\times10^{-2}mm = 1,2\times10^{-5}m = 12\mu{}m$$
 
 
 
