@@ -163,7 +163,7 @@ C'est pourquoi à l'aide d'un montage composée d'une diode laser, d'un écran e
 
 {% include image.html img="img/schemaDiffraction.svg" caption="Figure 5 : Montage pour mesurer la taille du fil de soie" fallback="img/schemaDiffraction.png" %}
 
-Afin de pouvoir calculer le coefficient de proportionnalité entre le diamètre du fil et l'inverse de la larger de la tâche centrale, on mesure la taille de la tâche centrale pour des fils de diamètre connu. Par ailleurs on mesure la taille de la tâche centrale d'une lumière de laser diffracté par un fil d'araignée A, puis d'un fil B, prélevé sur la toile de l'araignée capturée. Avec ces mesures, on obtient le tableau suivant.
+Afin de pouvoir calculer le coefficient de proportionnalité entre le diamètre du fil et l'inverse de la larger de la tâche centrale, on mesure la taille de la tâche centrale pour des fils de diamètre connu. Par ailleurs on mesure la taille de la tâche centrale d'une lumière de laser diffracté par un fil d'araignée *A*, puis d'un fil *B*, prélevé sur la toile de l'araignée capturée. Avec ces mesures, on obtient le tableau suivant.
 
 | Diamètre fil (mm) | Largeur L de la tâche centrale (mm) | 1 / L |
 | ------- | -------- | ------ |
