@@ -212,6 +212,9 @@ Afin d'étudier la vitesse d'une onde dans la toile, nous avons décidé de nous
 
 
 Corde A :
+Masse de la corde : $$m = 4,6\times10^{-2} \text{kg}$$
+Longueur de la corde : $$L = 2,08 \text{m}$$
+Masse linéique (masse par unité de longueur) : $$\mu = \frac{m}{L} = \frac{4,6\times10^{-2}}{2,08} = 2,2 \text{kg.m^{-1}$$ ou $$2,2 \text{kg.m\textsuperscript{-1}}$$
 
 Tension (avec A<B<C<D)|                   A            |            B             |       C       |       D           |
 :-------------:|-------------|--------------|-----------|------------|  
@@ -243,8 +246,12 @@ Tension (avec A'<B')|   A'    |       B' |
                     |                   45           |            33|
                     |                   37           |            37|
                     |                   37           |            37|
-Δt×10<sup>-3</sup> moyen (s)|                   37      |            30|
+Δt×10<sup>-3</sup> moyen (s)|  37      |        30 |
 Vitesse v de l'onde (m.s<sup>-1</sup>) | 27 | 33 |
+
+Dès lors on peut remarquer que plus la tension de la corde est élevée, et plus la propagation se déplace rapidement dans la corde.
+
+
 {% include buttons.html %}
 
 ## Bibliography
