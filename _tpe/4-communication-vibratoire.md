@@ -243,7 +243,7 @@ Longueur de la corde : $$L_B = 3,07 \text{m}$$
 
 Masse linéique (masse par unité de longueur) : $$\mu_B = \frac{2,1\times10^{-1}}{3,07} = 7,0\times10^{-2} \text{kg.m}$$<sup>-1</sup> $$> \mu_A$$
 
-Tension (avec A'<B')|   A' $$\approx A$$    |       B' $$\approx B$$ |
+Tension (avec A'<B')|   A' ≈ A   |       B' ≈ B |
 ---------------|-------------|---------------|
 Δt mesuré expérimentalement (s×10<sup>-3</sup>)|  30      |       28 |
                     |                   35           |            31|
