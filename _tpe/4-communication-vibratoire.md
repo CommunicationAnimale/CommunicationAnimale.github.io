@@ -210,11 +210,10 @@ Afin d'étudier la vitesse d'une onde dans la toile, nous avons décidé de nous
 
 
 Corde A :
-                    |                   ΔtE-3 (s)    |                          |               |                   |
 
 Tension (avec A<B<C<D)|                   A            |            B             |       C       |       D           |
 :-------------:|-------------|--------------|-----------|------------|  
-        |                   24           |            19            |       10      |       5           |
+Δt×10<sup>-3</sup> (s)|                   24           |            19            |       10      |       5           |
                     |                   22           |            18            |       13      |       4           |
                     |                   26           |            15            |       6       |       7           |
                     |                   26           |            15            |       9       |       4           |
@@ -224,16 +223,14 @@ Tension (avec A<B<C<D)|                   A            |            B           
                     |                                |            17            |       14      |       10          |
                     |                                |                          |       8       |                   |
                     |                                |                          |       5       |                   |
-Moyenne             |                   2,4E+01      |            1,7E+01       |       9,2E+00 |       6,4E+00     |
+Δt×10<sup>-3</sup> moyen (s)|         24             |            17            |       9       |       6           |
 
 
 
 Corde B :
-
-                    |                   ΔtE-3 (s)    |            
 Tension (avec A'<B')|                   A'           |            B'
 ---------------|-------------|---------------|
-                    |                   30           |            28
+Δt×10<sup>-3</sup> (s)|                   30           |            28
                     |                   35           |            31
                     |                   39           |            35
                     |                   30           |            23
@@ -243,7 +240,7 @@ Tension (avec A'<B')|                   A'           |            B'
                     |                   45           |            33
                     |                   37           |            37
                     |                   37           |            37
-Moyenne             |                   3,7E+01      |            3,0E+01
+Δt×10<sup>-3</sup> moyen (s)|                   37      |            30
 
 {% include buttons.html %}
 
