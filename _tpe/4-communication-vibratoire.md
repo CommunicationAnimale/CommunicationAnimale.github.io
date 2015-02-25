@@ -196,7 +196,7 @@ $$D(filB) = \frac{1,25\times10^{-2}}{0.76}$$
 
 $$D(filB) = 1,6\times10^{-2} \text{mm} = 1,6\times10^{-5} \text{m} = 16$$ µm
 
-Ainsi, selon nos mesure un fil de soie d'araignée a une taille moyenne de $$ \bar{x} = \frac{D\text{x(filA)} + D\text{x(filB)}}{2} = \frac{12 + 16}{2} = 14$$ µm, soit environ $$\frac{1}{10} de la taille d'un cheveux.
+Ainsi, selon nos mesure un fil de soie d'araignée a une taille moyenne de $$ \bar{x} = \frac{DfilA) + D(filB)}{2} = \frac{12 + 16}{2} = 14 \mu\text{m}$$ , soit environ $$\frac{1}{10}$$ de la taille d'un cheveux.
 
 
 
