@@ -177,7 +177,7 @@ Afin de pouvoir calculer le coefficient de proportionnalité entre le diamètre 
 
 Ces mesures permettent de tracer un graphique. La proportionnalité entre le diamètre du fil et la taille de la tâche centrale est modélisée par une droite de coefficient directeur 0,76 et passant par l'origine du repère. 
 
-{% include image.html img="img/graphiqueDiffraction.svg" fallback="img/graphiqueDiffraction.png" caption="1 / L en fonction du diamètre du fil"%}
+{% include image.html img="img/graphiqueDiffraction.svg" fallback="img/graphiqueDiffraction.png" caption="Figure 6 : 1 / L en fonction du diamètre du fil"%}
 
 Dès lors on peut calculer :
 
@@ -197,7 +197,7 @@ $$D(filB) = \frac{1,25\times10^{-2}}{0.76}$$
 
 $$D(filB) = 1,6\times10^{-2} \text{mm} = 1,6\times10^{-5} \text{m} = 16 \mu\text{m}$$
 
-Ainsi, selon nos mesure un fil de soie d'araignée a une taille moyenne de $$ \bar{x} = \frac{D(filA) + D(filB)}{2} = \frac{12 + 16}{2} = 14 \mu\text{m}$$ , soit environ un dixiéme de la taille d'un cheveux.
+Ainsi, selon nos mesure un fil de soie d'araignée a une taille moyenne de $$ \bar{x} = \frac{D(filA) + D(filB)}{2} = \frac{12 + 16}{2} = 14 \mu\text{m}$$ , soit environ un dixième de la taille d'un cheveu.
 
 Ainsi, même si le fil de soie d'araignée est extrêment fin, les araignées sont capables de construire des toiles résistantes au poid de l'araignée elle-même, à celui d'éventuels intrus et à la transimission d'ondes, notamment dans le cadre de la communication.
 
@@ -205,9 +205,9 @@ Ainsi, même si le fil de soie d'araignée est extrêment fin, les araignées so
 
 Les vibrations émises par l'araignée prennent la forme d'ondes mécaniques progressives dans la toile, c'est-à-dire la propagation d'une perturbation dans un milieu matériel sans transport de matière. Cette onde est dite à une dimension puisqu'elle ne se propage que dans une seule direction.
 
-Afin d'étudier la vitesse d'une onde dans la toile, nous avons décidé de nous interesser à la vitesse d'une onde dans une corde. Pour cela nous avons mesuré le temps que prenait une onde pour parcourir un mètre sur deux cordes, corde A et corde B à l'aide de deux capteurs laser, en tendant plus ou moins la corde.
+Afin d'étudier la vitesse d'une onde dans la toile, nous avons décidé de nous interesser à la vitesse d'une onde dans une corde. Pour cela nous avons mesuré le temps que prenait une onde pour parcourir un mètre sur deux cordes, corde A et corde B à l'aide de deux capteurs laser, en tendant plus ou moins la corde, comme vu en Figure 7.
 
-
+{% include image.html img="img/schemaVOnde.svg" fallback="img/schemaVOnde.png" caption="Figure 7 : Montage pour mesurer la vitesse de propagation d'une onde dans une corde"%}
 
 
 
