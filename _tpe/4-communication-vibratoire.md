@@ -217,7 +217,7 @@ Masse de la corde : $$m = 4,6\times10^{-2} \text{kg}$$
 
 Longueur de la corde : $$L = 2,08 \text{m}$$
 
-Masse linéique (masse par unité de longueur) : $$\mu = \frac{m}{L} = \frac{4,6\times10^{-2}}{2,08} = 2,2 \text{kg.m^{-1}$$ ou $$2,2 \text{kg.m\textsuperscript{-1}}$$
+Masse linéique (masse par unité de longueur) : $$\mu = \frac{m}{L} = \frac{4,6\times10^{-2}}{2,08} = 2,2 \text{kg.m}$$<sup>-1</sub>
 
 Tension (avec A<B<C<D)|                   A            |            B             |       C       |       D           |
 :-------------:|-------------|--------------|-----------|------------|  
