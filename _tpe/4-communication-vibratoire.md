@@ -246,8 +246,8 @@ Tension (avec A'<B')|   A'    |       B' |
                     |                   45           |            33|
                     |                   37           |            37|
                     |                   37           |            37|
-Δt×10<sup>-3</sup> moyen (s)|  37      |        30 |
-Vitesse v de l'onde (m.s<sup>-1</sup>) | 27 | 33 |
+Δt×10<sup>-3</sup> moyen (s)|  37      |        30    |
+Vitesse v de l'onde (m.s<sup>-1</sup>)   |   27   |   33   |
 
 Dès lors on peut remarquer que plus la tension de la corde est élevée, et plus la propagation se déplace rapidement dans la corde.
 
