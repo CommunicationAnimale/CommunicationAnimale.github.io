@@ -201,9 +201,50 @@ Ainsi, selon nos mesure un fil de soie d'araignée a une taille moyenne de $$ \b
 
 Ainsi, même si le fil de soie d'araignée est extrêment fin, les araignées sont capables de construire des toiles résistantes au poid de l'araignée elle-même, à celui d'éventuels intrus et à la transimission d'ondes, notamment dans le cadre de la communication.
 
-### Vitesse d'une onde dans une corde
+### Vitesse d'une onde dans la toile
 
 Les vibrations émises par l'araignée prennent la forme d'ondes mécaniques progressives dans la toile, c'est-à-dire la propagation d'une perturbation dans un milieu matériel sans transport de matière. Cette onde est dite à une dimension puisqu'elle ne se propage que dans une seule direction.
+
+Afin d'étudier la vitesse d'une onde dans la toile, nous avons décidé de nous interesser à la vitesse d'une onde dans une corde. Pour cela nous avons 
+
+
+
+Corde A :
+                    |                   ΔtE-3 (s)    |                          |               |                   |
+
+Tension (avec A<B<C<D)|                   A            |            B             |       C       |       D           |
+:-------------:|-------------|--------------|-----------|------------|  
+        |                   24           |            19            |       10      |       5           |
+                    |                   22           |            18            |       13      |       4           |
+                    |                   26           |            15            |       6       |       7           |
+                    |                   26           |            15            |       9       |       4           |
+                    |                   20           |            15            |       11      |       9           |
+                    |                   28           |            22            |       7       |       6           |
+                    |                   23           |            15            |       9       |       6           |
+                    |                                |            17            |       14      |       10          |
+                    |                                |                          |       8       |                   |
+                    |                                |                          |       5       |                   |
+Moyenne             |                   2,4E+01      |            1,7E+01       |       9,2E+00 |       6,4E+00     |
+
+
+
+Corde B :
+
+                    |                   ΔtE-3 (s)    |            
+Tension (avec A'<B')|                   A'           |            B'
+---------------|-------------|---------------|
+                    |                   30           |            28
+                    |                   35           |            31
+                    |                   39           |            35
+                    |                   30           |            23
+                    |                   35           |            17
+                    |                   41           |            35
+                    |                   36           |            27
+                    |                   45           |            33
+                    |                   37           |            37
+                    |                   37           |            37
+Moyenne             |                   3,7E+01      |            3,0E+01
+
 {% include buttons.html %}
 
 ## Bibliography
