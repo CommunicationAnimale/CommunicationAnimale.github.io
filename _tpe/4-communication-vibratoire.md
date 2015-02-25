@@ -217,7 +217,7 @@ Masse de la corde : $$m = 4,6\times10^{-2} \text{kg}$$
 
 Longueur de la corde : $$L = 2,08 \text{m}$$
 
-Masse linéique (masse par unité de longueur) : $$\mu = \frac{m}{L} = \frac{4,6\times10^{-2}}{2,08} = 2,2 \text{kg.m}$$<sup>-1</sub>
+Masse linéique (masse par unité de longueur) : $$\mu = \frac{m}{L} = \frac{4,6\times10^{-2}}{2,08} = 2,2\times10^{-2} \text{kg.m}$$<sup>-1</sup>
 
 Tension (avec A<B<C<D)|                   A            |            B             |       C       |       D           |
 :-------------:|-------------|--------------|-----------|------------|  
@@ -236,6 +236,12 @@ Vitesse v de l'onde (m.s<sup>-1</sup>) | 41 | 59 | 1,1×10<sup>2</sup> | 1,6×10
 
 
 Corde B :
+
+Masse de la corde : $$m = 2,1\times10^{-1} \text{kg}$$
+
+Longueur de la corde : $$L = 3,07 \text{m}$$
+
+Masse linéique (masse par unité de longueur) : $$\mu = \frac{2,1\times10^{-1}}{3,07} = 7,0\times10^{-2} \text{kg.m}$$<sup>-1</sup>
 
 Tension (avec A'<B')|   A'    |       B' |
 ---------------|-------------|---------------|
