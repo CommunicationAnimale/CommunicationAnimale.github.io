@@ -231,7 +231,7 @@ Tension (avec A<B<C<D)|                   A            |            B           
                     |                                |            17            |       14      |       10          |
                     |                                |                          |       8       |                   |
                     |                                |                          |       5       |                   |
-Δt moyen (s×10<sup>-3</sup>)|         24             |            17            |       9       |       6           |
+Δt moyen, calculé à partir des mesures expérimentales (s×10<sup>-3</sup>)|         24             |            17            |       9       |       6           |
 Vitesse v de l'onde (m.s<sup>-1</sup>) | 41 | 59 | 1,1×10<sup>2</sup> | 1,6×10<sup>2</sup> |
 
 
@@ -243,7 +243,7 @@ Longueur de la corde : $$L_B = 3,07 \text{m}$$
 
 Masse linéique (masse par unité de longueur) : $$\mu_B = \frac{2,1\times10^{-1}}{3,07} = 7,0\times10^{-2} \text{kg.m}$$<sup>-1</sup> $$> \mu_A$$
 
-Tension (avec A'<B')|   A'    |       B' |
+Tension (avec A'<B')|   A' $$\approx A$$    |       B' $$\approx B$$ |
 ---------------|-------------|---------------|
 Δt mesuré expérimentalement (s×10<sup>-3</sup>)|  30      |       28 |
                     |                   35           |            31|
@@ -255,7 +255,7 @@ Tension (avec A'<B')|   A'    |       B' |
                     |                   45           |            33|
                     |                   37           |            37|
                     |                   37           |            37|
-Δt moyen (s×10<sup>-3</sup>)|  37      |        30    |
+Δt moyen, calculé à partir des mesures expérimentales (s×10<sup>-3</sup>)|  37      |        30    |
 Vitesse v de l'onde (m.s<sup>-1</sup>)   |   27   |   33   |
 
 Dès lors on peut remarquer que plus la tension de la corde est élevée, et plus la propagation se déplace rapidement dans la corde.
