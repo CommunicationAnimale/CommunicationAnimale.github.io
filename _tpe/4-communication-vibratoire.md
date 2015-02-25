@@ -258,7 +258,9 @@ Tension (avec A'<B')|   A' ≈ A   |       B' ≈ B |
 Δt moyen, calculé à partir des mesures expérimentales (s×10<sup>-3</sup>)|  37      |        30    |
 Vitesse v de l'onde (m.s<sup>-1</sup>)   |   27   |   33   |
 
-Dès lors on peut remarquer que plus la tension de la corde est élevée, et plus la propagation se déplace rapidement dans la corde.
+Dès lors on peut remarquer que plus la tension de la corde est élevée, et plus la propagation se déplace rapidement dans la corde, et plus la corde à une masse linéique élevé, et plus la propagation se déplace lentement.
+
+En effet, le calcul théorique de la vitesse $$v$$ d'une onde dans une corde est $$v = \sqrt{\frac{T}{\mu}}$$, ce qui est en accord avec nos observations.
 
 
 {% include buttons.html %}
