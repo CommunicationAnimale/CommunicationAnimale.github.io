@@ -205,7 +205,9 @@ Ainsi, même si le fil de soie d'araignée est extrêment fin, les araignées so
 
 Les vibrations émises par l'araignée prennent la forme d'ondes mécaniques progressives dans la toile, c'est-à-dire la propagation d'une perturbation dans un milieu matériel sans transport de matière. Cette onde est dite à une dimension puisqu'elle ne se propage que dans une seule direction.
 
-Afin d'étudier la vitesse d'une onde dans la toile, nous avons décidé de nous interesser à la vitesse d'une onde dans une corde. Pour cela nous avons 
+Afin d'étudier la vitesse d'une onde dans la toile, nous avons décidé de nous interesser à la vitesse d'une onde dans une corde. Pour cela nous avons mesuré le temps que prenait une onde pour parcourir un mètre sur deux cordes, corde A et corde B à l'aide de deux capteurs laser, en tendant plus ou moins la corde.
+
+
 
 
 
@@ -224,7 +226,7 @@ Tension (avec A<B<C<D)|                   A            |            B           
                     |                                |                          |       8       |                   |
                     |                                |                          |       5       |                   |
 Δt×10<sup>-3</sup> moyen (s)|         24             |            17            |       9       |       6           |
-
+Vitesse v de l'onde (m.s<sup>-1</sup>) | 41 | 59 | 1,1×10<sup>2</sup> | 1,6×10<sup>2</sup> |
 
 
 Corde B :
@@ -242,7 +244,7 @@ Tension (avec A'<B')|   A'    |       B' |
                     |                   37           |            37|
                     |                   37           |            37|
 Δt×10<sup>-3</sup> moyen (s)|                   37      |            30|
-
+Vitesse v de l'onde (m.s<sup>-1</sup>) | 27 | 33 |
 {% include buttons.html %}
 
 ## Bibliography
