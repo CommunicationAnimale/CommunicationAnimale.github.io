@@ -152,6 +152,7 @@ d’araignée.
 
 Le premier fil n'a pas été coloré, et le second a été coloré au bleu de méthylène.
 Nous pouvons voir sur ces photographies que les fils d'araignés sont en fait constitués de plusieurs fils tressés les uns autour des autres, toutefois la coloration au bleu de méthylène ne permet pas de différencier différente partie dans chacun des fils.
+
 ### Mesure de la taille d’un fil de soie d’araignée
 
 Afin d'étudier plus précisement le fil d'araignée, nous avons souhaité mesurer son diamètre. Ceci est possible en analysant le phénomène de diffraction ayant lieu lorsqu'un laser rencontre ce fil d'araignée, c'est-à-dire la manière dont dont la lumière est diffusée après avoir rencontrée le fil.
@@ -187,20 +188,22 @@ Donc :
 $$D(filA) = \frac{9,26\times10^{-3}}{0.76}$$
 
 
-$$D(filA) = 1,2\times10^{-2} \text{mm} = 1,2\times10^{-5} \text{m} = 12$$ µm
+$$D(filA) = 1,2\times10^{-2} \text{mm} = 1,2\times10^{-5} \text{m} = 12 \mu\text{m}$$
 
 Et,
 
 $$D(filB) = \frac{1,25\times10^{-2}}{0.76}$$
 
 
-$$D(filB) = 1,6\times10^{-2} \text{mm} = 1,6\times10^{-5} \text{m} = 16$$ µm
+$$D(filB) = 1,6\times10^{-2} \text{mm} = 1,6\times10^{-5} \text{m} = 16 \mu\text{m}$$
 
-Ainsi, selon nos mesure un fil de soie d'araignée a une taille moyenne de $$ \bar{x} = \frac{DfilA) + D(filB)}{2} = \frac{12 + 16}{2} = 14 \mu\text{m}$$ , soit environ $$\frac{1}{10}$$ de la taille d'un cheveux.
+Ainsi, selon nos mesure un fil de soie d'araignée a une taille moyenne de $$ \bar{x} = \frac{D(filA) + D(filB)}{2} = \frac{12 + 16}{2} = 14 \mu\text{m}$$ , soit environ un dixiéme de la taille d'un cheveux.
 
+Ainsi, même si le fil de soie d'araignée est extrêment fin, les araignées sont capables de construire des toiles résistantes au poid de l'araignée elle-même, à celui d'éventuels intrus et à la transimission d'ondes, notamment dans le cadre de la communication.
 
+### Vitesse d'une onde dans une corde
 
-
+Les vibrations émises par l'araignée prennent la forme d'ondes mécaniques progressives dans la toile, c'est-à-dire la propagation d'une perturbation dans un milieu matériel sans transport de matière. Cette onde est dite à une dimension puisqu'elle ne se propage que dans une seule direction.
 {% include buttons.html %}
 
 ## Bibliography
