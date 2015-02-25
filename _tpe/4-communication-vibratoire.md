@@ -221,7 +221,7 @@ Masse linéique (masse par unité de longueur) : $$\mu_A = \frac{m}{L} = \frac{4
 
 Tension (avec A<B<C<D)|                   A            |            B             |       C       |       D           |
 :-------------:|-------------|--------------|-----------|------------|  
-Δt×10<sup>-3</sup> (s)|                   24           |            19            |       10      |       5           |
+Δt mesuré expérimentalement (s×10<sup>-3</sup>)|                   24           |            19            |       10      |       5           |
                     |                   22           |            18            |       13      |       4           |
                     |                   26           |            15            |       6       |       7           |
                     |                   26           |            15            |       9       |       4           |
@@ -231,7 +231,7 @@ Tension (avec A<B<C<D)|                   A            |            B           
                     |                                |            17            |       14      |       10          |
                     |                                |                          |       8       |                   |
                     |                                |                          |       5       |                   |
-Δt×10<sup>-3</sup> moyen (s)|         24             |            17            |       9       |       6           |
+Δt moyen (s×10<sup>-3</sup>)|         24             |            17            |       9       |       6           |
 Vitesse v de l'onde (m.s<sup>-1</sup>) | 41 | 59 | 1,1×10<sup>2</sup> | 1,6×10<sup>2</sup> |
 
 
@@ -245,7 +245,7 @@ Masse linéique (masse par unité de longueur) : $$\mu_B = \frac{2,1\times10^{-1
 
 Tension (avec A'<B')|   A'    |       B' |
 ---------------|-------------|---------------|
-Δt×10<sup>-3</sup> (s)|  30      |       28 |
+Δt mesuré expérimentalement (s×10<sup>-3</sup>)|  30      |       28 |
                     |                   35           |            31|
                     |                   39           |            35|
                     |                   30           |            23|
@@ -255,7 +255,7 @@ Tension (avec A'<B')|   A'    |       B' |
                     |                   45           |            33|
                     |                   37           |            37|
                     |                   37           |            37|
-Δt×10<sup>-3</sup> moyen (s)|  37      |        30    |
+Δt moyen (s×10<sup>-3</sup>)|  37      |        30    |
 Vitesse v de l'onde (m.s<sup>-1</sup>)   |   27   |   33   |
 
 Dès lors on peut remarquer que plus la tension de la corde est élevée, et plus la propagation se déplace rapidement dans la corde.
