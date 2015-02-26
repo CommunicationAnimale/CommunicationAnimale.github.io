@@ -271,7 +271,7 @@ Selon [une étude menée conjointement par des universités américaines et japo
 Les araignées perçoivent très bien les signaux vibratoires, en effet elles sont dotés de différents organes leur permettant de recevoir des vibrations, notamment les trichobotries et les sensilles en fente, ce sont les organes mécanorécepteurs.
 
 ### Les trichobotries
-Les trichobotries sont des soies sensorielles extrêmement mobiles
+Les trichobotries sont des soies sensorielles fines, longues et extrêmement mobiles insérées dans une cupule (une petite structure de la forme d'une coupe), et reliées à un nerf par un dendrite ()
 
 {% include image.html img="img/trichobotrie.jpg" caption="Figure 8 : A : Base d'une trichobotrie, montrant la cupule et la structure plumeuse du poil ; B : Structure d'une trichobotrie (p : poil, c : cupule, m : membrane, d : dentrite)"%}
 
