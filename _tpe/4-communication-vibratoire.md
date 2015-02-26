@@ -260,7 +260,9 @@ Vitesse v de l'onde (m.s<sup>-1</sup>)   |   27   |   33   |
 
 Dès lors on peut remarquer que plus la tension de la corde est élevée, et plus la propagation se déplace rapidement dans la corde, et plus la corde à une masse linéique élevé, et plus la propagation se déplace lentement.
 
-En effet, le calcul théorique de la vitesse $$v$$ d'une onde dans une corde est $$v = \sqrt{\frac{T}{\mu}}$$, où $$T$$ est la tension de la corde et $$\mu$$ sa masse linéique, ce qui est en accord avec nos observations.
+Le calcul théorique de la vitesse $$v$$ d'une onde dans une corde est $$v = \sqrt{\frac{T}{\mu}}$$, où $$T$$ est la tension de la corde et $$\mu$$ sa masse linéique, ce qui est en accord avec nos observations.
+
+Selon [une étude menée conjointement par des universités américaines et japonaises](http://web.mit.edu/course/3/3.064/www/slides/Ko_spider_silk.pdf), la masse linéique d'une fibre de soie d'araignée est $$\mu_{Fibre} = 1,4\times10^{-8} \text{kg.m}$$<sup>-1</sup>, dès lors, même s'il est composé de plusieurs fibres, le fil de soie d'araignée à une masse linéique extrêment faible. Par ailleurs, la toile est sous tension, et les ondes se déplacent donc extrêmement rapidement dans la toile, ce qui est un des atouts majeurs de la communication vibratoire pour les araignées.
 
 
 {% include buttons.html %}
