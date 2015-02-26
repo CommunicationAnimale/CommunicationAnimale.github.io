@@ -6,6 +6,7 @@ title: La communication vibratoire
 
 Introduction
 ------------
+
 On imagine souvent les araignées comme des animaux solitaire, pourtant elles ont à leur disposition différents types de signaux pour communiquer&nbsp;: signaux visuels, notamment lors de la parade amoureuse, signaux sonores, en effet les araignées stridulent en frottant différentes parties de leur corps, signaux chimiques, comme toutes les espèces animales, les araignées communiquent par l’intermédiaire de phéromones, mais aussi signaux vibratoires, qui est le moyen de communication prédominent chez les araignées.
 <!--more-->
 
@@ -262,11 +263,31 @@ Dès lors on peut remarquer que plus la tension de la corde est élevée, et plu
 
 Le calcul théorique de la vitesse $$v$$ d'une onde dans une corde est $$v = \sqrt{\frac{T}{\mu}}$$, où $$T$$ est la tension de la corde et $$\mu$$ sa masse linéique, ce qui est en accord avec nos observations.
 
-Selon [une étude menée conjointement par des universités américaines et japonaises](http://web.mit.edu/course/3/3.064/www/slides/Ko_spider_silk.pdf), la masse linéique d'une fibre de soie d'araignée est $$\mu_{Fibre} = 1,4\times10^{-8} \text{kg.m}$$<sup>-1</sup>, dès lors, même s'il est composé de plusieurs fibres, le fil de soie d'araignée à une masse linéique extrêment faible. Par ailleurs, la toile est sous tension, et les ondes se déplacent donc extrêmement rapidement dans la toile, ce qui est un des atouts majeurs de la communication vibratoire pour les araignées.
+Selon [une étude menée conjointement par des universités américaines et japonaises](http://web.mit.edu/course/3/3.064/www/slides/Ko_spider_silk.pdf), la masse linéique d'une fibre de soie d'araignée est $$\mu_{fibre} = 1,4\times10^{-8} \text{kg.m}$$<sup>-1</sup>, dès lors, même s'il est composé de plusieurs fibres, le fil de soie d'araignée à une masse linéique extrêment faible. Par ailleurs, la toile est sous tension, et les ondes se déplacent donc extrêmement rapidement dans la toile, ce qui est un des atouts majeurs de la communication vibratoire pour les araignées.
+
+
+## Perception des signaux vibratoires
+
+Les araignées perçoivent très bien les signaux vibratoires, en effet elles sont dotés de différents organes leur permettant de recevoir des vibrations, notamment les trichobotries et les sensilles en fente, ce sont les organes mécanorécepteurs.
+
+### Les trichobotries
+Les trichobotries sont des soies sensorielles extrêmement mobiles
+
+{% include image.html img="img/trichobotrie.jpg" caption="Figure 8 : A : Base d'une trichobotrie, montrant la cupule et la structure plumeuse du poil ; B : Structure d'une trichobotrie (p : poil, c : cupule, m : membrane, d : dentrite)"%}
+
+
+
+
+
+
+
+
+
 
 
 {% include buttons.html %}
 
-## Bibliography
+## Bibliographie
+
 {% include bibliography.html %}
 {% include katex_render.html %}
