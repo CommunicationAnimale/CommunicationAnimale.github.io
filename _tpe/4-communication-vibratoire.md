@@ -124,7 +124,7 @@ une forte traction sur la toile puis en relâchant rapidement cette
 tension, envoyant un signal de grande amplitude.
 
 
-{% include image.html img="img/SignalSpiders.png" caption="Figure 3 : Vibrations émises par un mâle <em>Tegenaria parietina</em> dans la toile. A : trémulations abdominales ; K : percussions avec l'abdomen" %}
+{% include image.html img="img/SignalSpiders.png" caption="Figure 3 : Vibrations émises par un mâle <em>Tegenaria parietina</em> dans la toile. A : trémulations abdominales ; K : percussions avec l'abdomen (d'après <span style="font-variant:small-caps;">Leborgne</span> et <span style="font-variant:small-caps;">Krafft</span>, 1979)" %}
 
 Afin que les signaux soit reconnaissables, les araignées produisent des
 vibrations caractéristiques en faisant varier la fréquence et
@@ -275,12 +275,19 @@ Les trichobotries sont des soies sensorielles fines, longues et extrêmement mob
 
 {% include image.html img="img/trichobotrie.jpg" caption="Figure 8 : A : Base d'une trichobotrie, montrant la cupule et la structure plumeuse du poil ; B : Structure d'une trichobotrie (p : poil, c : cupule, m : membrane, d : dentrite)"%}
 
-Les trichobotries sont disposées sur les pattes et les pédipalpes de l'araignée.
+Les trichobotries sont disposées sur les pattes et les pédipalpes de l'araignée. Ayant une masse très faible, étant extrêmement flexible et étant en contact avec l'air autour de l'araignée, les trichobotries permettent la détection de mouvement dans l'air, mais aussi dans le substrat.
 
+### Les sensilles en fente
 
+Les sensilles en fente sont des petits organes mécanorécepteurs qui peuvent détecter la déformation ou la tension. Elles se situent sur l'intégralité de l'exosquelette (aussi appelé cuticule) de l'araignée, et notamment sur les pattes.
 
+Elles prennent la forme de petites fentes de 1 à 2µm de large et entre 8 et 200µm de long, et peuvent être situées seules ou en groupe (voir Figure 9). Un groupe de sensilles en fente est appelé un organe lyriforme, car, les fentes étant parallèles entre elles, il a la forme d'une lyre.
 
+{% include image.html img="img/Sensilles.png" caption="Figure 9 : Distribution des sensilles en fente sur l'arrière de la première patte d'une <em>Cupiennus salei</em> : les traits indiquent des sensilles en fente seule, et les points des organes lyriformes (enlargis pour voir les détails) (d'après <span style="font-variant:small-caps;">Barth</span> et <span style="font-variant:small-caps;">Libera</span>, 1870)"%}
 
+La fente est bordée d'une lèvre cuticulaire et est recouverte d'une membrane cuticulaire. Sous la membrane, une sorte de gouttière s'étend vers le bas et s'élargit en prenant la forme d'une cloche, où se trouvent deux dendrites qui relient la sensille an fente au nerf (voir Figure 10).
+
+{% include image.html img="img/Sensilles2.svg" fallback="img/Sensilles2.png" caption="Figure 10 : Schéma d'une sensille unique d'une <em>Cupiennius</em> (d'après <span style="font-variant:small-caps;">Barth</span>, 1971)"%}
 
 
 
