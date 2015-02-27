@@ -288,7 +288,7 @@ Elles prennent la forme de petites fentes de 1 à 2µm de large et entre 8 et 20
 La fente est bordée d'une lèvre cuticulaire et est recouverte d'une membrane cuticulaire. Sous la membrane, une sorte de gouttière s'étend vers le bas et s'élargit en prenant la forme d'une cloche, où se trouvent deux dendrites qui relient la sensille an fente au nerf (voir Figure 10).
 
 {% include image.html img="img/Sensilles2.svg" fallback="img/Sensilles2.png" caption="Figure 10 : Schéma d'une sensille unique d'une <em>Cupiennius</em> (d'après <span style="font-variant:small-caps;">Barth</span>, 1971)"%}
-
+ 
 
 
 
