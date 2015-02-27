@@ -291,7 +291,6 @@ La fente est bordée d'une lèvre cuticulaire et est recouverte d'une membrane c
  
 
 
-
 {% include buttons.html %}
 
 ## Bibliographie
