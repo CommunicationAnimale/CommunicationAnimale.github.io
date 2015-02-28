@@ -8,7 +8,7 @@ On imagine souvent les araignées comme des animaux solitaire, pourtant elles on
 <!--more-->
 
 Toutefois, l’étude de la communication vibratoire est très récente,
-c’est Peter N. <span style="font-variant:small-caps;">Witt</span>, en 1982 qui le premier l’étudia en profondeur dans son
+c’est Peter N.&nbsp;<span style='font-variant:small-caps;'>Witt</span>, en 1982 qui le premier l’étudia en profondeur dans son
 ouvrage *Spider Communication* [TODO : mettre numéro livre], dans lequel il s’intéresse à la communication
 entre araignées et à la détection des proies, suivant la définition
 large de la communication comme tout comportement qui transmet une
@@ -36,7 +36,7 @@ C’est pourquoi nous nous intéresserons principalement dans cette partie
 Afin de pouvoir définir le rôle de la communication vibratoire chez les
 araignées, il nous faut tout d’abord séparer les espèces d’araignées
 selon différentes catégories : il existe des araignées solitaires et des
-araignées sociales, et certaine araignées sont capable de tisser une
+araignées sociales, et certaine araignées sont capables de tisser une
 toile, ce sont les araignées fileuses, tandis que d’autres n’en sont pas
 capable.
 
@@ -54,19 +54,19 @@ soyeuses pouvant atteindre (voir Figure 1).
 
 Ces structures soyeuses, qu’elles ne quittent jamais, favorisent la
 communication vibratoire. Tout comme pour les araignées solitaires, les
-vibrations dans la toile leur permet d’être alerter de la présence d'intrus et de proies : dès qu’un insecte est pris au piège dans la
+vibrations dans la toile leur permet d’être alertées de la présence d’intrus et de proies : dès qu’un insecte est pris au piège dans la
 toile, une horde d’araignées l’encercle, le tue puis s’en nourrit. Dès
-lors, on peut en déduire que la communication vibratoire permet  à
+lors, on peut en déduire que la communication vibratoire permet à
 l’araignée de distinguer ses congénères des proies, et lui permet aussi
 de localiser la proie sur la toile.
 
-Les araignées utilisent aussi les vibrations dans la toile d'une manière qui rappelle l'écholocation chez les chauve-souris ou les dauphins : lorsqu'une proie se tient immobile sur la toile, l'araignée peut envoyer une secousse dans la toile qui provoquera le balancement de la proie, et permettra sa localisation.
+Les araignées utilisent aussi les vibrations dans la toile d’une manière qui rappelle l’écholocation chez les chauves-souris ou les dauphins : lorsqu’une proie se tient immobile sur la toile, l’araignée peut envoyer une secousse dans la toile qui provoquera le balancement de la proie, et permettra sa localisation.
 
 Mais certaines araignées utilisent aussi à leur profit la capacité
 d’autres insectes à communiquer. Par exemple, les sauterelles
 communiquent normalement par sons qui se propagent dans l’air, mais
 elles peuvent aussi communiquer par vibrations dans les plantes pour
-éviter d’attirer les chauves-souris, ces vibrations sont utilisés par
+éviter d’attirer les chauves-souris, ces vibrations sont utilisées par
 les araignées pour localiser les sauterelles, et les chasser. De même,
 l’araignée sauteuse commune, *Portia fimbriata*, est capable d’imiter
 les signaux vibratoires de mâles d’autres espèces d’araignée afin
@@ -101,7 +101,7 @@ Les araignées peuvent faire vibrer leur corps afin d’émettre des
 vibrations qui passeront à travers leurs pattes puis dans le sol, c’est
 ce qu’on appelle la trémulation. La trémulation ne nécessite pas une
 morphologie particulière, mais la fréquence des vibrations produites est
-souvent très faible car elle limitée par la vitesse à laquelle l’animal
+souvent très faible, car elle est limitée par la vitesse à laquelle l’animal
 peut faire vibrer son corps, dès lors, elle est donc difficilement
 analysable.
 
@@ -112,7 +112,7 @@ en frottant deux parties de leur corps. Ces vibrations sont ensuite transmises a
 sol par les pattes, et dans l’air sous la forme de sons audibles. Une
 araignée peut striduler en frottant son abdomen et son céphalothorax, ou
 en frottant différents appendices, comme patte contre patte, patte
-contre pédipalpe ou chélicère contre chélicère (voir Figure 2).
+contre pédipalpe ou chélicère contre chélicère (voir Figure 2).
 
 ### Le tiraillement
 
@@ -122,9 +122,9 @@ une forte traction sur la toile puis en relâchant rapidement cette
 tension, envoyant un signal de grande amplitude.
 
 
-{% include image.html img="img/SignalSpiders.png" caption="Figure 3 : Vibrations émises par un mâle <em>Tegenaria parietina</em> dans la toile. A : trémulations abdominales ; K : percussions avec l'abdomen (d'après <span style='font-variant:small-caps;'>Leborgne</span> et Krafft, 1979)" %}
+{% include image.html img="img/SignalSpiders.png" caption="Figure 3 : Vibrations émises par un mâle <em>Tegenaria parietina</em> dans la toile. A : trémulations abdominales ; K : percussions avec l'abdomen (d'après <span style='font-variant:small-caps;'>Leborgne</span> et <span style='font-variant:small-caps;'>Krafft</span>, 1979)" %}
 
-Afin que les signaux soit reconnaissables, les araignées produisent des
+Afin que les signaux soit reconnaissable, les araignées produisent des
 vibrations caractéristiques en faisant varier la fréquence et
 l’amplitude des vibrations, ainsi que la répartition de ces vibrations
 au cours du temps. Nous pouvons voir en cette variation du motif des
@@ -154,16 +154,16 @@ Nous pouvons voir sur ces photographies que les fils d’araignée sont en fait 
 
 ### Mesure de la taille d’un fil de soie d’araignée
 
-Afin d'étudier plus précisément le fil d'araignée, nous avons souhaité mesurer son diamètre. Ceci est possible en analysant le phénomène de diffraction ayant lieu lorsqu'un laser rencontre ce fil d'araignée, c'est-à-dire la manière dont dont la lumière est diffusée après avoir rencontrée le fil.
+Afin d'étudier plus précisément le fil d'araignée, nous avons souhaité mesurer son diamètre. Ceci est possible en analysant le phénomène de diffraction ayant lieu lorsqu'un laser rencontre ce fil d'araignée, c'est-à-dire la manière dont la lumière est diffusée après avoir rencontrée le fil.
 
 Lorsqu'on projette la lumière après le fil sur un écran, on obtient des tâches, et la taille de la tâche centrale (mesurée à partir des milieux entre la tâche centrale et les tâches autour de la tâche centrale) est inversement proportionnelle au diamètre du fil.
 
-C'est pourquoi à l'aide d'un montage composée d'une diode laser, d'un écran et d'un fil dans une diapositive positionné entre la diode et l'écran, à un mètre de l'écran, on peut former les tâches sur l'écran et mesurer la taille de la tâche centrale, comme vu en Figure 5. 
+C'est pourquoi à l'aide d'un montage composé d'une diode laser, d'un écran et d'un fil dans une diapositive positionnée entre la diode et l'écran, à un mètre de l'écran, on peut former les tâches sur l'écran et mesurer la taille de la tâche centrale, comme vu en Figure 5. 
 
 
 {% include image.html img="img/schemaDiffraction.svg" caption="Figure 5 : Montage pour mesurer la taille du fil de soie" fallback="img/schemaDiffraction.png" %}
 
-Afin de pouvoir calculer le coefficient de proportionnalité entre le diamètre du fil et l'inverse de la larger de la tâche centrale, on mesure la taille de la tâche centrale pour des fils de diamètre connu. Par ailleurs on mesure la taille de la tâche centrale d'une lumière de laser diffracté par un fil d'araignée *A*, puis d'un fil *B*, prélevé sur la toile de l'araignée capturée. Avec ces mesures, on obtient le tableau suivant.
+Afin de pouvoir calculer le coefficient de proportionnalité entre le diamètre du fil et l'inverse de la largeur de la tâche centrale, on mesure la taille de la tâche centrale pour des fils de diamètre connu. Par ailleurs on mesure la taille de la tâche centrale d'une lumière de laser diffracté par un fil d'araignée *A*, puis d'un fil *B*, prélevé sur la toile de l'araignée capturée. Avec ces mesures, on obtient le tableau suivant.
 
 | Diamètre fil (mm) | Largeur L de la tâche centrale (mm) | 1 / L |
 | ------- | -------- | ------ |
@@ -196,7 +196,7 @@ $$D(filB) = \frac{1,25\times10^{-2}}{0.76}$$
 
 $$D(filB) = 1,6\times10^{-2} \text{mm} = 1,6\times10^{-5} \text{m} = 16 \mu\text{m}$$
 
-Ainsi, selon nos mesure un fil de soie d'araignée a une taille moyenne de $$ \bar{x} = \frac{D(filA) + D(filB)}{2} = \frac{12 + 16}{2} = 14 \mu\text{m}$$ , soit environ un dixième de la taille d'un cheveu.
+Ainsi, selon nos mesures un fil de soie d'araignée a une taille moyenne de $$ \bar{x} = \frac{D(filA) + D(filB)}{2} = \frac{12 + 16}{2} = 14 \mu\text{m}$$, soit environ un dixième de la taille d’un cheveu.
 
 Ainsi, même si le fil de soie d'araignée est extrêmement fin, les araignées sont capables de construire des toiles résistantes au poids de l'araignée elle-même, à celui d'éventuels intrus et à la transmission d'ondes, notamment dans le cadre de la communication.
 
@@ -204,7 +204,7 @@ Ainsi, même si le fil de soie d'araignée est extrêmement fin, les araignées 
 
 Les vibrations émises par l'araignée prennent la forme d'ondes mécaniques progressives dans la toile, c'est-à-dire la propagation d'une perturbation dans un milieu matériel sans transport de matière. Cette onde est dite à une dimension puisqu'elle ne se propage que dans une seule direction.
 
-Afin d'étudier la vitesse d'une onde dans la toile, nous avons décidé de nous interesser à la vitesse d'une onde dans une corde. Pour cela nous avons mesuré le temps que prenait une onde pour parcourir un mètre sur deux cordes, corde A et corde B à l'aide de deux capteurs laser, en tendant plus ou moins la corde, comme vu en Figure 7.
+Afin d'étudier la vitesse d'une onde dans la toile, nous avons décidé de nous intéresser à la vitesse d'une onde dans une corde. Pour cela nous avons mesuré le temps que prenait une onde pour parcourir un mètre sur deux cordes, corde A et corde B à l'aide de deux capteurs laser, en tendant plus ou moins la corde, comme vu en Figure 7.
 
 {% include image.html img="img/schemaVOnde.svg" fallback="img/schemaVOnde.png" caption="Figure 7 : Montage pour mesurer la vitesse de propagation d'une onde dans une corde"%}
 
@@ -266,7 +266,7 @@ Selon [une étude menée conjointement par des universités américaines et japo
 
 ## Perception des signaux vibratoires
 
-Les araignées perçoivent très bien les signaux vibratoires, en effet elles sont dotés de différents organes leur permettant de recevoir des vibrations, notamment les trichobotries et les sensilles en fente, ce sont les organes mécanorécepteurs.
+Les araignées perçoivent très bien les signaux vibratoires, en effet elles sont dotées de différents organes leur permettant de recevoir des vibrations, notamment les trichobotries et les sensilles en fente, ce sont les organes mécanorécepteurs.
 
 ### Les trichobotries
 Les trichobotries sont des soies sensorielles fines, longues et extrêmement mobiles insérées dans une cupule (une petite structure de la forme d'une coupe), et reliées à un nerf par un dendrite, une courte extension des cellules nerveuses (voir Figure 8).
@@ -277,7 +277,7 @@ Les trichobotries sont disposées sur les pattes et les pédipalpes de l'araign�
 
 ### Les sensilles en fente
 
-Les sensilles en fente sont des petits organes mécanorécepteurs qui peuvent détecter la déformation ou la tension. Elles se situent sur l'intégralité de l'exosquelette (aussi appelé cuticule) de l'araignée, et notamment sur les pattes. Leur apparence de fente est à l'origine de leur nom, mais elles ne penettrent en fait pas l'exosquelette, elles correspondent à un amincissement de la cuticule.
+Les sensilles en fente sont des petits organes mécanorécepteurs qui peuvent détecter la déformation ou la tension. Elles se situent sur l’intégralité de l’exosquelette (aussi appelé cuticule) de l’araignée, et notamment sur les pattes. Leur apparence de fente est à l’origine de leur nom, mais elles ne pénètrent en fait pas l’exosquelette, elles correspondent à un amincissement de la cuticule.
 
 Elles prennent la forme de petites fentes de 1 à 2µm de large et entre 8 et 200µm de long, et peuvent être situées seules ou en groupe (voir Figure 9). Un groupe de sensilles en fente est appelé un organe lyriforme, car, les fentes étant parallèles entre elles, il a la forme d'une lyre, et une sensille en fente seule est appelé sensille en fente simple.
 
