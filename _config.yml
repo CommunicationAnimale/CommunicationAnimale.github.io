@@ -16,6 +16,7 @@ theme:
      <p>Que permettent les nouvelles connaissances en matière de communication animale ?</p>
   footer_text: >
    Créé par des élèves du <a href="http://www.lycee-delacroix-maisons-alfort.fr/">Lycée Delacroix</a>
+   2015
    
   # Icons
   rss: false
@@ -66,11 +67,10 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
+exclude: ["vendor"]
 
 # Collections
 collections:
   tpe:
     output: true
     permalink: /:collection/:title/
-    
-exclude: ["vendor"]

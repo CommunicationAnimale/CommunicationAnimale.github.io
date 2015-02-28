@@ -4,9 +4,6 @@ title: La communication vibratoire
 ---
 {% include katex_import.html %}
 
-Introduction
-------------
-
 On imagine souvent les araignées comme des animaux solitaire, pourtant elles ont à leur disposition différents types de signaux pour communiquer&nbsp;: signaux visuels, notamment lors de la parade amoureuse, signaux sonores, en effet les araignées stridulent en frottant différentes parties de leur corps, signaux chimiques, comme toutes les espèces animales, les araignées communiquent par l’intermédiaire de phéromones, mais aussi signaux vibratoires, qui est le moyen de communication prédominent chez les araignées.
 <!--more-->
 
@@ -24,12 +21,12 @@ feuilles sur lesquelles elles se trouvent lors de leur parade amoureuse.
 De même, les éléphants émettent des signaux vibratoires en frappant le
 sol de leurs pattes pouvant être reçus par d’autres éléphants à
 plusieurs kilomètres de distances. Toutefois la communication vibratoire
-chez les araignées présente bien plus d’intérêt, en effet elle est
+chez les araignées présente bien plus d’intérêt, elle est
 utilisé non seulement lors de la parade amoureuse, mais aussi au sein de
 sociétés d’araignées sociales et permet la détection d’intrus ou de
 proie. De plus le substrat, c’est-à-dire la base matérielle, le support
 de la communication vibratoire chez les araignées est tout à fait
-particulier : les fils de soie, produits par les araignées.
+particulier : ce sont les fils de soie, produits par les araignées.
 
 C’est pourquoi nous nous intéresserons principalement dans cette partie
 à l’exemple des araignées, plus particulièrement à \#TODO\#
@@ -49,7 +46,7 @@ sexuel.
 
 Pour les espèces sociales, soit environ douze genres d’araignées, c’est
 à dire douze regroupements d’espèces, la communication a, comme pour
-toutes les espèces sociales, un rôle majeur. Or, toutes les espèces
+toutes les espèces sociales, un rôle majeur, notamment dans la prédation. Or, toutes les espèces
 sociales sont fileuses, elles organisent leur vie dans des structures
 soyeuses pouvant atteindre (voir Figure 1).
 
@@ -57,12 +54,13 @@ soyeuses pouvant atteindre (voir Figure 1).
 
 Ces structures soyeuses, qu’elles ne quittent jamais, favorisent la
 communication vibratoire. Tout comme pour les araignées solitaires, les
-vibrations dans la toile leur permet d’être alerter de la présence des
-intrus et les proies : dès qu’un insecte est pris au piège dans la
+vibrations dans la toile leur permet d’être alerter de la présence d'intrus et de proies : dès qu’un insecte est pris au piège dans la
 toile, une horde d’araignées l’encercle, le tue puis s’en nourrit. Dès
-lors, on peut en déduire que la communication vibratoire permet aussi à
+lors, on peut en déduire que la communication vibratoire permet  à
 l’araignée de distinguer ses congénères des proies, et lui permet aussi
 de localiser la proie sur la toile.
+
+Les araignées utilisent aussi les vibrations dans la toile d'une manière qui rappelle l'écholocation chez les chauve-souris ou les dauphins : lorsqu'une proie se tient immobile sur la toile, l'araignée peut envoyer une secousse dans la toile qui provoquera le balancement de la proie, et permettra sa localisation.
 
 Mais certaines araignées utilisent aussi à leur profit la capacité
 d’autres insectes à communiquer. Par exemple, les sauterelles
@@ -109,8 +107,8 @@ analysable.
 
 ### La stridulation
 
-Les araignées, comme certains insectes, peuvent produire des vibrations
-en frottant deux parties de leur corps, elles sont ensuite transmises au
+Les araignées, comme certains insectes, peuvent striduler, c'est-à-dire produire des vibrations
+en frottant deux parties de leur corps. Ces vibrations sont ensuite transmises au
 sol par les pattes, et dans l’air sous la forme de sons audibles. Une
 araignée peut striduler en frottant son abdomen et son céphalothorax, ou
 en frottant différents appendices, comme patte contre patte, patte
@@ -152,11 +150,11 @@ d’araignée.
 {% include image.html img="img/FilMicroscopeB.png" caption="Figure 4 : Photographies de fils d’araignée vus au microscope optique (×600)" %}
 
 Le premier fil n'a pas été coloré, et le second a été coloré au bleu de méthylène.
-Nous pouvons voir sur ces photographies que les fils d'araignés sont en fait constitués de plusieurs fils tressés les uns autour des autres, toutefois la coloration au bleu de méthylène ne permet pas de différencier différente partie dans chacun des fils.
+Nous pouvons voir sur ces photographies que les fils d’araignée sont en fait constitués de plusieurs fils tressés les uns autour des autres, toutefois la coloration au bleu de méthylène ne permet pas de différencier différente partie dans chacun des fils.
 
 ### Mesure de la taille d’un fil de soie d’araignée
 
-Afin d'étudier plus précisement le fil d'araignée, nous avons souhaité mesurer son diamètre. Ceci est possible en analysant le phénomène de diffraction ayant lieu lorsqu'un laser rencontre ce fil d'araignée, c'est-à-dire la manière dont dont la lumière est diffusée après avoir rencontrée le fil.
+Afin d'étudier plus précisément le fil d'araignée, nous avons souhaité mesurer son diamètre. Ceci est possible en analysant le phénomène de diffraction ayant lieu lorsqu'un laser rencontre ce fil d'araignée, c'est-à-dire la manière dont dont la lumière est diffusée après avoir rencontrée le fil.
 
 Lorsqu'on projette la lumière après le fil sur un écran, on obtient des tâches, et la taille de la tâche centrale (mesurée à partir des milieux entre la tâche centrale et les tâches autour de la tâche centrale) est inversement proportionnelle au diamètre du fil.
 
@@ -200,7 +198,7 @@ $$D(filB) = 1,6\times10^{-2} \text{mm} = 1,6\times10^{-5} \text{m} = 16 \mu\text
 
 Ainsi, selon nos mesure un fil de soie d'araignée a une taille moyenne de $$ \bar{x} = \frac{D(filA) + D(filB)}{2} = \frac{12 + 16}{2} = 14 \mu\text{m}$$ , soit environ un dixième de la taille d'un cheveu.
 
-Ainsi, même si le fil de soie d'araignée est extrêment fin, les araignées sont capables de construire des toiles résistantes au poid de l'araignée elle-même, à celui d'éventuels intrus et à la transimission d'ondes, notamment dans le cadre de la communication.
+Ainsi, même si le fil de soie d'araignée est extrêmement fin, les araignées sont capables de construire des toiles résistantes au poids de l'araignée elle-même, à celui d'éventuels intrus et à la transmission d'ondes, notamment dans le cadre de la communication.
 
 ### Vitesse d'une onde dans la toile
 
@@ -279,17 +277,23 @@ Les trichobotries sont disposées sur les pattes et les pédipalpes de l'araign�
 
 ### Les sensilles en fente
 
-Les sensilles en fente sont des petits organes mécanorécepteurs qui peuvent détecter la déformation ou la tension. Elles se situent sur l'intégralité de l'exosquelette (aussi appelé cuticule) de l'araignée, et notamment sur les pattes.
+Les sensilles en fente sont des petits organes mécanorécepteurs qui peuvent détecter la déformation ou la tension. Elles se situent sur l'intégralité de l'exosquelette (aussi appelé cuticule) de l'araignée, et notamment sur les pattes. Leur apparence de fente est à l'origine de leur nom, mais elles ne penettrent en fait pas l'exosquelette, elles correspondent à un amincissement de la cuticule.
 
-Elles prennent la forme de petites fentes de 1 à 2µm de large et entre 8 et 200µm de long, et peuvent être situées seules ou en groupe (voir Figure 9). Un groupe de sensilles en fente est appelé un organe lyriforme, car, les fentes étant parallèles entre elles, il a la forme d'une lyre.
+Elles prennent la forme de petites fentes de 1 à 2µm de large et entre 8 et 200µm de long, et peuvent être situées seules ou en groupe (voir Figure 9). Un groupe de sensilles en fente est appelé un organe lyriforme, car, les fentes étant parallèles entre elles, il a la forme d'une lyre, et une sensille en fente seule est appelé sensille en fente simple.
 
 {% include image.html img='img/Sensilles.png' caption='Figure 9 : Distribution des sensilles en fente sur l'arrière de la première patte d'une <em>Cupiennus salei</em> : les traits indiquent des sensilles en fente seule, et les points des organes lyriformes (enlargis pour voir les détails) (d'après <span style="font-variant:small-caps;">Barth</span> et <span style="font-variant:small-caps;">Libera</span>, 1870)'%}
 
-La fente est bordée d'une lèvre cuticulaire et est recouverte d'une membrane cuticulaire. Sous la membrane, une sorte de gouttière s'étend vers le bas et s'élargit en prenant la forme d'une cloche, où se trouvent deux dendrites qui relient la sensille an fente au nerf (voir Figure 10).
+La fente est bordée d'une lèvre cuticulaire et est recouverte d'une membrane cuticulaire. Sous la membrane, une sorte de gouttière s'étend vers le bas et s'élargit en prenant la forme d'une cloche, où se trouvent deux dendrites qui relient la sensille an fente au nerf (voir Figure 10). Même une tension très faible au niveau de la cuticule causera une déformation de la sensille, et la membrane se pliera, déformant l'extrémité d'une des dendrites, provoquant un signal nerveux.
 
-{% include image.html img='img/Sensilles2.svg' fallback="img/Sensilles2.png" caption='Figure 10 : Schéma d'une sensille unique d'une <em>Cupiennius</em> (d'après <span style="font-variant:small-caps;">Barth</span>, 1971)'%}
- 
+{% include image.html img='img/Sensilles2.svg' fallback="img/Sensilles2.png" caption='Figure 10 : Schéma d'une sensille simple d'une <em>Cupiennius</em> (d'après <span style="font-variant:small-caps;">Barth</span>, 1971)'%}
 
+
+C'est en analysant la différence de temps entre l'arrivée de la vibration dans ses différentes pattes que l'araignée peut déterminer la direction de la proie ou de l'intrus.
+
+
+
+
+# Utilisation des connaissances en matière de communication vibratoire
 
 {% include buttons.html %}
 
