@@ -122,7 +122,7 @@ une forte traction sur la toile puis en relâchant rapidement cette
 tension, envoyant un signal de grande amplitude.
 
 
-{% include image.html img='img/SignalSpiders.png' caption='{{Figure 3 : Vibrations émises par un mâle <em>Tegenaria parietina</em> dans la toile. A : trémulations abdominales ; K : percussions avec l'abdomen (d'après <span style="font-variant:small-caps;">Leborgne</span> et <span style=\"font-variant:small-caps;\">Krafft</span>, 1979)|escape}}' %}
+{% include image.html img='img/SignalSpiders.png' caption='Figure 3 : Vibrations émises par un mâle <em>Tegenaria parietina</em> dans la toile. A : trémulations abdominales ; K : percussions avec l'abdomen (d'après <span style=\"font-variant:small-caps;\">Leborgne</span> et <span style=\"font-variant:small-caps;\">Krafft</span>, 1979)' %}
 
 Afin que les signaux soit reconnaissables, les araignées produisent des
 vibrations caractéristiques en faisant varier la fréquence et
