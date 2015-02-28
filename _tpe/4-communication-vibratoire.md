@@ -15,7 +15,7 @@ large de la communication comme tout comportement qui transmet une
 information d’un individu à un autre .
 
 Les araignées ne sont pas les seuls animaux à communiquer par
-l’intermédiaire de vibrations, en effet, les punaises vertes (*Nezara
+l'intermédiaire de vibrations, en effet, les punaises vertes (*Nezara
 virudula*) communiquent à l’aide de vibrations transmises par les
 feuilles sur lesquelles elles se trouvent lors de leur parade amoureuse.
 De même, les éléphants émettent des signaux vibratoires en frappant le
@@ -122,7 +122,7 @@ une forte traction sur la toile puis en relâchant rapidement cette
 tension, envoyant un signal de grande amplitude.
 
 
-{% include image.html img="img/SignalSpiders.png" caption='Figure 3 : Vibrations émises par un mâle <em>Tegenaria parietina</em> dans la toile. A : trémulations abdominales ; K : percussions avec l'abdomen (d'après Leborgne et Krafft, 1979)" %}
+{% include image.html img="img/SignalSpiders.png" caption="Figure 3 : Vibrations émises par un mâle <em>Tegenaria parietina</em> dans la toile. A : trémulations abdominales ; K : percussions avec l'abdomen (d'après Leborgne et Krafft, 1979)" %}
 
 Afin que les signaux soit reconnaissables, les araignées produisent des
 vibrations caractéristiques en faisant varier la fréquence et
