@@ -122,7 +122,7 @@ une forte traction sur la toile puis en relâchant rapidement cette
 tension, envoyant un signal de grande amplitude.
 
 
-{% include image.html img='img/SignalSpiders.png' caption='Figure 3 : Vibrations émises par un mâle <em>Tegenaria parietina</em> dans la toile. A : trémulations abdominales ; K : percussions avec l'abdomen (d'après Leborgne et Krafft, 1979)' %}
+{% include image.html img="img/SignalSpiders.png" caption='Figure 3 : Vibrations émises par un mâle <em>Tegenaria parietina</em> dans la toile. A : trémulations abdominales ; K : percussions avec l'abdomen (d'après Leborgne et Krafft, 1979)" %}
 
 Afin que les signaux soit reconnaissables, les araignées produisent des
 vibrations caractéristiques en faisant varier la fréquence et
@@ -281,11 +281,11 @@ Les sensilles en fente sont des petits organes mécanorécepteurs qui peuvent d�
 
 Elles prennent la forme de petites fentes de 1 à 2µm de large et entre 8 et 200µm de long, et peuvent être situées seules ou en groupe (voir Figure 9). Un groupe de sensilles en fente est appelé un organe lyriforme, car, les fentes étant parallèles entre elles, il a la forme d'une lyre, et une sensille en fente seule est appelé sensille en fente simple.
 
-{% include image.html img='img/Sensilles.png' caption='Figure 9 : Distribution des sensilles en fente sur l'arrière de la première patte d'une <em>Cupiennus salei</em> : les traits indiquent des sensilles en fente seule, et les points des organes lyriformes (enlargis pour voir les détails) (d'après <span style="font-variant:small-caps;">Barth</span> et <span style="font-variant:small-caps;">Libera</span>, 1870)'%}
+{% include image.html img="img/Sensilles.png" caption="Figure 9 : Distribution des sensilles en fente sur l'arrière de la première patte d'une <em>Cupiennus salei</em> : les traits indiquent des sensilles en fente seule, et les points des organes lyriformes (enlargis pour voir les détails) (d'après <span style="font-variant:small-caps;">Barth</span> et <span style="font-variant:small-caps;">Libera</span>, 1870)"%}
 
 La fente est bordée d'une lèvre cuticulaire et est recouverte d'une membrane cuticulaire. Sous la membrane, une sorte de gouttière s'étend vers le bas et s'élargit en prenant la forme d'une cloche, où se trouvent deux dendrites qui relient la sensille an fente au nerf (voir Figure 10). Même une tension très faible au niveau de la cuticule causera une déformation de la sensille, et la membrane se pliera, déformant l'extrémité d'une des dendrites, provoquant un signal nerveux.
 
-{% include image.html img='img/Sensilles2.svg' fallback="img/Sensilles2.png" caption='Figure 10 : Schéma d'une sensille simple d'une <em>Cupiennius</em> (d'après <span style="font-variant:small-caps;">Barth</span>, 1971)'%}
+{% include image.html img="img/Sensilles2.svg" fallback="img/Sensilles2.png" caption="Figure 10 : Schéma d'une sensille simple d'une <em>Cupiennius</em> (d'après <span style="font-variant:small-caps;">Barth</span>, 1971)"%}
 
 
 C'est en analysant la différence de temps entre l'arrivée de la vibration dans ses différentes pattes que l'araignée peut déterminer la direction de la proie ou de l'intrus.
