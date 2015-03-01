@@ -2,6 +2,7 @@
 layout: page
 title: La communication ultrasonore
 ---
+{% include katex_import.html %}
 
 # La communication ultrasonore
 
@@ -133,4 +134,8 @@ Nous pouvons remarquer que la vitesse de propagation des ondes sonores dans l’
 
 
 
+
+
 {% include buttons.html %}
+
+{% include katex_render.html %}
