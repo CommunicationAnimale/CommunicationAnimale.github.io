@@ -27,7 +27,7 @@ Enfin, chez les animaux vivant en groupe (chauve-souris et dauphins notamment), 
 L’écholocation des dauphins est la capacité de ces deniers à repérer et situer les aspects importants de leur environnement, leurs congénères ou les proies. Elle se base sur la propagation des ondes acoustiques dans l’eau.
 Le dauphin est capable d’émettre différents types de son, de fréquences variables, certains servant à communiquer, d’autres à se repérer dans l’espace. Le système d’émission chez le dauphin est bien plus complexe que chez l’homme. L’homme n’est en effet capable de produire que du son audible, c’est-à-dire entre 20 et 20 000 Hz.
 
-{% include image.html img="img/NOM_IMAGE.png" caption="Schéma des fréquences des ultrasons"%}
+{% include image.html img="img/ultrasons/images1.jpeg" caption="Schéma des fréquences des ultrasons"%}
 
 On peut séparer les ondes acoustiques émises par les dauphins en deux grands groupes : les sifflements, utilisés pour communiquer, et les clics servant à l’écholocation[1]. Le langage des dauphins est mal connu et semble complexe. Tout au plus peut on dire qu’il présente de grandes variations en fonction du groupe de dauphins étudié et des individus. Les sifflements sont bien localisés en fréquence et se situent plutôt dans les ultrasons (< 25 kHz).
 Les sifflements sont des sons caractéristiques d’une espèce ou d’un individu. Ce sont des faisceaux couvrant une bande étroite de basse fréquence, et utilisés pour la communication entre espèces.
@@ -36,14 +36,15 @@ Les clics d’écholocation sont des signaux très brefs (quelques dizaines de m
 Ces clics peuvent être représentés selon deux types. Le premier est sous la forme d’un faisceau large de basse fréquence, d’émission lente et de longue portée. Ils sont utilisés pour créer des images de son environnement. Le second type des clics d’écholocation est représenté par un faisceau étroit à courte portée, occupant une large bande de haute fréquence. Ils servent à analyser une potentielle proie ou un objet rencontré.
 
 
+{% include image.html img="img/ultrasons/images2.png" caption="Représentaion temporelle d'un clic 1"%}
 
-Représentaion temporelle d'un clic 1
+{% include image.html img="img/ultrasons/images3.png" caption="Représentation fréquentielle d'un clic 1"%}
 
-Représentation fréquentielle d'un clic 1
 
 ### L’émetteur
 
 Le dauphin ne possède pas de cordes vocales mais trois pairs de sacs aériens, de forme différente, situés sous l’évent, de part et d’autre du conduit nasal. Ces sacs servent de réserves d’air. Le dauphin arrive à produire des sons en faisant passer l’air d’un sac à l’autre par des ouvertures dont il règle le diamètre, grâce à un ensemble de muscles et de nerf. Pour pouvoir orienter de manière précise ses faisceaux sonores le dauphin est doté d’un organe, le melon. Les ondes sonores créent vont se réfléchir sur la paroi osseuse frontale concave du crâne de l’animal pour ensuite se concentrer sur une masse graisseuse qui est le melon. Le dauphin peut ainsi orienter l’émission de ses ondes ultrasonores où il le souhaite.
+
 Le larynx est aussi utilisé pour l’émission sonore. Le dauphin peut en effet expulser de l’air par ses poumons et cet air fait vibrer des muscles puissants du conduit respiratoire. Ses muscles vont alors transmettre ses vibrations à des os dont ceux des maxillaires. La vibration est ensuite transmise à l’extrémité du rostre de façon unidirectionnelle.
 
 ### Le récepteur
