@@ -146,8 +146,8 @@ ensuite fait sa toile dans une boite. Grâce à un appareil photo
 numérique pour microscope, nous avons pu obtenir des clichés du fil
 d’araignée.
 
-{% include image.html img="img/FilMicroscopeA.png" %}
-{% include image.html img="img/FilMicroscopeB.png" caption="Figure 4 : Photographies de fils d’araignée vus au microscope optique (×600)" %}
+{% include image.html img="img/FilMicroscopeA.png" title="Photographie A de fil d'araignée"%}
+{% include image.html img="img/FilMicroscopeB.png" caption="Figure 4 : Photographies de fils d’araignée vus au microscope optique (×600)" title="Photographie B de fil d'araignée"%}
 
 Le premier fil n'a pas été coloré, et le second a été coloré au bleu de méthylène.
 Nous pouvons voir sur ces photographies que les fils d’araignée sont en fait constitués de plusieurs fils tressés les uns autour des autres, toutefois la coloration au bleu de méthylène ne permet pas de différencier différente partie dans chacun des fils.
@@ -294,6 +294,30 @@ C'est en analysant la différence de temps entre l'arrivée de la vibration dans
 
 
 # Utilisation des connaissances en matière de communication vibratoire
+
+## Dans la lutte intégrée
+
+Les connaissances en matière de communication vibratoire peuvent être utilisé de différentes manière. En effet, en étant capable de reproduire ou d’imiter des signaux vibratoires, il est possible d’agir sur le comportement des animaux ayant recours à ce type de communication. Ceci est intéressant notamment dans le cadre de la lutte intégrée, définit en Europe par la directive communautaire 91/414/CEE du 15 juillet 1991 ainsi :
+
+> « L’application rationnelle d’une combinaison de mesures biologiques, biotechnologiques, chimiques, physiques, culturales ou intéressant la sélection des végétaux dans laquelle l’emploi de produits chimiques phytopharmaceutiques est limité au strict nécessaire pour maintenir la présence des organismes nuisibles en dessous de seuil à partir duquel apparaissent des dommages ou une perte économiquement inacceptables. »
+
+Ainsi, il serait possible de contrôler sans utiliser de pesticides des populations d’insectes nuisibles ayant recours à la communication vibratoire, comme la cicadelle de la vigne (*Scaphoideus titanus*). Les cicadelles n’utilisent pas de communication chimique à longue portée, mais peuvent transmettre des signaux vibratoires à travers les feuilles de vigne jusqu’à plusieurs mètres de distances. Or, la cicadelle de la vigne est officiellement reconnue comme *nuisible* car elle est responsable de la propagation de la flavescence dorée, maladie à l’origine de pertes importantes de récoltes de vignes, et son contrôle est donc obligatoire.
+
+Dans son article [« Exploitation of Insect Vibrational Signals Reveals a New Method of Pest Management »](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0032954), Anna <span style='font-variant:small-caps;'>Eriksson</span> (et al.) étudie l’utilisation de vibrations pour perturber la communication entre mâles et femelles *Scaphoideus titanus* en envoyant des signaux pré-enregistrés que les mâles *Scaphoideus titanus* utilisent pour empêcher les autres mêles de s’accoupler.
+
+{% include image.html img="img/graphiqueLutteIntegree.svg" caption="Figure 11 : Nombre de femelles non fécondées trouvées sur les feuilles de vigne (A) sur des plantes en pot, (B) dans un champ de vigne, selon la distance de la source de vibrations." fallback="img/graphiqueLutteIntegree.png" %}
+
+Après avoir effectué et analysé des essais, elle a obtenu des résultats concluants que cette méthode de contrôle est très efficace (voir Figure 11) : même lorsque la source de vibration se trouve à 940cm, plus de 80 % des femelles restent non fécondées, alors que dans le cas du groupe contrôle (non montré sur le graphique) seuls 20 % des femelles restaient non fécondées.
+
+Cette méthode agit donc fortement sur la population, car non seulement elle empêche la fécondation d’une grande partie des femelles, mais elle retarde de plus les fécondations ayant lieu, la femelle est donc moins féconde qu’elle ne l’aurait été. Ainsi, l’utilisation de signaux vibratoires pour perturber la reproduction s’accorde bien à la définition de la lutte intégrée, car en empêchant, ou du moins en retardant la fécondation, elle permet de diminuer la population de nuisible sans l’exterminer, tout en limitant l’utilisation de produits chimiques.
+
+Toutefois, dans [une étude plus récente](http://onlinelibrary.wiley.com/enhanced/doi/10.1002/ps.3848) Jernej <span style='font-variant:small-caps;'>Polajnar</span>, Anna <span style='font-variant:small-caps;'>Eriksson</span> et al. ont mis en évidences l’existence d’effets secondaires causés par la production de signaux vibratoires, notamment la perturbation d’insectes non nuisibles comme les abeilles ou les araignées.
+
+De plus, ils soulignent les limitations techniques de cette méthode : l’atténuation des vibrations est extrêmement rapide dans la plupart des milieux solides. Toutefois certains insectes ont surmonté cette difficulté en produisant des vibrations proches de fréquences résonnantes du substrat, c’est-à-dire les fréquences auxquelles le substrat est sensible, et qui, répétés sous forme périodique, provoquera l’accumulation d’énergie dans le substrat jusqu’à atteindre un régime d’équilibre. Il est donc possible d’imiter les fréquences utilisées par les insectes pour diminuer l’importance du problème d’atténuation.
+
+Par ailleurs, la situation du champ de vignes étudiés par Anna <span style='font-variant:small-caps;'>Eriksson</span> était une situation idéale, car les vignes forment une ligne et chaque pied de vigne est relié au suivant, facilitant la transmission de vibrations d’un pied de vigne au suivant.
+
+
 
 {% include buttons.html %}
 
