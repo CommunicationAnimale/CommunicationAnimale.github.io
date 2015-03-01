@@ -129,4 +129,5 @@ Nous pouvons remarquer que la vitesse de propagation des ondes sonores dans l’
 1. Ying Li, Zhen Liu, Peng Shi, Jianzhi Zhang. The hearing gene Prestin unites echolocating bats and whales. Current Biology, 2010; DOI:10.1016/j.cub.2009.11.042
 
 
-      
+
+{% include buttons.html %}
