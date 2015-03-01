@@ -295,6 +295,8 @@ C'est en analysant la différence de temps entre l'arrivée de la vibration dans
 
 # Utilisation des connaissances en matière de communication vibratoire
 
+
+
 {% include buttons.html %}
 
 ## Bibliographie
