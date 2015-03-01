@@ -4,7 +4,7 @@ title: La communication vibratoire
 ---
 {% include katex_import.html %}
 
-On imagine souvent les araignées comme des animaux solitaire, pourtant elles ont à leur disposition différents types de signaux pour communiquer&nbsp;: signaux visuels, notamment lors de la parade amoureuse, signaux sonores, en effet les araignées stridulent en frottant différentes parties de leur corps, signaux chimiques, comme toutes les espèces animales, les araignées communiquent par l’intermédiaire de phéromones, mais aussi signaux vibratoires, qui est le moyen de communication prédominent chez les araignées.
+On imagine souvent les araignées comme des animaux solitaires, pourtant, elles ont à leur disposition différents types de signaux pour communiquer&nbsp;: signaux visuels, notamment lors de la parade amoureuse, signaux sonores, en effet les araignées stridulent en frottant différentes parties de leur corps, signaux chimiques, comme toutes les espèces animales, les araignées communiquent par l’intermédiaire de phéromones, mais aussi signaux vibratoires, qui est le moyen de communication prédominant chez les araignées.
 <!--more-->
 
 Toutefois, l’étude de la communication vibratoire est très récente,
@@ -22,9 +22,9 @@ De même, les éléphants émettent des signaux vibratoires en frappant le
 sol de leurs pattes pouvant être reçus par d’autres éléphants à
 plusieurs kilomètres de distances. Toutefois la communication vibratoire
 chez les araignées présente bien plus d’intérêt, elle est
-utilisé non seulement lors de la parade amoureuse, mais aussi au sein de
+utilisée non seulement lors de la parade amoureuse, mais aussi au sein de
 sociétés d’araignées sociales et permet la détection d’intrus ou de
-proie. De plus le substrat, c’est-à-dire la base matérielle, le support
+proie. De plus, le substrat, c’est-à-dire la base matérielle, le support
 de la communication vibratoire chez les araignées est tout à fait
 particulier : ce sont les fils de soie, produits par les araignées.
 
@@ -38,23 +38,22 @@ araignées, il nous faut tout d’abord séparer les espèces d’araignées
 selon différentes catégories : il existe des araignées solitaires et des
 araignées sociales, et certaine araignées sont capables de tisser une
 toile, ce sont les araignées fileuses, tandis que d’autres n’en sont pas
-capable.
+capables.
 
 Pour les araignées solitaires, la communication vibratoire est utilisée
 principalement pour repérer les proies et pour trouver un partenaire
 sexuel.
 
-Pour les espèces sociales, soit environ douze genres d’araignées, c’est
-à dire douze regroupements d’espèces, la communication a, comme pour
+Pour les espèces sociales, soit environ douze genres d’araignées, c’est-à-dire douze regroupements d’espèces, la communication a, comme pour
 toutes les espèces sociales, un rôle majeur, notamment dans la prédation. Or, toutes les espèces
 sociales sont fileuses, elles organisent leur vie dans des structures
-soyeuses pouvant atteindre (voir Figure 1).
+soyeuses pouvant atteindre [TODO ajouter taille toile](voir Figure 1).
 
 {% include image.html img="img/toileSociale.jpg" caption="Figure 1: Toile d’une société d’<em>Anolesimius Eximius</em>, espèce d’araignée sociale" %}
 
 Ces structures soyeuses, qu’elles ne quittent jamais, favorisent la
 communication vibratoire. Tout comme pour les araignées solitaires, les
-vibrations dans la toile leur permet d’être alertées de la présence d’intrus et de proies : dès qu’un insecte est pris au piège dans la
+vibrations dans la toile leur permettent d’être alertées de la présence d’intrus et de proies : dès qu’un insecte est pris au piège dans la
 toile, une horde d’araignées l’encercle, le tue puis s’en nourrit. Dès
 lors, on peut en déduire que la communication vibratoire permet à
 l’araignée de distinguer ses congénères des proies, et lui permet aussi
@@ -124,11 +123,11 @@ tension, envoyant un signal de grande amplitude.
 
 {% include image.html img="img/SignalSpiders.png" caption="Figure 3 : Vibrations émises par un mâle <em>Tegenaria parietina</em> dans la toile. A : trémulations abdominales ; K : percussions avec l'abdomen (d'après <span style='font-variant:small-caps;'>Leborgne</span> et <span style='font-variant:small-caps;'>Krafft</span>, 1979)" %}
 
-Afin que les signaux soit reconnaissable, les araignées produisent des
+Afin que les signaux soient reconnaissables, les araignées produisent des
 vibrations caractéristiques en faisant varier la fréquence et
 l’amplitude des vibrations, ainsi que la répartition de ces vibrations
-au cours du temps. Nous pouvons voir en cette variation du motif des
-vibrations en Figure 3, en effet on peut remarquer la répétition des trois trémulations abdominales.
+au cours du temps. Nous pouvons voir cette variation du motif des
+vibrations en Figure 3, on peut remarquer la répétition des trois trémulations abdominales.
 
 
 ##Transmission du signal vibratoire
@@ -154,7 +153,7 @@ Nous pouvons voir sur ces photographies que les fils d’araignée sont en fait 
 
 ### Mesure de la taille d’un fil de soie d’araignée
 
-Afin d'étudier plus précisément le fil d'araignée, nous avons souhaité mesurer son diamètre. Ceci est possible en analysant le phénomène de diffraction ayant lieu lorsqu'un laser rencontre ce fil d'araignée, c'est-à-dire la manière dont la lumière est diffusée après avoir rencontrée le fil.
+Afin d'étudier plus précisément le fil d'araignée, nous avons souhaité mesurer son diamètre. Ceci est possible en analysant le phénomène de diffraction ayant lieu lorsqu'un laser rencontre ce fil d'araignée, c'est-à-dire la manière dont la lumière est diffusée après avoir rencontré le fil.
 
 Lorsqu'on projette la lumière après le fil sur un écran, on obtient des tâches, et la taille de la tâche centrale (mesurée à partir des milieux entre la tâche centrale et les tâches autour de la tâche centrale) est inversement proportionnelle au diamètre du fil.
 
@@ -185,7 +184,8 @@ $$ D(fil) = \frac{\frac{1}{L}}{0.76}$$
 Donc :
 
 $$D(filA) = \frac{9,26\times10^{-3}}{0.76}$$
-
+ 
+Soit :
 
 $$D(filA) = 1,2\times10^{-2} \text{mm} = 1,2\times10^{-5} \text{m} = 12 \mu\text{m}$$
 
@@ -193,6 +193,7 @@ Et,
 
 $$D(filB) = \frac{1,25\times10^{-2}}{0.76}$$
 
+Soit :
 
 $$D(filB) = 1,6\times10^{-2} \text{mm} = 1,6\times10^{-5} \text{m} = 16 \mu\text{m}$$
 
@@ -257,16 +258,16 @@ Tension (avec A'<B')|   A' ≈ A   |       B' ≈ B |
 Δt moyen, calculé à partir des mesures expérimentales (s×10<sup>-3</sup>)|  37      |        30    |
 Vitesse v de l'onde (m.s<sup>-1</sup>)   |   27   |   33   |
 
-Dès lors on peut remarquer que plus la tension de la corde est élevée, et plus la propagation se déplace rapidement dans la corde, et plus la corde à une masse linéique élevé, et plus la propagation se déplace lentement.
+Dès lors on peut remarquer que plus la tension de la corde est élevée, et plus la propagation se déplace rapidement dans la corde, et plus la corde a une masse linéique élevé, et plus la propagation se déplace lentement.
 
 Le calcul théorique de la vitesse $$v$$ d'une onde dans une corde est $$v = \sqrt{\frac{T}{\mu}}$$, où $$T$$ est la tension de la corde et $$\mu$$ sa masse linéique, ce qui est en accord avec nos observations.
 
-Selon [une étude menée conjointement par des universités américaines et japonaises](http://web.mit.edu/course/3/3.064/www/slides/Ko_spider_silk.pdf), la masse linéique d'une fibre de soie d'araignée est $$\mu_{fibre} = 1,4\times10^{-8} \text{kg.m}$$<sup>-1</sup>, dès lors, même s'il est composé de plusieurs fibres, le fil de soie d'araignée à une masse linéique extrêment faible. Par ailleurs, la toile est sous tension, et les ondes se déplacent donc extrêmement rapidement dans la toile, ce qui est un des atouts majeurs de la communication vibratoire pour les araignées.
+Selon [une étude menée conjointement par des universités américaines et japonaises](http://web.mit.edu/course/3/3.064/www/slides/Ko_spider_silk.pdf), la masse linéique d'une fibre de soie d'araignée est $$\mu_{fibre} = 1,4\times10^{-8} \text{kg.m}$$<sup>-1</sup>, même s'il est composé de plusieurs fibres, le fil de soie d'araignée a une masse linéique extrêment faible. Par ailleurs, la toile est sous tension. Les ondes se déplacent donc extrêmement rapidement dans la toile, ce qui est un des atouts majeurs de la communication vibratoire pour les araignées.
 
 
 ## Perception des signaux vibratoires
 
-Les araignées perçoivent très bien les signaux vibratoires, en effet elles sont dotées de différents organes leur permettant de recevoir des vibrations, notamment les trichobotries et les sensilles en fente, ce sont les organes mécanorécepteurs.
+Les araignées perçoivent très bien les signaux vibratoires, en effet, elles sont dotées de différents organes leur permettant de recevoir des vibrations, notamment les trichobotries et les sensilles en fente, ce sont les organes mécanorécepteurs.
 
 ### Les trichobotries
 Les trichobotries sont des soies sensorielles fines, longues et extrêmement mobiles insérées dans une cupule (une petite structure de la forme d'une coupe), et reliées à un nerf par un dendrite, une courte extension des cellules nerveuses (voir Figure 8).
@@ -283,7 +284,7 @@ Elles prennent la forme de petites fentes de 1 à 2µm de large et entre 8 et 20
 
 {% include image.html img="img/Sensilles.png" caption="Figure 9 : Distribution des sensilles en fente sur l'arrière de la première patte d'une <em>Cupiennus salei</em> : les traits indiquent des sensilles en fente seule, et les points des organes lyriformes (enlargis pour voir les détails) (d'après <span style='font-variant:small-caps;'>Barth</span> et <span style='font-variant:small-caps;'>Libera</span>, 1870)"%}
 
-La fente est bordée d'une lèvre cuticulaire et est recouverte d'une membrane cuticulaire. Sous la membrane, une sorte de gouttière s'étend vers le bas et s'élargit en prenant la forme d'une cloche, où se trouvent deux dendrites qui relient la sensille an fente au nerf (voir Figure 10). Même une tension très faible au niveau de la cuticule causera une déformation de la sensille, et la membrane se pliera, déformant l'extrémité d'une des dendrites, provoquant un signal nerveux.
+La fente est bordée d'une lèvre cuticulaire et est recouverte d'une membrane cuticulaire. Sous la membrane, une sorte de gouttière s'étend vers le bas et s'élargit en prenant la forme d'une cloche, où se trouvent deux dendrites qui relient la sensille en fente au nerf (voir Figure 10). Même une tension très faible au niveau de la cuticule causera une déformation de la sensille, et la membrane se pliera, déformant l'extrémité d'une des dendrites, provoquant un signal nerveux.
 
 {% include image.html img="img/Sensilles2.svg" fallback="img/Sensilles2.png" caption="Figure 10 : Schéma d'une sensille simple d'une <em>Cupiennius</em> (d'après <span style='font-variant:small-caps;'>Barth</span>, 1971)"%}
 
@@ -297,7 +298,7 @@ C'est en analysant la différence de temps entre l'arrivée de la vibration dans
 
 ## Dans la lutte intégrée
 
-Les connaissances en matière de communication vibratoire peuvent être utilisé de différentes manière. En effet, en étant capable de reproduire ou d’imiter des signaux vibratoires, il est possible d’agir sur le comportement des animaux ayant recours à ce type de communication. Ceci est intéressant notamment dans le cadre de la lutte intégrée, définit en Europe par la directive communautaire 91/414/CEE du 15 juillet 1991 ainsi :
+Les connaissances en matière de communication vibratoire peuvent être utilisé de différentes manière. En effet, en étant capable de reproduire ou d’imiter des signaux vibratoires, il est possible d’agir sur le comportement des animaux ayant recours à ce type de communication. Ceci est intéressant notamment dans le cadre de la lutte intégrée, définie en Europe par la directive communautaire 91/414/CEE du 15 juillet 1991 ainsi :
 
 > « L’application rationnelle d’une combinaison de mesures biologiques, biotechnologiques, chimiques, physiques, culturales ou intéressant la sélection des végétaux dans laquelle l’emploi de produits chimiques phytopharmaceutiques est limité au strict nécessaire pour maintenir la présence des organismes nuisibles en dessous de seuil à partir duquel apparaissent des dommages ou une perte économiquement inacceptables. »
 
@@ -315,7 +316,7 @@ Toutefois, dans [une étude plus récente](http://onlinelibrary.wiley.com/enhanc
 
 De plus, ils soulignent les limitations techniques de cette méthode : l’atténuation des vibrations est extrêmement rapide dans la plupart des milieux solides. Toutefois certains insectes ont surmonté cette difficulté en produisant des vibrations proches de fréquences résonnantes du substrat, c’est-à-dire les fréquences auxquelles le substrat est sensible, et qui, répétés sous forme périodique, provoquera l’accumulation d’énergie dans le substrat jusqu’à atteindre un régime d’équilibre. Il est donc possible d’imiter les fréquences utilisées par les insectes pour diminuer l’importance du problème d’atténuation.
 
-Par ailleurs, la situation du champ de vignes étudiés par Anna <span style='font-variant:small-caps;'>Eriksson</span> était une situation idéale, car les vignes forment une ligne et chaque pied de vigne est relié au suivant, facilitant la transmission de vibrations d’un pied de vigne au suivant.
+Par ailleurs, la situation du champ de vignes étudiés par Anna <span style='font-variant:small-caps;'>Eriksson</span> était une situation idéale, car les vignes forment une ligne et chaque pied de vigne est relié au suivant, facilitant la transmission de vibrations d’un pied de vigne au suivant. Dès lors, , on peut se demander si cette méthode est vraiment applicable
 
 
 
