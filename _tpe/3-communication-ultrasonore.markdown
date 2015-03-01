@@ -54,6 +54,55 @@ Ils sont ensuite transmis au cerveau par l’influx nerveux d’un nerf acoustiq
 
 Les ondes acoustiques peuvent aussi être reçues par le maxillaire inférieur, les sons s’y propagent mieux. Les ondes sonores sont donc reçues par l’extrémité du bec de l’animal, elles se propagent dans un corps graisseux au niveau du maxillaire et sont transmises à l’oreille interne au niveau de l’articulation de la mâchoire. Ensuite, tout ce passe comme ce qui a été expliqué précédemment.
 
+## La prestine
+
+Chez plusieurs espèces douées de compétence d'écholocation par émission et réception d'ultrasons, dans l'eau ou dans l'air ; certains cétacés et chauve-souris ont recours à la prestine, protéine impliquée dans l'écholocation.
+Des chercheurs se sont concentrés sur cette protéine présente chez tous les mammifères. Elle est située sur les cellules cillées externes de la cochlée, dans l’oreille interne, cette protéine joue un rôle d’amplificateur des ondes sonores (en particulier des hautes fréquences comme les ultrasons), grâce aux vibrations qu’elle provoque. Cette protéine est similaire chez les différents groupes de chauves-souris qui utilisent l’écholocation.
+
+L’équipe sino-britannique de Stephen Rossiter (University of London, GB) et l’équipe sino-américaine de Jianzhi Zhang (University of Michigan, E-U) ont comparé la prestine des chauves-souris et celle de différents cétacés. 
+
+En construisant des arbres phylogénétiques uniquement basés sur l’évolution de la prestine (et non sur les autres caractéristiques de ces mammifères), les deux équipes ont abouti à des rapprochements surprenants. Chauves-souris et dauphins doués pour l’écholocation devenaient cousins, formant un groupe évolutif cohérent.
+
+
+
+
+Les dauphins (en bleu) au milieu des chauve-souris (en noir) et donc éloignées des baleines dépourvues d’écholocation (en bas en vert).
+
+Ces chercheurs avaient analysés la suite de nucléotides composant le gène de la prestine chez cinq espèces d'odontocètes, le cachalot et quatre espèces de dauphin, ainsi que chez des baleines incapables d'écholocalisation. Puis ils avaient comparé les séquences obtenues à celles de 18 espèces de chauves-souris. Ils avaient alors mis en évidence une ressemblance entre les séquences des odontocètes à sonar, le cachalot mis à part, et celles des chauves-souris.
+
+Donc cela signifie que la version de la protéine codée par le gène *Prestin* chez les dauphins est plus proche de la version de la protéine chez les chauve-souris douées d’écholocalisation que de la version de la protéine chez les baleines dépourvues d’écholocalisation. Mais comment est-ce possible ?
+
+Au cours de l’évolution, des mutations se sont accumulées dans l’ADN du gène *Prestin*. Lorsqu’une mutation survient dans un gène, elle modifie le codon en question, ce qui peut avoir pour conséquence de changer l’acide aminé.
+Si l’acide aminé n’est pas modifié, il n’y a pas de conséquence sur le phénotype. Par contre, si l’acide aminé est modifié, la protéine a de grandes chances de fonctionner différemment. Si elle fonctionne mieux, l’organisme se reproduira en moyenne plus que les autres organismes. Grâce à l’action de la sélection naturelle, une mutation positive peut être de plus en plus présente dans la population au cours des générations.
+
+Dans le cas des dauphins et des chauves-souris, les chercheurs cités ci-dessus ont montré que, par la sélection naturelle, les différences entre leurs séquences d’ADN du gène *Prestin* correspondent à des changements vers les mêmes acides aminés. A l’inverse, les différences entre les séquences d’ADN des dauphins et des baleines dépourvues d’écholocalisation correspondent à des changements d’acides aminés différents.
+
+Cela signifie que la prestine joue un rôle important dans l'écholocalisation, que celle-ci ait été acquise dans l'eau ou dans l'air. Les mutations du gène de la prestine doivent avoir été suffisamment fréquentes pour que les individus dotés par hasard de la bonne séquence de la protéine, celle qui est associée à la meilleure sensibilité aux ultrasons, soient sélectionnés par leur environnement.
+
+
+
+## Utilisation de ces connaissances par l’homme
+
+### NMMP 
+
+En 1942, la Suède a eu l’idée d’utiliser des phoques pour faire la chasse aux sous-marins allemands. Ces phoques dressés, équipés d’une mine sur leur dos,  devaient nager sous les coques, puis le moment venu, la mine explosait avec le corps de l’animal.
+Cette nouvelle tactique de guerre a ouvert la voie aux expériences militaires. L’US Navy utilise des otaries et des dauphins depuis 1960.
+
+
+Otarie dréssée pour repérer des objets sous-marins.
+
+Le programme de mammifères marins de la marine américaine, en anglais U.S. Navy Marine Mammal Program (NMMP), est un programme dirigé par la Marine américaine qui étudie l’emploi militaire de mammifères marins (le Grand dauphin qui émet et reçoit en un millième de seconde, des fréquences variant entre 220 et 250 000 hertz et l’otarie de Californie) et les entraîne à des tâches tels que la protection de navires et de ports, le repérage et le dégagement de mines, ainsi que la récupération d’objets. Le programme est basé à San Diego en Californie où les animaux sont entraînés. Les animaux du NMMP ont été déployés en zones de combat, notamment pendant la Guerre du Viêt Nam et la Guerre d'Irak. Cette dernière a permis aux américains d’ouvrir le golfe Arabique au marché international après la fin du conflit, en particulier grâce a ces animaux.La Navy a recours à certaines équipes humains-crétacés. Les équipes MK 4, 7 et 8 utilisent des dauphins; MK 5 utilise des otaries, et MK 6 utilise à la fois dauphins et otaries. Ces équipes peuvent être déployées partout sur le globe en 72 heures, vers des zones de conflits. 
+
+
+soldat dauphin
+
+
+Trois niveaux de profondeur sont visibles : la zone proche de la surface ("seasonal thermocline") dont la température dépend de la saison de l’année, la zone intermédiaire thermocline ("permanent thermocline") puis la zone des eaux froides profondes ("deep-water isothermal layer"). 
+Passée la valeur de la vitesse minimale ("sound velocity minimum" : Vmin), la profondeur a donc une influence positive sur la célérité. 
+Nous pouvons remarquer que la vitesse de propagation des ondes sonores dans l’eau n’est pas constante. Elle est maximale dans les eaux de surface puis décroit dans la zone intermédiaire jusqu’à sa vitesse minimale pour augmenter de nouveau progressivement dans les eaux profondes.
+
+
+1. Ying Li, Zhen Liu, Peng Shi, Jianzhi Zhang. The hearing gene Prestin unites echolocating bats and whales. Current Biology, 2010; DOI:10.1016/j.cub.2009.11.042
 
 
       
