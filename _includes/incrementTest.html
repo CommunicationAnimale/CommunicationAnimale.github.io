@@ -1,5 +1,5 @@
 <div class="number">
    <p> Nombre {{ page.figNumber }}</p>
-   {% increment page.figNumber %}
+   {% assign page.figNumber=page.figNumber | plus:1 %}
    <p> Nombre2 {{ page.figNumber }}</p>
 </div>
