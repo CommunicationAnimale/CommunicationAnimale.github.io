@@ -3,33 +3,17 @@ layout: page
 title: La communication vibratoire
 ---
 {% include katex_import.html %}
-
 On imagine souvent les araignées comme des animaux solitaires, pourtant, elles ont à leur disposition différents types de signaux pour communiquer&nbsp;: signaux visuels, notamment lors de la parade amoureuse, signaux sonores, en effet les araignées stridulent en frottant différentes parties de leur corps, signaux chimiques, comme toutes les espèces animales, les araignées communiquent par l’intermédiaire de phéromones, mais aussi signaux vibratoires, qui est le moyen de communication prédominant chez les araignées.
-<!--more-->
 
-Toutefois, l’étude de la communication vibratoire est très récente,
-c’est Peter N.&nbsp;<span style='font-variant:small-caps;'>Witt</span>, en 1982 qui le premier l’étudia en profondeur dans son
-ouvrage *Spider Communication* [TODO : mettre numéro livre], dans lequel il s’intéresse à la communication
-entre araignées et à la détection des proies, suivant la définition
-large de la communication comme tout comportement qui transmet une
-information d’un individu à un autre .
 
-Les araignées ne sont pas les seuls animaux à communiquer par
-l'intermédiaire de vibrations, en effet, les punaises vertes (*Nezara
-virudula*) communiquent à l’aide de vibrations transmises par les
-feuilles sur lesquelles elles se trouvent lors de leur parade amoureuse.
-De même, les éléphants émettent des signaux vibratoires en frappant le
-sol de leurs pattes pouvant être reçus par d’autres éléphants à
-plusieurs kilomètres de distances. Toutefois la communication vibratoire
-chez les araignées présente bien plus d’intérêt, elle est
-utilisée non seulement lors de la parade amoureuse, mais aussi au sein de
-sociétés d’araignées sociales et permet la détection d’intrus ou de
-proie. De plus, le substrat, c’est-à-dire la base matérielle, le support
-de la communication vibratoire chez les araignées est tout à fait
-particulier : ce sont les fils de soie, produits par les araignées.
+Les araignées ne sont pas les seuls animaux à communiquer par l'intermédiaire de vibrations, en effet, les punaises vertes (*Nezara virudula*) communiquent à l’aide de vibrations transmises par les feuilles sur lesquelles elles se trouvent lors de leur parade amoureuse. De même, les éléphants émettent des signaux vibratoires en frappant le sol de leurs pattes pouvant être reçus par d’autres éléphants à plusieurs kilomètres de distances. Toutefois la communication vibratoire chez les araignées présente bien plus d’intérêt, elle est utilisée non seulement lors de la parade amoureuse, mais aussi au sein de
+sociétés d’araignées sociales et permet la détection d’intrus ou de proie. De plus, le substrat, c’est-à-dire la base matérielle, le support
+de la communication vibratoire chez les araignées est tout à fait particulier : ce sont les fils de soie, produits par les araignées.
 
-C’est pourquoi nous nous intéresserons principalement dans cette partie
-à l’exemple des araignées, plus particulièrement à \#TODO\#
+
+Toutefois, l’étude de la communication vibratoire est très récente, c’est Peter N.&nbsp;<span style='font-variant:small-caps;'>Witt</span>, en 1982 qui le premier l’étudia en profondeur dans son ouvrage *Spider Communication* [TODO : mettre numéro livre], dans lequel il s’intéresse à la communication entre araignées et à la détection des proies, suivant la définition large de la communication comme tout comportement qui transmet une information d’un individu à un autre .
+
+C’est pourquoi nous nous intéresserons principalement dans cette partie à l’exemple des araignées, plus particulièrement à \#TODO\#
 
 ## Rôle de la communication vibratoire chez les araignées
 
