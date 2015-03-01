@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Page not found"
+title: "Page introuvable"
 permalink: /404.html
 hide: true
 ---
