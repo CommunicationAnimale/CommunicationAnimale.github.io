@@ -22,13 +22,7 @@ Pour les espèces sociales, soit environ douze genres d’araignées, c’est-à
 
 {% include image.html img="img/vibrations/toileSociale.jpg" caption="Figure 1: Toile d’une société d’<em>Anolesimius Eximius</em>, espèce d’araignée sociale" %}
 
-Ces structures soyeuses, qu’elles ne quittent jamais, favorisent la
-communication vibratoire. Tout comme pour les araignées solitaires, les
-vibrations dans la toile leur permettent d’être alertées de la présence d’intrus et de proies : dès qu’un insecte est pris au piège dans la
-toile, une horde d’araignées l’encercle, le tue puis s’en nourrit. Dès
-lors, on peut en déduire que la communication vibratoire permet à
-l’araignée de distinguer ses congénères des proies, et lui permet aussi
-de localiser la proie sur la toile.
+Ces structures soyeuses, qu’elles ne quittent jamais, favorisent la communication vibratoire. Tout comme pour les araignées solitaires, les vibrations dans la toile leur permettent d’être alertées de la présence d’intrus et de proies : dès qu’un insecte est pris au piège dans la toile, une horde d’araignées l’encercle, le tue puis s’en nourrit. Dès lors, on peut en déduire que la communication vibratoire permet à l’araignée de distinguer ses congénères des proies, et lui permet aussi de localiser la proie sur la toile.
 
 Les araignées utilisent aussi les vibrations dans la toile d’une manière qui rappelle l’écholocation chez les chauves-souris ou les dauphins : lorsqu’une proie se tient immobile sur la toile, l’araignée peut envoyer une secousse dans la toile qui provoquera le balancement de la proie, et permettra sa localisation.
 
