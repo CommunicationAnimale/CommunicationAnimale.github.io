@@ -23,7 +23,7 @@ D'une part, elle nécessite la réception et le traitement d'échos très faible
 D’autre part, la cible peut percevoir les sons émis pour la repérer et réagir en s'échappant.
 Enfin, chez les animaux vivant en groupe (chauve-souris et dauphins notamment), l'émission et la réception de leurs signaux peuvent être brouillés par ceux de leurs congénères.
 
-## L’exemple des dauphins
+## L’exe{% include image.html img="img/ultrasons/image3.png" caption="Représentation fréquentielle d'un clic 1"%}
 L’écholocation des dauphins est la capacité de ces deniers à repérer et situer les aspects importants de leur environnement, leurs congénères ou les proies. Elle se base sur la propagation des ondes acoustiques dans l’eau.
 Le dauphin est capable d’émettre différents types de son, de fréquences variables, certains servant à communiquer, d’autres à se repérer dans l’espace. Le système d’émission chez le dauphin est bien plus complexe que chez l’homme. L’homme n’est en effet capable de produire que du son audible, c’est-à-dire entre 20 et 20 000 Hz.
 
@@ -40,6 +40,25 @@ Ces clics peuvent être représentés selon deux types. Le premier est sous la f
 
 {% include image.html img="img/ultrasons/image3.png" caption="Représentation fréquentielle d'un clic 1"%}
 
+### L’effet Doppler
+
+Pour recevoir les signaux réfléchis par les cibles, le dauphin exploite des tissus adipeux situés sous sa mâchoire, qui remontent jusqu’à son oreille interne. Le son est donc transmis à l’oreille interne, puis au cerveau, qui l’analyse. Le dauphin peut alors déterminer la distance de la cible, sa taille, ainsi que sa vitesse en mesurant la différence de fréquence en exploitant l’effet Doppler. C’est à dire le décalage de fréquence d’une onde entre la mesure à l'émission et la mesure à la réception lorsque la distance entre l'émetteur et le récepteur varie au cours du temps. On réserve le terme d'« effet Doppler-Fizeau » aux ondes électromagnétiques. Le dauphin peut aussi sonder sous les sédiments, étant donné que le son se propage sous le sable.
+
+L’effet Doppler est le décalage de fréquence d’une onde acoustique ou électromagnétique entre la mesure à l’émission et la mesure à la réception lorsque la distance entre l’émetteur et le récepteur varie au cours du temps elle renseigne aussi sur la vitesse de la cible par rapport à l’émetteur. 
+
+{% include image.html img="img/ultrasons/image4.png"%}
+
+La perception d'un signal dépend de la vitesse relative entre la source et le récepteur
+Si un observateur en mouvement cherche à mesurer cette durée, il lui trouve une valeur différente, plus élevée s'il se déplace dans le sens de l'onde, plus courte s'il se déplace en sens contraire.
+
+{% include image.html img="img/ultrasons/image5.jpeg"%}
+
+{% include image.html img="img/ultrasons/image6.jpeg"%}
+
+Si la vitesse Vr est petite devant c. En termes de longueur d'onde,  = cT, l'observateur perçoit un rayonnement de longueur d'onde ’ =  (1+) soit décalé de la quantité  = '- telle que :
+ = 
+
+Ce calcul montre que le décalage relatif de la longueur d'onde est proportionnel au rapport de la vitesse de la source par rapport à l'observateur à la vitesse de la lumière.
 
 ### L’émetteur
 
@@ -54,6 +73,10 @@ Les sons sont réceptionnés au niveau de l’orifice auditif externe. Ils passe
 Ils sont ensuite transmis au cerveau par l’influx nerveux d’un nerf acoustique. Les centres acoustiques du cerveau dont le but est d’analyser les messages sonores sont très développés chez le dauphin. Tout le système auditif de cet animal est protégé par des masses de mucus qui arrêtent les vibrations parasites qui pourrait provenir de l’environnent.
 
 Les ondes acoustiques peuvent aussi être reçues par le maxillaire inférieur, les sons s’y propagent mieux. Les ondes sonores sont donc reçues par l’extrémité du bec de l’animal, elles se propagent dans un corps graisseux au niveau du maxillaire et sont transmises à l’oreille interne au niveau de l’articulation de la mâchoire. Ensuite, tout ce passe comme ce qui a été expliqué précédemment.
+
+{% include image.html img="img/ultrasons/image7.png"%}
+
+{% include image.html img="img/ultrasons/image8.jpeg"%}
 
 ## La prestine
 
