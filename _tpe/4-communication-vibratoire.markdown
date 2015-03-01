@@ -303,13 +303,13 @@ Les connaissances en matière de communication vibratoire peuvent être utilisé
 
 Ainsi, il serait possible de contrôler sans utiliser de pesticides des populations d’insectes nuisibles ayant recours à la communication vibratoire, comme la cicadelle de la vigne (*Scaphoideus titanus*). Les cicadelles n’utilisent pas de communication chimique à longue portée, mais peuvent transmettre des signaux vibratoires à travers les feuilles de vigne jusqu’à plusieurs mètres de distances. Or, la cicadelle de la vigne est officiellement reconnue comme *nuisible* car elle est responsable de la propagation de la flavescence dorée, maladie à l’origine de pertes importantes de récoltes de vignes, et son contrôle est donc obligatoire.
 
-Dans son article [« Exploitation of Insect Vibrational Signals Reveals a New Method of Pest Management »](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0032954), Anna <span style='font-variant:small-caps;'>Eriksson</span> étudie l’utilisation de vibrations pour perturber la communication entre mâles et femelles *Scaphoideus titanus* en envoyant des signaux pré-enregistrés que les mâles *Scaphoideus titanus* utilisent pour empêcher les autres mêles de s’accoupler.
+Dans son article [« Exploitation of Insect Vibrational Signals Reveals a New Method of Pest Management »](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0032954), Anna <span style='font-variant:small-caps;'>Eriksson</span> (et al.) étudie l’utilisation de vibrations pour perturber la communication entre mâles et femelles *Scaphoideus titanus* en envoyant des signaux pré-enregistrés que les mâles *Scaphoideus titanus* utilisent pour empêcher les autres mêles de s’accoupler.
 
 {% include image.html img="img/graphiqueLutteIntegree.svg" caption="Figure 11 : Nombre de femelles non fécondées trouvées sur les feuilles de vigne (A) sur des plantes en pot, (B) dans un champ de vigne, selon la distance de la source de vibrations." fallback="img/graphiqueLutteIntegree.png" %}
 
 Après avoir effectué et analysé des essais, elle a obtenu des résultats concluants que cette méthode de contrôle est très efficace (voir Figure 11) : même lorsque la source de vibration se trouve à 940cm, plus de 80 % des femelles restent non fécondées, alors que dans le cas du groupe contrôle (non montré sur le graphique) seuls 20 % des femelles restaient non fécondées.
 
-
+ 
 
 {% include buttons.html %}
 
