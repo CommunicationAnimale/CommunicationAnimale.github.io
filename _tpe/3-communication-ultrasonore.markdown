@@ -23,7 +23,7 @@ D'une part, elle nécessite la réception et le traitement d'échos très faible
 D’autre part, la cible peut percevoir les sons émis pour la repérer et réagir en s'échappant.
 Enfin, chez les animaux vivant en groupe (chauve-souris et dauphins notamment), l'émission et la réception de leurs signaux peuvent être brouillés par ceux de leurs congénères.
 
-## L’exe{% include image.html img="img/ultrasons/image3.png" caption="Représentation fréquentielle d'un clic 1"%}
+## L’exemple des dauphins
 L’écholocation des dauphins est la capacité de ces deniers à repérer et situer les aspects importants de leur environnement, leurs congénères ou les proies. Elle se base sur la propagation des ondes acoustiques dans l’eau.
 Le dauphin est capable d’émettre différents types de son, de fréquences variables, certains servant à communiquer, d’autres à se repérer dans l’espace. Le système d’émission chez le dauphin est bien plus complexe que chez l’homme. L’homme n’est en effet capable de produire que du son audible, c’est-à-dire entre 20 et 20 000 Hz.
 
