@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Introduction
+figNumber: 0
 ---
 {% include katex_import.html %}
 
@@ -10,7 +11,7 @@ Il est logique de s'inspirer du comportement et des techniques des animaux en ma
 
 {% include incrementTest.html %}
 
-animaux
+animaux2
 
 {% include incrementTest.html %}
 
