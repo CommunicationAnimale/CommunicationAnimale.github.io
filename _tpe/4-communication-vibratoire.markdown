@@ -20,7 +20,7 @@ Pour les araignées solitaires, la communication vibratoire est utilisée princi
 
 Pour les espèces sociales, soit environ douze genres d’araignées, c’est-à-dire douze regroupements d’espèces, la communication a, comme pour toutes les espèces sociales, un rôle majeur, notamment dans la prédation. Or, toutes les espèces sociales sont fileuses, elles organisent leur vie dans des structures soyeuses pouvant atteindre [TODO ajouter taille toile](voir Figure 1).
 
-{% include image.html img="img/toileSociale.jpg" caption="Figure 1: Toile d’une société d’<em>Anolesimius Eximius</em>, espèce d’araignée sociale" %}
+{% include image.html img="img/vibrations/toileSociale.jpg" caption="Figure 1: Toile d’une société d’<em>Anolesimius Eximius</em>, espèce d’araignée sociale" %}
 
 Ces structures soyeuses, qu’elles ne quittent jamais, favorisent la
 communication vibratoire. Tout comme pour les araignées solitaires, les
@@ -57,7 +57,7 @@ force du signal vibratoire est directement lié à la masse de l’animal à
 l’origine de la vibration, plus l’animal est massif et plus le rayon de
 propagation est large.
 
-{% include image.html img="img/anatomie_araignee.jpg" caption="Figure 2 : Anatomie d’une araignée" %}
+{% include image.html img="img/vibrations/anatomie_araignee.jpg" caption="Figure 2 : Anatomie d’une araignée" %}
 
 Ce type d’émission est utilisé surtout par les espèces qui ne font pas
 de toile, comme les araignées sauteuses (*Salticidae*) ou les
@@ -92,7 +92,7 @@ une forte traction sur la toile puis en relâchant rapidement cette
 tension, envoyant un signal de grande amplitude.
 
 
-{% include image.html img="img/SignalSpiders.png" caption="Figure 3 : Vibrations émises par un mâle <em>Tegenaria parietina</em> dans la toile. A : trémulations abdominales ; K : percussions avec l'abdomen (d'après <span style='font-variant:small-caps;'>Leborgne</span> et <span style='font-variant:small-caps;'>Krafft</span>, 1979)" %}
+{% include image.html img="img/vibrations/SignalSpiders.png" caption="Figure 3 : Vibrations émises par un mâle <em>Tegenaria parietina</em> dans la toile. A : trémulations abdominales ; K : percussions avec l'abdomen (d'après <span style='font-variant:small-caps;'>Leborgne</span> et <span style='font-variant:small-caps;'>Krafft</span>, 1979)" %}
 
 Afin que les signaux soient reconnaissables, les araignées produisent des
 vibrations caractéristiques en faisant varier la fréquence et
@@ -116,8 +116,8 @@ ensuite fait sa toile dans une boite. Grâce à un appareil photo
 numérique pour microscope, nous avons pu obtenir des clichés du fil
 d’araignée.
 
-{% include image.html img="img/FilMicroscopeA.png" title="Photographie A de fil d'araignée"%}
-{% include image.html img="img/FilMicroscopeB.png" caption="Figure 4 : Photographies de fils d’araignée vus au microscope optique (×600)" title="Photographie B de fil d'araignée"%}
+{% include image.html img="img/vibrations/FilMicroscopeA.png" title="Photographie A de fil d'araignée"%}
+{% include image.html img="img/vibrations/FilMicroscopeB.png" caption="Figure 4 : Photographies de fils d’araignée vus au microscope optique (×600)" title="Photographie B de fil d'araignée"%}
 
 Le premier fil n'a pas été coloré, et le second a été coloré au bleu de méthylène.
 Nous pouvons voir sur ces photographies que les fils d’araignée sont en fait constitués de plusieurs fils tressés les uns autour des autres, toutefois la coloration au bleu de méthylène ne permet pas de différencier différente partie dans chacun des fils.
@@ -131,7 +131,7 @@ Lorsqu'on projette la lumière après le fil sur un écran, on obtient des tâch
 C'est pourquoi à l'aide d'un montage composé d'une diode laser, d'un écran et d'un fil dans une diapositive positionnée entre la diode et l'écran, à un mètre de l'écran, on peut former les tâches sur l'écran et mesurer la taille de la tâche centrale, comme vu en Figure 5. 
 
 
-{% include image.html img="img/schemaDiffraction.svg" caption="Figure 5 : Montage pour mesurer la taille du fil de soie" fallback="img/schemaDiffraction.png" %}
+{% include image.html img="img/vibrations/schemaDiffraction.svg" caption="Figure 5 : Montage pour mesurer la taille du fil de soie" fallback="img/vibrations/schemaDiffraction.png" %}
 
 Afin de pouvoir calculer le coefficient de proportionnalité entre le diamètre du fil et l'inverse de la largeur de la tâche centrale, on mesure la taille de la tâche centrale pour des fils de diamètre connu. Par ailleurs on mesure la taille de la tâche centrale d'une lumière de laser diffracté par un fil d'araignée *A*, puis d'un fil *B*, prélevé sur la toile de l'araignée capturée. Avec ces mesures, on obtient le tableau suivant.
 
@@ -146,7 +146,7 @@ Afin de pouvoir calculer le coefficient de proportionnalité entre le diamètre 
 
 Ces mesures permettent de tracer un graphique. La proportionnalité entre le diamètre du fil et la taille de la tâche centrale est modélisée par une droite de coefficient directeur 0,76 et passant par l'origine du repère. 
 
-{% include image.html img="img/graphiqueDiffraction.svg" fallback="img/graphiqueDiffraction.png" caption="Figure 6 : 1 / L en fonction du diamètre du fil"%}
+{% include image.html img="img/vibrations/graphiqueDiffraction.svg" fallback="img/vibrations/graphiqueDiffraction.png" caption="Figure 6 : 1 / L en fonction du diamètre du fil"%}
 
 Dès lors on peut calculer :
 
@@ -178,7 +178,7 @@ Les vibrations émises par l'araignée prennent la forme d'ondes mécaniques pro
 
 Afin d'étudier la vitesse d'une onde dans la toile, nous avons décidé de nous intéresser à la vitesse d'une onde dans une corde. Pour cela nous avons mesuré le temps que prenait une onde pour parcourir un mètre sur deux cordes, corde A et corde B à l'aide de deux capteurs laser, en tendant plus ou moins la corde, comme vu en Figure 7.
 
-{% include image.html img="img/schemaVOnde.svg" fallback="img/schemaVOnde.png" caption="Figure 7 : Montage pour mesurer la vitesse de propagation d'une onde dans une corde"%}
+{% include image.html img="img/vibrations/schemaVOnde.svg" fallback="img/vibrations/schemaVOnde.png" caption="Figure 7 : Montage pour mesurer la vitesse de propagation d'une onde dans une corde"%}
 
 
 
@@ -243,7 +243,7 @@ Les araignées perçoivent très bien les signaux vibratoires, en effet, elles s
 ### Les trichobotries
 Les trichobotries sont des soies sensorielles fines, longues et extrêmement mobiles insérées dans une cupule (une petite structure de la forme d'une coupe), et reliées à un nerf par un dendrite, une courte extension des cellules nerveuses (voir Figure 8).
 
-{% include image.html img="img/trichobotrie.jpg" caption="Figure 8 : A : Base d'une trichobotrie, montrant la cupule et la structure plumeuse du poil ; B : Structure d'une trichobotrie (p : poil, c : cupule, m : membrane, d : dentrite)"%}
+{% include image.html img="img/vibrations/trichobotrie.jpg" caption="Figure 8 : A : Base d'une trichobotrie, montrant la cupule et la structure plumeuse du poil ; B : Structure d'une trichobotrie (p : poil, c : cupule, m : membrane, d : dentrite)"%}
 
 Les trichobotries sont disposées sur les pattes et les pédipalpes de l'araignée. Ayant une masse très faible, étant extrêmement flexible et étant en contact avec l'air autour de l'araignée, les trichobotries permettent la détection de mouvement dans l'air, mais aussi dans le substrat.
 
@@ -253,11 +253,11 @@ Les sensilles en fente sont des petits organes mécanorécepteurs qui peuvent d�
 
 Elles prennent la forme de petites fentes de 1 à 2µm de large et entre 8 et 200µm de long, et peuvent être situées seules ou en groupe (voir Figure 9). Un groupe de sensilles en fente est appelé un organe lyriforme, car, les fentes étant parallèles entre elles, il a la forme d'une lyre, et une sensille en fente seule est appelé sensille en fente simple.
 
-{% include image.html img="img/Sensilles.png" caption="Figure 9 : Distribution des sensilles en fente sur l'arrière de la première patte d'une <em>Cupiennus salei</em> : les traits indiquent des sensilles en fente seule, et les points des organes lyriformes (enlargis pour voir les détails) (d'après <span style='font-variant:small-caps;'>Barth</span> et <span style='font-variant:small-caps;'>Libera</span>, 1870)"%}
+{% include image.html img="img/vibrations/Sensilles.png" caption="Figure 9 : Distribution des sensilles en fente sur l'arrière de la première patte d'une <em>Cupiennus salei</em> : les traits indiquent des sensilles en fente seule, et les points des organes lyriformes (enlargis pour voir les détails) (d'après <span style='font-variant:small-caps;'>Barth</span> et <span style='font-variant:small-caps;'>Libera</span>, 1870)"%}
 
 La fente est bordée d'une lèvre cuticulaire et est recouverte d'une membrane cuticulaire. Sous la membrane, une sorte de gouttière s'étend vers le bas et s'élargit en prenant la forme d'une cloche, où se trouvent deux dendrites qui relient la sensille en fente au nerf (voir Figure 10). Même une tension très faible au niveau de la cuticule causera une déformation de la sensille, et la membrane se pliera, déformant l'extrémité d'une des dendrites, provoquant un signal nerveux.
 
-{% include image.html img="img/Sensilles2.svg" fallback="img/Sensilles2.png" caption="Figure 10 : Schéma d'une sensille simple d'une <em>Cupiennius</em> (d'après <span style='font-variant:small-caps;'>Barth</span>, 1971)"%}
+{% include image.html img="img/vibrations/Sensilles2.svg" fallback="img/vibrations/Sensilles2.png" caption="Figure 10 : Schéma d'une sensille simple d'une <em>Cupiennius</em> (d'après <span style='font-variant:small-caps;'>Barth</span>, 1971)"%}
 
 
 C'est en analysant la différence de temps entre l'arrivée de la vibration dans ses différentes pattes que l'araignée peut déterminer la direction de la proie ou de l'intrus.
@@ -277,7 +277,7 @@ Ainsi, il serait possible de contrôler sans utiliser de pesticides des populati
 
 Dans son article [« Exploitation of Insect Vibrational Signals Reveals a New Method of Pest Management »](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0032954), Anna <span style='font-variant:small-caps;'>Eriksson</span> (et al.) étudie l’utilisation de vibrations pour perturber la communication entre mâles et femelles *Scaphoideus titanus* en envoyant des signaux pré-enregistrés que les mâles *Scaphoideus titanus* utilisent pour empêcher les autres mêles de s’accoupler.
 
-{% include image.html img="img/graphiqueLutteIntegree.svg" caption="Figure 11 : Nombre de femelles non fécondées trouvées sur les feuilles de vigne (A) sur des plantes en pot, (B) dans un champ de vigne, selon la distance de la source de vibrations." fallback="img/graphiqueLutteIntegree.png" %}
+{% include image.html img="img/vibrations/graphiqueLutteIntegree.svg" caption="Figure 11 : Nombre de femelles non fécondées trouvées sur les feuilles de vigne (A) sur des plantes en pot, (B) dans un champ de vigne, selon la distance de la source de vibrations." fallback="img/vibrations/graphiqueLutteIntegree.png" %}
 
 Après avoir effectué et analysé des essais, elle a obtenu des résultats concluants que cette méthode de contrôle est très efficace (voir Figure 11) : même lorsque la source de vibration se trouve à 940cm, plus de 80 % des femelles restent non fécondées, alors que dans le cas du groupe contrôle (non montré sur le graphique) seuls 20 % des femelles restaient non fécondées.
 
