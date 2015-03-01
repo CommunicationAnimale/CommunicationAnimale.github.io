@@ -8,9 +8,9 @@ De nombreux animaux communiquent par l'intermédiaire de vibrations : les punais
 
 Les araignées ont à leur disposition différents types de signaux pour communiquer. Tout d'abord, des signaux visuels, notamment lors de la parade amoureuse même si elles ont une très mauvaises vue, mais aussi des signaux sonores, en effet les araignées stridulent en frottant différentes parties de leur corps, des signaux chimiques, en effet comme toutes les espèces animales, les araignées communiquent par l’intermédiaire de phéromones, mais c'est bien la communication vibratoire qui est prédominante chez les araignées.
 
-Toutefois, l’étude de la communication vibratoire est très récente, c’est Peter N.&nbsp;<span style='font-variant:small-caps;'>Witt</span>, en 1982 qui le premier l’étudia en profondeur dans son ouvrage *Spider Communication* [TODO : mettre numéro livre], dans lequel il s’intéresse à la communication entre araignées et à la détection des proies, suivant la définition large de la communication comme tout comportement qui transmet une information d’un individu à un autre.
+Toutefois, l’étude de la communication vibratoire est très récente, c’est Peter N.&nbsp;<span style='font-variant:small-caps;'>Witt</span>, en 1982 qui le premier l’étudia en profondeur dans son ouvrage *Spider Communication* (TODO : mettre numéro livre), dans lequel il s’intéresse à la communication entre araignées et à la détection des proies, suivant la définition large de la communication comme tout comportement qui transmet une information d’un individu à un autre.
 
-[TODO: interesserons à araignée + annonce plan]
+(TODO: interesserons à araignée + annonce plan)
 
 ## Rôle de la communication vibratoire chez les araignées
 
@@ -18,7 +18,7 @@ Afin de pouvoir définir le rôle de la communication vibratoire chez les araign
 
 Pour les araignées solitaires, la communication vibratoire est utilisée principalement pour repérer les proies et pour trouver un partenaire sexuel.
 
-Pour les espèces sociales, soit environ douze genres d’araignées, c’est-à-dire douze regroupements d’espèces, la communication a, comme pour toutes les espèces sociales, un rôle majeur, notamment dans la prédation. Or, toutes les espèces sociales sont fileuses, elles organisent leur vie dans des structures soyeuses pouvant atteindre [TODO ajouter taille toile](voir Figure 1).
+Pour les espèces sociales, soit environ douze genres d’araignées, c’est-à-dire douze regroupements d’espèces, la communication a, comme pour toutes les espèces sociales, un rôle majeur, notamment dans la prédation. Or, toutes les espèces sociales sont fileuses, elles organisent leur vie dans des structures soyeuses pouvant atteindre (TODO ajouter taille toile)(voir Figure 1).
 
 {% include image.html img="img/vibrations/toileSociale.jpg" caption="Figure 1: Toile d’une société d’<em>Anolesimius Eximius</em>, espèce d’araignée sociale" %}
 
