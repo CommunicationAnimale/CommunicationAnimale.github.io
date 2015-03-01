@@ -317,7 +317,7 @@ De plus, ils soulignent les limitations techniques de cette méthode : l’atté
 
 Par ailleurs, la situation du champ de vignes étudiés par Anna <span style='font-variant:small-caps;'>Eriksson</span> était une situation idéale, car les vignes forment une ligne et chaque pied de vigne est relié au suivant, facilitant la transmission de vibrations d’un pied de vigne au suivant.
 
- 
+
 
 {% include buttons.html %}
 
