@@ -17,21 +17,11 @@ C’est pourquoi nous nous intéresserons principalement dans cette partie à l�
 
 ## Rôle de la communication vibratoire chez les araignées
 
-Afin de pouvoir définir le rôle de la communication vibratoire chez les
-araignées, il nous faut tout d’abord séparer les espèces d’araignées
-selon différentes catégories : il existe des araignées solitaires et des
-araignées sociales, et certaine araignées sont capables de tisser une
-toile, ce sont les araignées fileuses, tandis que d’autres n’en sont pas
-capables.
+Afin de pouvoir définir le rôle de la communication vibratoire chez les araignées, il nous faut tout d’abord séparer les espèces d’araignées selon différentes catégories : il existe des araignées solitaires et des araignées sociales, et certaine araignées sont capables de tisser une toile, ce sont les araignées fileuses, tandis que d’autres n’en sont pas capables.
 
-Pour les araignées solitaires, la communication vibratoire est utilisée
-principalement pour repérer les proies et pour trouver un partenaire
-sexuel.
+Pour les araignées solitaires, la communication vibratoire est utilisée principalement pour repérer les proies et pour trouver un partenaire sexuel.
 
-Pour les espèces sociales, soit environ douze genres d’araignées, c’est-à-dire douze regroupements d’espèces, la communication a, comme pour
-toutes les espèces sociales, un rôle majeur, notamment dans la prédation. Or, toutes les espèces
-sociales sont fileuses, elles organisent leur vie dans des structures
-soyeuses pouvant atteindre [TODO ajouter taille toile](voir Figure 1).
+Pour les espèces sociales, soit environ douze genres d’araignées, c’est-à-dire douze regroupements d’espèces, la communication a, comme pour toutes les espèces sociales, un rôle majeur, notamment dans la prédation. Or, toutes les espèces sociales sont fileuses, elles organisent leur vie dans des structures soyeuses pouvant atteindre [TODO ajouter taille toile](voir Figure 1).
 
 {% include image.html img="img/toileSociale.jpg" caption="Figure 1: Toile d’une société d’<em>Anolesimius Eximius</em>, espèce d’araignée sociale" %}
 
