@@ -295,6 +295,20 @@ C'est en analysant la différence de temps entre l'arrivée de la vibration dans
 
 # Utilisation des connaissances en matière de communication vibratoire
 
+## Dans la lutte intégrée
+
+Les connaissances en matière de communication vibratoire peuvent être utilisé de différentes manière. En effet, en étant capable de reproduire ou d’imiter des signaux vibratoires, il est possible d’agir sur le comportement des animaux ayant recours à ce type de communication. Ceci est intéressant notamment dans le cadre de la lutte intégrée, définit en Europe par la directive communautaire 91/414/CEE du 15 juillet 1991 ainsi :
+
+> « L’application rationnelle d’une combinaison de mesures biologiques, biotechnologiques, chimiques, physiques, culturales ou intéressant la sélection des végétaux dans laquelle l’emploi de produits chimiques phytopharmaceutiques est limité au strict nécessaire pour maintenir la présence des organismes nuisibles en dessous de seuil à partir duquel apparaissent des dommages ou une perte économiquement inacceptables. »
+
+Ainsi, il serait possible de contrôler sans utiliser de pesticides des populations d’insectes nuisibles ayant recours à la communication vibratoire, comme la cicadelle de la vigne (*Scaphoideus titanus*). Les cicadelles n’utilisent pas de communication chimique à longue portée, mais peuvent transmettre des signaux vibratoires à travers les feuilles de vigne jusqu’à plusieurs mètres de distances. Or, la cicadelle de la vigne est officiellement reconnue comme *nuisible* car elle est responsable de la propagation de la flavescence dorée, maladie à l’origine de pertes importantes de récoltes de vignes, et son contrôle est donc obligatoire.
+
+Dans son article « Exploitation of Insect Vibrational Signals Reveals a New Method of Pest Management », Anna <span style='font-variant:small-caps;'>Eriksson</span> étudie l’utilisation de vibrations pour perturber la communication entre mâles et femelles *Scaphoideus titanus* en envoyant des signaux pré-enregistrés que les mâles *Scaphoideus titanus* utilisent pour empêcher les autres mêles de s’accoupler.
+
+{% include image.html img="img/graphiqueLutteIntegree.svg" caption="Figure 11 : Nombre de femelles non fécondées trouvées sur les feuilles de vigne (A) sur des plantes en pot, (B) dans un champ de vigne, selon la distance de la source de vibrations." fallback="img/graphiqueLutteIntegree.png" %}
+
+Après avoir effectué et analysé des essais, elle a obtenu des résultats concluants que cette méthode de contrôle est très efficace (voir Figure 11) : même lorsque la source de vibration se trouve à 940cm, plus de 80 % des femelles restent non fécondées, alors que dans le cas du groupe contrôle (non montré sur le graphique) seuls 20 % des femelles restaient non fécondées.
+
 
 
 {% include buttons.html %}
