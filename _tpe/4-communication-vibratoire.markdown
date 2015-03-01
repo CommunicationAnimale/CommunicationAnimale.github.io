@@ -309,6 +309,14 @@ Dans son article [« Exploitation of Insect Vibrational Signals Reveals a New Me
 
 Après avoir effectué et analysé des essais, elle a obtenu des résultats concluants que cette méthode de contrôle est très efficace (voir Figure 11) : même lorsque la source de vibration se trouve à 940cm, plus de 80 % des femelles restent non fécondées, alors que dans le cas du groupe contrôle (non montré sur le graphique) seuls 20 % des femelles restaient non fécondées.
 
+Cette méthode agit donc fortement sur la population, car non seulement elle empêche la fécondation d’une grande partie des femelles, mais elle retarde de plus les fécondations ayant lieu, la femelle est donc moins féconde qu’elle ne l’aurait été. Ainsi, l’utilisation de signaux vibratoires pour perturber la reproduction s’accorde bien à la définition de la lutte intégrée, car en empêchant, ou du moins en retardant la fécondation, elle permet de diminuer la population de nuisible sans l’exterminer, tout en limitant l’utilisation de produits chimiques.
+
+Toutefois, dans [une étude plus récente](http://onlinelibrary.wiley.com/enhanced/doi/10.1002/ps.3848) Jernej <span style='font-variant:small-caps;'>Polajnar</span>, Anna <span style='font-variant:small-caps;'>Eriksson</span> et al. ont mis en évidences l’existence d’effets secondaires causés par la production de signaux vibratoires, notamment la perturbation d’insectes non nuisibles comme les abeilles ou les araignées.
+
+De plus, ils soulignent les limitations techniques de cette méthode : l’atténuation des vibrations est extrêmement rapide dans la plupart des milieux solides. Toutefois certains insectes ont surmonté cette difficulté en produisant des vibrations proches de fréquences résonnantes du substrat, c’est-à-dire les fréquences auxquelles le substrat est sensible, et qui, répétés sous forme périodique, provoquera l’accumulation d’énergie dans le substrat jusqu’à atteindre un régime d’équilibre. Il est donc possible d’imiter les fréquences utilisées par les insectes pour diminuer l’importance du problème d’atténuation.
+
+Par ailleurs, la situation du champ de vignes étudiés par Anna <span style='font-variant:small-caps;'>Eriksson</span> était une situation idéale, car les vignes forment une ligne et chaque pied de vigne est relié au suivant, facilitant la transmission de vibrations d’un pied de vigne au suivant.
+
  
 
 {% include buttons.html %}
