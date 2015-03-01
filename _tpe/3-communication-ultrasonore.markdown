@@ -3,56 +3,56 @@ layout: page
 title: La communication ultrasonore
 ---
 
-Voici la communication ultrasonore.
-<!--more-->
-
-
-{% include buttons.html %}
-
-
 # La communication ultrasonore
 
 ## Introduction
 
-Certaines gammes d'ultrasons peuvent être entendues et utilisées pour communiquer par de nombreux animaux vertébrés terrestres, comme les chiens, certains rongeurs, par des chauves-souris ou des dauphins. Ces fréquences peuvent s’étendre de 15 kHz jusqu'à 200 kHz selon les espèces, alors que celles ci sont audibles par l’homme dans un domaine s’étendant de 20Hz à 20kH. Les ultrasons dans le monde animal sont étudiés par la bioacoustique. Elle étudie la production, la réception et l'interprétation des sons chez les animaux et humains. La bioacoustique étudie l'interprétation des sonorités et l'anatomie des corps. Ainsi elle a prouvé que de nombreux animaux utilisent des sons émis non audibles par l’homme .Ces animaux utilisent les ultrasons sous forme de sonar et les utilisent pour se repérer, se nourrir et communiquer. De même, c’est grâce à ces fréquences que certains crétacés et chauves-souris peuvent émettre et réceptionner les ultrasons, ce qui entraine l’exploitation du système d'écholocation par ces espèces.
+Certaines gammes d'ultrasons peuvent Ãªtre entendues et utilisÃ©es pour communiquer par de nombreux animaux vertÃ©brÃ©s terrestres, comme lesÂ chiens, certainsÂ rongeurs, par desÂ chauves-souris ou des dauphins. Ces frÃ©quences peuvent sâ€™Ã©tendre de 15 kHz jusqu'Ã  200 kHz selon les espÃ¨ces, alors que celles ci sont audibles par lâ€™homme dans un domaine sâ€™Ã©tendant de 20Hz Ã  20kH. Les ultrasons dans le monde animal sont Ã©tudiÃ©s par laÂ bioacoustique. Elle Ã©tudie la production, la rÃ©ception et l'interprÃ©tation desÂ sonsÂ chez lesÂ animaux etÂ humains. La bioacoustique Ã©tudie l'interprÃ©tation des sonoritÃ©s et l'anatomie des corps. Ainsi elle a prouvÃ© que de nombreux animaux utilisent des sons Ã©mis non audibles par lâ€™homme .Ces animaux utilisent les ultrasons sous forme de sonar et les utilisent pour se repÃ©rer, se nourrir et communiquer. De mÃªme, câ€™est grÃ¢ce Ã  ces frÃ©quences que certains crÃ©tacÃ©s et chauves-souris peuvent Ã©mettre et rÃ©ceptionner les ultrasons, ce qui entraine lâ€™exploitation du systÃ¨me d'Ã©cholocation par ces espÃ¨ces.
 
 
 ### Point de vue historique
-Il y a encore plusieurs dizaines d’année, la production et la perception d’ultrasons étaient considérés possibles uniquement chez les mammifères. En 1973, le scientifique Konishi remarque que les oiseaux n'entendraient pas le son dont la fréquence dépasse 12 kHz , et selon les données disponibles dans les années 1980, l'audition des amphibiens étaient limités à 5 kHz, selon Fay en 1988. Cependant des chercheurs ont ensuite constaté que des amphibiens anoures et un oiseau sont capables de les percevoir. Ce sont la grenouille Odorrana tormota et un passereau chanteur Abroscopus albogularis, ils vivent près de torrents bruyants, et insèrent dans leur chant des harmoniques d'ultrasons. Ainsi, cette grenouille est capable d'émettre et de percevoir des ultrasons, de plus de 100 kHz. C'est la première espèce non mammifère dotée de cette propriété à avoir été découverte. Le mâle pousse des cris semblables à un chant d'oiseau et possède une anatomie de l'oreille inhabituelle, avec notamment un tympan concave, qui contient un canal auditif et des osselets très légers, donc très sensibles. 
+Il y a encore plusieurs dizaines dâ€™annÃ©e, la production et la perception dâ€™ultrasons Ã©taient considÃ©rÃ©s possibles uniquement chez les mammifÃ¨res. En 1973, le scientifique Konishi remarque que les oiseaux n'entendraient pas le son dont la frÃ©quence dÃ©passe 12Â kHzÂ , et selon les donnÃ©es disponibles dans les annÃ©es 1980, l'audition des amphibiens Ã©taient limitÃ©s Ã  5Â kHz, selon Fay en 1988. Cependant des chercheurs ont ensuite constatÃ© que des amphibiensÂ anoures et un oiseauÂ sont capables de les percevoir. Ce sont la grenouilleÂ Odorrana tormotaÂ et unÂ passereau chanteurÂ Abroscopus albogularis, ils vivent prÃ¨s de torrents bruyants, et insÃ¨rent dans leur chant des harmoniques d'ultrasons. Ainsi, cette grenouille est capable d'Ã©mettre et de percevoir des ultrasons, de plus de 100 kHz. C'est la premiÃ¨re espÃ¨ce nonÂ mammifÃ¨reÂ dotÃ©e de cette propriÃ©tÃ© Ã  avoir Ã©tÃ© dÃ©couverte. Le mÃ¢le pousse des cris semblables Ã  un chant d'oiseauÂ et possÃ¨de une anatomie de l'oreille inhabituelle, avec notamment un tympan concave, qui contient un canal auditif et des osselets trÃ¨s lÃ©gers, donc trÃ¨s sensibles. 
 
-# L’écholocation
+# Lâ€™Ã©cholocation
 
-      L'écholocalisation consiste à envoyer des sons et à écouter leur écho pour localiser et identifier les éléments d'un environnement. Certaines espèces peuvent émettre des ultrasons comme les chauves-souris. Elles émettent des ultrasons qui se répercutent sur les objets environnants, ce qui leur permet ainsi de percevoir leur environnement. Ainsi la chauve-souris se sert de l'écholocation pour se repérer dans l’obscurité et pour repérer sa proie. Elle émet des impulsions à haute fréquence. Le son récupéré sur la trajectoire de la chauve-souris revient vers celle-ci. L'écholocation permet à la chauve-souris de déterminer la proximité de l’insecte. Grâce à la réponse continue des impulsions réfléchies, la chauve-souris se dirige automatiquement vers la proie pour la capturer. D’ailleurs, les souriceaux perçoivent des ultrasons émis par leur mère allaitante qui les allaite. 
-L'écholocalisation a trois principaux inconvénients.
-D'une part, elle nécessite la réception et le traitement d'échos très faibles ; cela implique un appareil auditif très perfectionné (d'où les oreilles très grandes des chauves-souris) et un appareil neurologique de traitement très fin. Pour qu'il puisse entendre un écho, il est nécessaire à l'émetteur de produire des cris très forts, d’où des fréquences élevées.
-D’autre part, la cible peut percevoir les sons émis pour la repérer et réagir en s'échappant.
-Enfin, chez les animaux vivant en groupe (chauve-souris et dauphins notamment), l'émission et la réception de leurs signaux peuvent être brouillés par ceux de leurs congénères.
+L'Ã©cholocalisationÂ consiste Ã  envoyer desÂ sonsÂ et Ã  Ã©couter leurÂ Ã©choÂ pour localiser et identifier les Ã©lÃ©ments d'un environnement. Certaines espÃ¨ces peuvent Ã©mettre des ultrasonsÂ comme les chauves-souris. Elles Ã©mettent des ultrasons qui se rÃ©percutent sur les objets environnants, ce qui leur permet ainsi de percevoir leur environnement. Ainsi la chauve-souris se sert de l'Ã©cholocation pour se repÃ©rer dans lâ€™obscuritÃ© et pour repÃ©rer sa proie. Elle Ã©met des impulsions Ã  haute frÃ©quence. Le son rÃ©cupÃ©rÃ© sur la trajectoire de la chauve-souris revient vers celle-ci. L'Ã©cholocation permet Ã  la chauve-souris de dÃ©terminer la proximitÃ© de lâ€™insecte. GrÃ¢ce Ã  la rÃ©ponse continue des impulsions rÃ©flÃ©chies, la chauve-souris se dirige automatiquement vers la proie pour la capturer. Dâ€™ailleurs, les souriceaux perÃ§oivent des ultrasons Ã©mis par leur mÃ¨re allaitante qui les allaite.
 
-## L’exemple des dauphins
-L’écholocation des dauphins est la capacité de ces deniers à repérer et situer les aspects importants de leur environnement, leurs congénères ou les proies. Elle se base sur la propagation des ondes acoustiques dans l’eau.
-Le dauphin est capable d’émettre différents types de son, de fréquences variables, certains servant à communiquer, d’autres à se repérer dans l’espace. Le système d’émission chez le dauphin est bien plus complexe que chez l’homme. L’homme n’est en effet capable de produire que du son audible, c’est-à-dire entre 20 et 20 000 Hz.
+L'Ã©cholocalisation a trois principaux inconvÃ©nients.
 
-{% include image.html img="img/NOM_IMAGE.png" caption="Schéma des fréquences des ultrasons"%}
+D'une part, elle nÃ©cessite la rÃ©ception et le traitement d'Ã©chos trÃ¨s faiblesÂ ; cela implique un appareil auditif trÃ¨s perfectionnÃ© (d'oÃ¹ les oreilles trÃ¨s grandes des chauves-souris) et un appareil neurologique de traitement trÃ¨s fin. Pour qu'il puisse entendre un Ã©cho, il est nÃ©cessaire Ã  l'Ã©metteur de produire des cris trÃ¨s forts, dâ€™oÃ¹ des frÃ©quences Ã©levÃ©es.
+Dâ€™autre part, la cible peut percevoir les sons Ã©mis pour la repÃ©rer et rÃ©agir en s'Ã©chappant.
+Enfin, chez les animaux vivant en groupe (chauve-souris et dauphins notamment), l'Ã©mission et la rÃ©ception de leurs signaux peuvent Ãªtre brouillÃ©s par ceux de leurs congÃ©nÃ¨res.
 
-On peut séparer les ondes acoustiques émises par les dauphins en deux grands groupes : les sifflements, utilisés pour communiquer, et les clics servant à l’écholocation[1]. Le langage des dauphins est mal connu et semble complexe. Tout au plus peut on dire qu’il présente de grandes variations en fonction du groupe de dauphins étudié et des individus. Les sifflements sont bien localisés en fréquence et se situent plutôt dans les ultrasons (< 25 kHz).
-Les sifflements sont des sons caractéristiques d’une espèce ou d’un individu. Ce sont des faisceaux couvrant une bande étroite de basse fréquence, et utilisés pour la communication entre espèces.
-Les clics d’écholocation sont des signaux très brefs (quelques dizaines de microsecondes) et donc répartis sur une large bande spectrale. Par exemple la largeur de bande à 3 dB renvoie à une cinquantaine de kHz. Plus le dauphin se rapproche de sa proie, plus le train de clics est rapide. La résolution maximale que peut traiter le cerveau du dauphin est de 600 clics par secondes.
-Ces clics peuvent être représentés selon deux types. Le premier est sous la forme d’un faisceau large de basse fréquence, d’émission lente et de longue portée. Ils sont utilisés pour créer des images de son environnement. Le second type des clics d’écholocation est représenté par un faisceau étroit à courte portée, occupant une large bande de haute fréquence. Ils servent à analyser une potentielle proie ou un objet rencontré.
+## Lâ€™exemple des dauphins
+Lâ€™Ã©cholocation des dauphinsÂ est la capacitÃ© de ces deniersÂ Ã  repÃ©rer et situer les aspects importants de leurÂ environnement, leurs congÃ©nÃ¨res ou les proies. Elle se base sur la propagation desÂ ondes acoustiquesÂ dans lâ€™eau.
+Le dauphin est capable dâ€™Ã©mettre diffÃ©rents types de son, de frÃ©quences variables, certains servant Ã  communiquer, dâ€™autres Ã  se repÃ©rer dans lâ€™espace. Le systÃ¨me dâ€™Ã©mission chez le dauphin est bien plus complexe que chez lâ€™homme. Lâ€™homme nâ€™est en effet capable de produire que du son audible, câ€™est-Ã -dire entre 20 etÂ 20Â 000Â Hz.
 
-
-Représentaion temporelle d'un clic 1
+{% include image.html img="img/NOM_IMAGE.png" caption="SchÃ©ma des frÃ©quences des ultrasons"%}
 
-Représentation fréquentielle d'un clic 1
+On peut sÃ©parer les ondes acoustiques Ã©mises par les dauphins en deux grands groupesÂ : lesÂ sifflements, utilisÃ©s pour communiquer, et lesÂ clicsÂ servant Ã  lâ€™Ã©cholocation[1]. Le langage des dauphins est mal connu et semble complexe. Tout au plus peut on dire quâ€™il prÃ©sente de grandes variations en fonction du groupe de dauphins Ã©tudiÃ© et des individus. Les sifflements sont bien localisÃ©s en frÃ©quence et se situent plutÃ´t dans les ultrasons (<Â 25Â kHz).
+Les sifflements sont des sons caractÃ©ristiques dâ€™une espÃ¨ce ou dâ€™un individu. Ce sont des faisceaux couvrant une bande Ã©troite de basse frÃ©quence, et utilisÃ©s pour la communication entre espÃ¨ces.
 
-### L’émetteur
+Les clics dâ€™Ã©cholocation sont des signaux trÃ¨s brefs (quelques dizaines de microsecondes) et donc rÃ©partis sur une largeÂ bande spectrale. Par exemple la largeur de bande Ã  3 dB renvoie Ã  une cinquantaine de kHz. Plus le dauphin se rapproche de sa proie, plus le train de clics est rapide. La rÃ©solution maximale que peut traiter le cerveau du dauphin est de 600 clics par secondes.
+Ces clics peuvent Ãªtre reprÃ©sentÃ©s selon deux types. Le premier est sous la forme dâ€™un faisceau large de basse frÃ©quence, dâ€™Ã©mission lente et de longue portÃ©e. Ils sont utilisÃ©s pour crÃ©er des images de son environnement. Le second type des clics dâ€™Ã©cholocation est reprÃ©sentÃ© par un faisceau Ã©troit Ã  courte portÃ©e, occupant une large bande de haute frÃ©quence. Ils servent Ã  analyser une potentielle proie ou un objet rencontrÃ©.
 
-Le dauphin ne possède pas de cordes vocales mais trois pairs de sacs aériens, de forme différente, situés sous l’évent, de part et d’autre du conduit nasal. Ces sacs servent de réserves d’air. Le dauphin arrive à produire des sons en faisant passer l’air d’un sac à l’autre par des ouvertures dont il règle le diamètre, grâce à un ensemble de muscles et de nerf. Pour pouvoir orienter de manière précise ses faisceaux sonores le dauphin est doté d’un organe, le melon. Les ondes sonores créent vont se réfléchir sur la paroi osseuse frontale concave du crâne de l’animal pour ensuite se concentrer sur une masse graisseuse qui est le melon. Le dauphin peut ainsi orienter l’émission de ses ondes ultrasonores où il le souhaite.
-Le larynx est aussi utilisé pour l’émission sonore. Le dauphin peut en effet expulser de l’air par ses poumons et cet air fait vibrer des muscles puissants du conduit respiratoire. Ses muscles vont alors transmettre ses vibrations à des os dont ceux des maxillaires. La vibration est ensuite transmise à l’extrémité du rostre de façon unidirectionnelle.
-### Le récepteur
-Le système de réception du dauphin est complexe. Il repose sur deux récepteurs qui sont les oreilles et le maxillaire inférieur
-Les sons sont réceptionnés au niveau de l’orifice auditif externe. Ils passent par le conduit auditif et arrivent dans l’oreille interne.
-Ils sont ensuite transmis au cerveau par l’influx nerveux d’un nerf acoustique. Les centres acoustiques du cerveau dont le but est d’analyser les messages sonores sont très développés chez le dauphin. Tout le système auditif de cet animal est protégé par des masses de mucus qui arrêtent les vibrations parasites qui pourrait provenir de l’environnent.
-Les ondes acoustiques peuvent aussi être reçues par le maxillaire inférieur, les sons s’y propagent mieux. Les ondes sonores sont donc reçues par l’extrémité du bec de l’animal, elles se propagent dans un corps graisseux au niveau du maxillaire et sont transmises à l’oreille interne au niveau de l’articulation de la mâchoire. Ensuite, tout ce passe comme ce qui a été expliqué précédemment.
+
+
+ReprÃ©sentaion temporelle d'un clic 1
+
+ReprÃ©sentation frÃ©quentielle d'un clic 1
+
+### Lâ€™Ã©metteur
+
+Le dauphin ne possÃ¨de pas de cordes vocales mais trois pairs de sacs aÃ©riens, de forme diffÃ©rente, situÃ©s sous lâ€™Ã©vent, de part et dâ€™autre du conduit nasal. Ces sacs servent de rÃ©serves dâ€™air. Le dauphin arrive Ã  produire des sons en faisant passer lâ€™air dâ€™un sac Ã  lâ€™autre par des ouvertures dont il rÃ¨gle le diamÃ¨tre, grÃ¢ce Ã  un ensemble de muscles et de nerf. Pour pouvoir orienter de maniÃ¨re prÃ©cise ses faisceaux sonores le dauphin est dotÃ© dâ€™un organe, le melon. Les ondes sonores crÃ©ent vont se rÃ©flÃ©chir sur la paroi osseuse frontale concave du crÃ¢ne de lâ€™animal pour ensuite se concentrer sur une masse graisseuse qui est le melon. Le dauphin peut ainsi orienter lâ€™Ã©mission de ses ondes ultrasonores oÃ¹ il le souhaite.
+Le larynx est aussi utilisÃ© pour lâ€™Ã©mission sonore. Le dauphin peut en effet expulser de lâ€™air par ses poumons et cet air fait vibrer des muscles puissants du conduit respiratoire. Ses muscles vont alors transmettre ses vibrations Ã  des os dont ceux des maxillaires. La vibration est ensuite transmise Ã  lâ€™extrÃ©mitÃ© du rostre de faÃ§on unidirectionnelle.
+
+### Le rÃ©cepteur
+
+Le systÃ¨me de rÃ©ception du dauphin est complexe. Il repose sur deux rÃ©cepteurs qui sont les oreilles et le maxillaire infÃ©rieur
+Les sons sont rÃ©ceptionnÃ©s au niveau de lâ€™orifice auditif externe. Ils passent par le conduit auditif et arrivent dans lâ€™oreille interne.
+Ils sont ensuite transmis au cerveau par lâ€™influx nerveux dâ€™un nerf acoustique. Les centres acoustiques du cerveau dont le but est dâ€™analyser les messages sonores sont trÃ¨s dÃ©veloppÃ©s chez le dauphin. Tout le systÃ¨me auditif de cet animal est protÃ©gÃ© par des masses de mucus qui arrÃªtent les vibrations parasites qui pourrait provenir de lâ€™environnent.
+
+Les ondes acoustiques peuvent aussi Ãªtre reÃ§ues par le maxillaire infÃ©rieur, les sons sâ€™y propagent mieux. Les ondes sonores sont donc reÃ§ues par lâ€™extrÃ©mitÃ© du bec de lâ€™animal, elles se propagent dans un corps graisseux au niveau du maxillaire et sont transmises Ã  lâ€™oreille interne au niveau de lâ€™articulation de la mÃ¢choire. Ensuite, tout ce passe comme ce qui a Ã©tÃ© expliquÃ© prÃ©cÃ©demment.
 
 
 
