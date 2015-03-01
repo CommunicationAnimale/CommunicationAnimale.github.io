@@ -58,9 +58,8 @@ Si un observateur en mouvement cherche à mesurer cette durée, il lui trouve un
 
 Si la vitesse $$V_r$$ est petite devant $$c$$. En termes de longueur d'onde, $$\lambda = c \times T$$, l'observateur perçoit un rayonnement de longueur d'onde $$\lambda\prime = \lambda \times (1 + \frac{V_r}{c})$$ soit décalé de la quantité $$\Delta\lambda = \lambda\prime - \lambda$$ telle que :
 
-<p align="center">
-  $$\Delta\lambda = \frac{V_r}{c}$$
-</p>
+$$\Delta\lambda = \frac{V_r}{c}$$
+
 
 Ce calcul montre que le décalage relatif de la longueur d'onde est proportionnel au rapport de la vitesse de la source par rapport à l'observateur à la vitesse de la lumière.
 
