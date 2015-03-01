@@ -56,7 +56,7 @@ Si un observateur en mouvement cherche à mesurer cette durée, il lui trouve un
 
 {% include image.html img="img/ultrasons/image6.jpeg"%}
 
-Si la vitesse $$V_r$$ est petite devant $$c$$. En termes de longueur d'onde, $$\lambda = c\timesT$$, l'observateur perçoit un rayonnement de longueur d'onde $$\lambda\prime = \lambda \times (1 + \frac{V_r}{c})$$ soit décalé de la quantité $$\Delta\lambda = \lambda\prime - \lambda$$ telle que :
+Si la vitesse $$V_r$$ est petite devant $$c$$. En termes de longueur d'onde, $$\lambda = c \times T$$, l'observateur perçoit un rayonnement de longueur d'onde $$\lambda\prime = \lambda \times (1 + \frac{V_r}{c})$$ soit décalé de la quantité $$\Delta\lambda = \lambda\prime - \lambda$$ telle que :
 
 <p align="center">
   $$\Delta\lambda = \frac{V_r}{c}$$
@@ -79,7 +79,7 @@ Ils sont ensuite transmis au cerveau par l’influx nerveux d’un nerf acoustiq
 Les ondes acoustiques peuvent aussi être reçues par le maxillaire inférieur, les sons s’y propagent mieux. Les ondes sonores sont donc reçues par l’extrémité du bec de l’animal, elles se propagent dans un corps graisseux au niveau du maxillaire et sont transmises à l’oreille interne au niveau de l’articulation de la mâchoire. Ensuite, tout ce passe comme ce qui a été expliqué précédemment.
 
 {% include image.html img="img/ultrasons/image7.png"%}
-
+ 
 {% include image.html img="img/ultrasons/image8.jpeg"%}
 
 ## La prestine
