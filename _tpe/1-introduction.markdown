@@ -10,6 +10,6 @@ Pour nous, humains, la communication repose principalement sur la parole, sur l'
 Il est logique de s'inspirer du comportement et des techniques des animaux en matière de communication, étant donné que les éspèces les plus aptes à communiquer ont survécu, et leur technique de communication est donc optimisé.
 
 
-cf http://s-f-walker.org.uk/pubsebooks/pdfs/animal-communication98.pdf
+cf <http://s-f-walker.org.uk/pubsebooks/pdfs/animal-communication98.pdf>
 
 {% include buttons.html %}
