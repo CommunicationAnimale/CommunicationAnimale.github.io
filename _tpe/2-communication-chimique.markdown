@@ -7,6 +7,7 @@ published: true
 {% include katex_import.html %}
 
 # 1. Les Substances sémiochimiques
+
 Les substances sémiochimiques  sont des molécules organiques synthétisées par un organisme vivant et qui interviennent comme moyen de communication que ce soit de manière intraspécifique ou de manière interspécifique. Ces substances sémiochimiques modifie le comportement ou la physiologie du récepteur. 
 
 (TODO : mettre image).
@@ -14,11 +15,13 @@ Les substances sémiochimiques  sont des molécules organiques synthétisées pa
 Les actions interspécifiques, ont lieu grâce aux substances allélochimiques, ce sont des actions concernant les relations entre différentes espèces  alors que les actions intraspécifiques, ayant lieu grâce aux phéromones sont relatif aux rapports qui se produisent au sein d’une même espèce. C’est pour cette raison, que nous allons nous intéresser aux phéromones pour étudier la communication chimique qui a lieu au sein d’une même espèce, les fourmis.
 
 ## 1.1.	Définition de phéromone
+
 La notion de phéromone a été introduite par Karlson et Lüsher en 1959, ils en ont donné la définition suivante : « Une phéromone est une substance (ou un mélange de substances) qui, après avoir été sécrétée à l'extérieur par un individu (émetteur), est perçue par un individu de la même espèce (récepteur) chez lequel elle provoque une réaction comportementale spécifique, voire une modification physiologique. »Le mot phéromone vient du grec pherein « transporter » et hormân «exciter ». Les phéromones sont produites par des glandes spécifiques et sont secrétées à l’extérieur d’un organisme.  Comme  les enzymes, elles agissent dans des quantités minimes. Nous allons étudier un peu plus tard  ces glandes spécifiques dans la partie émission.
 
 Généralement ; on ne parle pas d’une seule phéromone mais plutôt d’un bouquet phéromonale. En effet ; les phéromones ne sont pas des corps purs mais des mélanges de différentes substances chimiques. Le message transmis est spécifique aux autres fourmis, ainsi sa composition de point de vue qualitatif mais aussi quantitatif prend tout son sens.  
 
 ## 1.1.1.	Les différents types de phéromones :
+
 Le célèbre scientifique Wilson, en 1962, distingue les phéromones de déclanchement aux phéromones modificatrices selon leurs modes d’action. Selon lui : 
 -	« Les phéromones de déclanchement produisent un  changement d’état immédiat et réversible dans le comportement du récepteur ». Il y classe les phéromones sexuelles (attractives ou aphrodisiaques), les phéromones d’alarme, les phéromones de piste, les phéromones d’agrégation, les phéromones de territoire…
 -	« Les phéromones modificatrices  élaborent une suite de modifications physiologiques chez le récepteur, sans aucun changement immédiat dans son comportement ». cependant, ces modifications physiologiques lui permettent ultérieurement d’acquérir un nouveau répertoire comportemental, pouvant se manifester suite à une situation donnée. De plus ; ces phéromones réagissent dans le déterminisme des castes chez les insectes sociaux comme les fourmis ou les abeilles. En effet ; Wilson décrit que la reine peut créer une « substance royale » qui développent les ovaires des ouvrières, les empêchant ainsi de la construction à l’intérieur de la ruche de substances royales. 
