@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: La communication chimique
 published: true
