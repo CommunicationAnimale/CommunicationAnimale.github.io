@@ -32,9 +32,7 @@ Le comportement d’alarme peut-être divisé en deux activités. Tout d’abord
 Comme nous allons l’abord plus tard, il faut noter que les phéromones d’alarme sont secrétées par les glandes mandibulaire, la glande de Dufour, ou encore la glande à poison. 
 Généralement, ces substances chimiques forment des chaînes carbonées plus courtes que celle des phéromones d’alarmes comme nous le montre ces exemples dans les tableaux suivants. C’est pourquoi, elles sont plus volatiles et ainsi elles possèdent une durée de vie courte. Ces phéromones d’alarmes sont souvent des cétones (comme l’octan-2-one que nous avons synthétisé voir partie LB), des esters, des alcools, des hydrocarbures comme l’exemple du décane. 
 Différentes phéromones d’alarmes sont utilisées par les mêmes espèces. Elles sont donc moins spécifiques que les phéromones de piste, ainsi l’acide formique est non seulement utilisé par les formicas rufa (fourmis des bois) mais aussi par les Camponotus. 
-Chez certaines espèces ont pu tracer différents cercles démontrant les champs d’action des phéromones. Par exemple, la fourmi tisserande d'Afrique Oecophylla longinoda secrète grâce à ces glandes mandibulaires 4 substances principales qui agissent dans un périmètre particulier. En voici, le schéma : (TO DO mettre le schéma)
-
-
+Chez certaines espèces ont pu tracer différents cercles démontrant les champs d’action des phéromones. Par exemple, la fourmi tisserande d'Afrique Oecophylla longinoda secrète grâce à ces glandes mandibulaires 4 substances principales qui agissent dans un périmètre particulier. En voici, le schéma : (TODO mettre le schéma)
 
 
 
