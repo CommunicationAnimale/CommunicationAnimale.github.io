@@ -20,7 +20,7 @@ Afin de pouvoir définir le rôle de la communication vibratoire chez les araign
 
 Pour les araignées solitaires, la communication vibratoire est utilisée principalement pour repérer les proies et pour trouver un partenaire sexuel.
 
-Pour les espèces sociales, soit environ douze genres d’araignées, c’est-à-dire douze regroupements d’espèces, la communication a, comme pour toutes les espèces sociales, un rôle majeur, notamment dans la prédation. Or, toutes les espèces sociales sont fileuses, elles organisent leur vie dans des structures soyeuses pouvant atteindre (TODO ajouter taille toile)(voir Figure 1).
+Pour les espèces sociales, soit environ douze genres d’araignées, c’est-à-dire douze regroupements d’espèces, la communication a, comme pour toutes les espèces sociales, un rôle majeur, notamment dans la prédation. Or, toutes les espèces sociales sont fileuses, elles organisent leur vie dans des structures soyeuses atteignant souvent un volume de 100m<sup>3</sup> (voir Figure 1).
 
 {% include image.html img="img/vibrations/toileSociale.jpg" caption="Figure 1: Toile d’une société d’<em>Anolesimius Eximius</em>, espèce d’araignée sociale" %}
 
