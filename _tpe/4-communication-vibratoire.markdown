@@ -22,7 +22,7 @@ Pour les araignées solitaires, la communication vibratoire est utilisée princi
 
 Pour les espèces sociales, soit environ douze genres d’araignées, c’est-à-dire douze regroupements d’espèces, la communication a, comme pour toutes les espèces sociales, un rôle majeur, notamment dans la prédation. Or, toutes les espèces sociales sont fileuses, elles organisent leur vie dans des structures soyeuses atteignant souvent un volume de 100m<sup>3</sup> (voir Figure 1).
 
-{% include image.html img="img/vibrations/toileSociale.jpg" caption="Figure 1: Toile d’une société d’<em>Anolesimius Eximius</em>, espèce d’araignée sociale (photographie de B. <span style='font-variant:small-caps;'>Krafft</span>" %}
+{% include image.html img="img/vibrations/toileSociale.jpg" caption="Figure 1 : Toile d’une société d’<em>Anolesimius Eximius</em>, espèce d’araignée sociale (photographie de B. <span style='font-variant:small-caps;'>Krafft</span>" %}
 
 Ces structures soyeuses, qu’elles ne quittent jamais, favorisent la communication vibratoire. Tout comme pour les araignées solitaires, les vibrations dans la toile leur permettent d’être alertées de la présence d’intrus et de proies : dès qu’un insecte est pris au piège dans la toile, une horde d’araignées l’encercle, le tue puis s’en nourrit. Dès lors, on peut en déduire que la communication vibratoire permet à l’araignée de distinguer ses congénères des proies, et lui permet aussi de localiser la proie sur la toile.
 
