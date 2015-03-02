@@ -1,13 +1,14 @@
 ---
 layout: page
 title: Introduction
+published: true
 ---
-{% include katex_import.html %}
 
-Voici l'introduction. $$ x^{2} + a = \nu $$
+Pour nous, humains, la communication repose principalement sur la parole, sur l'utilisation d'une langue complexe, variée et en constante évolution. C'est pourquoi il serait tentant de penser que notre mode de communication est le plus développé du monde animal. Pourtant, en s'intéressant aux modes de communication utilisés par les animaux, on 
+
 
 Il est logique de s'inspirer du comportement et des techniques des animaux en matière de communication, étant donné que les éspèces les plus aptes à communiquer ont survécu, et leur technique de communication est donc optimisé.
 
 
+cf http://s-f-walker.org.uk/pubsebooks/pdfs/animal-communication98.pdf
 {% include buttons.html %}
-{% include katex_render.html %}
