@@ -1,6 +1,6 @@
 ---
 layout: page
-title: communication chimique
+title: La communication chimique
 published: true
 ---
 
