@@ -6,7 +6,7 @@ published: true
 
 {% include katex_import.html %}
 
-# 1.	les Substances sémiochimiques
+# 1. Les Substances sémiochimiques
 Les substances sémiochimiques  sont des molécules organiques synthétisées par un organisme vivant et qui interviennent comme moyen de communication que ce soit de manière intraspécifique ou de manière interspécifique. Ces substances sémiochimiques modifie le comportement ou la physiologie du récepteur. (mettre imagege).
 Les actions interspécifiques, ont lieu grâce aux substances allélochimiques, ce sont des actions concernant les relations entre différentes espèces  alors que les actions intraspécifiques, ayant lieu grâce aux phéromones sont relatif aux rapports qui se produisent au sein d’une même espèce. C’est pour cette raison, que nous allons nous intéresser aux phéromones pour étudier la communication chimique qui a lieu au sein d’une même espèce : les fourmis.
 
