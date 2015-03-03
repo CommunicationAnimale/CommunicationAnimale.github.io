@@ -60,11 +60,43 @@ Voici un exemple de phéromones d’agrégation, il s’agit d’une phéromone spécifiqu
  On distingue deux catégories de phéromones sexuelles : les substances d’appels secrétés par des glandes en dehors de l’appareil génital ainsi que les substances aphrodisiaques qui entrainent l’accouplent. C’est le cas de certains alcaloïdes
 Voici un exemple de phéromone sexuelle qui est une cétone :
 (TODO mettre tableau)
+
 -	Les phéromones de recrutement : elles permettent de recruter d’autres fourmis afin de donner une aide.  Elle provoque un regroupement de plusieurs fourmis en un point précis. Elles sont utilisées par exemple pour l’approvisionnement en nourriture. Elles sont un enchaînement  des phéromones de piste.  Ces phéromones sont aussi utilisées lors d’un déménagement d’un nid à l’autre. Il faut noter que les phéromones d’alarme provoque aussi un regroupement mais celui-ci est défensif, de plus ce n’est pas le rôle premier des phéromones d’alarme. C’est pour cela qu’il ne faut pas les confondre avec les phéromones de recrutement.
 (mettre le tableau)
 **Bilan sur les différents types de phéromone utilisé dans la communication chimique des fourmis :**
 Tous les phéromones que nous avons cités précédemment sont des molécules organique car elles possèdent principalement les éléments carbone et hydrogène. Généralement ; la longueur de la chaine carbonée témoigne de l’efficacité de la molécule. Certaines phéromones sont spécifique de l’espèce (c’est le cas de la phéromone d’agrégation des coléoptères) mais elles sont dans d’autre cas utilisé par plusieurs insectes. D’autre part; certaines phéromones sont utilisés dans le même but comme par exemple la phéromone de piste et les phéromones de recrutement lors de l’approvisionnement en nourriture. Ainsi, le message émis par les fourmis ne résulte pas d’une seule phéromone mais de différents types de phéromones constituant le bouquet phéromonale.
 
+##1. Emission des phéromones 
+###1.1. Synthèse et le transport des phéromones
+
+Les fourmis produisent des messagers chimiques par le biais de cellules sécrétrices dont l’ensemble forme des glandes. Ces messages chimiques se répondent dans l’environnement. En effet ; il s’agit de substance chimique volatiles : des phéromones qui possèdent une durée de vie limité. Il faut noter que l’effet de phéromone résulte de la taille de la molécule. En outre ; on constate que plus la durée d’action de la molécule est longue plus la molécule est grande.
+Ces substances chimiques sont synthétisées par une fourmi émettrice afin de transmettre une information à une fourmi réceptrice.  Ainsi, ces phéromones peuvent être transmise par le transport de l’air, le placement au sol, et par contact.
+
+###1.2. La  structure des glandes exocrine et  les différents types de glandes.
+####1.2.1. Structure des glandes exocrines 
+
+Définition : Une glande exocrine est un organe sécrétant des substances chimique, dans notre cas il s’agit des phéromones, qui sont rejetée à l’extérieur de l’organisme des fourmis. De plus, ces glandes ont aussi pour rôle de synthétisé les phéromones qu’elles sécrètent.
+Il existe au moins trois types de glande exocrine pouvant être distingué selon le tableau suivant :
+(to do mettre tableau)
+Nous pouvons voir la structure de ces glandes grâce au schéma ci-dessous et ainsi étudier l’évacuation des phéromones.
+
+(to do mettre tableau)
+
+L’évacuation des phéromones dépend des différents pores de la glande. Selon le type de cellules où se trouve la phéromone, l’évacuation est différente. Pour les cellules de types 1 : cellules glandulaire épidermique, la phéromone est rejetée par canaux très étroit qui se situe dans la cuticule. En ce qui concerne les cellules de type 2 : les cellules glandulaires intra-épidermique, la phéromone est évacué par par des canaux fin ou par les chambres d’évacuation suite à leurs transport par les cellules adjacents. Enfin,  les cellules de type 3 : les cellules sous-épidermique, la phéromone est rejetée par un réservoir central grâce à un canal cuticulaire.
+#### 1.1.1.	Les différentes glandes exocrines
+(to do mettre le schéma)
+
+
+-	Glande mandibulaire : Située en dessous des mandibules, la glande mandibulaire synthétise les phéromones d’alarme. Elles produisent aussi un liquide peu fluide qui permet de malaxer et de ramollir la nourriture retrouvé par les fourmis. Ces substances chimiques sont principalement constituées de citronellol et de citronellal qui ont respectivement une fonction défensif et déclencheur d’alarme. D’autre part ; ces glandes mandibulaire permettent du maintien de la hiérarchie social
+
+-	Glande métathoracique : elle produise des substances chimiques qui contribuent sans doute au repérage ou à la défense. 
+
+-	Glande Anale : elle contient principalement des esters volatiles. Ces glandes produisent l’acide formique qui est une substance chimique défensive. Cet acide peut être projeté à plusieurs centimètres. 
+
+-	Les glandes pygidiale : elle produit des phéromones d’alarme et permet ainsi d’alerter les autres fourmis. 
+La glande de Dufour ou alcaline : surnommée le « flacon à parfum » des fourmis. Il s’agit d’une phéromone de piste, qui est le moyen de recruter les congénères, grâce au traçage d’une piste chimique. Cette substance chimique est active durant 100 secondes.   Ces phéromones sont ensuite rejetées par l’aiguillon.
+
+-	La glande à poison ou à venin : comme la glande anale, elle produit de l’acide formique, il s’agit donc d’une glande qui synthétise des phéromones d’alarme qu’elle utilise face à un danger.  Cette glande, chez certaine espèce, rejette du venin qui a un rôle paralysant, d’où son nom. Ces substances chimiques sont ensuite secrétées par l’aiguillon.
 
 
 
