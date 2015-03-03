@@ -30,61 +30,24 @@ Enfin, chez les animaux vivant en groupe (chauve-souris et dauphins notamment), 
 ## L’exemple des dauphins
 L’écholocation des dauphins est la capacité de ces deniers à repérer et situer les aspects importants de leur environnement, leurs congénères ou les proies. Elle se base sur la propagation des ondes acoustiques dans l’eau.
 Le dauphin est capable d’émettre différents types de son, de fréquences variables, certains servant à communiquer, d’autres à se repérer dans l’espace. Le système d’émission chez le dauphin est bien plus complexe que chez l’homme. L’homme n’est en effet capable de produire que du son audible, c’est-à-dire entre 20 et 20 000 Hz.
-
  
-{% include image.html img="img/NOM_IMAGE.png" caption="Schéma des fréquences des ultrasons"%}
+{% include image.html img="img/IMAGE1.png" caption="figure 1: Schéma des fréquences des ultrasons"%}
 
-On peut séparer les ondes acoustiques émises par les dauphins en deux grands groupes : les sifflements, utilisés pour communiquer, et les clics servant à l’écholocation[1]. Le langage des dauphins est mal connu et semble complexe. Tout au plus peut on dire qu’il présente de grandes variations en fonction du groupe de dauphins étudié et des individus. Les sifflements sont bien localisés en fréquence et se situent plutôt dans les ultrasons (< 25 kHz).
+On peut séparer les ondes acoustiques émises par les dauphins en deux grands groupes : les sifflements, utilisés pour communiquer, et les clics servant à l’écholocation. Le langage des dauphins est mal connu et semble complexe. Tout au plus peut on dire qu’il présente de grandes variations en fonction du groupe de dauphins étudié et des individus. Les sifflements sont bien localisés en fréquence et se situent plutôt dans les ultrasons (< 25 kHz).
 Les sifflements sont des sons caractéristiques d’une espèce ou d’un individu. Ce sont des faisceaux couvrant une bande étroite de basse fréquence, et utilisés pour la communication entre espèces.
 Les clics d’écholocation sont des signaux très brefs (quelques dizaines de microsecondes) et donc répartis sur une large bande spectrale. Par exemple la largeur de bande à 3 dB renvoie à une cinquantaine de kHz. Plus le dauphin se rapproche de sa proie, plus le train de clics est rapide. La résolution maximale que peut traiter le cerveau du dauphin est de 600 clics par secondes.
 Ces clics peuvent être représentés selon deux types. Le premier est sous la forme d’un faisceau large de basse fréquence, d’émission lente et de longue portée. Ils sont utilisés pour créer des images de son environnement. Le second type des clics d’écholocation est représenté par un faisceau étroit à courte portée, occupant une large bande de haute fréquence. Ils servent à analyser une potentielle proie ou un objet rencontré.
 
+{% include image.html img="img/IMAGE2.png" caption="Figure 2: Représentation temporelle d'un clic"%} 
 
- 
-Représentaion temporelle d'un clic 1
- 
-Représentation fréquentielle d'un clic 1
-
-
-
-
-
-### L’effet Doppler
-Pour recevoir les signaux réfléchis par les cibles, le dauphin exploite des tissus adipeux situés sous sa mâchoire, qui remontent jusqu’à son oreille interne. Le son est donc transmis à l’oreille interne, puis au cerveau, qui l’analyse. Le dauphin peut alors déterminer la distance de la cible, sa taille, ainsi que sa vitesse en mesurant la différence de fréquence en exploitant l’effet Doppler. C’est à dire le décalage de fréquence d’une onde entre la mesure à l'émission et la mesure à la réception lorsque la distance entre l'émetteur et le récepteur varie au cours du temps. On réserve le terme d'« effet Doppler-Fizeau » aux ondes électromagnétiques. Le dauphin peut aussi sonder sous les sédiments, étant donné que le son se propage sous le sable.
-L’effet Doppler est le décalage de fréquence d’une onde acoustique ou électromagnétique entre la mesure à l’émission et la mesure à la réception lorsque la distance entre l’émetteur et le récepteur varie au cours du temps elle renseigne aussi sur la vitesse de la cible par rapport à l’émetteur. 
-
- 
-
-
-
-
-
-
-
-La perception d'un signal dépend de la vitesse relative entre la source et le récepteur.
-Si un observateur en mouvement cherche à mesurer cette durée, il lui trouve une valeur différente, plus élevée s'il se déplace dans le sens de l'onde, plus courte s'il se déplace en sens contraire.
- 
-
- 
-
-Si la vitesse Vr est petite devant c; en termes de longueur d'onde,  = cT, l'observateur perçoit un rayonnement de longueur d'onde ’ =  (1+Vr/c  ) soit décalé de la quantité  = '- telle que :
- =Vr/c
- 
-
-
-Ce calcul montre que le décalage relatif de la longueur d'onde est proportionnel au rapport de la vitesse de la source par rapport à l'observateur à la vitesse de la lumière.
-
-
-
-
-
-
-
+{% include image.html img="img/IMAGE3.png" caption="Figure 3: Représentation fréquetielle d'un clic"%} 
 
 ### L’émetteur
 
 Le dauphin ne possède pas de cordes vocales mais trois pairs de sacs aériens, de forme différente, situés sous l’évent, de part et d’autre du conduit nasal. Ces sacs servent de réserves d’air. Le dauphin arrive à produire des sons en faisant passer l’air d’un sac à l’autre par des ouvertures dont il règle le diamètre, grâce à un ensemble de muscles et de nerf. Pour pouvoir orienter de manière précise ses faisceaux sonores le dauphin est doté d’un organe, le melon. Les ondes sonores créent vont se réfléchir sur la paroi osseuse frontale concave du crâne de l’animal pour ensuite se concentrer sur une masse graisseuse qui est le melon. Le dauphin peut ainsi orienter l’émission de ses ondes ultrasonores où il le souhaite.
 Le larynx est aussi utilisé pour l’émission sonore. Le dauphin peut en effet expulser de l’air par ses poumons et cet air fait vibrer des muscles puissants du conduit respiratoire. Ses muscles vont alors transmettre ses vibrations à des os dont ceux des maxillaires. 
+
+{% include image.html img="img/IMAGE8.png" caption="Figure 7: Anatomie du système d'émission des ultrasons"%} 
 
 ### Le récepteur
 Le système de réception du dauphin est complexe. Il repose sur deux récepteurs qui sont les oreilles et le maxillaire inférieur
@@ -92,16 +55,25 @@ Les sons sont réceptionnés au niveau de l’orifice auditif externe. Ils passe
 Ils sont ensuite transmis au cerveau par l’influx nerveux d’un nerf acoustique. Les centres acoustiques du cerveau dont le but est d’analyser les messages sonores sont très développés chez le dauphin. Tout le système auditif de cet animal est protégé par des masses de mucus qui arrêtent les vibrations parasites qui pourrait provenir de l’environnent.
 Les ondes acoustiques peuvent aussi être reçues par le maxillaire inférieur, les sons s’y propagent mieux. Les ondes sonores sont donc reçues par l’extrémité du bec de l’animal, elles se propagent dans un corps graisseux au niveau du maxillaire et sont transmises à l’oreille interne au niveau de l’articulation de la mâchoire. Ensuite, tout ce passe comme ce qui a été expliqué précédemment.
 
+{% include image.html img="img/IMAGE7.png" caption="Figure 8: Profil d'une tête de dauphin"%} 
 
 
+## L’effet Doppler
+Pour recevoir les signaux réfléchis par les cibles, le dauphin exploite des tissus adipeux situés sous sa mâchoire, qui remontent jusqu’à son oreille interne. Le son est donc transmis à l’oreille interne, puis au cerveau, qui l’analyse. Le dauphin peut alors déterminer la distance de la cible, sa taille, ainsi que sa vitesse en mesurant la différence de fréquence en exploitant l’effet Doppler. C’est à dire le décalage de fréquence d’une onde entre la mesure à l'émission et la mesure à la réception lorsque la distance entre l'émetteur et le récepteur varie au cours du temps. On réserve le terme d'« effet Doppler-Fizeau » aux ondes électromagnétiques. Le dauphin peut aussi sonder sous les sédiments, étant donné que le son se propage sous le sable.
+L’effet Doppler est le décalage de fréquence d’une onde acoustique ou électromagnétique entre la mesure à l’émission et la mesure à la réception lorsque la distance entre l’émetteur et le récepteur varie au cours du temps elle renseigne aussi sur la vitesse de la cible par rapport à l’émetteur. 
+
+{% include image.html img="img/IMAGE5.png" caption="Figure 4: Mise en image de l'effet Doppler : "à l'arrêt""%} 
+
+{% include image.html img="img/IMAGE8.png" caption="Figure 5: Mise en image de l'effet Doppler : "en approche""%} 
+
+La perception d'un signal dépend de la vitesse relative entre la source et le récepteur.
+Si un observateur en mouvement cherche à mesurer cette durée, il lui trouve une valeur différente, plus élevée s'il se déplace dans le sens de l'onde, plus courte s'il se déplace en sens contraire.
  
+{% include image.html img="img/IMAGE4.png" caption="Figure 5: L'effet Doppler"%} 
 
-
-
-
- 
-
-
+Si la vitesse Vr est petite devant c; en termes de longueur d'onde,  = cT, l'observateur perçoit un rayonnement de longueur d'onde ’ =  (1+Vr/c  ) soit décalé de la quantité  = '- telle que :
+ =Vr/c
+Ce calcul montre que le décalage relatif de la longueur d'onde est proportionnel au rapport de la vitesse de la source par rapport à l'observateur à la vitesse de la lumière.
 
 
 ## La prestine
@@ -114,7 +86,7 @@ L’équipe sino-britannique de Stephen Rossiter (University of London, GB) et l
 En construisant des arbres phylogénétiques uniquement basés sur l’évolution de la prestine (et non sur les autres caractéristiques de ces mammifères), les deux équipes ont abouti à des rapprochements surprenants. Chauves-souris et dauphins doués pour l’écholocation devenaient cousins, formant un groupe évolutif cohérent.
 
 
-{% include image.html img="img/IMAGE9.png" caption="Figure 1: Arbres phylogénétiques marquant l’évolution de la prestine"%} 
+{% include image.html img="img/IMAGE9.png" caption="Figure 9: Arbres phylogénétiques marquant l’évolution de la prestine"%} 
  
 Les dauphins (en bleu) au milieu des chauve-souris (en noir) et donc éloignées des baleines dépourvues d’écholocation (en bas en vert).
 
@@ -129,29 +101,26 @@ Dans le cas des dauphins et des chauves-souris, les chercheurs cités ci-dessus 
 Cela signifie que la prestine joue un rôle important dans l'écholocalisation, que celle-ci ait été acquise dans l'eau ou dans l'air. Les mutations du gène de la prestine doivent avoir été suffisamment fréquentes pour que les individus dotés par hasard de la bonne séquence de la protéine, celle qui est associée à la meilleure sensibilité aux ultrasons, soient sélectionnés par leur environnement.
 
 
+# L'utilisation de ces connaissances par l’homme
 
-## Utilisation de ces connaissances par l’homme
-### NMMP 
+## NMMP 
 En 1942, la Suède a eu l’idée d’utiliser des phoques pour faire la chasse aux sous-marins allemands. Ces phoques dressés, équipés d’une mine sur leur dos,  devaient nager sous les coques, puis le moment venu, la mine explosait avec le corps de l’animal.
 Cette nouvelle tactique de guerre a ouvert la voie aux expériences militaires. L’US Navy utilise des otaries et des dauphins depuis 1960.
 
- 
-Otarie dréssée pour repérer des objets sous-marins.
+ {% include image.html img="img/US_Navy_Marine_Mammal_Program_Logo.png" caption="Figure 10: le NMMP"%} 
 
 Le programme de mammifères marins de la marine américaine, en anglais U.S. Navy Marine Mammal Program (NMMP), est un programme dirigé par la Marine américaine qui étudie l’emploi militaire de mammifères marins (le Grand dauphin qui émet et reçoit en un millième de seconde, des fréquences variant entre 220 et 250 000 hertz et l’otarie de Californie) et les entraîne à des tâches tels que la protection de navires et de ports, le repérage et le dégagement de mines, ainsi que la récupération d’objets. Le programme est basé à San Diego en Californie où les animaux sont entraînés. Les animaux du NMMP ont été déployés en zones de combat, notamment pendant la Guerre du Viêt Nam et la Guerre d'Irak. Cette dernière a permis aux américains d’ouvrir le golfe Arabique au marché international après la fin du conflit, en particulier grâce a ces animaux.La Navy a recours à certaines équipes humains-crétacés. Les équipes MK 4, 7 et 8 utilisent des dauphins; MK 5 utilise des otaries, et MK 6 utilise à la fois dauphins et otaries. Ces équipes peuvent être déployées partout sur le globe en 72 heures, vers des zones de conflits. 
 
- {% include image.html img=”img/ NMMP / nom image “ caption=” Titre écrit en dessous de l’image “ %}
-Soldat dauphin
+{% include image.html img="img/IMAGE11.png" caption="Figure 11: Soldat dauphin."%}          
+ 
+## Les ondes dans le milieu liquide
 
+{% include image.html img="img/IMAGE12.png" caption="Figure 12: Niveaux de profondeur dans l'eau."%}
 
-
-
-
-
-
-
-
-
+Trois niveaux de profondeur sont visibles : la zone proche de la surface ("seasonal thermocline") dont la température dépend de la saison de l’année, la zone intermédiaire thermocline ("permanent thermocline") puis la zone des eaux froides profondes ("deep-water isothermal layer"). 
+Passée la valeur de la vitesse minimale ("sound velocity minimum" : Vmin), la profondeur a donc une influence positive sur la célérité. 
+Nous pouvons remarquer que la vitesse de propagation des ondes sonores dans l’eau n’est pas constante. Elle est maximale dans les eaux de surface puis décroit dans la zone intermédiaire jusqu’à sa vitesse minimale pour augmenter de nouveau dans les eaux profondes. 
+ 
 Dans l'air, le signal reçu  a un retard  de 600 µs  sur le signal émis.
 Dans l'eau, le signal reçu a un retard  proche de 150 µs sur le signal émis.
 Ainsi les ultrasons se déplacent plus rapidement dans l'eau que dans l'air, à raison de 300m/s dans l'air et de 1500lm/s dans un milieu liquide comme l'eau.
@@ -182,46 +151,14 @@ cos theta = cosinus de l'angle que forme la direction du faisceau ultrasonore et
 
 
 
- 
- 
-Il faut mesurer le retard T exprimé en s. pour montrer la célérité des ultrasons. Pour cela il faut savoir à combien de centimètres correspond la salve d’ultrasons (décharge simultanée d’ultrasons) sur l’oscilloscope. Le retard T que l’on voit sur l’oscilloscope correspond au temps mis par la salve d’ultrasons pour parcourir la distance de l’émetteur au récepteur.
-Pour avoir la célérité en m/s, il nous faut aussi la distance d (distance émetteur-récepteur).
-Résultats
-On prend distance émetteur-récepteur d= 33cm dans notre cas.
-Le retard T de la salve d’ultrasons perçue par le récepteur correspond à 5 carreaux sur l’écran de l’oscilloscope. On prend un balayage de 0,2 ms.div-1. On calcule :
-T= nombre de carreaux sur l’écran x balayage (s.div-1)
-= 5 x 0,2 .10-3
-= 1,0. 10-3 s
-Maintenant que l’on a d et T on peut enfin déterminer la célérité C :
-C= d (en m) / T (en s)
-= 33,0. 10-2 / 1,0. 10-3
-= 330 m/s
-Pour conclure, la vitesse des ultrasons dans l’air est de 330 m/s.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Trois niveaux de profondeur sont visibles : la zone proche de la surface ("seasonal thermocline") dont la température dépend de la saison de l’année, la zone intermédiaire thermocline ("permanent thermocline") puis la zone des eaux froides profondes ("deep-water isothermal layer"). 
-Passée la valeur de la vitesse minimale ("sound velocity minimum" : Vmin), la profondeur a donc une influence positive sur la célérité. 
-Nous pouvons remarquer que la vitesse de propagation des ondes sonores dans l’eau n’est pas constante. Elle est maximale dans les eaux de surface puis décroit dans la zone intermédiaire jusqu’à sa vitesse minimale pour augmenter de nouveau progressivement dans les eaux profondes.
-
-
-
 
 
 
 
 
 https://facmed.univ-rennes1.fr/wkf/stock/RENNES20110331095543cpiszkorUS_PACES_2010-2011.pdf
+
+
+
+
 
