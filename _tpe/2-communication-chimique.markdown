@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: La communication chimique
 published: true
@@ -10,7 +10,7 @@ published: true
 
 Les substances sémiochimiques  sont des molécules organiques synthétisées par un organisme vivant et qui interviennent comme moyen de communication que ce soit de manière intraspécifique ou de manière interspécifique. Ces substances sémiochimiques modifie le comportement ou la physiologie du récepteur. 
 
-(TODO : mettre image).
+{% include image.html img="img/figure1.png" caption=""%}
 
 Les actions interspécifiques, ont lieu grâce aux substances allélochimiques, ce sont des actions concernant les relations entre différentes espèces  alors que les actions intraspécifiques, ayant lieu grâce aux phéromones sont relatif aux rapports qui se produisent au sein d’une même espèce. C’est pour cette raison, que nous allons nous intéresser aux phéromones pour étudier la communication chimique qui a lieu au sein d’une même espèce, les fourmis.
 
@@ -50,6 +50,7 @@ On constate que plus les fourmis font des aller- retour, plus elles ont tendance
 
 
 On doit ajouter à cela que les scientifiques Regnier et Wilson ont calculé l’efficacité de la perception des phéromones d’alarme chez certaines espèces. Ainsi, les Acanthomyops claviger perçoivent les phéromones d’alarme dès lors que la concentration atteint 10E10 à 10E12 molécules/cm3. Et chez les Atta Texana,  l’efficacité est atteinte dès lors que la concentration est de 10E8 molécules/cm3. ( voir pour mettre les puissances ac Valentin)
+
 -	Les phéromones d’agrégation : Les phéromones d’agrégation sont un véritable outil chez les fourmis pour assurer la cohésion sociale. Ainsi, elles ont un rôle important pour la reproduction, pour l’hibernation, pour nidifier, pour estiver ou encore la protection social. Ces phéromones ont une durée de vie très variable les unes des autres. En effet ; elles peuvent agir temporairement ou de façon permanente pour assurer la cohésion sociale. 
 Voici un exemple de phéromones d’agrégation, il s’agit d’une phéromone spécifique des Coléoptères. En effet ; il existe très peu d’étude concernant les phéromones d’agrégation des fourmis. (to do mettre le tableau)
 
