@@ -83,7 +83,7 @@ Tous les phéromones que nous avons citées précédemment sont des molécules o
 
 ##1. Emission des phéromones 
 
-##1.1. Synthèse et le transport des phéromones
+**Synthèse et le transport des phéromones**
 
 Les fourmis produisent des messagers chimiques par le biais de cellules sécrétrices dont l’ensemble forme des glandes. Ces messages chimiques se répandent dans l’environnement. En effet ; il s’agit de substances chimiques volatiles : des phéromones qui possèdent une durée de vie limitée. Il faut noter que l’effet de phéromone résulte de la taille de la molécule. En outre ; on constate que plus la durée d’action de la molécule est longue plus la molécule est grande.
 
@@ -145,13 +145,13 @@ Afin de se servir de ces connaissances en matière de communication chimique, l�
 
 Nous avons donc suivi un protocole expérimental réalisé par un enseignant de l’académie de Nantes que nous avons  modifié afin de répondre au mieux aux contraintes de matériel de laboratoire. 
 
-*1.	Mise en place des réactifs et déroulement de la transformation chimique*
-*Introduire dans le ballon le turbulent et, à l’aide d’éprouvettes graduées, sous la hotte:*
-*- 5 mL d’octan-2-ol,*
-*- 10 mL d’acide éthanoïque.*
-*Mettre l’agitateur magnétique en fonctionnement.*
-*Suivre la diminution de la température jusqu'à 15°C avec un thermomètre, avant de placer l'ensemble bouchon + tulipe + tube.*
-*Introduire dans l’ampoule de coulée isobare 40mL d’eau de javel à 24 °chl.*
+> 1.	Mise en place des réactifs et déroulement de la transformation chimique
+> Introduire dans le ballon le turbulent et, à l’aide d’éprouvettes graduées, sous la hotte:
+>- 5 mL d’octan-2-ol,
+> - 10 mL d’acide éthanoïque.
+> Mettre l’agitateur magnétique en fonctionnement.
+> Suivre la diminution de la température jusqu'à 15°C avec un thermomètre, avant de placer l'ensemble bouchon + tulipe + tube.*
+> Introduire dans l’ampoule de coulée isobare 40mL d’eau de javel à 24 °chl.
 
 Afin de doser la concentration de l’eau de javel à 24 °chl comme le recommande le protocole, nous avons étudié la définition du degré chlorométrique. Ainsi, Le degré chlorométrique d est le nombre de litres de dichlore gazeux Cl2, pris dans les conditions normales de température et de pression, qu’il faut dissoudre dans un litre d’une solution d’hydroxyde de sodium pour obtenir un litre d’eau de javel titrant d °chl, selon la réaction :
    (mettre une photo de l'équation)
@@ -160,36 +160,36 @@ Dans des conditions normales (de pression et de température normal) on doit dis
    
 (to do mettre photo)
 
-*Lorsque la température est inférieure à 15°C, faire couler l’eau de javel goutte à goutte en veillant à ne pas dépasser la température de 25°C. L’addition doit être lente (au goutte à goutte).*
-*Lorsque l’ampoule de coulée est vide, enlever le cristallisoir et laisser revenir à la température ambiante tout en agitant pendant 15 minutes. Enlever l’ampoule de coulée et la rincer.*
-*La solution doit rester de couleur jaunâtre ce qui prouve que l’eau de javel est en excès par rapport à l’octan-2-ol. Si l’eau de javel n’est pas en excès, ajouter quelques mL d’eau de javel dans le mélange réactionnel.*
-*En fin de synthèse, remettre l’ampoule de coulée en place et y placer environ 5mL d’une solution d’hydrogénosulfite de sodium (Na+ + HSO ). Faire couler goutte à goutte la solution d’hydrogénosulfite de sodium dans le mélange réactionnel jusqu’à décoloration totale de la solution*
+> Lorsque la température est inférieure à 15°C, faire couler l’eau de javel goutte à goutte en veillant à ne pas dépasser la température de 25°C. L’addition doit être lente (au goutte à goutte).
+> Lorsque l’ampoule de coulée est vide, enlever le cristallisoir et laisser revenir à la température ambiante tout en agitant pendant 15 minutes. Enlever l’ampoule de coulée et la rincer.
+> La solution doit rester de couleur jaunâtre ce qui prouve que l’eau de javel est en excès par rapport à l’octan-2-ol. Si l’eau de javel n’est pas en excès, ajouter quelques mL d’eau de javel dans le mélange réactionnel.
+> En fin de synthèse, remettre l’ampoule de coulée en place et y placer environ 5mL d’une solution d’hydrogénosulfite de sodium (Na+ + HSO ). Faire couler goutte à goutte la solution d’hydrogénosulfite de sodium dans le mélange réactionnel jusqu’à décoloration totale de la solution
 
 (to do mettre les photos)
 
-*2.	Lavages de la phase organique*
-*Récupérer le turbulent. Transvaser le contenu du ballon à l’aide d’un entonnoir dans une ampoule à décanter, rincer le ballon avec 20mL d’eau distillée froide et récupérer cette eau de lavage dans l’ampoule à décanter.*
-*Ajouter dans l’ampoule à décanter 50mL d’une solution aqueuse de chlorure de sodium saturée préalablement refroidie dans le bain eau + glace pilée.*
-* Agiter l’ampoule à décanter et laisser reposer quelques minutes  afin de séparer la phase aqueuse et la phase organique. Eliminer la phase aqueuse. La phase organique est peu abondante.*
-* Laver la phase organique avec 50mL d’une solution d’hydrogénocarbonate de sodium à 5 %, solution préalablement refroidie dans le bain réfrigérant.*
-* Attention au dégagement gazeux !! Lorsque celui-ci est atténué, agiter l’ampoule à décanter en dégazant l’ampoule plusieurs fois. Laisser reposer et éliminer la phase aqueuse.*
-* Laver une dernière fois la phase organique avec 50mL d’une solution aqueuse de chlorure de sodium saturée, préalablement  refroidie dans le bain réfrigérant. Eliminer la phase aqueuse et recueillir la phase organique dans un erlenmeyer propre. *
+> 2.	Lavages de la phase organique*
+> Récupérer le turbulent. Transvaser le contenu du ballon à l’aide d’un entonnoir dans une ampoule à décanter, rincer le ballon avec 20mL d’eau distillée froide et récupérer cette eau de lavage dans l’ampoule à décanter.
+> Ajouter dans l’ampoule à décanter 50mL d’une solution aqueuse de chlorure de sodium saturée préalablement refroidie dans le bain eau + glace pilée.
+> Agiter l’ampoule à décanter et laisser reposer quelques minutes  afin de séparer la phase aqueuse et la phase organique. Eliminer la phase aqueuse. La phase organique est peu abondante.
+> Laver la phase organique avec 50mL d’une solution d’hydrogénocarbonate de sodium à 5 %, solution préalablement refroidie dans le bain réfrigérant.
+> Attention au dégagement gazeux !! Lorsque celui-ci est atténué, agiter l’ampoule à décanter en dégazant l’ampoule plusieurs fois. Laisser reposer et éliminer la phase aqueuse.*
+> Laver une dernière fois la phase organique avec 50mL d’une solution aqueuse de chlorure de sodium saturée, préalablement  refroidie dans le bain réfrigérant. Eliminer la phase aqueuse et recueillir la phase organique dans un erlenmeyer propre. 
 
 (to do mettre photo)
 
-*3.	Séchage de la phase organique*
-*Sécher la phase organique avec un sel anhydre comme par exemple du sulfate de magnésium anhydre*
+>3.	Séchage de la phase organique
+>Sécher la phase organique avec un sel anhydre comme par exemple du sulfate de magnésium anhydre*
 
 (to do mettre photo)
 
-*4.	Filtrer la phase organique avec un dispositif de Büchner*
+>4.	Filtrer la phase organique avec un dispositif de Büchner
 
 (to do mettre photo)
 
-> *5.	Caractérisation du groupe carbonyle de la cétone obtenue*
->* Dans un tube à essai, verser environ 2 mL de solution de D.N.P.H. et y ajouter quelques gouttes d’octan-2-ol. Agiter le tube à essai et observer.*
-> *Refaire la même opération avec quelques gouttes du liquide organique obtenu au cours de cette synthèse.*
->*Conclure.*
+> 5.	Caractérisation du groupe carbonyle de la cétone obtenue
+> Dans un tube à essai, verser environ 2 mL de solution de D.N.P.H. et y ajouter quelques gouttes d’octan-2-ol. Agiter le tube à essai et observer.
+> Refaire la même opération avec quelques gouttes du liquide organique obtenu au cours de cette synthèse.*
+> Conclure.
  
  (mettre la photo)
 
