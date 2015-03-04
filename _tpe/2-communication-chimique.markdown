@@ -48,7 +48,7 @@ L’hexanal, composé organique de la famille des aldéhydes, est  la substance 
 
 Exemple de phéromones de piste que nous avons modélisées grâce au logiciel ChemSketch ; il faut noter que ce logiciel ne prend pas en compte les liaisons doubles :
  
-{% include image.html img="img/chimique/figure6.png" caption="Schéma des parcours utilisé lors des expériences et observation de différents moments" %}
+ {% include image.html img="img/chimique/figure4.png" caption="Schéma des parcours utilisé lors des expériences et observation de différents moments" %}
 
 -	Les phéromones de piste : Utilisées par les insectes sociaux ainsi que les  mammifères, ces phéromones permettent de tracer une piste chimique. Elles sont à l’origine d’un recrutement d’autres fourmis. Elles sont utilisées pour l’approvisionnement de nourriture à la fourmilière mais aussi pour neutraliser un ennemi ou pour le déménagement à un nouveau nid. Pour réaliser cette piste chimique, la fourmi secrète la phéromone en frottant son aiguillon ou l’extrémité de son abdomen sur le sol. Cette méthode permet l’augmentation progressive du nombre de fourmi recruté.
 Les chercheurs ont démontré qu’il existe au moins 9 glandes permettant la sécrétion de phéromones de  piste. La plus part de ces phéromones se trouvent dans l’abdomen par exemple dans la glande de Dufour ou dans les glandes à poison.
