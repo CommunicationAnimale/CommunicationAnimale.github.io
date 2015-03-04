@@ -32,7 +32,7 @@ Dans ces deux catégories ; on distingue différents types de phéromones, nous 
 
 -	phéromones de territoire : utilisé pour marquer le territoire et pour le repérer, il s’agit de phéromones utilisées par certains mammifères comme les chats ou les chiens mais aussi par les poissons. On les retrouve dans les urines. En ce qui concerne les fourmis ; les phéromones territoriales assure la sécurité de la fourmilière. Ainsi ; elles sont déposées pour marquer l’abord du nid. Elles sont secrétées par la glande de Dufour. Elle exerce deux rôles principaux. Premièrement ; elle permet aux ouvrières de la fourmilière de se repérer  pour rejoindre leur nid. Et enfin, elle porte une action répulsive envers les fourmis d’autres colonies.
 
--	-	phéromones d’alarme : comme leur noms l’indique, ces phéromones utilisées par les insectes, les poissons, et mammifères permettent aux animaux d’alerter d’un danger. Chez les fourmis, on constate que la réaction agit de façon collective. En effet, dès lors qu’une fourmi sécrète une phéromone d’alarme, les autres fourmis présentent réagissent et sécrètent à leurs tours cette même phéromone ainsi la réaction devenant collective permet de mieux contrôler les dangers. On en conclut alors que le rôle premier de ces substances chimiques est d’avertir les autres congénères de la fourmilière d’un danger. Selon BLUM et PASSERA, « ces phéromones constituent un progrès dans l'évolution des espèces eusociales ». Ce phénomène peut être observé avec les jets à plus centimètre d’acide formique
+-	phéromones d’alarme : comme leur noms l’indique, ces phéromones utilisées par les insectes, les poissons, et mammifères permettent aux animaux d’alerter d’un danger. Chez les fourmis, on constate que la réaction agit de façon collective. En effet, dès lors qu’une fourmi sécrète une phéromone d’alarme, les autres fourmis présentent réagissent et sécrètent à leurs tours cette même phéromone ainsi la réaction devenant collective permet de mieux contrôler les dangers. On en conclut alors que le rôle premier de ces substances chimiques est d’avertir les autres congénères de la fourmilière d’un danger. Selon BLUM et PASSERA, « ces phéromones constituent un progrès dans l'évolution des espèces eusociales ». Ce phénomène peut être observé avec les jets à plus centimètre d’acide formique
 (mettre la photo)
 
 Le comportement d’alarme peut-être divisé en deux activités. Tout d’abord, on constate « un mouvement de panique », ainsi les différentes fourmis adoptent un comportement agressif auquel s’ajoute un déplacement à grande vitesse vers le danger. Puis, les fourmis adoptent une attitude d’attaque, elle ouvre leurs mandibules et attaque l’insecte dangereux en piquant pour déposer du venin. 
@@ -80,11 +80,9 @@ Voici un exemple de phéromone sexuelle qui est une cétone :
 **Bilan sur les différents types de phéromones utilisés dans la communication chimique des fourmis :**
 Tous les phéromones que nous avons citées précédemment sont des molécules organiques car elles possèdent principalement les éléments carbone et hydrogène. Généralement ; la longueur de la chaine carbonée témoigne de l’efficacité de la molécule. Certaines phéromones sont spécifiques de l’espèce (c’est le cas de la phéromone d’agrégation des coléoptères) mais elles sont dans d’autre cas utilisées par plusieurs insectes. D’autre part ; certaines phéromones sont utilisées dans le même but comme par exemple la phéromone de piste et les phéromones de recrutement lors de l’approvisionnement en nourriture. Ainsi, le message émis par les fourmis ne résulte pas d’une seule phéromone mais de différents types de phéromones constituants le bouquet phéromonale.
 
-<<<<<<< HEAD
 
-
-=======
 ##1. Emission des phéromones 
+
 ##1.1. Synthèse et le transport des phéromones
 
 Les fourmis produisent des messagers chimiques par le biais de cellules sécrétrices dont l’ensemble forme des glandes. Ces messages chimiques se répandent dans l’environnement. En effet ; il s’agit de substances chimiques volatiles : des phéromones qui possèdent une durée de vie limitée. Il faut noter que l’effet de phéromone résulte de la taille de la molécule. En outre ; on constate que plus la durée d’action de la molécule est longue plus la molécule est grande.
@@ -92,7 +90,8 @@ Les fourmis produisent des messagers chimiques par le biais de cellules sécrét
 Ces substances chimiques sont synthétisées par une fourmi émettrice afin de transmettre une information à une fourmi réceptrice.  Ainsi, ces phéromones peuvent être transmises par le transport de l’air, le placement au sol, et par contact.
 
 ##2.2.	La  structure des glandes exocrine et  les différents types de glandes.
-##2.2.1.	Structure des glandes exocrines 
+
+**2.2.1.	Structure des glandes exocrines**
 
 Définition : Une glande exocrine est un organe sécrétant des substances chimiques. Dans notre cas, il s’agit des phéromones, qui sont rejetées à l’extérieur de l’organisme des fourmis. De plus, ces glandes ont aussi pour rôle de synthétiser les phéromones qu’elles sécrètent.
 
@@ -105,7 +104,7 @@ Nous pouvons voir la structure de ces glandes grâce au schéma ci-dessous et ai
 
 L’évacuation des phéromones dépend des différents pores de la glande. Selon le type de cellules où se trouve la phéromone, l’évacuation est différente. Pour les cellules de types 1 : cellules glandulaire épidermique, la phéromone est rejetée par canaux très étroit qui se situe dans la cuticule. En ce qui concerne les cellules de type 2 : les cellules glandulaires intra-épidermique, la phéromone est évacuée par  des canaux fins ou par les chambres d’évacuation suite à leurs transports par les cellules adjacents. Enfin,  les cellules de type 3 : les cellules sous-épidermique, la phéromone est rejetée par un réservoir central grâce à un canal cuticulaire.
 
-##2.2.2.	Les différentes glandes exocrines
+**2.2.2.	Les différentes glandes exocrines**
 (to do mettre le schéma)
 
 
@@ -187,10 +186,10 @@ Dans des conditions normales (de pression et de température normal) on doit dis
 
 (to do mettre photo)
 
- *5.	Caractérisation du groupe carbonyle de la cétone obtenue*
- * Dans un tube à essai, verser environ 2 mL de solution de D.N.P.H. et y ajouter quelques gouttes d’octan-2-ol. Agiter le tube à essai et observer.*
- * Refaire la même opération avec quelques gouttes du liquide organique obtenu au cours de cette synthèse.*
- *Conclure.*
+> *5.	Caractérisation du groupe carbonyle de la cétone obtenue*
+>* Dans un tube à essai, verser environ 2 mL de solution de D.N.P.H. et y ajouter quelques gouttes d’octan-2-ol. Agiter le tube à essai et observer.*
+> *Refaire la même opération avec quelques gouttes du liquide organique obtenu au cours de cette synthèse.*
+>*Conclure.*
  
  (mettre la photo)
 
@@ -248,7 +247,6 @@ Les pièges à entonnoir et le pièges à ailette : une capsule permettant la di
  
  D’autre part ; Les entomologistes du centre INRA Bordeaux-Aquitaine ont réussi à diminuer le taux d’accouplement sans tuer un seul insecte.  Ils ont utilisé la méthode de la confusion sexuelle dans les vignobles. Ils ont agi sur les Hétérocères en perturbant leur reproduction. En effet, ils ont montré que les femelles modifient leurs comportements et leurs succès reproducteurs lors de la diffusion de phéromones sexuelles. 
  
->>>>>>> 6d6a2ad069c03f11a58085984dbd102a2fc4a462
-
+>
 {% include buttons.html %}
 {% include katex_render.html %}
