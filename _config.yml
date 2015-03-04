@@ -67,7 +67,7 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-exclude: ["vendor", "NotesUltrasons"]
+exclude: ["vendor", "TeX"]
 
 # Collections
 collections:
