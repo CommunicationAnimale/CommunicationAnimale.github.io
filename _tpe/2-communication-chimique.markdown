@@ -47,8 +47,8 @@ Chez certaines espèces ont pu tracer différents cercles démontrant les champs
 L’hexanal, composé organique de la famille des aldéhydes, est  la substance chimique la plus volatile ; elle déclenche un état d’alerte chez les fourmis se trouvant à une dizaine de centimètre de la source qui a été mordue. Lorsque les fourmis ouvrières s’approchent et se trouvent à cinq centimètres, elles sont attirées par le centre mais le 1-hexanol, substance chimique qualifiable de « lourde » agit comme répulsif cependant son temps de vie étant limité. Cette action répulsive permet d’attirer plus de fourmis dans le cercle afin de permettre à un ensemble de fourmis de s’attaquer collectivement et efficacement.  Peu à peu, l’effet répulsif diminue par évaporation. Ainsi, le 3-undécanone et  le 2-butyl-2-oclénal se trouvant au centre du dispositif sont les substances chimiques les plus « lourdes », permettent de déclencher un comportement de morsure
 
 Exemple de phéromones de piste que nous avons modélisées grâce au logiciel ChemSketch ; il faut noter que ce logiciel ne prend pas en compte les liaisons doubles :
-
-{% include image.html img="img/chimique/figure3.png" %}
+ 
+ {% include image.html img="img/chimique/figure5.png" caption="Schéma des parcours utilisé lors des expériences et observation de différents moments" %}
 
 -	Les phéromones de piste : Utilisées par les insectes sociaux ainsi que les  mammifères, ces phéromones permettent de tracer une piste chimique. Elles sont à l’origine d’un recrutement d’autres fourmis. Elles sont utilisées pour l’approvisionnement de nourriture à la fourmilière mais aussi pour neutraliser un ennemi ou pour le déménagement à un nouveau nid. Pour réaliser cette piste chimique, la fourmi secrète la phéromone en frottant son aiguillon ou l’extrémité de son abdomen sur le sol. Cette méthode permet l’augmentation progressive du nombre de fourmi recruté.
 Les chercheurs ont démontré qu’il existe au moins 9 glandes permettant la sécrétion de phéromones de  piste. La plus part de ces phéromones se trouvent dans l’abdomen par exemple dans la glande de Dufour ou dans les glandes à poison.
