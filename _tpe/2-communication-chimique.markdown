@@ -54,7 +54,7 @@ Exemple de phéromones de piste que nous avons modélisées grâce au logiciel C
 Les chercheurs ont démontré qu’il existe au moins 9 glandes permettant la sécrétion de phéromones de  piste. La plus part de ces phéromones se trouvent dans l’abdomen par exemple dans la glande de Dufour ou dans les glandes à poison.
 Nous pouvons réaliser une expérience permettant de démontrer l’utilisation d’une piste chimique : Prenons une fourmi qui va de la fourmilière vers une source de nourriture. La première fourmi va secréter une phéromone qui « traversera son chemin » de retour à sa fourmilière. Les  autres fourmis sont  alertées et suivront la même piste qu’a suivie la première fourmi pour apporter de la nourriture à la fourmilière. 
 
-(mettre le schema du parcours)
+{% include image.html img="img/chimique/figure5.png" caption="Schéma des parcours utilisé lors des expériences et observation de différents moments " %}
 
 On constate que plus les fourmis font des aller- retour, plus elles ont tendance à emprunter le chemin le plus court. Ainsi, le bouquet phéromone des phéromones de piste permet aux fourmis de marquer un « trajet » qu’elle signale à d’autres fourmis. De plus ; les substances secrétées permettent aussi aux autre fourmis de connaître la quantité de nourriture disponible qui à leur tour sécrèteront ce bouquet jusqu’à temps que la nourriture est disponible. 
 
