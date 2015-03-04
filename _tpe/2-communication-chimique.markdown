@@ -10,7 +10,7 @@ published: true
 
 Les substances sémiochimiques  sont des molécules organiques synthétisées par un organisme vivant et qui interviennent comme moyen de communication que ce soit de manière intraspécifique ou de manière interspécifique. Ces substances sémiochimiques modifie le comportement ou la physiologie du récepteur.
 
-TODO Image
+{% include image.html img="img/chimique/figure1.png"%}
 
 Les actions interspécifiques, ont lieu grâce aux substances allélochimiques, ce sont des actions concernant les relations entre différentes espèces  alors que les actions intraspécifiques, ayant lieu grâce aux phéromones sont relatif aux rapports qui se produisent au sein d’une même espèce. C’est pour cette raison, que nous allons nous intéresser aux phéromones pour étudier la communication chimique qui a lieu au sein d’une même espèce : les fourmis.
 
@@ -33,7 +33,7 @@ Dans ces deux catégories ; on distingue différents types de phéromones, nous 
 -	phéromones de territoire : utilisé pour marquer le territoire et pour le repérer, il s’agit de phéromones utilisées par certains mammifères comme les chats ou les chiens mais aussi par les poissons. On les retrouve dans les urines. En ce qui concerne les fourmis ; les phéromones territoriales assure la sécurité de la fourmilière. Ainsi ; elles sont déposées pour marquer l’abord du nid. Elles sont secrétées par la glande de Dufour. Elle exerce deux rôles principaux. Premièrement ; elle permet aux ouvrières de la fourmilière de se repérer  pour rejoindre leur nid. Et enfin, elle porte une action répulsive envers les fourmis d’autres colonies.
 
 -	phéromones d’alarme : comme leur noms l’indique, ces phéromones utilisées par les insectes, les poissons, et mammifères permettent aux animaux d’alerter d’un danger. Chez les fourmis, on constate que la réaction agit de façon collective. En effet, dès lors qu’une fourmi sécrète une phéromone d’alarme, les autres fourmis présentent réagissent et sécrètent à leurs tours cette même phéromone ainsi la réaction devenant collective permet de mieux contrôler les dangers. On en conclut alors que le rôle premier de ces substances chimiques est d’avertir les autres congénères de la fourmilière d’un danger. Selon BLUM et PASSERA, « ces phéromones constituent un progrès dans l'évolution des espèces eusociales ». Ce phénomène peut être observé avec les jets à plus centimètre d’acide formique
-(mettre la photo)
+{% include image.html img="img/chimique/figure2.png" caption="Photo illustrant les jets d’acide formique"%}
 
 Le comportement d’alarme peut-être divisé en deux activités. Tout d’abord, on constate « un mouvement de panique », ainsi les différentes fourmis adoptent un comportement agressif auquel s’ajoute un déplacement à grande vitesse vers le danger. Puis, les fourmis adoptent une attitude d’attaque, elle ouvre leurs mandibules et attaque l’insecte dangereux en piquant pour déposer du venin. 
 Comme nous allons l’aborder plus tard, il faut noter que les phéromones d’alarme sont secrétées par les glandes mandibulaire, la glande de Dufour, ou encore la glande à poison. 
@@ -249,5 +249,4 @@ Les pièges à entonnoir et le pièges à ailette : une capsule permettant la di
  
 
 {% include buttons.html %}
-
 {% include katex_render.html %}
