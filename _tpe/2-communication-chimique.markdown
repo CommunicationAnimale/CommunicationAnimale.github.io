@@ -34,7 +34,7 @@ Dans ces deux catégories ; on distingue différents types de phéromones, nous 
 
 -	phéromones d’alarme : comme leur noms l’indique, ces phéromones utilisées par les insectes, les poissons, et mammifères permettent aux animaux d’alerter d’un danger. Chez les fourmis, on constate que la réaction agit de façon collective. En effet, dès lors qu’une fourmi sécrète une phéromone d’alarme, les autres fourmis présentent réagissent et sécrètent à leurs tours cette même phéromone ainsi la réaction devenant collective permet de mieux contrôler les dangers. On en conclut alors que le rôle premier de ces substances chimiques est d’avertir les autres congénères de la fourmilière d’un danger. Selon BLUM et PASSERA, « ces phéromones constituent un progrès dans l'évolution des espèces eusociales ». Ce phénomène peut être observé avec les jets à plus centimètre d’acide formique
 
-{% include image.html img="img/chimique/figure2.png" caption="Photo illustrant les jets d’acide formique"%}
+{% include image.html img="img/chimique/figure2.png" caption="Photo illustrant les jets d’acide formique" %}
 
 Le comportement d’alarme peut-être divisé en deux activités. Tout d’abord, on constate « un mouvement de panique », ainsi les différentes fourmis adoptent un comportement agressif auquel s’ajoute un déplacement à grande vitesse vers le danger. Puis, les fourmis adoptent une attitude d’attaque, elle ouvre leurs mandibules et attaque l’insecte dangereux en piquant pour déposer du venin. 
 Comme nous allons l’aborder plus tard, il faut noter que les phéromones d’alarme sont secrétées par les glandes mandibulaire, la glande de Dufour, ou encore la glande à poison. 
