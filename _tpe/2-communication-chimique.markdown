@@ -75,110 +75,110 @@ Voici un exemple de phÃ©romone sexuelle qui est une cÃ©tone :
 **Bilan sur les diffÃ©rents types de phÃ©romone utilisÃ© dans la communication chimique des fourmis :**
 Tous les phÃ©romones que nous avons citÃ©s prÃ©cÃ©demment sont des molÃ©cules organique car elles possÃ¨dent principalement les Ã©lÃ©ments carbone et hydrogÃ¨ne. GÃ©nÃ©ralement ; la longueur de la chaine carbonÃ©e tÃ©moigne de lâ€™efficacitÃ© de la molÃ©cule. Certaines phÃ©romones sont spÃ©cifique de lâ€™espÃ¨ce (câ€™est le cas de la phÃ©romone dâ€™agrÃ©gation des colÃ©optÃ¨res) mais elles sont dans dâ€™autre cas utilisÃ© par plusieurs insectes. Dâ€™autre part; certaines phÃ©romones sont utilisÃ©s dans le mÃªme but comme par exemple la phÃ©romone de piste et les phÃ©romones de recrutement lors de lâ€™approvisionnement en nourriture. Ainsi, le message Ã©mis par les fourmis ne rÃ©sulte pas dâ€™une seule phÃ©romone mais de diffÃ©rents types de phÃ©romones constituant le bouquet phÃ©romonale.
 
-##1. Emission des phéromones 
-###1.1. Synthèse et le transport des phéromones
+##1. Emission des phÃ©romones 
+###1.1. SynthÃ¨se et le transport des phÃ©romones
 
-Les fourmis produisent des messagers chimiques par le biais de cellules sécrétrices dont l’ensemble forme des glandes. Ces messages chimiques se répondent dans l’environnement. En effet ; il s’agit de substance chimique volatiles : des phéromones qui possèdent une durée de vie limité. Il faut noter que l’effet de phéromone résulte de la taille de la molécule. En outre ; on constate que plus la durée d’action de la molécule est longue plus la molécule est grande.
-Ces substances chimiques sont synthétisées par une fourmi émettrice afin de transmettre une information à une fourmi réceptrice.  Ainsi, ces phéromones peuvent être transmise par le transport de l’air, le placement au sol, et par contact.
+Les fourmis produisent des messagers chimiques par le biais de cellules sÃ©crÃ©trices dont lâ€™ensemble forme des glandes. Ces messages chimiques se rÃ©pondent dans lâ€™environnement. En effetÂ ; il sâ€™agit de substance chimique volatilesÂ : des phÃ©romones qui possÃ¨dent une durÃ©e de vie limitÃ©. Il faut noter que lâ€™effet de phÃ©romone rÃ©sulte de la taille de la molÃ©cule. En outreÂ ; on constate que plus la durÃ©e dâ€™action de la molÃ©cule est longue plus la molÃ©cule est grande.
+Ces substances chimiques sont synthÃ©tisÃ©es par une fourmi Ã©mettrice afin de transmettre une information Ã  une fourmi rÃ©ceptrice.  Ainsi, ces phÃ©romones peuvent Ãªtre transmise par le transport de lâ€™air, le placement au sol, et par contact.
 
-###1.2. La  structure des glandes exocrine et  les différents types de glandes.
+###1.2. La  structure des glandes exocrine et  les diffÃ©rents types de glandes.
 ####1.2.1. Structure des glandes exocrines 
 
-Définition : Une glande exocrine est un organe sécrétant des substances chimique, dans notre cas il s’agit des phéromones, qui sont rejetée à l’extérieur de l’organisme des fourmis. De plus, ces glandes ont aussi pour rôle de synthétisé les phéromones qu’elles sécrètent.
-Il existe au moins trois types de glande exocrine pouvant être distingué selon le tableau suivant :
+DÃ©finitionÂ : Une glande exocrine est un organe sÃ©crÃ©tant des substances chimique, dans notre cas il sâ€™agit des phÃ©romones, qui sont rejetÃ©e Ã  lâ€™extÃ©rieur de lâ€™organisme des fourmis. De plus, ces glandes ont aussi pour rÃ´le de synthÃ©tisÃ© les phÃ©romones quâ€™elles sÃ©crÃ¨tent.
+Il existe au moins trois types de glande exocrine pouvant Ãªtre distinguÃ© selon le tableau suivantÂ :
 (to do mettre tableau)
-Nous pouvons voir la structure de ces glandes grâce au schéma ci-dessous et ainsi étudier l’évacuation des phéromones.
+Nous pouvons voir la structure de ces glandes grÃ¢ce au schÃ©ma ci-dessous et ainsi Ã©tudier lâ€™Ã©vacuation des phÃ©romones.
 
 (to do mettre tableau)
 
-L’évacuation des phéromones dépend des différents pores de la glande. Selon le type de cellules où se trouve la phéromone, l’évacuation est différente. Pour les cellules de types 1 : cellules glandulaire épidermique, la phéromone est rejetée par canaux très étroit qui se situe dans la cuticule. En ce qui concerne les cellules de type 2 : les cellules glandulaires intra-épidermique, la phéromone est évacué par par des canaux fin ou par les chambres d’évacuation suite à leurs transport par les cellules adjacents. Enfin,  les cellules de type 3 : les cellules sous-épidermique, la phéromone est rejetée par un réservoir central grâce à un canal cuticulaire.
-#### 1.1.1.	Les différentes glandes exocrines
-(to do mettre le schéma)
+Lâ€™Ã©vacuation des phÃ©romones dÃ©pend des diffÃ©rents pores de la glande. Selon le type de cellules oÃ¹ se trouve la phÃ©romone, lâ€™Ã©vacuation est diffÃ©rente. Pour les cellules de types 1Â : cellules glandulaire Ã©pidermique, la phÃ©romone est rejetÃ©e par canaux trÃ¨s Ã©troit qui se situe dans la cuticule. En ce qui concerne les cellules de type 2Â : les cellules glandulaires intra-Ã©pidermique, la phÃ©romone est Ã©vacuÃ© par par des canaux fin ou par les chambres dâ€™Ã©vacuation suite Ã  leurs transport par les cellules adjacents. Enfin,  les cellules de type 3Â : les cellules sous-Ã©pidermique, la phÃ©romone est rejetÃ©e par un rÃ©servoir central grÃ¢ce Ã  un canal cuticulaire.
+#### 1.1.1.	Les diffÃ©rentes glandes exocrines
+(to do mettre le schÃ©ma)
 
 
--	Glande mandibulaire : Située en dessous des mandibules, la glande mandibulaire synthétise les phéromones d’alarme. Elles produisent aussi un liquide peu fluide qui permet de malaxer et de ramollir la nourriture retrouvé par les fourmis. Ces substances chimiques sont principalement constituées de citronellol et de citronellal qui ont respectivement une fonction défensif et déclencheur d’alarme. D’autre part ; ces glandes mandibulaire permettent du maintien de la hiérarchie social
+-	Glande mandibulaireÂ : SituÃ©e en dessous des mandibules, la glande mandibulaire synthÃ©tise les phÃ©romones dâ€™alarme. Elles produisent aussi un liquide peu fluide qui permet de malaxer et de ramollir la nourriture retrouvÃ© par les fourmis. Ces substances chimiques sont principalement constituÃ©es de citronellol et de citronellal qui ont respectivement une fonction dÃ©fensif et dÃ©clencheur dâ€™alarme. Dâ€™autre partÂ ; ces glandes mandibulaire permettent du maintien de la hiÃ©rarchie social
 
--	Glande métathoracique : elle produise des substances chimiques qui contribuent sans doute au repérage ou à la défense. 
+-	Glande mÃ©tathoracique : elle produise des substances chimiques qui contribuent sans doute au repÃ©rage ou Ã  la dÃ©fense. 
 
--	Glande Anale : elle contient principalement des esters volatiles. Ces glandes produisent l’acide formique qui est une substance chimique défensive. Cet acide peut être projeté à plusieurs centimètres. 
+-	Glande Anale : elle contient principalement des esters volatiles. Ces glandes produisent lâ€™acide formique qui est une substance chimique dÃ©fensive. Cet acide peut Ãªtre projetÃ© Ã  plusieurs centimÃ¨tres. 
 
--	Les glandes pygidiale : elle produit des phéromones d’alarme et permet ainsi d’alerter les autres fourmis. 
-La glande de Dufour ou alcaline : surnommée le « flacon à parfum » des fourmis. Il s’agit d’une phéromone de piste, qui est le moyen de recruter les congénères, grâce au traçage d’une piste chimique. Cette substance chimique est active durant 100 secondes.   Ces phéromones sont ensuite rejetées par l’aiguillon.
+-	Les glandes pygidiale : elle produit des phÃ©romones dâ€™alarme et permet ainsi dâ€™alerter les autres fourmis. 
+La glande de Dufour ou alcaline : surnommÃ©e le Â«Â flacon Ã  parfumÂ Â» des fourmis. Il sâ€™agit dâ€™une phÃ©romone de piste, qui est le moyen de recruter les congÃ©nÃ¨res, grÃ¢ce au traÃ§age dâ€™une piste chimique. Cette substance chimique est active durant 100 secondes.   Ces phÃ©romones sont ensuite rejetÃ©es par lâ€™aiguillon.
 
--	La glande à poison ou à venin : comme la glande anale, elle produit de l’acide formique, il s’agit donc d’une glande qui synthétise des phéromones d’alarme qu’elle utilise face à un danger.  Cette glande, chez certaine espèce, rejette du venin qui a un rôle paralysant, d’où son nom. Ces substances chimiques sont ensuite secrétées par l’aiguillon.
+-	La glande Ã  poison ou Ã  veninÂ : comme la glande anale, elle produit de lâ€™acide formique, il sâ€™agit donc dâ€™une glande qui synthÃ©tise des phÃ©romones dâ€™alarme quâ€™elle utilise face Ã  un danger.  Cette glande, chez certaine espÃ¨ce, rejette du venin qui a un rÃ´le paralysant, dâ€™oÃ¹ son nom. Ces substances chimiques sont ensuite secrÃ©tÃ©es par lâ€™aiguillon.
 
-##3.	Réception d’un signal chimique :  les antennes, des récepteurs sensoriels 
+##3.	RÃ©ception dâ€™un signal chimique :  les antennes, des rÃ©cepteurs sensoriels 
 
-Chez la fourmi comme tous autre insectes, la réception des signaux chimique ce fait par le biais de récepteurs sensoriel. Ces chimiorécepteur sont de cellules sensorielles spécialisés qui se situe au niveau des organes olfactif c’est-à-dire les antennes. 
-Les fourmis possèdent toutes deux antennes constituée de cellules sensorielles nous pouvons les observer grâce à un microscope optique à balayage. 
+Chez la fourmi comme tous autre insectes, la rÃ©ception des signaux chimique ce fait par le biais de rÃ©cepteurs sensoriel. Ces chimiorÃ©cepteur sont de cellules sensorielles spÃ©cialisÃ©s qui se situe au niveau des organes olfactif câ€™est-Ã -dire les antennes. 
+Les fourmis possÃ¨dent toutes deux antennes constituÃ©e de cellules sensorielles nous pouvons les observer grÃ¢ce Ã  un microscope optique Ã  balayage. 
 (to do mettre photo)
 
-Nous observons ainsi que les antennes sont constitués de cils. En effet, il s’agit de sensilles. Chaque sensille réagit à une phéromone ou un bouquet phéromones. Lorsque nous observons de plus près ces sensilles, on remarque qu’ils sont constitués de plusieurs pores qui permettent la traversée des phéromones. 
+Nous observons ainsi que les antennes sont constituÃ©s de cils. En effet, il sâ€™agit de sensilles. Chaque sensille rÃ©agit Ã  une phÃ©romone ou un bouquet phÃ©romones. Lorsque nous observons de plus prÃ¨s ces sensilles, on remarque quâ€™ils sont constituÃ©s de plusieurs pores qui permettent la traversÃ©e des phÃ©romones. 
 (mettre schema to do)
 
-Les sensilles sont constituées de dendrites. Il s’agit de neurones sensoriels qui permettent la réception et la transmission d’un signal chimique auparavant qui se transforme en signal électrique aux corps nerveux composés de cellules sensorielles. Il faut noter qu’une sensille peut contenir de 2 à 5 neurones olfactifs. Les cellules sensorielles sont reliées à l’axone qui permet de transférée le message électrique au cerveau des fourmis qui l’analysera pour obtenir des  concernant une source alimentaire retrouvée par une fourmi (la qualité, ou sa quantité).
-(mettre le schéma )
+Les sensilles sont constituÃ©es de dendrites. Il sâ€™agit de neurones sensoriels qui permettent la rÃ©ception et la transmission dâ€™un signal chimique auparavant qui se transforme en signal Ã©lectrique aux corps nerveux composÃ©s de cellules sensorielles. Il faut noter quâ€™une sensille peut contenir de 2 Ã  5 neurones olfactifs. Les cellules sensorielles sont reliÃ©es Ã  lâ€™axone qui permet de transfÃ©rÃ©e le message Ã©lectrique au cerveau des fourmis qui lâ€™analysera pour obtenir des  concernant une source alimentaire retrouvÃ©e par une fourmi (la qualitÃ©, ou sa quantitÃ©).
+(mettre le schÃ©ma )
 
-On trouve, au niveau des dendrites, des récepteurs olfactif permettant l’identification du stimulus (éléments extérieurs capables de déclencher des phénomènes spéciaux dans l'organisme : odeur, phéromones).  Les récepteurs olfactifs se composent d’une protéine et  d’un glucide qui forme un site actif auquel se fixe la molécule (la ou les  phéromone(s)). Ainsi les récepteurs olfactifs sont spécifiques d’une molécule ou plusieurs molécules (pour les bouquets phéromonaux). En effet ; les phéromones sont transportées dans le liquide sensillaire grâce aux OBP (olfactory binding proteins) et les PBP (pheromone binding protein), qui sont des protéines spécifiques. 
+On trouve, au niveau des dendrites, des rÃ©cepteurs olfactif permettant lâ€™identification du stimulus (Ã©lÃ©ments extÃ©rieurs capables de dÃ©clencher des phÃ©nomÃ¨nes spÃ©ciaux dans l'organisme : odeur, phÃ©romones).  Les rÃ©cepteurs olfactifs se composent dâ€™une protÃ©ine et  dâ€™un glucide qui forme un site actif auquel se fixe la molÃ©cule (la ou les  phÃ©romone(s)). Ainsi les rÃ©cepteurs olfactifs sont spÃ©cifiques dâ€™une molÃ©cule ou plusieurs molÃ©cules (pour les bouquets phÃ©romonaux). En effet ; les phÃ©romones sont transportÃ©es dans le liquide sensillaire grÃ¢ce aux OBP (olfactory binding proteins) et les PBP (pheromone binding protein), qui sont des protÃ©ines spÃ©cifiques. 
 
-#II. Utilisation de ces connaissances par l’homme
+#II. Utilisation de ces connaissances par lâ€™homme
 
-##1. Synthèse d’une phéromone par l’homme 
-Afin de se servir de ces connaissance en matière de communication chimique, l’homme doit copier le système de communication chimique c’est-à-dire les phéromones, en les synthétisant. On doit étudier précisément la composition phéromonale des glandes, afin de synthétiser une phéromone laboratoire comme par exemple l’octan-2-one. Les synthèses des phéromones permettent à l’homme de les utilisée en tant qu’outil contre la destruction culturale comme nous allons le voir un peu plus tard. Nous avons donc procéder à une expérience afin de synthétiser de l’octan-2-one, une phéromone qui est une cétone grâce à l’octan-2-ol qui est un alcool.  Cette phéromone se trouve dans les glandes mandibulaires des fourmis.  Voici les représentations du réactif principal et du produit.
+##1. SynthÃ¨se dâ€™une phÃ©romone par lâ€™homme 
+Afin de se servir de ces connaissance en matiÃ¨re de communication chimique, lâ€™homme doit copier le systÃ¨me de communication chimique câ€™est-Ã -dire les phÃ©romones, en les synthÃ©tisant. On doit Ã©tudier prÃ©cisÃ©ment la composition phÃ©romonale des glandes, afin de synthÃ©tiser une phÃ©romone laboratoire comme par exemple lâ€™octan-2-one. Les synthÃ¨ses des phÃ©romones permettent Ã  lâ€™homme de les utilisÃ©e en tant quâ€™outil contre la destruction culturale comme nous allons le voir un peu plus tard. Nous avons donc procÃ©der Ã  une expÃ©rience afin de synthÃ©tiser de lâ€™octan-2-one, une phÃ©romone qui est une cÃ©tone grÃ¢ce Ã  lâ€™octan-2-ol qui est un alcool.  Cette phÃ©romone se trouve dans les glandes mandibulaires des fourmis.  Voici les reprÃ©sentations du rÃ©actif principal et du produit.
 (to do mettre le tableau)
 
-Nous avons donc suivi un protocole expérimentale réalisé par un enseignent de l’académie de Nantes que nous avons  modifié afin de répondre au mieux aux contraintes de matériel de laboratoire.
+Nous avons donc suivi un protocole expÃ©rimentale rÃ©alisÃ© par un enseignent de lâ€™acadÃ©mie de Nantes que nous avons  modifiÃ© afin de rÃ©pondre au mieux aux contraintes de matÃ©riel de laboratoire.
 
-*1.	Mise en place des réactifs et déroulement de la transformation chimique*
-*Introduire dans le ballon le turbulent et, à l’aide d’éprouvettes graduées, sous la hotte :*
-*- 5 mL d’octan-2-ol,*
-*- 10 mL d’acide éthanoïque.*
-*Mettre l’agitateur magnétique en fonctionnement.*
-*Suivre la diminution de la température jusqu'à 15°C avec un thermomètre, avant de placer l'ensemble bouchon + tulipe + tube.*
-*Introduire dans l’ampoule de coulée isobare 40mL d’eau de javel à 24 °chl.*
+*1.	Mise en place des rÃ©actifs et dÃ©roulement de la transformation chimique*
+*Introduire dans le ballon le turbulent et, Ã  lâ€™aide dâ€™Ã©prouvettes graduÃ©es, sous la hotte :*
+*- 5 mL dâ€™octan-2-ol,*
+*- 10 mL dâ€™acide Ã©thanoÃ¯que.*
+*Mettre lâ€™agitateur magnÃ©tique en fonctionnement.*
+*Suivre la diminution de la tempÃ©rature jusqu'Ã  15Â°C avec un thermomÃ¨tre, avant de placer l'ensemble bouchon + tulipe + tube.*
+*Introduire dans lâ€™ampoule de coulÃ©e isobare 40mL dâ€™eau de javel Ã  24 Â°chl.*
 
-Afin de doser la concentration de l’eau de javel à 24 °chl comme le recommande le protocole. Nous avons étudié la définition du degré chlorométrique. Ainsi, Le degré chlorométrique d est le nombre de litres de dichlore gazeux Cl2, pris dans les conditions normales de température et de pression, qu’il faut dissoudre dans un litre d’une solution d’hydroxyde de sodium pour obtenir un litre d’eau de javel titrant d °chl, selon la réaction :
+Afin de doser la concentration de lâ€™eau de javel Ã  24 Â°chl comme le recommande le protocole. Nous avons Ã©tudiÃ© la dÃ©finition du degrÃ© chloromÃ©trique. Ainsi, Le degrÃ© chloromÃ©trique d est le nombre de litres de dichlore gazeux Cl2, pris dans les conditions normales de tempÃ©rature et de pression, quâ€™il faut dissoudre dans un litre dâ€™une solution dâ€™hydroxyde de sodium pour obtenir un litre dâ€™eau de javel titrant d Â°chl, selon la rÃ©action :
                   Cl2(g) + 2Na+ + 2OH-   2 Na+ + ClO- + Cl- + H2O
-Dans des conditions normal (de pression et de température normal) on doit dissoudre 24L de dichlore gazeux dans 1L de soude afin d’obtenir 1L d’eau de Javel 
+Dans des conditions normal (de pression et de tempÃ©rature normal) on doit dissoudre 24L de dichlore gazeux dans 1L de soude afin dâ€™obtenir 1L dâ€™eau de Javel 
 (to do mettre photo)
 
-*Lorsque la température est inférieure à 15°C, faire couler l’eau de javel goutte à goutte en veillant à ne pas dépasser la température de 25°C. L’addition doit être lente (au goutte à goutte). *
-*Lorsque l’ampoule de coulée est vide, enlever le cristallisoir et laisser revenir à la température ambiante tout en agitant pendant 15 minutes. Enlever l’ampoule de coulée et la rincer.*
-*La solution doit rester de couleur jaunâtre ce qui prouve que l’eau de javel est en excès par rapport à l’octan-2-ol. Si l’eau de javel n’est pas en excès, ajouter quelques mL d’eau de javel dans le mélange réactionnel.*
-*En fin de synthèse, remettre l’ampoule de coulée en place et y placer environ 5mL d’une solution d’hydrogénosulfite de sodium (Na+ + HSO ). Faire couler goutte à goutte la solution d’hydrogénosulfite de sodium dans le mélange réactionnel jusqu’à décoloration totale de la solution*
+*Lorsque la tempÃ©rature est infÃ©rieure Ã  15Â°C, faire couler lâ€™eau de javel goutte Ã  goutte en veillant Ã  ne pas dÃ©passer la tempÃ©rature de 25Â°C. Lâ€™addition doit Ãªtre lente (au goutte Ã  goutte). *
+*Lorsque lâ€™ampoule de coulÃ©e est vide, enlever le cristallisoir et laisser revenir Ã  la tempÃ©rature ambiante tout en agitant pendant 15 minutes. Enlever lâ€™ampoule de coulÃ©e et la rincer.*
+*La solution doit rester de couleur jaunÃ¢tre ce qui prouve que lâ€™eau de javel est en excÃ¨s par rapport Ã  lâ€™octan-2-ol. Si lâ€™eau de javel nâ€™est pas en excÃ¨s, ajouter quelques mL dâ€™eau de javel dans le mÃ©lange rÃ©actionnel.*
+*En fin de synthÃ¨se, remettre lâ€™ampoule de coulÃ©e en place et y placer environ 5mL dâ€™une solution dâ€™hydrogÃ©nosulfite de sodium (Na+ + HSO ). Faire couler goutte Ã  goutte la solution dâ€™hydrogÃ©nosulfite de sodium dans le mÃ©lange rÃ©actionnel jusquâ€™Ã  dÃ©coloration totale de la solution*
 
 (to do mettre les photos)
 
 *2.	Lavages de la phase organique*
-*Récupérer le turbulent. Transvaser le contenu du ballon à l’aide d’un entonnoir dans une ampoule à décanter, rincer le ballon avec 20mL d’eau distillée froide et récupérer cette eau de lavage dans l’ampoule à décanter.*
-*Ajouter dans l’ampoule à décanter 50mL d’une solution aqueuse de chlorure de sodium saturée préalablement refroidie dans le bain eau + glace pilée.*
-* Agiter l’ampoule à décanter et laisser reposer quelques minutes  afin de séparer la phase aqueuse et la phase organique. Eliminer la phase aqueuse. La phase organique est peu abondante.*
-* Laver la phase organique avec 50mL d’une solution d’hydrogénocarbonate de sodium à 5 %, solution préalablement refroidie dans le bain réfrigérant.*
-* Attention au dégagement gazeux !! Lorsque celui-ci est atténué, agiter l’ampoule à décanter en dégazant l’ampoule plusieurs fois. Laisser reposer et éliminer la phase aqueuse.*
-* Laver une dernière fois la phase organique avec 50mL d’une solution aqueuse de chlorure de sodium saturée, préalablement  refroidie dans le bain réfrigérant. Eliminer la phase aqueuse et recueillir la phase organique dans un erlenmeyer propre. *
+*RÃ©cupÃ©rer le turbulent. Transvaser le contenu du ballon Ã  lâ€™aide dâ€™un entonnoir dans une ampoule Ã  dÃ©canter, rincer le ballon avec 20mL dâ€™eau distillÃ©e froide et rÃ©cupÃ©rer cette eau de lavage dans lâ€™ampoule Ã  dÃ©canter.*
+*Ajouter dans lâ€™ampoule Ã  dÃ©canter 50mL dâ€™une solution aqueuse de chlorure de sodium saturÃ©e prÃ©alablement refroidie dans le bain eau + glace pilÃ©e.*
+* Agiter lâ€™ampoule Ã  dÃ©canter et laisser reposer quelques minutes  afin de sÃ©parer la phase aqueuse et la phase organique. Eliminer la phase aqueuse. La phase organique est peu abondante.*
+* Laver la phase organique avec 50mL dâ€™une solution dâ€™hydrogÃ©nocarbonate de sodium Ã  5 %, solution prÃ©alablement refroidie dans le bain rÃ©frigÃ©rant.*
+* Attention au dÃ©gagement gazeux !! Lorsque celui-ci est attÃ©nuÃ©, agiter lâ€™ampoule Ã  dÃ©canter en dÃ©gazant lâ€™ampoule plusieurs fois. Laisser reposer et Ã©liminer la phase aqueuse.*
+* Laver une derniÃ¨re fois la phase organique avec 50mL dâ€™une solution aqueuse de chlorure de sodium saturÃ©e, prÃ©alablement  refroidie dans le bain rÃ©frigÃ©rant. Eliminer la phase aqueuse et recueillir la phase organique dans un erlenmeyer propre. *
 
 (to do mettre photo)
 
-*3.	Séchage de la phase organique*
-* Sécher la phase organique avec un sel anhydre comme par exemple du sulfate de magnésium anhydre.*
+*3.	SÃ©chage de la phase organique*
+* SÃ©cher la phase organique avec un sel anhydre comme par exemple du sulfate de magnÃ©sium anhydre.*
 
 (to do mettre photo)
 
-*4.	Filtrer la phase organique avec un dispositif de Büchner *
+*4.	Filtrer la phase organique avec un dispositif de BÃ¼chner *
 
 (to do mettre photo)
 
- *5.	Caractérisation du groupe carbonyle de la cétone obtenue *
- * Dans un tube à essai, verser environ 2 mL de solution de D.N.P.H. et y ajouter quelques gouttes d’octan-2-ol. Agiter le tube à essai et observer.  *
- * Refaire la même opération avec quelques gouttes du liquide organique obtenu au cours de cette synthèse. *
+ *5.	CaractÃ©risation du groupe carbonyle de la cÃ©tone obtenue *
+ * Dans un tube Ã  essai, verser environ 2 mL de solution de D.N.P.H. et y ajouter quelques gouttes dâ€™octan-2-ol. Agiter le tube Ã  essai et observer.  *
+ * Refaire la mÃªme opÃ©ration avec quelques gouttes du liquide organique obtenu au cours de cette synthÃ¨se. *
  *Conclure. *
 
- La synthèse enfin terminé nous pouvons donner, l’équation de la réaction d’oxydoréduction lors de cette transformation chimique : 
+ La synthÃ¨se enfin terminÃ© nous pouvons donner, lâ€™Ã©quation de la rÃ©action dâ€™oxydorÃ©duction lors de cette transformation chimique : 
 ClOH  +  H+(aq)  +  2 e-   =   Cl-  +  H2O
   C8H18O   =   C8H16O  +  2 H+(aq) +  2 e-
-			C8H18O +  ClOH    ¾¾®   C8H16O +  H+(aq) + Cl- +  H2O    
+			C8H18O +  ClOH    Â¾Â¾Â®   C8H16O +  H+(aq) + Cl- +  H2O    
 
-Grâce à un tableau d’avancement ci-dessous nous pouvons calculer le rendement maximum de la synthèse de l’octan-2-ol.
+GrÃ¢ce Ã  un tableau dâ€™avancement ci-dessous nous pouvons calculer le rendement maximum de la synthÃ¨se de lâ€™octan-2-ol.
 
 (to do mettre le tableau)
 
@@ -187,27 +187,27 @@ Quelque calcul afin de remplir le tableau :
 Donc    n(C8H16O) = (m (C_8 H_16 O))/(M?(C?_8 H_16 O)) =   = 3,15.10-2 mol
 	n (HClO) = M(HClO) ? V = 1,07 ? 40,10-3 = 4,28.10-2 mol.
 
-Il faut noter que le réactif limitant est l’octan-2-ol.
-On peut conclure grâce au tableau d’avancement que le rendement maximum est :
-Mmax= xmax× M(C8H16O) = 3,15.10-2 ×128= 4,03g
+Il faut noter que le rÃ©actif limitant est lâ€™octan-2-ol.
+On peut conclure grÃ¢ce au tableau dâ€™avancement que le rendement maximum est :
+Mmax= xmaxÃ— M(C8H16O) = 3,15.10-2 Ã—128= 4,03g
 
-## Lutte intégrée
+## Lutte intÃ©grÃ©e
 
-Depuis de nombreuse année ; l’agriculture repose sur l’utilisation de pesticide afin de lutte contre les insectes ravageur. Pourtant d’autre solution plus respectueuse de l’environnement existe.  Il s’agit de la lutte intégrée. Elle a été défini au plan européen comme « l'application rationnelle d'une combinaison de mesures biologiques, biotechnologiques, chimiques, physiques, culturales ou intéressant la sélection des végétaux dans laquelle l'emploi de produits chimiques phytopharmaceutiques est limité au strict nécessaire pour maintenir la présence des organismes nuisibles en dessous de seuil à partir duquel apparaissent des dommages ou une perte économiquement inacceptables. »
-Nous allons donc nous intéresser aux mesure chimique que l’homme peut applique :
-En étudiant les insectes ravageurs l’homme peut en déduire les phéromones qu’utilises les ravageurs et ainsi réaliser une synthèse cette phéromones, il peut ainsi réussir à éliminer ou limiter la population de ravageur dans la culture choisie comme c’est le cas de la méthode de la confusion sexuelle qui est mise  en pratique grâce à des moyens biotechniques afin d’utilise la synthèse d’une phéromone, il s’agit des diffuseurs.
+Depuis de nombreuse annÃ©e ; lâ€™agriculture repose sur lâ€™utilisation de pesticide afin de lutte contre les insectes ravageur. Pourtant dâ€™autre solution plus respectueuse de lâ€™environnement existe.  Il sâ€™agit de la lutte intÃ©grÃ©e. Elle a Ã©tÃ© dÃ©fini au plan europÃ©en comme Â« l'application rationnelle d'une combinaison de mesures biologiques, biotechnologiques, chimiques, physiques, culturales ou intÃ©ressant la sÃ©lection des vÃ©gÃ©taux dans laquelle l'emploi de produits chimiques phytopharmaceutiques est limitÃ© au strict nÃ©cessaire pour maintenir la prÃ©sence des organismes nuisibles en dessous de seuil Ã  partir duquel apparaissent des dommages ou une perte Ã©conomiquement inacceptables. Â»
+Nous allons donc nous intÃ©resser aux mesure chimique que lâ€™homme peut applique :
+En Ã©tudiant les insectes ravageurs lâ€™homme peut en dÃ©duire les phÃ©romones quâ€™utilises les ravageurs et ainsi rÃ©aliser une synthÃ¨se cette phÃ©romones, il peut ainsi rÃ©ussir Ã  Ã©liminer ou limiter la population de ravageur dans la culture choisie comme câ€™est le cas de la mÃ©thode de la confusion sexuelle qui est mise  en pratique grÃ¢ce Ã  des moyens biotechniques afin dâ€™utilise la synthÃ¨se dâ€™une phÃ©romone, il sâ€™agit des diffuseurs.
 
-Les avantages des phéromones par rapport aux insecticides :
-L’utilisation de phéromones est un enjeu majeur pour l’agriculture car elles présentent plusieurs avantages face à l’utilisation des insecticides. Tous d’abord l’utilisation de la synthèse des phéromones permet de ciblé l’action agricole, c’est-à-dire que l’utilisation des phéromones permet une sélectivité dans le contrôle des nuisibles, ce qui est impossible avec les insecticide ; en effet, leurs effet se manifestent même pour mes insecte utiles, qui sont touchée. En effet ; les phéromones ne détruisent pas l’équilibre biologique car le traitement ne vise qu’une seule espèce. De faite ;  le traitement est spécifique d’une seules espèce. D’autre part, les phéromones permettent de préserver la biodiversité mais aussi l’environnement alors que les  insecticides agissent comme des poisons, ils ne sont pas spécifique d’une espèce. Ils polluent ainsi l’environnement. L’homme, en utilisant les phéromones, copie ce qu’utilise les insectes pour communiquer, dans le but de limite les ravage culturales. L’avantage des phéromones réside donc aussi dans le fait qu’elles soient biodégradables. Les quantités nécessaires pour attirer un insecte sont d’environ 15g alors que l’utilisation des insecticides implique l’utilisation de quantités importantes. Dès lors, leurs couts s’élève. Donc ; selon tous ces points il est plus avantageux d’utiliser des phéromones pour palier au mieux à la préservation de l’environnement. 
+Les avantages des phÃ©romones par rapport aux insecticides :
+Lâ€™utilisation de phÃ©romones est un enjeu majeur pour lâ€™agriculture car elles prÃ©sentent plusieurs avantages face Ã  lâ€™utilisation des insecticides. Tous dâ€™abord lâ€™utilisation de la synthÃ¨se des phÃ©romones permet de ciblÃ© lâ€™action agricole, câ€™est-Ã -dire que lâ€™utilisation des phÃ©romones permet une sÃ©lectivitÃ© dans le contrÃ´le des nuisibles, ce qui est impossible avec les insecticide ; en effet, leurs effet se manifestent mÃªme pour mes insecte utiles, qui sont touchÃ©e. En effet ; les phÃ©romones ne dÃ©truisent pas lâ€™Ã©quilibre biologique car le traitement ne vise quâ€™une seule espÃ¨ce. De faite ;  le traitement est spÃ©cifique dâ€™une seules espÃ¨ce. Dâ€™autre part, les phÃ©romones permettent de prÃ©server la biodiversitÃ© mais aussi lâ€™environnement alors que les  insecticides agissent comme des poisons, ils ne sont pas spÃ©cifique dâ€™une espÃ¨ce. Ils polluent ainsi lâ€™environnement. Lâ€™homme, en utilisant les phÃ©romones, copie ce quâ€™utilise les insectes pour communiquer, dans le but de limite les ravage culturales. Lâ€™avantage des phÃ©romones rÃ©side donc aussi dans le fait quâ€™elles soient biodÃ©gradables. Les quantitÃ©s nÃ©cessaires pour attirer un insecte sont dâ€™environ 15g alors que lâ€™utilisation des insecticides implique lâ€™utilisation de quantitÃ©s importantes. DÃ¨s lors, leurs couts sâ€™Ã©lÃ¨ve. Donc ; selon tous ces points il est plus avantageux dâ€™utiliser des phÃ©romones pour palier au mieux Ã  la prÃ©servation de lâ€™environnement. 
 
-Méthode de la confusion sexuelle: 	
-Afin de réduire la population cible (souvent des insectes), l’homme a recourt à plusieurs méthode comme celle de la confusion sexuelle. Il utilise ainsi les connaissances qu’il a accumulées concernant la communication chimique. Ainsi, il sait que les phéromones sexuelles sont à l’origine de la reproduction. L’homme utilise la méthode de la confusion sexuelle en libérant des phéromones sexuelle synthétise en laboratoire. Il désoriente ainsi l’insecte en agissant sur les chimiorécepteurs de l’animale. Cette libération de phéromone engendre une fatigue sensorielle ; ainsi, le mâle n’est plus capable de trouver les femelles. En effet, l’homme a « camoufler » les phéromones naturelles émises par les femelles. Il existe ainsi une confusion entre les phéromones d’origine naturelle et ceux d’origine synthétique.  	Dès lors, cette méthode réduit le nombre total d’accouplement ou entraine un retard. Le taux de fécondité est par conséquent réduit ce qui provoque une diminution de la population cible sur l’espace où la phéromone sexuelles de synthèse a été diffuser.
-Cette méthode de lutte chimique  est généralement utilisée contre micro-lépidoptères de la famille des tortricidés (tordeuses). Elle préserve ainsi les cultures tels que les vignoble, les cultures de pommes, ceux de cerise, de prune de maïs.
-Le piégeage sélectif 
+MÃ©thode de la confusion sexuelle: 	
+Afin de rÃ©duire la population cible (souvent des insectes), lâ€™homme a recourt Ã  plusieurs mÃ©thode comme celle de la confusion sexuelle. Il utilise ainsi les connaissances quâ€™il a accumulÃ©es concernant la communication chimique. Ainsi, il sait que les phÃ©romones sexuelles sont Ã  lâ€™origine de la reproduction. Lâ€™homme utilise la mÃ©thode de la confusion sexuelle en libÃ©rant des phÃ©romones sexuelle synthÃ©tise en laboratoire. Il dÃ©soriente ainsi lâ€™insecte en agissant sur les chimiorÃ©cepteurs de lâ€™animale. Cette libÃ©ration de phÃ©romone engendre une fatigue sensorielle ; ainsi, le mÃ¢le nâ€™est plus capable de trouver les femelles. En effet, lâ€™homme a Â« camoufler Â» les phÃ©romones naturelles Ã©mises par les femelles. Il existe ainsi une confusion entre les phÃ©romones dâ€™origine naturelle et ceux dâ€™origine synthÃ©tique.  	DÃ¨s lors, cette mÃ©thode rÃ©duit le nombre total dâ€™accouplement ou entraine un retard. Le taux de fÃ©conditÃ© est par consÃ©quent rÃ©duit ce qui provoque une diminution de la population cible sur lâ€™espace oÃ¹ la phÃ©romone sexuelles de synthÃ¨se a Ã©tÃ© diffuser.
+Cette mÃ©thode de lutte chimique  est gÃ©nÃ©ralement utilisÃ©e contre micro-lÃ©pidoptÃ¨res de la famille des tortricidÃ©s (tordeuses). Elle prÃ©serve ainsi les cultures tels que les vignoble, les cultures de pommes, ceux de cerise, de prune de maÃ¯s.
+Le piÃ©geage sÃ©lectif 
 
-On utilise par exemple la méthode du piégeage sélectif, du ravageur mâle ou de la femelle mais aussi des deux à la fois. Cette méthode est souvent utilisée pour un suivi du ravageur permettant de constater ou non leur présence. Elle permet aussi de donner un estimation sur les insectes ravageurs. C’est aussi un outil permettant de connaître la période de reproduction et estimer aisnsi la période d’attaque. Voici quelque exemple de piège utilisé en agriculture :  
+On utilise par exemple la mÃ©thode du piÃ©geage sÃ©lectif, du ravageur mÃ¢le ou de la femelle mais aussi des deux Ã  la fois. Cette mÃ©thode est souvent utilisÃ©e pour un suivi du ravageur permettant de constater ou non leur prÃ©sence. Elle permet aussi de donner un estimation sur les insectes ravageurs. Câ€™est aussi un outil permettant de connaÃ®tre la pÃ©riode de reproduction et estimer aisnsi la pÃ©riode dâ€™attaque. Voici quelque exemple de piÃ¨ge utilisÃ© en agriculture :  
 
-Les pièges a entonnoir et le pièges à ailette : une capsule permettant la diffusion de phéromones y est fixe. Chaque capsule est spécifique d’une seule espèce. Les ravageurs souvent des lépidoptères sont attirés par la phéromone. Ils volent ainsi tous autour jusqu’à un épuisement totale pour enfin tomber dans l’entonnoir. Ces pièges sont souvent destinés à des cultures de petites taille ou pour des jardins.  Récipient contient de l’eau afin que les insectes se noient
+Les piÃ¨ges a entonnoir et le piÃ¨ges Ã  ailette : une capsule permettant la diffusion de phÃ©romones y est fixe. Chaque capsule est spÃ©cifique dâ€™une seule espÃ¨ce. Les ravageurs souvent des lÃ©pidoptÃ¨res sont attirÃ©s par la phÃ©romone. Ils volent ainsi tous autour jusquâ€™Ã  un Ã©puisement totale pour enfin tomber dans lâ€™entonnoir. Ces piÃ¨ges sont souvent destinÃ©s Ã  des cultures de petites taille ou pour des jardins.  RÃ©cipient contient de lâ€™eau afin que les insectes se noient
 
 {% include buttons.html %}
 {% include katex_render.html %}
