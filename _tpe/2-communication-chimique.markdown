@@ -247,6 +247,7 @@ Les pièges à entonnoir et le pièges à ailette : une capsule permettant la di
  
  D’autre part ; Les entomologistes du centre INRA Bordeaux-Aquitaine ont réussi à diminuer le taux d’accouplement sans tuer un seul insecte.  Ils ont utilisé la méthode de la confusion sexuelle dans les vignobles. Ils ont agi sur les Hétérocères en perturbant leur reproduction. En effet, ils ont montré que les femelles modifient leurs comportements et leurs succès reproducteurs lors de la diffusion de phéromones sexuelles. 
  
->
+
 {% include buttons.html %}
+
 {% include katex_render.html %}
