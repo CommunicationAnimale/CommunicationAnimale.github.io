@@ -46,9 +46,7 @@ Chez certaines espèces ont pu tracer différents cercles démontrant les champs
 
 L’hexanal, composé organique de la famille des aldéhydes, est  la substance chimique la plus volatile ; elle déclenche un état d’alerte chez les fourmis se trouvant à une dizaine de centimètre de la source qui a été mordue. Lorsque les fourmis ouvrières s’approchent et se trouvent à cinq centimètres, elles sont attirées par le centre mais le 1-hexanol, substance chimique qualifiable de « lourde » agit comme répulsif cependant son temps de vie étant limité. Cette action répulsive permet d’attirer plus de fourmis dans le cercle afin de permettre à un ensemble de fourmis de s’attaquer collectivement et efficacement.  Peu à peu, l’effet répulsif diminue par évaporation. Ainsi, le 3-undécanone et  le 2-butyl-2-oclénal se trouvant au centre du dispositif sont les substances chimiques les plus « lourdes », permettent de déclencher un comportement de morsure
 
-Exemple de phéromones de piste que nous avons modélisées grâce au logiciel ChemSketch ; il faut noter que ce logiciel ne prend pas en compte les liaisons doubles :
- 
- {% include image.html img="img/chimique/figure4.png" caption="Schéma des parcours utilisé lors des expériences et observation de différents moments" %}
+
 
 -	Les phéromones de piste : Utilisées par les insectes sociaux ainsi que les  mammifères, ces phéromones permettent de tracer une piste chimique. Elles sont à l’origine d’un recrutement d’autres fourmis. Elles sont utilisées pour l’approvisionnement de nourriture à la fourmilière mais aussi pour neutraliser un ennemi ou pour le déménagement à un nouveau nid. Pour réaliser cette piste chimique, la fourmi secrète la phéromone en frottant son aiguillon ou l’extrémité de son abdomen sur le sol. Cette méthode permet l’augmentation progressive du nombre de fourmi recruté.
 Les chercheurs ont démontré qu’il existe au moins 9 glandes permettant la sécrétion de phéromones de  piste. La plus part de ces phéromones se trouvent dans l’abdomen par exemple dans la glande de Dufour ou dans les glandes à poison.
@@ -58,9 +56,10 @@ Nous pouvons réaliser une expérience permettant de démontrer l’utilisation 
 
 On constate que plus les fourmis font des aller- retour, plus elles ont tendance à emprunter le chemin le plus court. Ainsi, le bouquet phéromone des phéromones de piste permet aux fourmis de marquer un « trajet » qu’elle signale à d’autres fourmis. De plus ; les substances secrétées permettent aussi aux autre fourmis de connaître la quantité de nourriture disponible qui à leur tour sécrèteront ce bouquet jusqu’à temps que la nourriture est disponible. 
 
-Voici deux exemples de phéromones de piste :
-(mettre le tableau)
-
+Exemple de phéromones de piste que nous avons modélisées grâce au logiciel ChemSketch ; il faut noter que ce logiciel ne prend pas en compte les liaisons doubles :
+ 
+ {% include image.html img="img/chimique/figure4.png" caption="Schéma des parcours utilisé lors des expériences et observation de différents moments " %}
+ 
 On doit ajouter à cela que les scientifiques Regnier et Wilson ont calculé l’efficacité de la perception des phéromones d’alarme chez certaines espèces. Ainsi, les Acanthomyops claviger perçoivent les phéromones d’alarme dès lors que la concentration atteint 1010 à 1012 molécules/cm3. Et chez les Atta Texana,  l’efficacité est atteinte dès lors que la concentration est de 108 molécules/cm3.
 
 -	Les phéromones d’agrégation : Les phéromones d’agrégation sont un véritable outil chez les fourmis pour assurer la cohésion sociale. Ainsi, elles ont un rôle important pour la reproduction, pour l’hibernation, pour nidifier, pour estiver ou encore la protection social. Ces phéromones ont une durée de vie très variable les unes des autres. En effet ; elles peuvent agir temporairement ou de façon permanente pour assurer la cohésion sociale. Voici un exemple de phéromones d’agrégation, il s’agit d’une phéromone spécifique des Coléoptères. En effet ; il existe très peu d’étude concernant les phéromones d’agrégation des fourmis.
@@ -254,3 +253,29 @@ Les pièges à entonnoir et le pièges à ailette : une capsule permettant la di
 
 {% include buttons.html %}
 {% include katex_render.html %}
+
+*Bibliographie :*
+1.	Stéphane Tanzarella, Perception et communication chez les animaux, De Boeck et Larcier s.a., 2005 , Partie 4 : perception et communication chimique, LMD Biologie,  ISBN 2-8041-4896-3
+2.	Luc Passera et Serge Aron, Les fourmis: comportement, organisation sociale et évolution, Canadian Science Publishing, 2005, 480p, NRC Research Press,  ISBN 0-660-97021-X 
+3.	Luc Passera et Serge Aron, les sociétés animales : Evolution de la coopération et organisation social, 2e édition, De Boeck supérieur, 2009, 336p, LMD, ISBN 978-2-8041-2861-6
+4.	Gérag Brand, l’olfaction : de la molécule au comportement, SOLAL, 111p, Neuroscience cognitive, ISBN 2914513127
+5.	Raymond Gilles, Physiologie animale, De Boeck, 2006, 680p,  ISBN 2804148939
+6.	 Rüdiger Wehner, Walter Gehring, Biologie et physiologie animales: bases moléculaires, cellulaires, anatomique, fonctionnelle, 23e édition, 1999,844p, ISBN 2-7445-0009-7
+7.	Roger DAJOZ, dictionnaire d’entomologie, édition tec et doc, 2010, 348p, ISBN 9782743018184
+8.	Janine PAIN. Phéromones et comportement chez quelque Hyménoptères 1. Apidologie, Springer Verlag (Germany), 1971, 2 (4), pp.319-355. <hal-00890317>
+9.	Bert Hörlldobler, Ethological Aspects of chimical communication in ants, departement of biology of Havard university, 115p.
+10.	Claude PAVIS. Les sécrétions exocrines des hétéroptères (allomones et phéromones). Une mise au point bibliographique. Agronomie, EDP Sciences, 1987, 7 (8), pp.547-561.
+*Webographie :* 
+11.	Michel Lamy, La reproduction, Inra , 2001, disponible sur : http://www7.inra.fr/opie-insectes/pdf/i121lamy.pdf
+12.	CBC BIOGRAD, les phéromones et la méthode de confusion sexuelle, cdcbiograd, disponible sur : http://www.cbcbiogard.fr/images/PDF/guide-FR.pdf
+13.	Au jardin, les pièges à phéromones, Au jardin info, disponible sur : http://www.aujardin.info/fiches/maladies/pieges-pheromones.php#U2PXs0Vx18VfwGHZ.99
+14.	Maya press, Chargés de communication, en substance, Inra , 24/01/2013, disponible sur : http://www.inra.fr/Grand-public/Sante-des-animaux/Toutes-les-actualites/Pheromone-chez-l-animal-substance-chimique-pour-la-communication-entre-individus-d-une-meme-espece
+15.	Virignie Orgogoz, Formation et évolution des organes sensoriels chez les insectes, Normal sup, disponible sur : http://www.normalesup.org/~vorgogoz/courses/osI.pdf
+16.	Alain Lenoir, la communication chez les insectes et autres organismes, 2011, disponible sur : http://cataglyphis.fr/Publis%20AL/Colloques/Communication_Insectes-Diaporama.pdf
+17.	 Comespece.blogspot, la communication des espèces par leurs phéromones, disponible sur : http://comespece.blogspot.fr/p/communication-animale.html
+18.	Fort Thomas, Les fourmis : anatomie,  disponible sur : http://fort.thomas.free.fr/Anatomie.htm 
+19.	Anne-Geneviève BAGNÈRES, Marc OHRESSER, Alain LENOIR et Christine ERRARD, la communication chimique, Pour la science, disponible sur : http://nico8386.free.fr/cours/BA/CommunicationChimique.pdf
+20.	Crisop, piège à entonnoir,  disponible sur : http://boutique.crisop.fr/piege-entonnoir-gyt
+21.	Arramel, lutte intégrée, disponible sur : http://aramel.free.fr/INSECTES18ter.shtml
+22.	Pro.cleamax, Intelligence en essaim : exemple de la colonie de fourmis, disponible sur : http://pro.cleamax.fr/info-bioinspiree/?p=fourmis 
+
