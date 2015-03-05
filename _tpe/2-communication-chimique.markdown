@@ -255,6 +255,7 @@ Les pièges à entonnoir et le pièges à ailette : une capsule permettant la di
 {% include katex_render.html %}
 
 *Bibliographie :*
+
 1.	Stéphane Tanzarella, Perception et communication chez les animaux, De Boeck et Larcier s.a., 2005 , Partie 4 : perception et communication chimique, LMD Biologie,  ISBN 2-8041-4896-3
 
 2.	Luc Passera et Serge Aron, Les fourmis: comportement, organisation sociale et évolution, Canadian Science Publishing, 2005, 480p, NRC Research Press,  ISBN 0-660-97021-X 
