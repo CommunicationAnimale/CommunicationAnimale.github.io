@@ -980,7 +980,7 @@ produit.![](media/image47.jpeg)
 Photo du tube à essai contenant le liquide organique, ajout de quelques
 gouttes de DNPH
 
-![](media/image48.tmp)
+![](media/image48.jpg)
 
 La synthèse enfin terminée, nous pouvons donner l’équation de la
 réaction d’oxydoréduction lors de cette transformation chimique :
