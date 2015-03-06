@@ -1,3 +1,11 @@
+---
+layout: page
+title: La communication animale
+published: true
+---
+
+{% include katex_import.html %}
+
 # Introduction
 
 Pour nous, humains, la communication repose principalement sur la
@@ -1649,6 +1657,9 @@ nous avons donc encore beaucoup à apprendre au sujet de la communication
 animale, que ce soit en augmentant nos connaissances de ses modalités,
 ou même peut-être en découvrant de nouvelles méthodes de communication.
 
+{% include buttons.html %}
+
+# Bibliographie
 1.  Stéphane Tanzarella, *Perception et communication chez les animaux,*
     De Boeck et Larcier s.a., 2005 , Partie 4 : perception et
     communication chimique, LMD Biologie, ISBN 2-8041-4896-3
@@ -1807,3 +1818,6 @@ Webographie :
     http://www.cell.com/current-biology/abstract/S0960-9822%2809%2902057-0
 
 
+
+
+{% include katex_render.html %}
