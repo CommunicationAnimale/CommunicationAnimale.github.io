@@ -1,7 +1,7 @@
 ---
 layout: page
 title: La communication animale
-published: true
+published: false
 ---
 
 {% include katex_import.html %}
