@@ -113,8 +113,7 @@ L’évacuation des phéromones dépend des différents pores de la glande. Selo
 
 **2.2.2.	Les différentes glandes exocrines**
 
-{% include image.html img="img/chimique/figure12.png"caption="Schéma du système glandulaire de la fourmi" %} 
-
+{% include image.html img="img/chimique/figure12.png" caption="Schéma du système glandulaire de la fourmi"%}
 
 Glande mandibulaire : Située en dessous des mandibules, la glande mandibulaire synthétise les phéromones d’alarme. Elles produisent aussi un liquide peu fluide qui permet de malaxer et de ramollir la nourriture retrouvée par les fourmis. Ces substances chimiques sont principalement constituées de citronellol et de citronellal qui ont respectivement une fonction défensive et déclencheur d’alarme. D’autre part ; ces glandes mandibulaire permettent du maintien de la hiérarchie sociale
 
