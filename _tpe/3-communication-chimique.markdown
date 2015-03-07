@@ -1,4 +1,8 @@
---- layout: page title: La communication chimique published: true ---
+---
+layout: page
+title: La communication chimique
+published: true
+---
 
 {% include katex_import.html %}
 
