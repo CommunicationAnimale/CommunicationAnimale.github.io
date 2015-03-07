@@ -15,7 +15,7 @@ communication que ce soit de manière intraspécifique ou de manière
 interspécifique. Ces substances sémiochimiques modifie le comportement
 ou la physiologie du récepteur.
 
-{% include image.html img="img/chimique/figure1.png"%}
+{% include image.html img="img/chimique/figure1.png" %}
 
 Les actions interspécifiques, ont lieu grâce aux substances
 allélochimiques, ce sont des actions concernant les relations entre
@@ -132,8 +132,7 @@ d'Afrique *Oecophyllalonginoda* secrète grâce à ses glandes
 mandibulaires quatre substances principales qui agissent dans un
 périmètre particulier. En voici, le schéma :
 
-{% include image.html img="img/chimique/figure3.png" caption="Phéromones d’alarme : comportement d’une ouvrière tisserande
-Oecophyllalonginodo alarmée par une glande mandibulaire écrasée au centre du dispositif circulaire. Les diverses phéromones d’alarme sont plus au moins volatiles et déclenchent des comportements différents. B : 2-butyl-2-octénal, U : 3-undécanone, R : répulsion (modifié d’après Bradshaw)" %}
+{% include image.html img="img/chimique/figure3.png" caption="Phéromones d’alarme : comportement d’une ouvrière tisserande Oecophyllalonginodo alarmée par une glande mandibulaire écrasée au centre du dispositif circulaire. Les diverses phéromones d’alarme sont plus au moins volatiles et déclenchent des comportements différents. B : 2-butyl-2-octénal, U : 3-undécanone, R : répulsion (modifié d’après Bradshaw)" %}
 
 L’hexanal, composé organique de la famille des aldéhydes, est la
 substance chimique la plus volatile, elle déclenche un état d’alerte
