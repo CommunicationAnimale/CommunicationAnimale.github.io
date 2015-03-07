@@ -34,7 +34,7 @@ Dans ces deux catégories ; on distingue différents types de phéromones, nous 
 
 -	phéromones d’alarme : comme leur noms l’indique, ces phéromones utilisées par les insectes, les poissons, et mammifères permettent aux animaux d’alerter d’un danger. Chez les fourmis, on constate que la réaction agit de façon collective. En effet, dès lors qu’une fourmi sécrète une phéromone d’alarme, les autres fourmis présentent réagissent et sécrètent à leurs tours cette même phéromone ainsi la réaction devenant collective permet de mieux contrôler les dangers. On en conclut alors que le rôle premier de ces substances chimiques est d’avertir les autres congénères de la fourmilière d’un danger. Selon BLUM et PASSERA, « ces phéromones constituent un progrès dans l'évolution des espèces eusociales ». Ce phénomène peut être observé avec les jets à plus centimètre d’acide formique
 
-{% include image.html img="img/chimique/figure2.png" caption="Photo illustrant les jets d’acide formique" %}
+{% include image.html img="img/chimique/figure2.png"%}
 
 Le comportement d’alarme peut-être divisé en deux activités. Tout d’abord, on constate « un mouvement de panique », ainsi les différentes fourmis adoptent un comportement agressif auquel s’ajoute un déplacement à grande vitesse vers le danger. Puis, les fourmis adoptent une attitude d’attaque, elle ouvre leurs mandibules et attaque l’insecte dangereux en piquant pour déposer du venin. 
 Comme nous allons l’aborder plus tard, il faut noter que les phéromones d’alarme sont secrétées par les glandes mandibulaire, la glande de Dufour, ou encore la glande à poison. 
@@ -49,16 +49,18 @@ L’hexanal, composé organique de la famille des aldéhydes, est  la substance 
 
 
 -	Les phéromones de piste : Utilisées par les insectes sociaux ainsi que les  mammifères, ces phéromones permettent de tracer une piste chimique. Elles sont à l’origine d’un recrutement d’autres fourmis. Elles sont utilisées pour l’approvisionnement de nourriture à la fourmilière mais aussi pour neutraliser un ennemi ou pour le déménagement à un nouveau nid. Pour réaliser cette piste chimique, la fourmi secrète la phéromone en frottant son aiguillon ou l’extrémité de son abdomen sur le sol. Cette méthode permet l’augmentation progressive du nombre de fourmi recruté.
+
 Les chercheurs ont démontré qu’il existe au moins 9 glandes permettant la sécrétion de phéromones de  piste. La plus part de ces phéromones se trouvent dans l’abdomen par exemple dans la glande de Dufour ou dans les glandes à poison.
+
 Nous pouvons réaliser une expérience permettant de démontrer l’utilisation d’une piste chimique : Prenons une fourmi qui va de la fourmilière vers une source de nourriture. La première fourmi va secréter une phéromone qui « traversera son chemin » de retour à sa fourmilière. Les  autres fourmis sont  alertées et suivront la même piste qu’a suivie la première fourmi pour apporter de la nourriture à la fourmilière. 
 
-{% include image.html img="img/chimique/figure5.png" caption="Schéma des parcours utilisé lors des expériences et observation de différents moments " %}
+{% include image.html img="img/chimique/figure5.png"caption="Schéma des parcours utilisé lors des expériences et observation de différents moments " %}
 
 On constate que plus les fourmis font des aller- retour, plus elles ont tendance à emprunter le chemin le plus court. Ainsi, le bouquet phéromone des phéromones de piste permet aux fourmis de marquer un « trajet » qu’elle signale à d’autres fourmis. De plus ; les substances secrétées permettent aussi aux autre fourmis de connaître la quantité de nourriture disponible qui à leur tour sécrèteront ce bouquet jusqu’à temps que la nourriture est disponible. 
 
 Exemple de phéromones de piste que nous avons modélisées grâce au logiciel ChemSketch ; il faut noter que ce logiciel ne prend pas en compte les liaisons doubles :
  
- {% include image.html img="img/chimique/figure4.png" caption="Schéma des parcours utilisé lors des expériences et observation de différents moments " %}
+{% include image.html img="img/chimique/figure6.png" %}
  
 On doit ajouter à cela que les scientifiques Regnier et Wilson ont calculé l’efficacité de la perception des phéromones d’alarme chez certaines espèces. Ainsi, les Acanthomyops claviger perçoivent les phéromones d’alarme dès lors que la concentration atteint 1010 à 1012 molécules/cm3. Et chez les Atta Texana,  l’efficacité est atteinte dès lors que la concentration est de 108 molécules/cm3.
 
