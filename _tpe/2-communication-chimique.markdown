@@ -10,7 +10,7 @@ published: true
 
 Les substances sémiochimiques  sont des molécules organiques synthétisées par un organisme vivant et qui interviennent comme moyen de communication que ce soit de manière intraspécifique ou de manière interspécifique. Ces substances sémiochimiques modifie le comportement ou la physiologie du récepteur.
 
-{% include image.html img="img/chimique/figure1.png"%}
+{% include image.html img="img/chimique/figure1.png" %}
 
 Les actions interspécifiques, ont lieu grâce aux substances allélochimiques, ce sont des actions concernant les relations entre différentes espèces  alors que les actions intraspécifiques, ayant lieu grâce aux phéromones sont relatif aux rapports qui se produisent au sein d’une même espèce. C’est pour cette raison, que nous allons nous intéresser aux phéromones pour étudier la communication chimique qui a lieu au sein d’une même espèce : les fourmis.
 
@@ -54,7 +54,7 @@ Les chercheurs ont démontré qu’il existe au moins 9 glandes permettant la s�
 
 Nous pouvons réaliser une expérience permettant de démontrer l’utilisation d’une piste chimique : Prenons une fourmi qui va de la fourmilière vers une source de nourriture. La première fourmi va secréter une phéromone qui « traversera son chemin » de retour à sa fourmilière. Les  autres fourmis sont  alertées et suivront la même piste qu’a suivie la première fourmi pour apporter de la nourriture à la fourmilière. 
 
-{% include image.html img="img/chimique/figure5.png"caption="Schéma des parcours utilisé lors des expériences et observation de différents moments " %}
+{% include image.html img="img/chimique/figure5.png" caption="Schéma des parcours utilisé lors des expériences et observation de différents moments" %}
 
 On constate que plus les fourmis font des aller- retour, plus elles ont tendance à emprunter le chemin le plus court. Ainsi, le bouquet phéromone des phéromones de piste permet aux fourmis de marquer un « trajet » qu’elle signale à d’autres fourmis. De plus ; les substances secrétées permettent aussi aux autre fourmis de connaître la quantité de nourriture disponible qui à leur tour sécrèteront ce bouquet jusqu’à temps que la nourriture est disponible. 
 
@@ -66,21 +66,22 @@ On doit ajouter à cela que les scientifiques Regnier et Wilson ont calculé l�
 
 -	Les phéromones d’agrégation : Les phéromones d’agrégation sont un véritable outil chez les fourmis pour assurer la cohésion sociale. Ainsi, elles ont un rôle important pour la reproduction, pour l’hibernation, pour nidifier, pour estiver ou encore la protection social. Ces phéromones ont une durée de vie très variable les unes des autres. En effet ; elles peuvent agir temporairement ou de façon permanente pour assurer la cohésion sociale. Voici un exemple de phéromones d’agrégation, il s’agit d’une phéromone spécifique des Coléoptères. En effet ; il existe très peu d’étude concernant les phéromones d’agrégation des fourmis.
 
-(to do mettre le tableau)
+{% include image.html img="img/chimique/figure7.png" %}
 
 -	Les phéromones passeports : elles sont comparables à une « carte d’identité » de la fourmi. Ainsi, elles sont imprégnées sur leurs cuticule et permettent aux autres fourmis de les identifier par rapport à leur fourmilière à partir d’un contact antennaire ces phéromones sont certes des substances chimiques mais leurs modes de communication est tactile et nom chimique c’est pour cela que nous n’allons pas les détailler. Cependant ; on peut aussi considérer que le nid imprégner de phéromones passeport permet aux colonies de se reconnaître les uns par aux autres. Voici un exemple de phéromones passeport :
-(to do mettre tableau)
+
+{% include image.html img="img/chimique/figure8.png" %}
 
 -	Les  phéromones sexuelles : Elément essentiel lors de la reproduction, les phéromones sexuelles permettent aux fourmis d’attirer les fourmis du sexe opposé. Il faut noter que ces phéromones sont la plupart du temps émises par les femelles afin d’attirer les mâles.  Selon des études, la plupart des phéromones émises par les femelles sont des hydrocarbures. La longueur de la chaine carbonique moyenne est de 10 à 20 atomes de carbone. Elles permettent aussi de connaître le sexe de l’individu. Ces phéromones sont de véritables signaux olfactifs présents chez de nombreux insectes.
 
  On distingue deux catégories de phéromones sexuelles : les substances d’appels secrétés par des glandes en dehors de l’appareil génital ainsi que les substances aphrodisiaques qui entrainent l’accouplent. C’est le cas de certains alcaloïdes
 Voici un exemple de phéromone sexuelle qui est une cétone :
 
-(TODO mettre tableau)
+{% include image.html img="img/chimique/figure9.png" %}
 
 -	Les phéromones de recrutement : elles permettent de recruter d’autres fourmis afin de donner une aide.  Elle provoque un regroupement de plusieurs fourmis en un point précis. Elles sont utilisées par exemple pour l’approvisionnement en nourriture. Elles sont un enchaînement  des phéromones de piste.  Ces phéromones sont aussi utilisées lors d’un déménagement d’un nid à l’autre. Il faut noter que les phéromones d’alarme provoque aussi un regroupement mais celui-ci est défensif, de plus ce n’est pas le rôle premier des phéromones d’alarme. C’est pour cela qu’il ne faut pas les confondre avec les phéromones de recrutement.
 
-(mettre le tableau)
+{% include image.html img="img/chimique/figure9.png" %}
 
 **Bilan sur les différents types de phéromones utilisés dans la communication chimique des fourmis :**
 Tous les phéromones que nous avons citées précédemment sont des molécules organiques car elles possèdent principalement les éléments carbone et hydrogène. Généralement ; la longueur de la chaine carbonée témoigne de l’efficacité de la molécule. Certaines phéromones sont spécifiques de l’espèce (c’est le cas de la phéromone d’agrégation des coléoptères) mais elles sont dans d’autre cas utilisées par plusieurs insectes. D’autre part ; certaines phéromones sont utilisées dans le même but comme par exemple la phéromone de piste et les phéromones de recrutement lors de l’approvisionnement en nourriture. Ainsi, le message émis par les fourmis ne résulte pas d’une seule phéromone mais de différents types de phéromones constituants le bouquet phéromonale.
@@ -102,15 +103,17 @@ Définition : Une glande exocrine est un organe sécrétant des substances chimi
 
 Il existe au moins trois types de glande exocrine pouvant être distingué selon le tableau suivant :
 
-(to do mettre tableau)
+{% include image.html img="img/chimique/figure10.png" %}
 
 Nous pouvons voir la structure de ces glandes grâce au schéma ci-dessous et ainsi étudier l’évacuation des phéromones.
-(mettre le schema)
+
+{% include image.html img="img/chimique/figure11.png"caption="Schéma de la structure des glandes à phéromones chez les in-sectes, selon Brossut, 1996" %} 
 
 L’évacuation des phéromones dépend des différents pores de la glande. Selon le type de cellules où se trouve la phéromone, l’évacuation est différente. Pour les cellules de types 1 : cellules glandulaire épidermique, la phéromone est rejetée par canaux très étroit qui se situe dans la cuticule. En ce qui concerne les cellules de type 2 : les cellules glandulaires intra-épidermique, la phéromone est évacuée par  des canaux fins ou par les chambres d’évacuation suite à leurs transports par les cellules adjacents. Enfin,  les cellules de type 3 : les cellules sous-épidermique, la phéromone est rejetée par un réservoir central grâce à un canal cuticulaire.
 
 **2.2.2.	Les différentes glandes exocrines**
-(to do mettre le schéma)
+
+{% include image.html img="img/chimique/figure12.png"caption="Schéma du système glandulaire de la fourmi" %} 
 
 
 Glande mandibulaire : Située en dessous des mandibules, la glande mandibulaire synthétise les phéromones d’alarme. Elles produisent aussi un liquide peu fluide qui permet de malaxer et de ramollir la nourriture retrouvée par les fourmis. Ces substances chimiques sont principalement constituées de citronellol et de citronellal qui ont respectivement une fonction défensive et déclencheur d’alarme. D’autre part ; ces glandes mandibulaire permettent du maintien de la hiérarchie sociale
