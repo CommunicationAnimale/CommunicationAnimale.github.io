@@ -14,7 +14,7 @@ communication telle que la communication sonore, chimique, électrique,
 vibratoire et ultrasonore. Toutefois, ces modalités n’ont été étudiées
 que très récemment, en effet même si les communications sonores et
 visuelles sont connues depuis toujours, les communications chimiques,
-vibratoires et ultrasonores ne sont étudiées que depuis le XX^e^ siècle,
+vibratoires et ultrasonores ne sont étudiées que depuis le XX<sup>e</sup> siècle,
 en partie car elles reposent sur des phénomènes chimiques et physiques
 complexes. Nous avons choisi de nous intéresser à ces trois méthodes de
 communication.

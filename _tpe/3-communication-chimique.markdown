@@ -6,45 +6,157 @@ published: true
 
 {% include katex_import.html %}
 
-# 1. Les Substances sémiochimiques
+# Les substances sémiochimiques :
 
-Les substances sémiochimiques  sont des molécules organiques synthétisées par un organisme vivant et qui interviennent comme moyen de communication que ce soit de manière intraspécifique ou de manière interspécifique. Ces substances sémiochimiques modifie le comportement ou la physiologie du récepteur.
+
+Les substances sémiochimiques sont des molécules organiques
+synthétisées par un organisme vivant et qui interviennent comme moyen de
+communication que ce soit de manière intraspécifique ou de manière
+interspécifique. Ces substances sémiochimiques modifie le comportement
+ou la physiologie du récepteur.
 
 {% include image.html img="img/chimique/figure1.png"%}
 
-Les actions interspécifiques, ont lieu grâce aux substances allélochimiques, ce sont des actions concernant les relations entre différentes espèces  alors que les actions intraspécifiques, ayant lieu grâce aux phéromones sont relatif aux rapports qui se produisent au sein d’une même espèce. C’est pour cette raison, que nous allons nous intéresser aux phéromones pour étudier la communication chimique qui a lieu au sein d’une même espèce : les fourmis.
+Les actions interspécifiques, ont lieu grâce aux substances
+allélochimiques, ce sont des actions concernant les relations entre
+différentes espèces alors que les actions intraspécifiques, ayant lieu
+grâce aux phéromones sont relatifs aux rapports qui se produisent au
+sein d’une même espèce.
 
-## 1.1.	Définition de phéromone
+Nous allons nous intéresser aux phéromones pour étudier la communication
+chimique qui a lieu au sein d’une même espèce : les fourmis.
 
-La notion de phéromone a été introduite par Karlson et Lüsher en 1959, ils en ont donné la définition suivante : « Une phéromone est une substance (ou un mélange de substances) qui, après avoir été sécrétée à l'extérieur par un individu (émetteur), est perçue par un individu de la même espèce (récepteur) chez lequel elle provoque une réaction comportementale spécifique, voire une modification physiologique. »Le mot phéromone vient du grec pherein « transporter » et hormân «exciter ». Les phéromones sont produites par des glandes spécifiques et sont secrétées à l’extérieur d’un organisme.  Comme  les enzymes, elles agissent dans des quantités minimes. Nous allons étudier un peu plus tard  ces glandes spécifiques dans la partie émission.
+## Définition de phéromone:
 
-Généralement ; on ne parle pas d’une seule phéromone mais plutôt d’un bouquet phéromonale. En effet ; les phéromones ne sont pas des corps purs mais des mélanges de différentes substances chimiques. Le message transmis est spécifique aux autres fourmis, ainsi sa composition de point de vue qualitatif mais aussi quantitatif prend tout son sens.  
+La notion de phéromone a été introduite par Karlson et Lüsher en 1959,
+ils en ont donné la définition suivante : « Une phéromone est une
+substance (ou un mélange de substances) qui, après avoir été sécrétée à
+l'extérieur par un individu (émetteur), est perçue par un individu de la
+même espèce (récepteur) chez lequel elle provoque une réaction
+comportementale spécifique, voire une modification physiologique. »Le
+mot phéromone vient du grec pherein « transporter » et hormân «exciter
+». Les phéromones sont produites par des glandes spécifiques et sont
+secrétées à l’extérieur d’un organisme. Comme les enzymes, elles
+agissent dans des quantités minimes. Nous allons étudier un peu plus
+tard ces glandes spécifiques dans la partie émission.
 
-## 1.1.1.	Les différents types de phéromones :
+Généralement, on ne parle pas d’une seule phéromone mais plutôt d’un
+bouquet phéromonale. En effet, les phéromones ne sont pas des corps purs
+mais des mélanges de différentes substances chimiques. Le message
+transmis est spécifique, déterminé par sa composition qualitative et
+quantitative.
 
-Le célèbre scientifique Wilson, en 1962, distingue les phéromones de déclanchement aux phéromones modificatrices selon leurs modes d’action. Selon lui : 
- 
--	« Les phéromones de déclanchement produisent un  changement d’état immédiat et réversible dans le comportement du récepteur ». Il y classe les phéromones sexuelles (attractives ou aphrodisiaques), les phéromones d’alarme, les phéromones de piste, les phéromones d’agrégation, les phéromones de territoire…
+## Les différents types de phéromones :
 
--	« Les phéromones modificatrices  élaborent une suite de modifications physiologiques chez le récepteur, sans aucun changement immédiat dans son comportement ». cependant, ces modifications physiologiques lui permettent ultérieurement d’acquérir un nouveau répertoire comportemental, pouvant se manifester suite à une situation donnée. De plus ; ces phéromones réagissent dans le déterminisme des castes chez les insectes sociaux comme les fourmis ou les abeilles. En effet ; Wilson décrit que la reine peut créer une « substance royale » qui développent les ovaires des ouvrières, les empêchant ainsi de la construction à l’intérieur de la ruche de substances royales. 
+Le célèbre scientifique Wilson, en 1962, distingue les phéromones de
+déclenchement aux phéromones modificatrices selon leurs modes d’action.
+Selon lui :
 
-Dans ces deux catégories ; on distingue différents types de phéromones, nous allons donc nous intéresser aux différentes phéromones de déclanchement car se sont les phéromones les plus étudiées par les scientifiques
+-   « **Les phéromones de déclenchement** produisent un changement
+    d’état immédiat et réversible dans le comportement du récepteur ».
+    Il y classe les phéromones sexuelles (attractives ou
+    aphrodisiaques), les phéromones d’alarme, les phéromones de piste,
+    les phéromones d’agrégation, les phéromones de territoire…
 
--	phéromones de territoire : utilisé pour marquer le territoire et pour le repérer, il s’agit de phéromones utilisées par certains mammifères comme les chats ou les chiens mais aussi par les poissons. On les retrouve dans les urines. En ce qui concerne les fourmis ; les phéromones territoriales assure la sécurité de la fourmilière. Ainsi ; elles sont déposées pour marquer l’abord du nid. Elles sont secrétées par la glande de Dufour. Elle exerce deux rôles principaux. Premièrement ; elle permet aux ouvrières de la fourmilière de se repérer  pour rejoindre leur nid. Et enfin, elle porte une action répulsive envers les fourmis d’autres colonies.
+-   « **Les phéromones modificatrices**  élaborent une suite de
+    modifications physiologiques chez le récepteur, sans aucun
+    changement immédiat dans son comportement ». cependant, ces
+    modifications physiologiques lui permettent ultérieurement
+    d’acquérir un nouveau répertoire comportemental, pouvant se
+    manifester suite à une situation donnée. De plus, ces phéromones
+    réagissent dans le déterminisme des castes chez les insectes sociaux
+    comme les fourmis ou les abeilles. En effet, Wilson décrit que la
+    reine peut créer une « substance royale » qui développe les ovaires
+    des ouvrières.
 
--	phéromones d’alarme : comme leur noms l’indique, ces phéromones utilisées par les insectes, les poissons, et mammifères permettent aux animaux d’alerter d’un danger. Chez les fourmis, on constate que la réaction agit de façon collective. En effet, dès lors qu’une fourmi sécrète une phéromone d’alarme, les autres fourmis présentent réagissent et sécrètent à leurs tours cette même phéromone ainsi la réaction devenant collective permet de mieux contrôler les dangers. On en conclut alors que le rôle premier de ces substances chimiques est d’avertir les autres congénères de la fourmilière d’un danger. Selon BLUM et PASSERA, « ces phéromones constituent un progrès dans l'évolution des espèces eusociales ». Ce phénomène peut être observé avec les jets à plus centimètre d’acide formique
+Dans ces deux catégories, on distingue différents types de phéromones.
+Nous allons maintenant nous intéresser aux différentes phéromones de
+déclenchement car ce sont les phéromones les plus étudiées par les
+scientifiques :
+
+-   **phéromones de territoire** : utilisées pour marquer le territoire
+    et pour le repérer, il s’agit de phéromones utilisées par certains
+    mammifères comme les chats ou les chiens mais aussi par les
+    poissons. On les retrouve dans les urines. En ce qui concerne les
+    fourmis, les phéromones territoriales assure la sécurité de la
+    fourmilière. Ainsi, elles sont déposées pour marquer l’abord du nid.
+    Elles sont secrétées par la glande de Dufour. Elle exerce deux rôles
+    principaux. Premièrement, elle permet aux ouvrières de la
+    fourmilière de se repérer pour rejoindre leur nid. Et enfin, elle
+    porte une action répulsive envers les fourmis d’autres colonies.
+
+-   **phéromones d’alarme** : comme leur noms l’indique, ces phéromones
+    utilisées par les insectes, les poissons, et mammifères permettent
+    aux animaux d’alerter d’un danger. Chez les fourmis, on constate que
+    la réaction agit de façon collective. En effet, dès lors qu’une
+    fourmi sécrète une phéromone d’alarme, les autres fourmis présentent
+    réagissent et sécrètent à leurs tours cette même phéromone ainsi la
+    réaction devenant collective permet de mieux contrôler les dangers.
+    On en conclut alors que le rôle premier de ces substances chimiques
+    est d’avertir les autres congénères de la fourmilière d’un danger.
+    Selon BLUM et PASSERA, « ces phéromones constituent un progrès dans
+    l'évolution des espèces eusociales ». Les jets d’acide formique,
+    tirées à plusieurs centimètres par les fourmis, sont un exemple de
+    ce phénomène
 
 {% include image.html img="img/chimique/figure2.png" caption="Photo illustrant les jets d’acide formique" %}
 
-Le comportement d’alarme peut-être divisé en deux activités. Tout d’abord, on constate « un mouvement de panique », ainsi les différentes fourmis adoptent un comportement agressif auquel s’ajoute un déplacement à grande vitesse vers le danger. Puis, les fourmis adoptent une attitude d’attaque, elle ouvre leurs mandibules et attaque l’insecte dangereux en piquant pour déposer du venin. 
-Comme nous allons l’aborder plus tard, il faut noter que les phéromones d’alarme sont secrétées par les glandes mandibulaire, la glande de Dufour, ou encore la glande à poison. 
-Généralement, ces substances chimiques forment des chaînes carbonées plus courtes que celle des phéromones d’alarmes comme nous le montre ces exemples dans les tableaux suivants. C’est pourquoi, elles sont plus volatiles et ainsi elles possèdent une durée de vie courte. Ces phéromones d’alarmes sont souvent des cétones (comme l’octan-2-one que nous avons synthétisé voir partie utilisation de ces connaissances par l’homme), des esters, des alcools, des hydrocarbures comme l’exemple du décane. 
-Différentes phéromones d’alarmes sont utilisées par les mêmes espèces. Elles sont donc moins spécifiques que les phéromones de piste, ainsi l’acide formique est non seulement utilisé par les formicas rufa (fourmis des bois) mais aussi par les Camponotus. 
-Chez certaines espèces ont pu tracer différents cercles démontrant les champs d’action des phéromones. Par exemple, la fourmi tisserande d'Afrique Oecophyllalonginoda secrète grâce à ces glandes mandibulaires 4 substances principales qui agissent dans un périmètre particulier. En voici, le schéma :
+Le comportement d’alarme peut-être divisé en deux activités. Tout
+d’abord, on constate « un mouvement de panique », ainsi les différentes
+fourmis adoptent un comportement agressif auquel s’ajoute un déplacement
+à grande vitesse vers le danger. Puis, les fourmis adoptent une attitude
+d’attaque, elles ouvrent leurs mandibules et attaquent l’insecte
+dangereux en piquant pour déposer du venin.
 
-{% include image.html img="img/chimique/figure3.png" caption="Phéromones d’alarme : comportement d’une ouvrière tisserande Oecophyllalonginodo alarmée par une glande mandibulaire écrasée au centre du dispositif circulaire. Les diverses phéromones d’alarmes sont plus au moins volatils et déclenche des comportements différents. B : 2-butyl-2-octénal ; U : 3-undécanone ; R : répulsion, modifié d’après Bradshaw" %}
+Comme nous allons l’aborder plus tard, il faut noter que les phéromones
+d’alarme sont secrétées par les glandes mandibulaire, la glande de
+Dufour, ou encore la glande à poison.
 
-L’hexanal, composé organique de la famille des aldéhydes, est  la substance chimique la plus volatile ; elle déclenche un état d’alerte chez les fourmis se trouvant à une dizaine de centimètre de la source qui a été mordue. Lorsque les fourmis ouvrières s’approchent et se trouvent à cinq centimètres, elles sont attirées par le centre mais le 1-hexanol, substance chimique qualifiable de « lourde » agit comme répulsif cependant son temps de vie étant limité. Cette action répulsive permet d’attirer plus de fourmis dans le cercle afin de permettre à un ensemble de fourmis de s’attaquer collectivement et efficacement.  Peu à peu, l’effet répulsif diminue par évaporation. Ainsi, le 3-undécanone et  le 2-butyl-2-oclénal se trouvant au centre du dispositif sont les substances chimiques les plus « lourdes », permettent de déclencher un comportement de morsure
+Généralement, ces substances chimiques forment des chaînes carbonées
+plus courtes que celle des phéromones d’alarmes comme nous le montrent
+ces exemples dans les tableaux suivants. C’est pourquoi, elles sont plus
+volatiles et ainsi elles possèdent une durée de vie courte. Ces
+phéromones d’alarme sont souvent des cétones (comme l’octan-2-one que
+nous avons synthétisé, voir partie utilisation de ces connaissances par
+l’homme), des esters, des alcools, des hydrocarbures comme l’exemple du
+décane.
+
+Différentes phéromones d’alarme sont utilisées par les mêmes espèces.
+Elles sont donc moins spécifiques que les phéromones de piste, ainsi
+l’acide formique est non seulement utilisé par les *formicas rufa*
+(fourmis des bois) mais aussi par les Camponotus.
+
+Chez certaines espèces, on a pu tracer différents cercles démontrant les
+champs d’action des phéromones. Par exemple, la fourmi tisserande
+d'Afrique *Oecophyllalonginoda* secrète grâce à ses glandes
+mandibulaires quatre substances principales qui agissent dans un
+périmètre particulier. En voici, le schéma :
+
+{% include image.html img="img/chimique/figure3.png" caption="Phéromones d’alarme : comportement d’une ouvrière tisserande
+Oecophyllalonginodo alarmée par une glande mandibulaire écrasée au centre du dispositif circulaire. Les diverses phéromones d’alarme sont plus au moins volatiles et déclenchent des comportements différents. B : 2-butyl-2-octénal, U : 3-undécanone, R : répulsion (modifié d’après Bradshaw)" %}
+
+L’hexanal, composé organique de la famille des aldéhydes, est la
+substance chimique la plus volatile, elle déclenche un état d’alerte
+chez les fourmis se trouvant à une dizaine de centimètre de la source
+qui a été mordue. Lorsque les fourmis ouvrières s’approchent et se
+trouvent à cinq centimètres, elles sont attirées par le centre mais le
+1-hexanol, substance chimique qualifiable de « lourde » agit comme
+répulsif, cependant son temps de vie est limité. Cette action répulsive
+permet d’attirer plus de fourmis dans le cercle afin de permettre à un
+ensemble de fourmis de s’attaquer collectivement et efficacement. Peu à
+peu, l’effet répulsif diminue par évaporation. Ainsi, le 3-undécanone et
+le 2-butyl-2-oclénal se trouvant au centre du dispositif sont les
+substances chimiques les plus « lourdes », elles permettent de
+déclencher un comportement de morsure
+
+  Nom                          Espèce                           Formule topologique   Représentation 3D
+  ---------------------------- -------------------------------- --------------------- -------------------
+  2,6-Diméthyl-5-Heptan-1-Al   Acanthomyopsclavigier, ouviers                         
+  Nérol                        Acanthomyopsclavigier, ouviers                         
+
+Exemple de phéromones de piste que nous avons modélisées grâce au
+logiciel ChemSketch, il faut noter que ce logiciel ne prend pas en
+compte les liaisons
 
 
 

@@ -289,30 +289,97 @@ sensibilité aux ultrasons, soient sélectionnés par leur environnement.
 
 ## Utilisation de ces connaissances par l’homme
 
-### NMMP 
+### United States Navy Marine Mammal Program
 
-En 1942, la Suède a eu l’idée d’utiliser des phoques pour faire la chasse aux sous-marins allemands. Ces phoques dressés, équipés d’une mine sur leur dos,  devaient nager sous les coques, puis le moment venu, la mine explosait avec le corps de l’animal.
-Cette nouvelle tactique de guerre a ouvert la voie aux expériences militaires. L’US Navy utilise des otaries et des dauphins depuis 1960.
+En 1942, la Suède a eu l’idée d’utiliser des phoques pour faire la
+chasse aux sous-marins allemands. Ces phoques dressés, équipés d’une
+mine sur leur dos, devaient nager sous les coques, puis le moment venu,
+la mine explosait avec le corps de l’animal.
 
+Cette nouvelle tactique de guerre a ouvert la voie aux expériences
+militaires. L’US Navy utilise des otaries et des dauphins depuis 1960.
 
-Otarie dréssée pour repérer des objets sous-marins.
+![](media/image11.png)
 
-Le programme de mammifères marins de la marine américaine, en anglais U.S. Navy Marine Mammal Program (NMMP), est un programme dirigé par la Marine américaine qui étudie l’emploi militaire de mammifères marins (le Grand dauphin qui émet et reçoit en un millième de seconde, des fréquences variant entre 220 et 250 000 hertz et l’otarie de Californie) et les entraîne à des tâches tels que la protection de navires et de ports, le repérage et le dégagement de mines, ainsi que la récupération d’objets. Le programme est basé à San Diego en Californie où les animaux sont entraînés. Les animaux du NMMP ont été déployés en zones de combat, notamment pendant la Guerre du Viêt Nam et la Guerre d'Irak. Cette dernière a permis aux américains d’ouvrir le golfe Arabique au marché international après la fin du conflit, en particulier grâce a ces animaux. La Navy a recours à certaines équipes humains-cétacés. Les équipes MK 4, 7 et 8 utilisent des dauphins; MK 5 utilise des otaries, et MK 6 utilise à la fois dauphins et otaries. Ces équipes peuvent être déployées partout sur le globe en 72 heures, vers des zones de conflits. 
+Le programme de mammifères marins de la marine américaine, en anglais
+U.S. Navy Marine Mammal Program (NMMP), est un programme dirigé par la
+Marine américaine qui étudie l’emploi militaire de mammifères marins (le
+Grand dauphin qui émet et reçoit en un millième de seconde, des
+fréquences variant entre 220 et 250 000 hertz et l’otarie de Californie)
+et les entraîne à des tâches tels que la protection de navires et de
+ports, le repérage et le dégagement de mines, ainsi que la récupération
+d’objets. Le programme est basé à San Diego en Californie où les animaux
+sont entraînés. Les animaux du NMMP ont été déployés en zones de combat,
+notamment pendant la Guerre du Viêt Nam et la Guerre d'Irak. Cette
+dernière a permis aux américains d’ouvrir le golfe Arabique au marché
+international après la fin du conflit, en particulier grâce a ces
+animaux.La Navy a recours à certaines équipes humains-crétacés. Les
+équipes MK 4, 7 et 8 utilisent des dauphins; MK 5 utilise des otaries,
+et MK 6 utilise à la fois dauphins et otaries. Ces équipes peuvent être
+déployées partout sur le globe en 72 heures, vers des zones de conflits.
 
+### Les ondes dans le milieu liquide
 
-soldat dauphin
+Trois niveaux de profondeur sont visibles : la zone proche de la surface
+("seasonal thermocline") dont la température dépend de la saison de
+l’année, la zone intermédiaire thermocline ("permanent thermocline")
+puis la zone des eaux froides profondes ("deep-water isothermal layer").
 
+Passée la valeur de la vitesse minimale ("sound velocity minimum" :
+Vmin), la profondeur a donc une influence positive sur la célérité.
 
-Trois niveaux de profondeur sont visibles : la zone proche de la surface ("seasonal thermocline") dont la température dépend de la saison de l’année, la zone intermédiaire thermocline ("permanent thermocline") puis la zone des eaux froides profondes ("deep-water isothermal layer"). 
-Passée la valeur de la vitesse minimale ("sound velocity minimum" : Vmin), la profondeur a donc une influence positive sur la célérité. 
-Nous pouvons remarquer que la vitesse de propagation des ondes sonores dans l’eau n’est pas constante. Elle est maximale dans les eaux de surface puis décroit dans la zone intermédiaire jusqu’à sa vitesse minimale pour augmenter de nouveau progressivement dans les eaux profondes.
+Nous pouvons remarquer que la vitesse de propagation des ondes sonores
+dans l’eau n’est pas constante. Elle est maximale dans les eaux de
+surface puis décroit dans la zone intermédiaire jusqu’à sa vitesse
+minimale pour augmenter de nouveau dans les eaux profondes.
 
+Ces données peuvent justifier ceci grâce à ces données :
 
-1. Ying Li, Zhen Liu, Peng Shi, Jianzhi Zhang. The hearing gene Prestin unites echolocating bats and whales. Current Biology, 2010; DOI:10.1016/j.cub.2009.11.042
+-   Dans l'air, le signal reçu a un retard de 600 µs sur le signal émis.
 
+-   Dans l'eau, le signal reçu a un retard de 150 µs sur le signal émis.
 
+Ainsi les ultrasons se déplacent plus rapidement dans l'eau que dans
+l'air, à raison de 300m/s dans l'air et de 1500m/s dans un milieu
+liquide comme l'eau.
 
+### L'échographie
 
+L'échographie est une méthode d'exploration du corps reposant sur
+l'utilisation des ultrasons. Grâce à la sonde qui émet et reçoit les
+ultrasons, l'échographie permet une représentation interne du corps.
+Elle est principalement utilisée en médecine. Nous allons désormais
+évoquer l'examen "Doppler vasculaire".
+
+Un examen "Doppler vasculaire" se pratique au moyen d'une sonde Doppler
+qui émet ses ultrasons à une fréquence précise en direction de l'artère
+à étudier. Ces ultrasons percutent les hématies en mouvement, or la
+taille des hématies est inférieure à la longueur d'onde des ultrasons
+utilisés. Il se produit donc un phénomène de diffusion.
+
+L'énergie rediffusée par les hématies revient vers la sonde qui va
+mesurer la fréquence de ces ondes. Cette nouvelle fréquence sera
+différente de celle des ultrasons émis en raison de l'effet Doppler qui
+intervient 2 fois: d'abord entre la sonde, l'émetteur fixe et les
+hématies, récepteurs mobiles; puis entre ces hématies, qui deviennent
+les "émettrices" mobiles et la sonde (récepteur fixe).
+
+La différence entre la fréquence du signal émis et celle du signal reçu
+par la sonde suit la formule:
+
+Avec: deltaF =2F (V/C)cos theta
+
+delta F = différence entre la fréquence de l'onde émise et celle de
+l'onde reçue
+
+F = fréquence de l'onde émise
+
+V = vitesse du sang
+
+C = célérité des ultrasons dans les tissus mous (1540 m/s)
+
+cos theta = cosinus de l'angle que forme la direction du faisceau
+ultrasonore et la direction de l'écoulement sanguin.
 
 {% include buttons.html %}
 
