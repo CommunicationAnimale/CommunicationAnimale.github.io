@@ -244,6 +244,7 @@ Les pièges à entonnoir et le pièges à ailette : une capsule permettant la di
  
  Les différents pièges commercialisés peuvent agir sur les mouches de la carotte, de la cerise et de l'olive ; sur  les carpocapses du poirier ; du pommier et du prunier ; sur les chenilles processionnaires du pin ; sur les Teignes du poireau ; sur les pyrales du maïs et les mineuses du marronnier. 
  
+ 
  **2.4.	La recherche :**
  
  Actuellement, seules les phéromones sexuelles et les phéromones d’agrégation sont utilisées en agriculture. Mais certains chercheurs étudient l’utilisation des phéromones de pistes afin d’agir sur les futures invasions des fourmis d’Argentine.
