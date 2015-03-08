@@ -83,7 +83,7 @@ title: Sources
 
 12. Pro.cleamax, Intelligence en essaim : exemple de la colonie de fourmis, disponible sur : <http://pro.cleamax.fr/info-bioinspiree/?p=fourmis>
 
-13. « The study of vibratory communication in insects as a tool to develop new biological control techniques ». [En ligne]. Disponible sur: http://www.nib.si/eng/index.php/component/projects/?view=project&id=197
+13. « The study of vibratory communication in insects as a tool to develop new biological control techniques ». [En ligne]. Disponible sur : <http://www.nib.si/eng/index.php/component/projects/?view=project&id=197>
 
 14. FABRE Julie, Communication acoustique chez le dauphin, 2014 : <http://theses.vet-alfort.fr/telecharger.php?id=1778>
 
