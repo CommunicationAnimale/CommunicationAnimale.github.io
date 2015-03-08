@@ -175,6 +175,8 @@ La différence entre la fréquence du signal émis et celle du signal reçu par 
 
 $$ \delta F = 2F(\frac{V}{C}) \cos \theta$$
 
+Avec
+
 $$\delta F$$ : différence entre la fréquence de l'onde émise et celle de l'onde reçue
 
 $$F$$ : fréquence de l'onde émise
