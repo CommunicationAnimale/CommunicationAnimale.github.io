@@ -9,16 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="222"
-   height="213"
-   viewBox="0 0 222 213"
+   width="500"
+   height="479"
+   viewBox="0 0 500 479"
    id="svg3938"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="VfilB.svg"
    inkscape:export-filename="D:\Documents\Valentin\Progammation\CommunicationAnimale.github.io\img\vibrations\VfilB.png"
-   inkscape:export-xdpi="162.16"
-   inkscape:export-ydpi="162.16">
+   inkscape:export-xdpi="108"
+   inkscape:export-ydpi="108">
   <defs
      id="defs3940">
     <clipPath
@@ -46,18 +46,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="89.471235"
-     inkscape:cy="97.830227"
+     inkscape:zoom="1.2699115"
+     inkscape:cx="193.7892"
+     inkscape:cy="244.50523"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1304"
-     inkscape:window-height="746"
-     inkscape:window-x="-8"
-     inkscape:window-y="274"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1680"
+     inkscape:window-height="1028"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true" />
   <metadata
      id="metadata3943">
     <rdf:RDF>
@@ -74,9 +75,9 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-839.36216)">
+     transform="translate(0,-573.36216)">
     <g
-       transform="matrix(1.25,0,0,-1.25,-60.4375,1826.9872)"
+       transform="matrix(2.8147916,0,0,-2.8147916,-136.04867,2797.0088)"
        inkscape:label="Vitesse onde dans filB"
        id="g3954">
       <g
