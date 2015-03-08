@@ -21,35 +21,6 @@ published: false
   -----------------------------------------------------   Action interspécifique :   Action intraspécifique :         Allélochimique     Phéromones   -------------------------- --------------------------   -----------------------------------------------------
 
 
-
-### 
-
-### 
-
-Photo illustrant les jets d’acide formique
-
-![](media/image14.jpeg)
-
-
-
-![](media/image15.png)
-
-
-
-
-
-doubles :
-
--   **Les phéromones de piste** : Utilisées par les insectes sociaux ainsi que les mammifères, ces phéromones permettent de tracer une piste chimique. Elles sont à l’origine d’un recrutement d’autres fourmis. Elles sont utilisées pour l’approvisionnement de nourriture à la fourmilière mais aussi pour neutraliser un ennemi ou pour le déménagement à un nouveau nid. Pour réaliser cette piste chimique, la fourmi secrète la phéromone en frottant son aiguillon ou l’extrémité de son abdomen sur le sol. Cette méthode permet l’augmentation progressive du nombre de fourmis recrutées.
-
-Les chercheurs ont démontré qu’il existe au moins neuf glandes permettant la sécrétion de phéromones de piste. La plupart de ces phéromones se trouvent dans l’abdomen par exemple dans la glande de Dufour ou dans les glandes à poison.
-
-Nous pouvons réaliser une expérience permettant de démontrer l’utilisation d’une piste chimique : prenons une fourmi qui va de la fourmilière vers une source de nourriture. La première fourmi va secréter une phéromone qui « traversera son chemin » de retour à sa fourmilière. Les autres fourmis sont alertées et suivront la même piste qu’a suivie la première fourmi pour apporter de la nourriture à la fourmilière.
-
-Schéma des parcours utilisé lors des expériences et observation de différents moments
-
-![](media/image20.jpeg)
-
 On constate que plus les fourmis font des aller- retour, plus elles ont tendance à emprunter le chemin le plus court. Ainsi, le bouquet phéromone des phéromones de piste permet aux fourmis de marquer un « trajet » qu’elles signalent à d’autres fourmis. De plus, les substances secrétées permettent aussi aux autre fourmis de connaître la quantité de nourriture disponible, à leur tour elles sécrèteront ce bouquet tant que la nourriture est disponible.
 
 Voici deux exemples de phéromones de piste :

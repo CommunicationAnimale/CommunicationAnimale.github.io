@@ -143,9 +143,9 @@ Nous pouvons remarquer que la vitesse de propagation des ondes sonores dans l’
 
 Ces données peuvent justifier ceci grâce à ces données :
 
--   Dans l'air, le signal reçu a un retard de 600 µs sur le signal émis.
+- Dans l'air, le signal reçu a un retard de 600 µs sur le signal émis.
 
--   Dans l'eau, le signal reçu a un retard de 150 µs sur le signal émis.
+- Dans l'eau, le signal reçu a un retard de 150 µs sur le signal émis.
 
 Ainsi les ultrasons se déplacent plus rapidement dans l'eau que dans l'air, à raison de 300m/s dans l'air et de 1500m/s dans un milieu liquide comme l'eau.
 
