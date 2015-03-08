@@ -5,15 +5,15 @@ title: La communication ultrasonore
 
 {% include katex_import.html %}
 
-# Introduction
+## Introduction
 
 Certaines gammes d'ultrasons peuvent être entendues et utilisées pour communiquer par de nombreux animaux vertébrés terrestres, comme les chiens, certains rongeurs, les chauves-souris ou les dauphins. Ces fréquences peuvent s’étendre de 15 kHz jusqu'à 200 kHz selon les espèces, alors que celles-ci sont audibles par l’homme dans un domaine s’étendant de 20Hz à 20kHz. Les ultrasons dans le monde animal sont étudiés par la bioacoustique. Elle étudie la production, la réception et l'interprétation des sons chez les animaux et humains, mais aussi l'interprétation des sonorités et l'anatomie des corps. Ainsi elle a prouvé que de nombreux animaux utilisent des sons émis non audibles par l’homme. Ces animaux utilisent les ultrasons sous forme de sonar et les utilisent pour se repérer, se nourrir et communiquer. De même, c’est grâce à ces fréquences que certains cétacés et chauves-souris peuvent émettre et réceptionner les ultrasons, ce qui entraine l’exploitation du système d'écholocation par ces espèces.
 
-## Une résonance historique
+### Une résonance historique
 
 Il y a encore plusieurs dizaines d’année, la production et la perception d’ultrasons étaient considérés possibles uniquement chez les mammifères. En 1973, le scientifique Konishi remarque que les oiseaux n'entendraient pas le son dont la fréquence dépasse 12 kHz, et selon les données disponibles dans les années 1980, l'audition des amphibiens étaient limités à 5 kHz, selon Fay en 1988. Cependant des chercheurs ont ensuite constaté que des amphibiens anoures et un oiseau sont capables de les percevoir. Ce sont la grenouille Odorrana tormota et un passereau chanteur Abroscopus albogularis, ils vivent près de torrents bruyants, et insèrent dans leur chant des harmoniques d'ultrasons. Ainsi, cette grenouille est capable d'émettre et de percevoir des ultrasons, de plus de 100 kHz. C'est la première espèce non mammifère dotée de cette propriété à avoir été découverte. Le mâle pousse des cris semblables à un chant d'oiseau et possède une anatomie de l'oreille inhabituelle, avec notamment un tympan concave, qui contient un canal auditif et des osselets très légers, donc très sensibles.
 
-# L’écholocation
+## L’écholocation
 
 L'écholocalisation consiste à envoyer des sons et à écouter leur écho pour localiser et identifier les éléments d'un environnement. Certaines espèces peuvent émettre des ultrasons comme les chauves-souris. Elles émettent des ultrasons qui se répercutent sur les objets environnants, ce qui leur permet ainsi de percevoir leur environnement. Ainsi la chauve-souris se sert de l'écholocation pour se repérer dans l’obscurité et pour repérer sa proie. Elle émet des impulsions à haute fréquence. Le son récupéré sur la trajectoire de la chauve-souris revient vers celle-ci. L'écholocation permet à la chauve-souris de déterminer la proximité de l’insecte. Grâce à la réponse continue des impulsions réfléchies, la chauve-souris se dirige automatiquement vers la proie pour la capturer.
 
@@ -23,7 +23,7 @@ D’autre part, la cible peut percevoir les sons émis pour la repérer et réag
 
 Enfin, chez les animaux vivant en groupe (chauve-souris et dauphins notamment), l'émission et la réception de leurs signaux peuvent être brouillés par ceux de leurs congénères.
 
-##L’exemple des dauphins
+### L’exemple des dauphins
 
 L’écholocation des dauphins est la capacité de ces deniers à repérer et situer les aspects importants de leur environnement, leurs congénères ou les proies. Elle se base sur la propagation des ondes dans l’eau.
 
@@ -95,7 +95,7 @@ $$\Delta\lambda = \frac{V_{r}}{c}$$
 
 Ce calcul montre que le décalage relatif de la longueur d'onde est proportionnel au rapport de la vitesse de la source par rapport à l'observateur à la vitesse de la lumière.
 
-## La prestine
+### La prestine
 
 Chez plusieurs espèces douées de compétence d'écholocation par émission et réception d'ultrasons, dans l'eau ou dans l'air ; certains cétacés et chauve-souris ont recours à la prestine, protéine impliquée dans l'écholocation.
 

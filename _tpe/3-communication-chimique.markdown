@@ -6,7 +6,7 @@ published: true
 
 {% include katex_import.html %}
 
-# Les substances sémiochimiques :
+## Les substances sémiochimiques :
 
  Les substances sémiochimiques sont des molécules organiques synthétisées par un organisme vivant et qui interviennent comme moyen de communication que ce soit de manière intraspécifique ou de manière interspécifique. Ces substances sémiochimiques modifie le comportement ou la physiologie du récepteur.
 
@@ -16,13 +16,13 @@ Les actions interspécifiques, ont lieu grâce aux substances allélochimiques, 
 
 Nous allons nous intéresser aux phéromones pour étudier la communication chimique qui a lieu au sein d’une même espèce : les fourmis.
 
-## Définition de phéromone:
+### Définition de phéromone:
 
 La notion de phéromone a été introduite par Karlson et Lüsher en 1959, ils en ont donné la définition suivante : « Une phéromone est une substance (ou un mélange de substances) qui, après avoir été sécrétée à l'extérieur par un individu (émetteur), est perçue par un individu de la même espèce (récepteur) chez lequel elle provoque une réaction comportementale spécifique, voire une modification physiologique ». Le mot phéromone vient du grec pherein « transporter » et hormân « exciter ». Les phéromones sont produites par des glandes spécifiques et sont secrétées à l’extérieur d’un organisme. Comme les enzymes, elles agissent dans des quantités minimes. Nous allons étudier un peu plus tard ces glandes spécifiques dans la partie émission.
 
 Généralement, on ne parle pas d’une seule phéromone mais plutôt d’un bouquet phéromonale. En effet, les phéromones ne sont pas des corps purs mais des mélanges de différentes substances chimiques. Le message transmis est spécifique, déterminé par sa composition qualitative et quantitative.
 
-## Les différents types de phéromones :
+### Les différents types de phéromones :
 
 Le célèbre scientifique Wilson, en 1962, distingue les phéromones de déclenchement aux phéromones modificatrices selon leurs modes d’action. Selon lui :
 
@@ -145,7 +145,7 @@ L’évacuation des phéromones dépend des différents pores de la glande. Selo
 - **Glande à poison ou à venin :** comme la glande anale, elle produit de l’acide formique, il s’agit donc d’une glande qui synthétise des phéromones d’alarme qu’elle utilise face à un danger. Cette glande, chez certaines espèces, rejette du venin qui a un rôle paralysant, d’où son nom. Ces substances chimiques sont ensuite secrétées par l’aiguillon.
 
 
-# Réception d’un signal chimique : les antennes, des récepteurs sensoriels
+## Réception d’un signal chimique : les antennes, des récepteurs sensoriels
 
 Chez la fourmi, comme tous les autres insectes, la réception des signaux chimiques se fait par le biais de récepteurs sensoriels. Ces chimiorécepteurs sont des cellules sensorielles spécialisées qui se situent au niveau des organes olfactifs c’est-à-dire les antennes.
 
@@ -164,9 +164,9 @@ On trouve, au niveau des dendrites, des récepteurs olfactifs permettant l’ide
 {% include image.html img="img/chimique/figure15.png" caption="Schéma de la réception des phéromones au niveau du liquide sensillaire" %}
 
 
-# Utilisation de ces connaissances par l’homme 
+## Utilisation de ces connaissances par l’homme 
 
-## Synthèse d’une phéromone par l’homme 
+### Synthèse d’une phéromone par l’homme 
 
 Afin de se servir de ces connaissances en matière de communication chimique, l’homme doit copier le système de communication chimique c’est-à-dire les phéromones, en les synthétisant. On doit étudier précisément la composition phéromonale des glandes, afin de synthétiser une phéromone laboratoire comme par exemple l’octan-2-one. Les synthèses des phéromones permettent à l’homme de les utiliser en tant qu’outil contre la destruction culturale comme nous allons le voir un peu plus tard. Nous avons donc procédé à une expérience afin de synthétiser l’octan-2-one, une phéromone, grâce à l’octan-2-ol. Cette phéromone se trouve dans les glandes mandibulaires des fourmis. Voici les représentations du réactif principal et du produit.
 
@@ -299,24 +299,24 @@ m<sub>max</sub>= x<sub>max</sub> × M(C<sub>8</sub>H<sub>16</sub>O) = 3,15.10<su
 
 
 
-## Lutte intégrée
+### Lutte intégrée
 
 Depuis de nombreuses années, l’agriculture repose sur l’utilisation de pesticides afin de lutter contre les insectes ravageurs. Pourtant, d’autres solutions plus respectueuses de l’environnement existent. Il s’agit de la lutte intégrée. Elle a été définie au plan européen comme « l'application rationnelle d'une combinaison de mesures biologiques, biotechnologiques, chimiques, physiques, culturales ou intéressant la sélection des végétaux dans laquelle l'emploi de produits chimiques phytopharmaceutiques est limité au strict nécessaire pour maintenir la présence des organismes nuisibles en dessous de seuil à partir duquel apparaissent des dommages ou une perte économiquement inacceptable. »
 
 Nous allons donc nous intéresser aux mesures chimiques que l’homme peut appliquer. En effet, en étudiant les insectes ravageurs, l’homme peut en déduire les phéromones qu’utilisent ces derniers et il peut ainsi réaliser une synthèse de cette phéromone qui lui permettra d’éliminer ou de limiter la population du ravageur dans un territoire précis comme c’est le cas de la méthode de la confusion sexuelle qui est mise en pratique grâce à des moyens biotechniques afin d’utiliser la synthèse d’une phéromone, il s’agit des diffuseurs.
 
-### Les avantages des phéromones par rapport aux insecticides :
+#### Les avantages des phéromones par rapport aux insecticides :
 
 L’utilisation de phéromones est un enjeu majeur pour l’agriculture car elles présentent plusieurs avantages face à l’utilisation des insecticides. Tout d’abord, l’utilisation de la synthèse des phéromones permet de cibler l’action agricole, c’est-à-dire que l’utilisation des phéromones permet une sélectivité dans le contrôle des nuisibles, ce qui est impossible avec les insecticides. En effet, leurs effets se manifestent même pour des insectes utiles qui sont touchées par le traitement. Les phéromones ne détruisent pas l’équilibre biologique car le traitement ne vise qu’une seule espèce. De fait, le traitement est spécifique d’une seule espèce. D’autre part, les phéromones permettent de préserver la biodiversité mais aussi l’environnement alors que les insecticides agissent comme des poisons, ils ne sont pas spécifiques d’une espèce. Ils polluent ainsi l’environnement. En utilisant les phéromones, l’homme copie ce qu’utilisent les insectes pour communiquer, dans le but de limiter les ravages culturaux. L’avantage des phéromones réside donc aussi dans le fait qu’elles soient biodégradables. Les quantités nécessaires pour attirer un insecte sont d’environ 15g alors que l’utilisation des insecticides implique l’utilisation de quantités importantes. Il est donc plus avantageux d’utiliser des phéromones pour permettre au mieux la préservation de l’environnement.
 
-### Méthode de la confusion sexuelle
+#### Méthode de la confusion sexuelle
 
 Afin de réduire la population cible (souvent des insectes), l’homme a recours à plusieurs méthodes comme celle de la confusion sexuelle. Il utilise ainsi les connaissances qu’il a accumulées concernant la communication chimique. Ainsi, il sait que les phéromones sexuelles sont à l’origine de la reproduction. L’homme utilise la méthode de la confusion sexuelle en libérant des phéromones sexuelles synthétisées en laboratoire. Il désoriente ainsi l’insecte en agissant sur les chimiorécepteurs de l’animal. Cette libération de phéromones engendre une fatigue sensorielle, ainsi, le mâle n’est plus capable de trouver les femelles. En effet, l’homme a camouflé les phéromones naturelles émises par les femelles. Il existe ainsi une confusion entre les phéromones d’origine naturelle et celles d’origine synthétique. Dès lors, cette méthode réduit le nombre total d’accouplement ou entraine un retard. Le taux de fécondité est par conséquent réduit ce qui provoque une diminution de la population cible sur l’espace où la phéromone sexuelle de synthèse a été diffusée.
 
 Cette méthode de lutte chimique est généralement utilisée contre les micro-lépidoptères de la famille des tortricidés (tordeuses). Elle préserve ainsi les cultures tels que les vignobles, les cultures de pommes, ceux de cerises, de prunes et de maïs.
 
 
-###Le piégeage sélectif 
+#### Le piégeage sélectif 
 
 On utilise par exemple la méthode du piégeage sélectif, du ravageur mâle ou de la femelle mais aussi des deux à la fois. Cette méthode est souvent utilisée pour un suivi du ravageur permettant de constater ou non leur présence. Elle permet aussi de donner une estimation sur les insectes ravageurs. C’est aussi un outil permettant de connaître la période de reproduction et d’estimer ainsi la période d’attaque. Voici quelques exemples de pièges utilisés en agriculture :
 
