@@ -90,6 +90,6 @@ title: Sources
 
 16. Pauline VAN LAERE, L’écholocation chez les chauves-souris, 2007: <http://vigienature.mnhn.fr/sites/vigienature.mnhn.fr/files/uploads/PaulineVANLAERE_dossier.pdf>
 
-17. Le gène Prestin, écholocation des chauves-souris et des baleines : http://www.cell.com/current-biology/abstract/S0960-9822%2809%2902057-0
+17. Le gène Prestin, écholocation des chauves-souris et des baleines : <http://www.cell.com/current-biology/abstract/S0960-9822%2809%2902057-0>
 
 {% include buttons.html %}
