@@ -277,9 +277,20 @@ C<sub>8</sub>H<sub>18</sub>O + ClOH &rarr; C<sub>8</sub>H<sub>16</sub>O + H<sup>
 
 Grâce à un tableau d’avancement ci-dessous nous pouvons calculer le rendement maximum de la synthèse de l’octan-2-ol.
 
-(to do mettre le tableau)
 
-Quelque calcul afin de remplir le tableau : 	 	(photo de calcul)
+
+{% include image.html img="img/chimique/figure26.png" %}
+
+
+Quelque calcul afin de remplir le tableau :
+
+*m*(C<sub>8</sub>H<sub>16</sub>O) = 5 × 0,819 = V(C<sub>8</sub>H<sub>16</sub>O) x d(C<sub>8</sub>H<sub>16</sub>O) = 4,09 g
+
+Donc n(C<sub>8</sub>H<sub>16</sub>O) = $$\frac{m(C_{8}H_{16}O)}{M(C_{8}H_{16}O)}$$ = = 3,15.10<sup>-2</sup> mol
+
+*n*(HClO) = M(HClO) × *V* = 1,07 × 40,10^-3^ = 4,28.10<sup>-2</sup> mol.
+
+
 
 Il faut noter que le réactif limitant est l’octan-2-ol. On peut conclure grâce au tableau d’avancement que le rendement maximum est : (photo du calcul)
 
