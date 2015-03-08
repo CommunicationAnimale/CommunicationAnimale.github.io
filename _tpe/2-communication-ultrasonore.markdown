@@ -77,7 +77,7 @@ La perception d'un signal dépend de la vitesse relative entre la source et le r
 
 Si un observateur en mouvement cherche à mesurer cette durée, il lui trouve une valeur différente, plus élevée s'il se déplace dans le sens de l'onde, plus courte s'il se déplace en sens contraire.
 
-{% include image.html img="img/ultrasons/image5.jpeg" caption="Mise en image de l'effet Doppler : « en approche »"%}
+{% include image.html img="img/ultrasons/image5.jpeg" caption="Mise en image de l'effet Doppler : « en approche »" %}
 
 {% include image.html img="img/ultrasons/image6.jpeg" caption="L'effet Doppler"%}
 
@@ -105,6 +105,10 @@ L’équipe sino-britannique de Stephen Rossiter (University of London, GB) et l
 
 En construisant des arbres phylogénétiques uniquement basés sur l’évolution de la prestine (et non sur les autres caractéristiques de ces mammifères), les deux équipes ont abouti à des rapprochements surprenants. Les chauves-souris et dauphins doués pour l’écholocation devenaient cousins, formant un groupe évolutif cohérent.
 
+
+{% include image.html img="img/ultrasons/arbre.png" caption="Arbres phylogénétiques marquant l’évolution de la prestine" %}
+
+
 Les dauphins (en bleu) au milieu des chauves-souris (en noir) et donc éloignées des baleines dépourvues d’écholocation (en bas en vert).
 
 Ces chercheurs avaient analysés la suite de nucléotides composant le gène de la prestine chez cinq espèces d'odontocètes, le cachalot et quatre espèces de dauphin, ainsi que chez des baleines incapables d'écholocalisation. Puis ils avaient comparé les séquences obtenues à celles de 18 espèces de chauves-souris. Ils avaient alors mis en évidence une ressemblance entre les séquences des odontocètes à sonar, le cachalot mis à part, et celles des chauves-souris.
@@ -129,11 +133,21 @@ En 1942, la Suède a eu l’idée d’utiliser des phoques pour faire la chasse 
 
 Cette nouvelle tactique de guerre a ouvert la voie aux expériences militaires. L’US Navy utilise des otaries et des dauphins depuis 1960.
 
-![](media/image11.png)
+
+{% include image.html img="img/ultrasons/NMMP.png" title="NMMP" %}
+
 
 Le programme de mammifères marins de la marine américaine, en anglais U.S. Navy Marine Mammal Program (NMMP), est un programme dirigé par la Marine américaine qui étudie l’emploi militaire de mammifères marins (le Grand dauphin qui émet et reçoit en un millième de seconde, des fréquences variant entre 220 et 250 000 hertz et l’otarie de Californie) et les entraîne à des tâches tels que la protection de navires et de ports, le repérage et le dégagement de mines, ainsi que la récupération d’objets. Le programme est basé à San Diego en Californie où les animaux sont entraînés. Les animaux du NMMP ont été déployés en zones de combat, notamment pendant la Guerre du Viêt Nam et la Guerre d'Irak. Cette dernière a permis aux américains d’ouvrir le golfe Arabique au marché international après la fin du conflit, en particulier grâce a ces animaux.La Navy a recours à certaines équipes humains-crétacés. Les équipes MK 4, 7 et 8 utilisent des dauphins; MK 5 utilise des otaries, et MK 6 utilise à la fois dauphins et otaries. Ces équipes peuvent être déployées partout sur le globe en 72 heures, vers des zones de conflits.
 
+
+{% include image.html img="img/ultrasons/soldat.jpg" caption="Soldat dauphin" %}
+
+
 ### Les ondes dans le milieu liquide
+
+
+{% include image.html img="img/ultrasons/niveauxProfondeur.png" caption="Niveaux de profondeur dans l'eau" %}
+
 
 Trois niveaux de profondeur sont visibles : la zone proche de la surface ("seasonal thermocline") dont la température dépend de la saison de l’année, la zone intermédiaire thermocline ("permanent thermocline") puis la zone des eaux froides profondes ("deep-water isothermal layer").
 
@@ -142,7 +156,9 @@ Passée la valeur de la vitesse minimale ("sound velocity minimum" : Vmin), la p
 Nous pouvons remarquer que la vitesse de propagation des ondes sonores dans l’eau n’est pas constante. Elle est maximale dans les eaux de surface puis décroit dans la zone intermédiaire jusqu’à sa vitesse minimale pour augmenter de nouveau dans les eaux profondes.
 
 Ces données peuvent justifier ceci grâce à ces données :
+
 - Dans l'air, le signal reçu a un retard de 600 µs sur le signal émis.
+
 - Dans l'eau, le signal reçu a un retard de 150 µs sur le signal émis.
 
 Ainsi les ultrasons se déplacent plus rapidement dans l'eau que dans l'air, à raison de 300m/s dans l'air et de 1500m/s dans un milieu liquide comme l'eau.
@@ -153,21 +169,21 @@ L'échographie est une méthode d'exploration du corps reposant sur l'utilisatio
 
 Un examen "Doppler vasculaire" se pratique au moyen d'une sonde Doppler qui émet ses ultrasons à une fréquence précise en direction de l'artère à étudier. Ces ultrasons percutent les hématies en mouvement, or la taille des hématies est inférieure à la longueur d'onde des ultrasons utilisés. Il se produit donc un phénomène de diffusion.
 
-L'énergie rediffusée par les hématies revient vers la sonde qui va mesurer la fréquence de ces ondes. Cette nouvelle fréquence sera différente de celle des ultrasons émis en raison de l'effet Doppler qui intervient 2 fois: d'abord entre la sonde, l'émetteur fixe et les hématies, récepteurs mobiles; puis entre ces hématies, qui deviennent les "émettrices" mobiles et la sonde (récepteur fixe).
+L'énergie rediffusée par les hématies revient vers la sonde qui va mesurer la fréquence de ces ondes. Cette nouvelle fréquence sera différente de celle des ultrasons émis en raison de l'effet Doppler qui intervient deux fois : d'abord entre la sonde (l'émetteur fixe) et les hématies (récepteurs mobiles) ; puis entre ces hématies, qui deviennent les "émettrices" mobiles et la sonde (récepteur fixe).
 
 La différence entre la fréquence du signal émis et celle du signal reçu par la sonde suit la formule:
 
-Avec: deltaF =2F (V/C)cos theta
+Avec: $$\deltaF = 2F(\frac{V}{C})\cos\theta
 
-delta F = différence entre la fréquence de l'onde émise et celle de l'onde reçue
+$$\deltaF$$ : différence entre la fréquence de l'onde émise et celle de l'onde reçue
 
-F = fréquence de l'onde émise
+$$F$$ : fréquence de l'onde émise
 
-V = vitesse du sang
+$$V$$ : vitesse du sang
 
-C = célérité des ultrasons dans les tissus mous (1540 m/s)
+$$C$$ : célérité des ultrasons dans les tissus mous (1540 m/s)
 
-cos theta = cosinus de l'angle que forme la direction du faisceau ultrasonore et la direction de l'écoulement sanguin.
+$$\cos\theta$$ = cosinus de l'angle que forme la direction du faisceau ultrasonore et la direction de l'écoulement sanguin.
 
 {% include buttons.html %}
 
