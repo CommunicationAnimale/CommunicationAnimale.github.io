@@ -292,71 +292,61 @@ Donc n(C<sub>8</sub>H<sub>16</sub>O) = $$\frac{m(C_{8}H_{16}O)}{M(C_{8}H_{16}O)}
 
 
 
-Il faut noter que le réactif limitant est l’octan-2-ol. On peut conclure grâce au tableau d’avancement que le rendement maximum est : (photo du calcul)
+Il faut noter que le réactif limitant est l’octan-2-ol. On peut conclure grâce au tableau d’avancement que le rendement maximum est :
+
+m<sub>max</sub>= x<sub>max</sub> × M(C<sub>8</sub>H<sub>16</sub>O) = 3,15.10<sup>-2</sup> × 128= 4,03g
+
+
+
 
 ## Lutte intégrée
 
-Depuis de nombreuse année ; l’agriculture repose sur l’utilisation de pesticide afin de lutter contre les insectes ravageurs. Pourtant, d’autres solutions plus respectueuses de l’environnement existent. Il s’agit de la lutte intégrée. Elle a été définie au plan européen comme « l'application rationnelle d'une combinaison de mesures biologiques, biotechnologiques, chimiques, physiques, culturales ou intéressant la sélection des végétaux dans laquelle l'emploi de produits chimiques phytopharmaceutiques est limité au strict nécessaire pour maintenir la présence des organismes nuisibles en dessous de seuil à partir duquel apparaissent des dommages ou une perte économiquement inacceptable. »
+Depuis de nombreuses années, l’agriculture repose sur l’utilisation de pesticides afin de lutter contre les insectes ravageurs. Pourtant, d’autres solutions plus respectueuses de l’environnement existent. Il s’agit de la lutte intégrée. Elle a été définie au plan européen comme « l'application rationnelle d'une combinaison de mesures biologiques, biotechnologiques, chimiques, physiques, culturales ou intéressant la sélection des végétaux dans laquelle l'emploi de produits chimiques phytopharmaceutiques est limité au strict nécessaire pour maintenir la présence des organismes nuisibles en dessous de seuil à partir duquel apparaissent des dommages ou une perte économiquement inacceptable. »
 
-Nous allons donc nous intéresser aux mesures chimiques  que l’homme peut appliquer.  En effet ; en étudiant les insectes ravageurs, l’homme peut en déduire les phéromones qu’utilisent ces derniers et il peut ainsi réaliser une synthèse de cette phéromone qui lui permettra  d’éliminer ou de limiter la population du ravageur dans un territoire précis comme c’est le cas de la méthode de la confusion sexuelle qui est mise en pratique grâce à des moyens biotechniques afin d’utiliser la synthèse d’une phéromone, il s’agit des diffuseurs.
+Nous allons donc nous intéresser aux mesures chimiques que l’homme peut appliquer. En effet, en étudiant les insectes ravageurs, l’homme peut en déduire les phéromones qu’utilisent ces derniers et il peut ainsi réaliser une synthèse de cette phéromone qui lui permettra d’éliminer ou de limiter la population du ravageur dans un territoire précis comme c’est le cas de la méthode de la confusion sexuelle qui est mise en pratique grâce à des moyens biotechniques afin d’utiliser la synthèse d’une phéromone, il s’agit des diffuseurs.
 
-**2.1.	Les avantages des phéromones par rapport aux insecticides :**
+### Les avantages des phéromones par rapport aux insecticides :
 
- L’utilisation de phéromones est un enjeu majeur pour l’agriculture car elles présentent plusieurs avantages face à l’utilisation des insecticides. Tout d’abord, l’utilisation de la synthèse des phéromones permet de cibler l’action agricole, c’est-à-dire que l’utilisation des phéromones permet une sélectivité dans le contrôle des nuisibles, ce qui est impossible avec les insecticides. En  effet, leurs effets se manifestent même pour des insectes utiles qui sont touchées par le traitement. En effet, les phéromones ne détruisent pas l’équilibre biologique car le traitement ne vise qu’une seule espèce. De faite ;  le traitement est spécifique d’une seule espèce. D’autre part, les phéromones permettent de préserver la biodiversité mais aussi l’environnement alors que les  insecticides agissent comme des poisons, ils ne sont pas spécifiques d’une espèce. Ils polluent ainsi l’environnement. En utilisant les phéromones, l’homme copie ce qu’utilisent les insectes pour communiquer, dans le but de limiter les ravages culturaux. L’avantage des phéromones réside donc aussi dans le fait qu’elles soient biodégradables. Les quantités nécessaires pour attirer un insecte sont d’environ 15g alors que l’utilisation des insecticides implique l’utilisation de quantités importantes. Il est donc plus avantageux d’utiliser des phéromones pour palier au mieux  la préservation de l’environnement. 
+L’utilisation de phéromones est un enjeu majeur pour l’agriculture car elles présentent plusieurs avantages face à l’utilisation des insecticides. Tout d’abord, l’utilisation de la synthèse des phéromones permet de cibler l’action agricole, c’est-à-dire que l’utilisation des phéromones permet une sélectivité dans le contrôle des nuisibles, ce qui est impossible avec les insecticides. En effet, leurs effets se manifestent même pour des insectes utiles qui sont touchées par le traitement. Les phéromones ne détruisent pas l’équilibre biologique car le traitement ne vise qu’une seule espèce. De fait, le traitement est spécifique d’une seule espèce. D’autre part, les phéromones permettent de préserver la biodiversité mais aussi l’environnement alors que les insecticides agissent comme des poisons, ils ne sont pas spécifiques d’une espèce. Ils polluent ainsi l’environnement. En utilisant les phéromones, l’homme copie ce qu’utilisent les insectes pour communiquer, dans le but de limiter les ravages culturaux. L’avantage des phéromones réside donc aussi dans le fait qu’elles soient biodégradables. Les quantités nécessaires pour attirer un insecte sont d’environ 15g alors que l’utilisation des insecticides implique l’utilisation de quantités importantes. Il est donc plus avantageux d’utiliser des phéromones pour permettre au mieux la préservation de l’environnement.
 
-**2.2.	Méthode de la confusion sexuelle** Afin de réduire la population cible (souvent des insectes), l’homme a recours à plusieurs méthodes comme celle de la confusion sexuelle. Il utilise ainsi les connaissances qu’il a accumulées concernant la communication chimique. Ainsi, il sait que les phéromones sexuelles sont à l’origine de la reproduction. L’homme utilise la méthode de la confusion sexuelle en libérant des phéromones sexuelles synthétisées en laboratoire. Il désoriente ainsi l’insecte en agissant sur les chimiorécepteurs de l’animal. Cette libération de phéromones engendre une fatigue sensorielle ; ainsi, le mâle n’est plus capable de trouver les femelles. En effet, l’homme a camouflé les phéromones naturelles émises par les femelles. Il existe ainsi une confusion entre les phéromones d’origine naturelle et ceux d’origine synthétique.  	Dès lors, cette méthode réduit le nombre total d’accouplement ou entraine un retard. Le taux de fécondité est par conséquent réduit ce qui provoque une diminution de la population cible sur l’espace où la phéromone sexuelle de synthèse a été diffusée.
+### Méthode de la confusion sexuelle
 
-Cette méthode de lutte chimique  est généralement utilisée contre micro-lépidoptères de la famille des tortricidés (tordeuses). Elle préserve ainsi les cultures tels que les vignobles, les cultures de pommes, ceux de cerises, de prunes et  de maïs.
+Afin de réduire la population cible (souvent des insectes), l’homme a recours à plusieurs méthodes comme celle de la confusion sexuelle. Il utilise ainsi les connaissances qu’il a accumulées concernant la communication chimique. Ainsi, il sait que les phéromones sexuelles sont à l’origine de la reproduction. L’homme utilise la méthode de la confusion sexuelle en libérant des phéromones sexuelles synthétisées en laboratoire. Il désoriente ainsi l’insecte en agissant sur les chimiorécepteurs de l’animal. Cette libération de phéromones engendre une fatigue sensorielle, ainsi, le mâle n’est plus capable de trouver les femelles. En effet, l’homme a camouflé les phéromones naturelles émises par les femelles. Il existe ainsi une confusion entre les phéromones d’origine naturelle et celles d’origine synthétique. Dès lors, cette méthode réduit le nombre total d’accouplement ou entraine un retard. Le taux de fécondité est par conséquent réduit ce qui provoque une diminution de la population cible sur l’espace où la phéromone sexuelle de synthèse a été diffusée.
 
-**2.3.	Le piégeage sélectif**
+Cette méthode de lutte chimique est généralement utilisée contre les micro-lépidoptères de la famille des tortricidés (tordeuses). Elle préserve ainsi les cultures tels que les vignobles, les cultures de pommes, ceux de cerises, de prunes et de maïs.
 
-On utilise par exemple la méthode du piégeage sélectif, du ravageur mâle ou de la femelle mais aussi des deux à la fois. Cette méthode est souvent utilisée pour un suivi du ravageur permettant de constater ou non leur présence. Elle permet aussi de donner une estimation sur les insectes ravageurs. C’est aussi un outil permettant de connaître la période de reproduction et d’estimer ainsi la période d’attaque. Voici quelques exemples de pièges utilisés en agriculture :  
 
-Les pièges à entonnoir et le pièges à ailette : une capsule permettant la diffusion de phéromones y est fixée. Chaque capsule est spécifique d’une seule espèce. Le récipient contient de l’eau afin que les insectes se noient. Les ravageurs souvent des lépidoptères sont attirés par la phéromone. Ils volent ainsi tous autour jusqu’à un épuisement total pour enfin tomber dans l’entonnoir. Ces pièges sont souvent destinés à des cultures de petite taille ou pour des jardins.    (mettre une photo )    Les pièges Delta : Ils agissent sur le même principe que les pièges à entonnoir. Cependant les insectes tombent sur une plaque de glu. Ce types de piège est souvent utilisé afin de faire des statistiques  sur les insectes ravageurs, de connaître la période de reproduction. Un quadrillage y est dessiné afin de faciliter le comptage.    (mettre une photo )    Quel que soit le piège utilisé, l’agriculteur en changeant la capsule et les plaques collantes peut les réutiliser infiniment. Les capsules ont la plupart du temps un mode d’action sur une dizaine de mètres.    Les différents pièges commercialisés peuvent agir sur les mouches de la carotte, de la cerise et de l'olive ; sur  les carpocapses du poirier ; du pommier et du prunier ; sur les chenilles processionnaires du pin ; sur les Teignes du poireau ; sur les pyrales du maïs et les mineuses du marronnier. **2.4.	La recherche :**    Actuellement, seules les phéromones sexuelles et les phéromones d’agrégation sont utilisées en agriculture. Mais certains chercheurs étudient l’utilisation des phéromones de pistes afin d’agir sur les futures invasions des fourmis d’Argentine.    Le réchauffement climatique fait craindre le pire aux scientifiques qui étudient les fourmis et plus particulièrement, les fourmis d’argentine. En effet, cela peut causer leurs invasions. Ils étudient ainsi cette espèce invasive afin de pouvoir intervenir si une invasion se produit. Ils font l’expérience que nous avons décrite précédemment lors de l’étude des phéromones de piste, ils obtiennent les mêmes conclusions. Ils décident d’extraire la glande produisant les phéromones de piste et d’utiliser son contenu pour des besoins expérimentaux. Ainsi, ils tracent un nouveau parcours plus long que le précédent et y dépose la phéromone extraite afin de tracer une piste. Ils observent que les fourmis dévient de leurs chemins et suivent la piste tracée par les scientifiques. A long terme, ils veulent synthétiser ces phéromones et les diffuser dans une colonie. Les  phéromones vont ainsi perturber la communication des fourmis. Dès lors, elles ne pourraient plus approvisionner correctement la fourmilière. Cette méthode pourrait ainsi aboutir à une diminution des fourmis d’Argentine.  Vous pouvez voir cette expérience en accédant au lien suivant : https://www.youtube.com/watch?v=wvW84EPsgnM    D’autre part ; Les entomologistes du centre INRA Bordeaux-Aquitaine ont réussi à diminuer le taux d’accouplement sans tuer un seul insecte.  Ils ont utilisé la méthode de la confusion sexuelle dans les vignobles. Ils ont agi sur les Hétérocères en perturbant leur reproduction. En effet, ils ont montré que les femelles modifient leurs comportements et leurs succès reproducteurs lors de la diffusion de phéromones sexuelles.   
+###Le piégeage sélectif 
 
-{% include buttons.html %} {% include katex_render.html %}
+On utilise par exemple la méthode du piégeage sélectif, du ravageur mâle ou de la femelle mais aussi des deux à la fois. Cette méthode est souvent utilisée pour un suivi du ravageur permettant de constater ou non leur présence. Elle permet aussi de donner une estimation sur les insectes ravageurs. C’est aussi un outil permettant de connaître la période de reproduction et d’estimer ainsi la période d’attaque. Voici quelques exemples de pièges utilisés en agriculture :
 
-*Bibliographie :*
+Les pièges à entonnoir et le pièges à ailette : une capsule permettant la diffusion de phéromones y est fixée. Chaque capsule est spécifique d’une seule espèce. Le récipient contient de l’eau afin que les insectes se noient. Les ravageurs souvent des lépidoptères sont attirés par la phéromone. Ils volent ainsi tous autour jusqu’à un épuisement total pour enfin tomber dans l’entonnoir. Ces pièges sont souvent destinés à des cultures de petite taille ou pour des jardins.
 
-1.	Stéphane Tanzarella, Perception et communication chez les animaux, De Boeck et Larcier s.a., 2005 , Partie 4 : perception et communication chimique, LMD Biologie,  ISBN 2-8041-4896-3
 
-2.	Luc Passera et Serge Aron, Les fourmis: comportement, organisation sociale et évolution, Canadian Science Publishing, 2005, 480p, NRC Research Press,  ISBN 0-660-97021-X 
+{% include image.html img="img/chimique/figure29.png" %}
 
-3.	Luc Passera et Serge Aron, les sociétés animales : Evolution de la coopération et organisation social, 2e édition, De Boeck supérieur, 2009, 336p, LMD, ISBN 978-2-8041-2861-6
 
-4.	Gérag Brand, l’olfaction : de la molécule au comportement, SOLAL, 111p, Neuroscience cognitive, ISBN 2914513127 5.	Raymond Gilles, Physiologie animale, De Boeck, 2006, 680p,  ISBN 2804148939
+Les pièges Delta : Ils agissent sur le même principe que les pièges à entonnoir. Cependant les insectes tombent sur une plaque de glu. Ce type de piège est souvent utilisé afin de faire des statistiques sur les insectes ravageurs, de connaître la période de reproduction. Un quadrillage y est dessiné afin de faciliter le comptage.
 
-6.	 Rüdiger Wehner, Walter Gehring, Biologie et physiologie animales: bases moléculaires, cellulaires, anatomique, fonctionnelle, 23e édition, 1999,844p, ISBN 2-7445-0009-7
 
-7.	Roger DAJOZ, dictionnaire d’entomologie, édition tec et doc, 2010, 348p, ISBN 9782743018184
+{% include image.html img="img/chimique/figure30.png" %}
 
-8.	Janine PAIN. Phéromones et comportement chez quelque Hyménoptères 1. Apidologie, Springer Verlag (Germany), 1971, 2 (4), pp.319-355. <hal-00890317>
 
-9.	Bert Hörlldobler, Ethological Aspects of chimical communication in ants, departement of biology of Havard university, 115p. 10.	Claude PAVIS. Les sécrétions exocrines des hétéroptères (allomones et phéromones). Une mise au point bibliographique. Agronomie, EDP Sciences, 1987, 7 (8), pp.547-561.
+Quel que soit le piège utilisé, l’agriculteur en changeant la capsule et les plaques collantes peut les réutiliser infiniment. Les capsules ont la plupart du temps un mode d’action sur une dizaine de mètres.
 
-*Webographie :* 
+Les différents pièges commercialisés peuvent agir sur les mouches de la carotte, de la cerise et de l'olive, sur les carpocapses du poirier, du pommier et du prunier, sur les chenilles processionnaires du pin, sur les Teignes du poireau, sur les pyrales du maïs et les mineuses du marronnier. 
 
-11.	Michel Lamy, La reproduction, Inra , 2001, disponible sur : http://www7.inra.fr/opie-insectes/pdf/i121lamy.pdf
+### La recherche
 
-12.	CBC BIOGRAD, les phéromones et la méthode de confusion sexuelle, cdcbiograd, disponible sur : http://www.cbcbiogard.fr/images/PDF/guide-FR.pdf
+Actuellement, seules les phéromones sexuelles et les phéromones d’agrégation sont utilisées en agriculture. Mais certains chercheurs étudient l’utilisation des phéromones de pistes afin d’agir sur les futures invasions des fourmis d’Argentine.
 
-13.	Au jardin, les pièges à phéromones, Au jardin info, disponible sur : http://www.aujardin.info/fiches/maladies/pieges-pheromones.php#U2PXs0Vx18VfwGHZ.99
+Le réchauffement climatique fait craindre le pire aux scientifiques qui étudient les fourmis et plus particulièrement, les fourmis d’argentine. En effet, cela peut causer leur invasion. Ils étudient ainsi cette espèce invasive afin de pouvoir intervenir si une invasion se produit. Ils font l’expérience que nous avons décrite précédemment lors de l’étude des phéromones de piste, ils obtiennent les mêmes conclusions. Ils décident d’extraire la glande produisant les phéromones de piste et d’utiliser son contenu pour des besoins expérimentaux. Ainsi, ils tracent un nouveau parcours plus long que le précédent et y dépose la phéromone extraite afin de tracer une piste. Ils observent que les fourmis dévient de leurs chemins et suivent la piste tracée par les scientifiques. A long terme, ils veulent synthétiser ces phéromones et les diffuser dans une colonie. Les phéromones vont ainsi perturber la communication des fourmis. Dès lors, elles ne pourraient plus approvisionner correctement la fourmilière. Cette méthode pourrait ainsi aboutir à une diminution des fourmis d’Argentine (voir vidéo ci-dessous).
 
-14.	Maya press, Chargés de communication, en substance, Inra , 24/01/2013, disponible sur : http://www.inra.fr/Grand-public/Sante-des-animaux/Toutes-les-actualites/Pheromone-chez-l-animal-substance-chimique-pour-la-communication-entre-individus-d-une-meme-espece
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wvW84EPsgnM" frameborder="0" allowfullscreen></iframe>
 
-15.	Virignie Orgogoz, Formation et évolution des organes sensoriels chez les insectes, Normal sup, disponible sur : http://www.normalesup.org/~vorgogoz/courses/osI.pdf
+D’autre part, les entomologistes du centre INRA Bordeaux-Aquitaine ont réussi à diminuer le taux d’accouplement sans tuer un seul insecte. Ils ont utilisé la méthode de la confusion sexuelle dans les vignobles. Ils ont agi sur les Hétérocères en perturbant leur reproduction. En effet, ils ont montré que les femelles modifient leurs comportements et leurs succès reproducteurs lors de la diffusion de phéromones sexuelles.
 
-16.	Alain Lenoir, la communication chez les insectes et autres organismes, 2011, disponible sur : http://cataglyphis.fr/Publis%20AL/Colloques/Communication_Insectes-Diaporama.pdf
 
-17.	 Comespece.blogspot, la communication des espèces par leurs phéromones, disponible sur : http://comespece.blogspot.fr/p/communication-animale.html
+{% include buttons.html %}
 
-18.	Fort Thomas, Les fourmis : anatomie,  disponible sur : http://fort.thomas.free.fr/Anatomie.htm 
-
-19.	Anne-Geneviève BAGNÈRES, Marc OHRESSER, Alain LENOIR et Christine ERRARD, la communication chimique, Pour la science, disponible sur : http://nico8386.free.fr/cours/BA/CommunicationChimique.pdf
-
-20.	Crisop, piège à entonnoir,  disponible sur : http://boutique.crisop.fr/piege-entonnoir-gyt
-
-21.	Arramel, lutte intégrée, disponible sur : http://aramel.free.fr/INSECTES18ter.shtml
-
-22.	Pro.cleamax, Intelligence en essaim : exemple de la colonie de fourmis, disponible sur : http://pro.cleamax.fr/info-bioinspiree/?p=fourmis 
-
+{% include katex_render.html %}
