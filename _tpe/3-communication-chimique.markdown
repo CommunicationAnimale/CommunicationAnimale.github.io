@@ -190,9 +190,13 @@ Nous avons donc suivi un protocole expérimental réalisé par un enseignant de 
 
 Afin de doser la concentration de l’eau de javel à 24 °chl comme le recommande le protocole, nous avons étudié la définition du degré chlorométrique. Ainsi, le degré chlorométrique *d* est le nombre de litres de dichlore gazeux Cl<sub>2</sub>, pris dans les conditions normales de température et de pression, qu’il faut dissoudre dans un litre d’une solution d’hydroxyde de sodium pour obtenir un litre d’eau de javel titrant *d* °chl, selon la réaction :
 
-Cl<sub>2</sub>(g) + 2Na<sup>+</sup> + 2OH<sup>&ndash;</sup> &rarr; 2 Na<sup>+</sup> + ClO<sup>&ndash;</sup> + Cl<sup>&ndash;</sup> + H<sub>2</sub>O
+-> Cl<sub>2</sub>(g) + 2Na<sup>+</sup> + 2OH<sup>&ndash;</sup> &rarr; 2 Na<sup>+</sup> + ClO<sup>&ndash;</sup> + Cl<sup>&ndash;</sup> + H<sub>2</sub>O <-
 
-Dans des conditions normales (de pression et de température normal) on doit dissoudre 24L de dichlore gazeux dans 1L de soude afin d’obtenir 1L d’eau de Javel.  (to do mettre photo)
+Dans des conditions de pression et de température normales on doit dissoudre 24L de dichlore gazeux dans 1L de soude afin d’obtenir 1L d’eau de Javel.
+
+{% include image.html img="img/chimique/figure17.png" %}
+
+
 
 > Lorsque la température est inférieure à 15°C, faire couler l’eau de javel goutte à goutte en veillant à ne pas dépasser la température de 25°C. L’addition doit être lente (au goutte à goutte). > Lorsque l’ampoule de coulée est vide, enlever le cristallisoir et laisser revenir à la température ambiante tout en agitant pendant 15 minutes. Enlever l’ampoule de coulée et la rincer. > La solution doit rester de couleur jaunâtre ce qui prouve que l’eau de javel est en excès par rapport à l’octan-2-ol. Si l’eau de javel n’est pas en excès, ajouter quelques mL d’eau de javel dans le mélange réactionnel. > En fin de synthèse, remettre l’ampoule de coulée en place et y placer environ 5mL d’une solution d’hydrogénosulfite de sodium (Na+ + HSO ). Faire couler goutte à goutte la solution d’hydrogénosulfite de sodium dans le mélange réactionnel jusqu’à décoloration totale de la solution
 
