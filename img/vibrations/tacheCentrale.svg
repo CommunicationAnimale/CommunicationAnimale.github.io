@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="tacheCentrale.svg">
+   sodipodi:docname="tacheCentrale.svg"
+   inkscape:export-filename="D:\Documents\Valentin\Progammation\CommunicationAnimale.github.io\img\vibrations\tacheCentrale.png"
+   inkscape:export-xdpi="72"
+   inkscape:export-ydpi="72">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,19 +28,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.99560635"
-     inkscape:cx="633.26013"
-     inkscape:cy="229.74039"
+     inkscape:zoom="0.965"
+     inkscape:cx="500"
+     inkscape:cy="300"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1018"
+     inkscape:window-width="1304"
+     inkscape:window-height="746"
      inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-y="274"
      inkscape:window-maximized="1"
      inkscape:snap-page="true" />
   <metadata
@@ -48,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -94,54 +97,211 @@
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 331.67561,611.42475 339.05299,0 m -18.88229,20.7765 20.77646,-20.77654 -20.77646,-20.77645 m -301.2884,41.55299 -20.77647,-20.77654 20.77646,-20.77642"
        sodipodi:nodetypes="cccccccc" />
-    <text
-       xml:space="preserve"
+    <g
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="499.19211"
-       y="576.21735"
-       id="text5629"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5631"
-         x="499.19211"
-         y="576.21735"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:27.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle">Largeur L de la tâche centrale</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="500.46997"
-       y="894.8692"
-       id="text5629-1"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5631-4"
-         x="500.46997"
-         y="894.8692"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:27.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle">Tâche centrale</tspan></text>
+       id="text5629">
+      <path
+         d="m 280.88617,553.32735 4.06,0 0,19.46 9.52,0 0,3.43 -13.58,0 0,-22.89 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4176" />
+      <path
+         d="m 297.36953,571.59735 q 0,-2.765 2.415,-4.27 2.415,-1.505 7.7,-2.1 0,-0.665 -0.175,-1.26 -0.175,-0.63 -0.56,-1.085 -0.35,-0.49 -0.945,-0.735 -0.56,-0.28 -1.435,-0.28 -1.295,0 -2.52,0.49 -1.19,0.49 -2.31,1.19 l -1.47,-2.695 q 1.435,-0.91 3.185,-1.575 1.785,-0.665 3.85,-0.665 3.255,0 4.83,1.925 1.575,1.89 1.575,5.495 l 0,10.185 -3.29,0 -0.315,-1.89 -0.105,0 q -1.155,0.98 -2.485,1.645 -1.295,0.665 -2.835,0.665 -2.275,0 -3.71,-1.365 -1.4,-1.4 -1.4,-3.675 z m 3.92,-0.315 q 0,1.155 0.665,1.68 0.7,0.525 1.785,0.525 1.05,0 1.925,-0.49 0.875,-0.49 1.82,-1.4 l 0,-3.85 q -1.75,0.21 -2.94,0.56 -1.19,0.35 -1.925,0.805 -0.7,0.42 -1.015,0.98 -0.315,0.56 -0.315,1.19 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4178" />
+      <path
+         d="m 316.42484,559.03235 3.325,0 0.28,3.045 0.14,0 q 0.91,-1.68 2.205,-2.555 1.295,-0.91 2.66,-0.91 1.225,0 1.96,0.35 l -0.7,3.5 q -0.455,-0.14 -0.84,-0.21 -0.385,-0.07 -0.945,-0.07 -1.015,0 -2.135,0.805 -1.12,0.77 -1.925,2.73 l 0,10.5 -4.025,0 0,-17.185 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4180" />
+      <path
+         d="m 331.34469,578.73735 q 0,1.155 1.155,1.785 1.19,0.665 3.255,0.665 2.1,0 3.36,-0.84 1.295,-0.805 1.295,-1.925 0,-1.015 -0.805,-1.365 -0.77,-0.35 -2.24,-0.35 l -2.345,0 q -1.4,0 -2.345,-0.245 -1.33,1.015 -1.33,2.275 z m -3.36,0.595 q 0,-1.085 0.63,-2.03 0.63,-0.91 1.82,-1.645 l 0,-0.14 q -0.665,-0.42 -1.12,-1.12 -0.42,-0.7 -0.42,-1.75 0,-1.015 0.56,-1.82 0.595,-0.84 1.33,-1.365 l 0,-0.14 q -0.875,-0.665 -1.575,-1.82 -0.665,-1.19 -0.665,-2.73 0,-1.47 0.56,-2.625 0.56,-1.155 1.47,-1.925 0.945,-0.805 2.17,-1.19 1.225,-0.42 2.59,-0.42 0.7,0 1.33,0.14 0.665,0.105 1.19,0.28 l 6.16,0 0,2.975 -3.15,0 q 0.42,0.49 0.7,1.26 0.28,0.735 0.28,1.645 0,1.435 -0.525,2.52 -0.49,1.085 -1.365,1.82 -0.875,0.735 -2.065,1.12 -1.19,0.385 -2.555,0.385 -0.56,0 -1.155,-0.105 -0.595,-0.105 -1.19,-0.35 -0.385,0.35 -0.63,0.7 -0.21,0.35 -0.21,0.945 0,0.735 0.595,1.155 0.63,0.42 2.205,0.42 l 3.045,0 q 3.115,0 4.69,1.015 1.61,0.98 1.61,3.22 0,1.26 -0.665,2.38 -0.63,1.12 -1.82,1.925 -1.19,0.805 -2.905,1.26 -1.68,0.49 -3.78,0.49 -1.54,0 -2.87,-0.28 -1.295,-0.28 -2.24,-0.84 -0.945,-0.56 -1.505,-1.4 -0.525,-0.84 -0.525,-1.96 z m 7.35,-11.095 q 1.225,0 2.1,-0.875 0.875,-0.91 0.875,-2.59 0,-1.61 -0.875,-2.485 -0.84,-0.91 -2.1,-0.91 -1.26,0 -2.135,0.875 -0.875,0.875 -0.875,2.52 0,1.68 0.875,2.59 0.875,0.875 2.135,0.875 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4182" />
+      <path
+         d="m 345.65641,567.64235 q 0,-2.1 0.665,-3.78 0.665,-1.68 1.75,-2.835 1.12,-1.155 2.555,-1.785 1.435,-0.63 2.94,-0.63 1.75,0 3.08,0.595 1.33,0.595 2.205,1.68 0.91,1.085 1.365,2.59 0.455,1.505 0.455,3.29 0,1.19 -0.175,1.89 l -10.92,0 q 0.28,2.345 1.61,3.605 1.365,1.26 3.465,1.26 1.12,0 2.065,-0.315 0.98,-0.35 1.925,-0.945 l 1.365,2.52 q -1.225,0.805 -2.73,1.33 -1.505,0.525 -3.15,0.525 -1.785,0 -3.325,-0.595 -1.54,-0.63 -2.695,-1.785 -1.155,-1.155 -1.82,-2.8 -0.63,-1.68 -0.63,-3.815 z m 11.515,-1.54 q 0,-2.065 -0.875,-3.22 -0.84,-1.155 -2.625,-1.155 -1.54,0 -2.695,1.12 -1.155,1.085 -1.435,3.255 l 7.63,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4184" />
+      <path
+         d="m 364.37484,559.03235 4.025,0 0,10.255 q 0,2.135 0.63,3.01 0.63,0.875 2.03,0.875 1.12,0 1.96,-0.56 0.875,-0.56 1.855,-1.82 l 0,-11.76 4.025,0 0,17.185 -3.29,0 -0.315,-2.52 -0.105,0 q -1.12,1.33 -2.45,2.135 -1.295,0.805 -3.08,0.805 -2.765,0 -4.025,-1.75 -1.26,-1.785 -1.26,-5.075 l 0,-10.78 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4186" />
+      <path
+         d="m 384.03226,559.03235 3.325,0 0.28,3.045 0.14,0 q 0.91,-1.68 2.205,-2.555 1.295,-0.91 2.66,-0.91 1.225,0 1.96,0.35 l -0.7,3.5 q -0.455,-0.14 -0.84,-0.21 -0.385,-0.07 -0.945,-0.07 -1.015,0 -2.135,0.805 -1.12,0.77 -1.925,2.73 l 0,10.5 -4.025,0 0,-17.185 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4188" />
+      <path
+         d="m 404.61664,553.32735 4.06,0 0,19.46 9.52,0 0,3.43 -13.58,0 0,-22.89 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4190" />
+      <path
+         d="m 427.96273,567.64235 q 0,-2.1 0.595,-3.78 0.63,-1.68 1.645,-2.835 1.015,-1.155 2.31,-1.785 1.33,-0.63 2.73,-0.63 1.47,0 2.485,0.525 1.015,0.49 2.03,1.365 l -0.14,-2.765 0,-6.23 4.025,0 0,24.71 -3.325,0 -0.28,-1.855 -0.14,0 q -0.945,0.945 -2.205,1.61 -1.26,0.665 -2.66,0.665 -3.255,0 -5.18,-2.345 -1.89,-2.38 -1.89,-6.65 z m 4.165,-0.035 q 0,2.8 0.98,4.27 1.015,1.435 2.905,1.435 1.925,0 3.605,-1.925 l 0,-8.015 q -0.91,-0.805 -1.785,-1.12 -0.84,-0.315 -1.715,-0.315 -1.68,0 -2.835,1.47 -1.155,1.47 -1.155,4.2 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4192" />
+      <path
+         d="m 447.64859,567.64235 q 0,-2.1 0.665,-3.78 0.665,-1.68 1.75,-2.835 1.12,-1.155 2.555,-1.785 1.435,-0.63 2.94,-0.63 1.75,0 3.08,0.595 1.33,0.595 2.205,1.68 0.91,1.085 1.365,2.59 0.455,1.505 0.455,3.29 0,1.19 -0.175,1.89 l -10.92,0 q 0.28,2.345 1.61,3.605 1.365,1.26 3.465,1.26 1.12,0 2.065,-0.315 0.98,-0.35 1.925,-0.945 l 1.365,2.52 q -1.225,0.805 -2.73,1.33 -1.505,0.525 -3.15,0.525 -1.785,0 -3.325,-0.595 -1.54,-0.63 -2.695,-1.785 -1.155,-1.155 -1.82,-2.8 -0.63,-1.68 -0.63,-3.815 z m 11.515,-1.54 q 0,-2.065 -0.875,-3.22 -0.84,-1.155 -2.625,-1.155 -1.54,0 -2.695,1.12 -1.155,1.085 -1.435,3.255 l 7.63,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4194" />
+      <path
+         d="m 473.71976,551.50735 4.025,0 0,20.51 q 0,0.735 0.28,1.05 0.28,0.28 0.595,0.28 0.14,0 0.245,0 0.14,0 0.385,-0.07 l 0.525,3.01 q -0.805,0.35 -2.135,0.35 -2.17,0 -3.045,-1.295 -0.875,-1.295 -0.875,-3.535 l 0,-20.3 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4196" />
+      <path
+         d="m 482.48672,571.59735 q 0,-2.765 2.415,-4.27 2.415,-1.505 7.7,-2.1 0,-0.665 -0.175,-1.26 -0.175,-0.63 -0.56,-1.085 -0.35,-0.49 -0.945,-0.735 -0.56,-0.28 -1.435,-0.28 -1.295,0 -2.52,0.49 -1.19,0.49 -2.31,1.19 l -1.47,-2.695 q 1.435,-0.91 3.185,-1.575 1.785,-0.665 3.85,-0.665 3.255,0 4.83,1.925 1.575,1.89 1.575,5.495 l 0,10.185 -3.29,0 -0.315,-1.89 -0.105,0 q -1.155,0.98 -2.485,1.645 -1.295,0.665 -2.835,0.665 -2.275,0 -3.71,-1.365 -1.4,-1.4 -1.4,-3.675 z m 3.92,-0.315 q 0,1.155 0.665,1.68 0.7,0.525 1.785,0.525 1.05,0 1.925,-0.49 0.875,-0.49 1.82,-1.4 l 0,-3.85 q -1.75,0.21 -2.94,0.56 -1.19,0.35 -1.925,0.805 -0.7,0.42 -1.015,0.98 -0.315,0.56 -0.315,1.19 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4198" />
+      <path
+         d="m 509.31476,562.21735 -2.45,0 0,-3.01 2.66,-0.175 0.49,-4.69 3.36,0 0,4.69 4.375,0 0,3.185 -4.375,0 0,8.19 q 0,3.01 2.415,3.01 0.455,0 0.91,-0.105 0.49,-0.105 0.875,-0.28 l 0.7,2.975 q -0.7,0.245 -1.61,0.42 -0.875,0.21 -1.89,0.21 -1.505,0 -2.555,-0.455 -1.015,-0.455 -1.68,-1.26 -0.63,-0.84 -0.945,-1.96 -0.28,-1.155 -0.28,-2.555 l 0,-8.19 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4200" />
+      <path
+         d="m 520.08437,571.59735 q 0,-2.765 2.415,-4.27 2.415,-1.505 7.7,-2.1 0,-0.665 -0.175,-1.26 -0.175,-0.63 -0.56,-1.085 -0.35,-0.49 -0.945,-0.735 -0.56,-0.28 -1.435,-0.28 -1.295,0 -2.52,0.49 -1.19,0.49 -2.31,1.19 l -1.47,-2.695 q 1.435,-0.91 3.185,-1.575 1.785,-0.665 3.85,-0.665 3.255,0 4.83,1.925 1.575,1.89 1.575,5.495 l 0,10.185 -3.29,0 -0.315,-1.89 -0.105,0 q -1.155,0.98 -2.485,1.645 -1.295,0.665 -2.835,0.665 -2.275,0 -3.71,-1.365 -1.4,-1.4 -1.4,-3.675 z m 3.92,-0.315 q 0,1.155 0.665,1.68 0.7,0.525 1.785,0.525 1.05,0 1.925,-0.49 0.875,-0.49 1.82,-1.4 l 0,-3.85 q -1.75,0.21 -2.94,0.56 -1.19,0.35 -1.925,0.805 -0.7,0.42 -1.015,0.98 -0.315,0.56 -0.315,1.19 z m 2.275,-20.23 3.22,0 3.36,5.11 -2.8,0 -2.1,-2.975 -0.14,0 -2.1,2.975 -2.8,0 3.36,-5.11 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4202" />
+      <path
+         d="m 538.01969,567.64235 q 0,-2.135 0.7,-3.815 0.7,-1.68 1.89,-2.835 1.19,-1.155 2.73,-1.75 1.575,-0.63 3.29,-0.63 1.68,0 2.905,0.595 1.26,0.56 2.135,1.4 l -1.925,2.555 q -0.7,-0.595 -1.4,-0.91 -0.7,-0.35 -1.505,-0.35 -2.1,0 -3.395,1.575 -1.295,1.54 -1.295,4.165 0,2.59 1.26,4.165 1.295,1.54 3.325,1.54 1.05,0 1.925,-0.42 0.91,-0.455 1.61,-1.05 l 1.68,2.555 q -1.225,1.085 -2.695,1.645 -1.47,0.56 -2.94,0.56 -1.75,0 -3.29,-0.595 -1.505,-0.595 -2.625,-1.75 -1.12,-1.155 -1.75,-2.835 -0.63,-1.68 -0.63,-3.815 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4204" />
+      <path
+         d="m 555.34086,551.50735 4.025,0 0,6.37 -0.14,3.325 q 1.085,-1.015 2.38,-1.785 1.33,-0.805 3.115,-0.805 2.765,0 4.025,1.785 1.26,1.75 1.26,5.04 l 0,10.78 -4.025,0 0,-10.255 q 0,-2.135 -0.63,-3.01 -0.63,-0.875 -2.065,-0.875 -1.12,0 -1.995,0.56 -0.84,0.525 -1.925,1.575 l 0,12.005 -4.025,0 0,-24.71 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4206" />
+      <path
+         d="m 573.77164,567.64235 q 0,-2.1 0.665,-3.78 0.665,-1.68 1.75,-2.835 1.12,-1.155 2.555,-1.785 1.435,-0.63 2.94,-0.63 1.75,0 3.08,0.595 1.33,0.595 2.205,1.68 0.91,1.085 1.365,2.59 0.455,1.505 0.455,3.29 0,1.19 -0.175,1.89 l -10.92,0 q 0.28,2.345 1.61,3.605 1.365,1.26 3.465,1.26 1.12,0 2.065,-0.315 0.98,-0.35 1.925,-0.945 l 1.365,2.52 q -1.225,0.805 -2.73,1.33 -1.505,0.525 -3.15,0.525 -1.785,0 -3.325,-0.595 -1.54,-0.63 -2.695,-1.785 -1.155,-1.155 -1.82,-2.8 -0.63,-1.68 -0.63,-3.815 z m 11.515,-1.54 q 0,-2.065 -0.875,-3.22 -0.84,-1.155 -2.625,-1.155 -1.54,0 -2.695,1.12 -1.155,1.085 -1.435,3.255 l 7.63,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4208" />
+      <path
+         d="m 598.72281,567.64235 q 0,-2.135 0.7,-3.815 0.7,-1.68 1.89,-2.835 1.19,-1.155 2.73,-1.75 1.575,-0.63 3.29,-0.63 1.68,0 2.905,0.595 1.26,0.56 2.135,1.4 l -1.925,2.555 q -0.7,-0.595 -1.4,-0.91 -0.7,-0.35 -1.505,-0.35 -2.1,0 -3.395,1.575 -1.295,1.54 -1.295,4.165 0,2.59 1.26,4.165 1.295,1.54 3.325,1.54 1.05,0 1.925,-0.42 0.91,-0.455 1.61,-1.05 l 1.68,2.555 q -1.225,1.085 -2.695,1.645 -1.47,0.56 -2.94,0.56 -1.75,0 -3.29,-0.595 -1.505,-0.595 -2.625,-1.75 -1.12,-1.155 -1.75,-2.835 -0.63,-1.68 -0.63,-3.815 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4210" />
+      <path
+         d="m 614.10367,567.64235 q 0,-2.1 0.665,-3.78 0.665,-1.68 1.75,-2.835 1.12,-1.155 2.555,-1.785 1.435,-0.63 2.94,-0.63 1.75,0 3.08,0.595 1.33,0.595 2.205,1.68 0.91,1.085 1.365,2.59 0.455,1.505 0.455,3.29 0,1.19 -0.175,1.89 l -10.92,0 q 0.28,2.345 1.61,3.605 1.365,1.26 3.465,1.26 1.12,0 2.065,-0.315 0.98,-0.35 1.925,-0.945 l 1.365,2.52 q -1.225,0.805 -2.73,1.33 -1.505,0.525 -3.15,0.525 -1.785,0 -3.325,-0.595 -1.54,-0.63 -2.695,-1.785 -1.155,-1.155 -1.82,-2.8 -0.63,-1.68 -0.63,-3.815 z m 11.515,-1.54 q 0,-2.065 -0.875,-3.22 -0.84,-1.155 -2.625,-1.155 -1.54,0 -2.695,1.12 -1.155,1.085 -1.435,3.255 l 7.63,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4212" />
+      <path
+         d="m 632.99711,559.03235 3.325,0 0.28,2.31 0.14,0 q 1.155,-1.12 2.485,-1.925 1.365,-0.805 3.15,-0.805 2.765,0 4.025,1.785 1.26,1.75 1.26,5.04 l 0,10.78 -4.025,0 0,-10.255 q 0,-2.135 -0.63,-3.01 -0.63,-0.875 -2.065,-0.875 -1.12,0 -1.995,0.56 -0.84,0.525 -1.925,1.575 l 0,12.005 -4.025,0 0,-17.185 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4214" />
+      <path
+         d="m 653.21125,562.21735 -2.45,0 0,-3.01 2.66,-0.175 0.49,-4.69 3.36,0 0,4.69 4.375,0 0,3.185 -4.375,0 0,8.19 q 0,3.01 2.415,3.01 0.455,0 0.91,-0.105 0.49,-0.105 0.875,-0.28 l 0.7,2.975 q -0.7,0.245 -1.61,0.42 -0.875,0.21 -1.89,0.21 -1.505,0 -2.555,-0.455 -1.015,-0.455 -1.68,-1.26 -0.63,-0.84 -0.945,-1.96 -0.28,-1.155 -0.28,-2.555 l 0,-8.19 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4216" />
+      <path
+         d="m 665.26273,559.03235 3.325,0 0.28,3.045 0.14,0 q 0.91,-1.68 2.205,-2.555 1.295,-0.91 2.66,-0.91 1.225,0 1.96,0.35 l -0.7,3.5 q -0.455,-0.14 -0.84,-0.21 -0.385,-0.07 -0.945,-0.07 -1.015,0 -2.135,0.805 -1.12,0.77 -1.925,2.73 l 0,10.5 -4.025,0 0,-17.185 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4218" />
+      <path
+         d="m 676.62734,571.59735 q 0,-2.765 2.415,-4.27 2.415,-1.505 7.7,-2.1 0,-0.665 -0.175,-1.26 -0.175,-0.63 -0.56,-1.085 -0.35,-0.49 -0.945,-0.735 -0.56,-0.28 -1.435,-0.28 -1.295,0 -2.52,0.49 -1.19,0.49 -2.31,1.19 l -1.47,-2.695 q 1.435,-0.91 3.185,-1.575 1.785,-0.665 3.85,-0.665 3.255,0 4.83,1.925 1.575,1.89 1.575,5.495 l 0,10.185 -3.29,0 -0.315,-1.89 -0.105,0 q -1.155,0.98 -2.485,1.645 -1.295,0.665 -2.835,0.665 -2.275,0 -3.71,-1.365 -1.4,-1.4 -1.4,-3.675 z m 3.92,-0.315 q 0,1.155 0.665,1.68 0.7,0.525 1.785,0.525 1.05,0 1.925,-0.49 0.875,-0.49 1.82,-1.4 l 0,-3.85 q -1.75,0.21 -2.94,0.56 -1.19,0.35 -1.925,0.805 -0.7,0.42 -1.015,0.98 -0.315,0.56 -0.315,1.19 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4220" />
+      <path
+         d="m 695.68266,551.50735 4.025,0 0,20.51 q 0,0.735 0.28,1.05 0.28,0.28 0.595,0.28 0.14,0 0.245,0 0.14,0 0.385,-0.07 l 0.525,3.01 q -0.805,0.35 -2.135,0.35 -2.17,0 -3.045,-1.295 -0.875,-1.295 -0.875,-3.535 l 0,-20.3 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4222" />
+      <path
+         d="m 704.06461,567.64235 q 0,-2.1 0.665,-3.78 0.665,-1.68 1.75,-2.835 1.12,-1.155 2.555,-1.785 1.435,-0.63 2.94,-0.63 1.75,0 3.08,0.595 1.33,0.595 2.205,1.68 0.91,1.085 1.365,2.59 0.455,1.505 0.455,3.29 0,1.19 -0.175,1.89 l -10.92,0 q 0.28,2.345 1.61,3.605 1.365,1.26 3.465,1.26 1.12,0 2.065,-0.315 0.98,-0.35 1.925,-0.945 l 1.365,2.52 q -1.225,0.805 -2.73,1.33 -1.505,0.525 -3.15,0.525 -1.785,0 -3.325,-0.595 -1.54,-0.63 -2.695,-1.785 -1.155,-1.155 -1.82,-2.8 -0.63,-1.68 -0.63,-3.815 z m 11.515,-1.54 q 0,-2.065 -0.875,-3.22 -0.84,-1.155 -2.625,-1.155 -1.54,0 -2.695,1.12 -1.155,1.085 -1.435,3.255 l 7.63,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4224" />
+    </g>
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text5629-1">
+      <path
+         d="m 398.55161,877.4092 -6.615,0 0,-3.43 17.29,0 0,3.43 -6.615,0 0,19.46 -4.06,0 0,-19.46 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4149" />
+      <path
+         d="m 409.59466,892.2492 q 0,-2.765 2.415,-4.27 2.415,-1.505 7.7,-2.1 0,-0.665 -0.175,-1.26 -0.175,-0.63 -0.56,-1.085 -0.35,-0.49 -0.945,-0.735 -0.56,-0.28 -1.435,-0.28 -1.295,0 -2.52,0.49 -1.19,0.49 -2.31,1.19 l -1.47,-2.695 q 1.435,-0.91 3.185,-1.575 1.785,-0.665 3.85,-0.665 3.255,0 4.83,1.925 1.575,1.89 1.575,5.495 l 0,10.185 -3.29,0 -0.315,-1.89 -0.105,0 q -1.155,0.98 -2.485,1.645 -1.295,0.665 -2.835,0.665 -2.275,0 -3.71,-1.365 -1.4,-1.4 -1.4,-3.675 z m 3.92,-0.315 q 0,1.155 0.665,1.68 0.7,0.525 1.785,0.525 1.05,0 1.925,-0.49 0.875,-0.49 1.82,-1.4 l 0,-3.85 q -1.75,0.21 -2.94,0.56 -1.19,0.35 -1.925,0.805 -0.7,0.42 -1.015,0.98 -0.315,0.56 -0.315,1.19 z m 2.275,-20.23 3.22,0 3.36,5.11 -2.8,0 -2.1,-2.975 -0.14,0 -2.1,2.975 -2.8,0 3.36,-5.11 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4151" />
+      <path
+         d="m 427.52997,888.2942 q 0,-2.135 0.7,-3.815 0.7,-1.68 1.89,-2.835 1.19,-1.155 2.73,-1.75 1.575,-0.63 3.29,-0.63 1.68,0 2.905,0.595 1.26,0.56 2.135,1.4 l -1.925,2.555 q -0.7,-0.595 -1.4,-0.91 -0.7,-0.35 -1.505,-0.35 -2.1,0 -3.395,1.575 -1.295,1.54 -1.295,4.165 0,2.59 1.26,4.165 1.295,1.54 3.325,1.54 1.05,0 1.925,-0.42 0.91,-0.455 1.61,-1.05 l 1.68,2.555 q -1.225,1.085 -2.695,1.645 -1.47,0.56 -2.94,0.56 -1.75,0 -3.29,-0.595 -1.505,-0.595 -2.625,-1.75 -1.12,-1.155 -1.75,-2.835 -0.63,-1.68 -0.63,-3.815 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4153" />
+      <path
+         d="m 444.85114,872.1592 4.025,0 0,6.37 -0.14,3.325 q 1.085,-1.015 2.38,-1.785 1.33,-0.805 3.115,-0.805 2.765,0 4.025,1.785 1.26,1.75 1.26,5.04 l 0,10.78 -4.025,0 0,-10.255 q 0,-2.135 -0.63,-3.01 -0.63,-0.875 -2.065,-0.875 -1.12,0 -1.995,0.56 -0.84,0.525 -1.925,1.575 l 0,12.005 -4.025,0 0,-24.71 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4155" />
+      <path
+         d="m 463.28192,888.2942 q 0,-2.1 0.665,-3.78 0.665,-1.68 1.75,-2.835 1.12,-1.155 2.555,-1.785 1.435,-0.63 2.94,-0.63 1.75,0 3.08,0.595 1.33,0.595 2.205,1.68 0.91,1.085 1.365,2.59 0.455,1.505 0.455,3.29 0,1.19 -0.175,1.89 l -10.92,0 q 0.28,2.345 1.61,3.605 1.365,1.26 3.465,1.26 1.12,0 2.065,-0.315 0.98,-0.35 1.925,-0.945 l 1.365,2.52 q -1.225,0.805 -2.73,1.33 -1.505,0.525 -3.15,0.525 -1.785,0 -3.325,-0.595 -1.54,-0.63 -2.695,-1.785 -1.155,-1.155 -1.82,-2.8 -0.63,-1.68 -0.63,-3.815 z m 11.515,-1.54 q 0,-2.065 -0.875,-3.22 -0.84,-1.155 -2.625,-1.155 -1.54,0 -2.695,1.12 -1.155,1.085 -1.435,3.255 l 7.63,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4157" />
+      <path
+         d="m 488.2331,888.2942 q 0,-2.135 0.7,-3.815 0.7,-1.68 1.89,-2.835 1.19,-1.155 2.73,-1.75 1.575,-0.63 3.29,-0.63 1.68,0 2.905,0.595 1.26,0.56 2.135,1.4 l -1.925,2.555 q -0.7,-0.595 -1.4,-0.91 -0.7,-0.35 -1.505,-0.35 -2.1,0 -3.395,1.575 -1.295,1.54 -1.295,4.165 0,2.59 1.26,4.165 1.295,1.54 3.325,1.54 1.05,0 1.925,-0.42 0.91,-0.455 1.61,-1.05 l 1.68,2.555 q -1.225,1.085 -2.695,1.645 -1.47,0.56 -2.94,0.56 -1.75,0 -3.29,-0.595 -1.505,-0.595 -2.625,-1.75 -1.12,-1.155 -1.75,-2.835 -0.63,-1.68 -0.63,-3.815 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4159" />
+      <path
+         d="m 503.61396,888.2942 q 0,-2.1 0.665,-3.78 0.665,-1.68 1.75,-2.835 1.12,-1.155 2.555,-1.785 1.435,-0.63 2.94,-0.63 1.75,0 3.08,0.595 1.33,0.595 2.205,1.68 0.91,1.085 1.365,2.59 0.455,1.505 0.455,3.29 0,1.19 -0.175,1.89 l -10.92,0 q 0.28,2.345 1.61,3.605 1.365,1.26 3.465,1.26 1.12,0 2.065,-0.315 0.98,-0.35 1.925,-0.945 l 1.365,2.52 q -1.225,0.805 -2.73,1.33 -1.505,0.525 -3.15,0.525 -1.785,0 -3.325,-0.595 -1.54,-0.63 -2.695,-1.785 -1.155,-1.155 -1.82,-2.8 -0.63,-1.68 -0.63,-3.815 z m 11.515,-1.54 q 0,-2.065 -0.875,-3.22 -0.84,-1.155 -2.625,-1.155 -1.54,0 -2.695,1.12 -1.155,1.085 -1.435,3.255 l 7.63,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4161" />
+      <path
+         d="m 522.50739,879.6842 3.325,0 0.28,2.31 0.14,0 q 1.155,-1.12 2.485,-1.925 1.365,-0.805 3.15,-0.805 2.765,0 4.025,1.785 1.26,1.75 1.26,5.04 l 0,10.78 -4.025,0 0,-10.255 q 0,-2.135 -0.63,-3.01 -0.63,-0.875 -2.065,-0.875 -1.12,0 -1.995,0.56 -0.84,0.525 -1.925,1.575 l 0,12.005 -4.025,0 0,-17.185 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4163" />
+      <path
+         d="m 542.72153,882.8692 -2.45,0 0,-3.01 2.66,-0.175 0.49,-4.69 3.36,0 0,4.69 4.375,0 0,3.185 -4.375,0 0,8.19 q 0,3.01 2.415,3.01 0.455,0 0.91,-0.105 0.49,-0.105 0.875,-0.28 l 0.7,2.975 q -0.7,0.245 -1.61,0.42 -0.875,0.21 -1.89,0.21 -1.505,0 -2.555,-0.455 -1.015,-0.455 -1.68,-1.26 -0.63,-0.84 -0.945,-1.96 -0.28,-1.155 -0.28,-2.555 l 0,-8.19 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4165" />
+      <path
+         d="m 554.77302,879.6842 3.325,0 0.28,3.045 0.14,0 q 0.91,-1.68 2.205,-2.555 1.295,-0.91 2.66,-0.91 1.225,0 1.96,0.35 l -0.7,3.5 q -0.455,-0.14 -0.84,-0.21 -0.385,-0.07 -0.945,-0.07 -1.015,0 -2.135,0.805 -1.12,0.77 -1.925,2.73 l 0,10.5 -4.025,0 0,-17.185 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4167" />
+      <path
+         d="m 566.13763,892.2492 q 0,-2.765 2.415,-4.27 2.415,-1.505 7.7,-2.1 0,-0.665 -0.175,-1.26 -0.175,-0.63 -0.56,-1.085 -0.35,-0.49 -0.945,-0.735 -0.56,-0.28 -1.435,-0.28 -1.295,0 -2.52,0.49 -1.19,0.49 -2.31,1.19 l -1.47,-2.695 q 1.435,-0.91 3.185,-1.575 1.785,-0.665 3.85,-0.665 3.255,0 4.83,1.925 1.575,1.89 1.575,5.495 l 0,10.185 -3.29,0 -0.315,-1.89 -0.105,0 q -1.155,0.98 -2.485,1.645 -1.295,0.665 -2.835,0.665 -2.275,0 -3.71,-1.365 -1.4,-1.4 -1.4,-3.675 z m 3.92,-0.315 q 0,1.155 0.665,1.68 0.7,0.525 1.785,0.525 1.05,0 1.925,-0.49 0.875,-0.49 1.82,-1.4 l 0,-3.85 q -1.75,0.21 -2.94,0.56 -1.19,0.35 -1.925,0.805 -0.7,0.42 -1.015,0.98 -0.315,0.56 -0.315,1.19 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4169" />
+      <path
+         d="m 585.19294,872.1592 4.025,0 0,20.51 q 0,0.735 0.28,1.05 0.28,0.28 0.595,0.28 0.14,0 0.245,0 0.14,0 0.385,-0.07 l 0.525,3.01 q -0.805,0.35 -2.135,0.35 -2.17,0 -3.045,-1.295 -0.875,-1.295 -0.875,-3.535 l 0,-20.3 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4171" />
+      <path
+         d="m 593.57489,888.2942 q 0,-2.1 0.665,-3.78 0.665,-1.68 1.75,-2.835 1.12,-1.155 2.555,-1.785 1.435,-0.63 2.94,-0.63 1.75,0 3.08,0.595 1.33,0.595 2.205,1.68 0.91,1.085 1.365,2.59 0.455,1.505 0.455,3.29 0,1.19 -0.175,1.89 l -10.92,0 q 0.28,2.345 1.61,3.605 1.365,1.26 3.465,1.26 1.12,0 2.065,-0.315 0.98,-0.35 1.925,-0.945 l 1.365,2.52 q -1.225,0.805 -2.73,1.33 -1.505,0.525 -3.15,0.525 -1.785,0 -3.325,-0.595 -1.54,-0.63 -2.695,-1.785 -1.155,-1.155 -1.82,-2.8 -0.63,-1.68 -0.63,-3.815 z m 11.515,-1.54 q 0,-2.065 -0.875,-3.22 -0.84,-1.155 -2.625,-1.155 -1.54,0 -2.695,1.12 -1.155,1.085 -1.435,3.255 l 7.63,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+         id="path4173" />
+    </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 500,876.5898 0,-89.39276"
        id="path5651"
        inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="70.778877"
-       y="508.32584"
-       id="text5629-1-7"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5631-4-6"
-         x="70.778877"
-         y="508.32584"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:27.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle">Ecran</tspan></text>
-    <ellipse
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-opacity:1;marker:none;enable-background:accumulate"
-       id="path5671"
-       cx="69.806709"
-       cy="498.42828"
-       rx="62.775814"
-       ry="26.616945" />
+    <g
+       id="g4239"
+       transform="translate(12.969099,0.550768)">
+      <g
+         id="text5629-1-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+        <path
+           id="path4227"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+           d="m 48.018686,494.68196 13.79,0 0,3.43 -9.73,0 0,5.845 8.225,0 0,3.43 -8.225,0 0,6.755 10.08,0 0,3.43 -14.14,0 0,-22.89 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4229"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+           d="m 65.347514,508.99696 q 0,-2.135 0.7,-3.815 0.7,-1.68 1.89,-2.835 1.19,-1.155 2.73,-1.75 1.575,-0.63 3.29,-0.63 1.68,0 2.905,0.595 1.26,0.56 2.135,1.4 l -1.925,2.555 q -0.7,-0.595 -1.4,-0.91 -0.7,-0.35 -1.505,-0.35 -2.1,0 -3.395,1.575 -1.295,1.54 -1.295,4.165 0,2.59 1.26,4.165 1.295,1.54 3.325,1.54 1.05,0 1.925,-0.42 0.91,-0.455 1.61,-1.05 l 1.68,2.555 q -1.225,1.085 -2.695,1.645 -1.47,0.56 -2.94,0.56 -1.75,0 -3.29,-0.595 -1.505,-0.595 -2.625,-1.75 -1.12,-1.155 -1.75,-2.835 -0.63,-1.68 -0.63,-3.815 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4231"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+           d="m 82.668686,500.38696 3.325,0 0.28,3.045 0.14,0 q 0.91,-1.68 2.205,-2.555 1.295,-0.91 2.66,-0.91 1.225,0 1.96,0.35 l -0.7,3.5 q -0.455,-0.14 -0.84,-0.21 -0.385,-0.07 -0.945,-0.07 -1.015,0 -2.135,0.805 -1.12,0.77 -1.925,2.73 l 0,10.5 -4.025,0 0,-17.185 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4233"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+           d="m 94.033295,512.95196 q 0,-2.765 2.415,-4.27 2.415,-1.505 7.699995,-2.1 0,-0.665 -0.175,-1.26 -0.175,-0.63 -0.56,-1.085 -0.35,-0.49 -0.945,-0.735 -0.56,-0.28 -1.435,-0.28 -1.294995,0 -2.519995,0.49 -1.19,0.49 -2.31,1.19 l -1.47,-2.695 q 1.435,-0.91 3.185,-1.575 1.785,-0.665 3.849995,-0.665 3.255,0 4.83,1.925 1.575,1.89 1.575,5.495 l 0,10.185 -3.29,0 -0.315,-1.89 -0.105,0 q -1.155,0.98 -2.485,1.645 -1.295,0.665 -2.834995,0.665 -2.275,0 -3.71,-1.365 -1.4,-1.4 -1.4,-3.675 z m 3.92,-0.315 q 0,1.155 0.665,1.68 0.7,0.525 1.784995,0.525 1.05,0 1.925,-0.49 0.875,-0.49 1.82,-1.4 l 0,-3.85 q -1.75,0.21 -2.94,0.56 -1.19,0.35 -1.924995,0.805 -0.7,0.42 -1.015,0.98 -0.315,0.56 -0.315,1.19 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4235"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle"
+           d="m 113.08861,500.38696 3.325,0 0.28,2.31 0.14,0 q 1.155,-1.12 2.485,-1.925 1.365,-0.805 3.15,-0.805 2.765,0 4.025,1.785 1.26,1.75 1.26,5.04 l 0,10.78 -4.025,0 0,-10.255 q 0,-2.135 -0.63,-3.01 -0.63,-0.875 -2.065,-0.875 -1.12,0 -1.995,0.56 -0.84,0.525 -1.925,1.575 l 0,12.005 -4.025,0 0,-17.185 z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <ellipse
+         ry="34.103733"
+         rx="80.433327"
+         cy="506.33698"
+         cx="87.886147"
+         id="path5671"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.84383702;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    </g>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect5695"
