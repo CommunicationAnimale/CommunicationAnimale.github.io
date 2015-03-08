@@ -124,13 +124,13 @@ Il existe au moins trois types de glandes exocrines pouvant être distinguées s
 
 Nous pouvons voir la structure de ces glandes grâce au schéma ci-dessous et ainsi étudier l’évacuation des phéromones.
 
-{% include image.html img="img/chimique/figure11.png" caption="Schéma de la structure des glandes à phéromones chez les insectes, selon Brossut, 1996"%}
+{% include image.html img="img/chimique/figure11.png" caption="Schéma de la structure des glandes à phéromones chez les insectes, selon Brossut, 1996" %}
 
 L’évacuation des phéromones dépend des différents pores de la glande. Selon le type de cellules où se trouve la phéromone, l’évacuation est différente. Pour les cellules de types 1 : cellules glandulaire épidermique, la phéromone est rejetée par des canaux très étroits qui se situent dans la cuticule. En ce qui concerne les cellules de type 2 : les cellules glandulaires intra-épidermique, la phéromone est évacuée par des canaux fins ou par les chambres d’évacuation suite à leurs transports par les cellules adjacentes. Enfin, les cellules de type 3 : les cellules sous-épidermique, la phéromone est rejetée par un réservoir central grâce à un canal cuticulaire.
 
 #### Les différentes glandes exocrines
 
-{% include image.html img="img/chimique/figure12.png" caption="Schéma du système glandulaire de la fourmi"%}
+{% include image.html img="img/chimique/figure12.png" caption="Schéma du système glandulaire de la fourmi" %}
 
 - **Glande mandibulaire :** Située en dessous des mandibules, la glande mandibulaire synthétise les phéromones d’alarme. Elle produise aussi un liquide peu fluide qui permet de malaxer et de ramollir la nourriture retrouvée par les fourmis. Ces substances chimiques sont principalement constituées de citronellol et de citronellal qui ont respectivement une fonction défensive et déclencheur d’alarme. D’autre part, ces glandes mandibulaires permettent le maintien de la hiérarchie sociale.
 
@@ -195,29 +195,83 @@ Cl<sub>2</sub>(g) + 2Na<sup>+</sup> + 2OH<sup>&ndash;</sup> &rarr; 2 Na<sup>+</s
 
 Dans des conditions de pression et de température normales on doit dissoudre 24L de dichlore gazeux dans 1L de soude afin d’obtenir 1L d’eau de Javel.
 
-{% include image.html img="img/chimique/figure18.png" %}
+{% include image.html img="img/chimique/figure18.png" caption="Photo du montage expérimental que nous avons réalisé, l’ampoule de coulée isobare n’a pas été encore introduite" %}
 
 
 
-> Lorsque la température est inférieure à 15°C, faire couler l’eau de javel goutte à goutte en veillant à ne pas dépasser la température de 25°C. L’addition doit être lente (au goutte à goutte). > Lorsque l’ampoule de coulée est vide, enlever le cristallisoir et laisser revenir à la température ambiante tout en agitant pendant 15 minutes. Enlever l’ampoule de coulée et la rincer. > La solution doit rester de couleur jaunâtre ce qui prouve que l’eau de javel est en excès par rapport à l’octan-2-ol. Si l’eau de javel n’est pas en excès, ajouter quelques mL d’eau de javel dans le mélange réactionnel. > En fin de synthèse, remettre l’ampoule de coulée en place et y placer environ 5mL d’une solution d’hydrogénosulfite de sodium (Na+ + HSO ). Faire couler goutte à goutte la solution d’hydrogénosulfite de sodium dans le mélange réactionnel jusqu’à décoloration totale de la solution
+>Lorsque la température est inférieure à 15°C, faire couler l’eau de javel goutte à goutte en veillant à ne pas dépasser la température de 25°C. L’addition doit être lente (au goutte à goutte).
+>
+>Lorsque l’ampoule de coulée est vide, enlever le cristallisoir et laisser revenir à la température ambiante tout en agitant pendant 15 minutes. Enlever l’ampoule de coulée et la rincer.
+>
+>La solution doit rester de couleur jaunâtre ce qui prouve que l’eau de javel est en excès par rapport à l’octan-2-ol. Si l’eau de javel n’est pas en excès, ajouter quelques mL d’eau de javel dans le mélange réactionnel.
+>
+>En fin de synthèse, remettre l’ampoule de coulée en place et y placer environ 5mL d’une solution d’hydrogénosulfite de sodium (Na<sup>+</sup> + HSO<sub>3</sub><sup>&ndash;</sup>). Faire couler goutte à goutte la solution d’hydrogénosulfite de sodium dans le mélange réactionnel jusqu’à décoloration totale de la solution   
 
-(to do mettre les photos)
 
-> 2.	Lavages de la phase organique* > Récupérer le turbulent. Transvaser le contenu du ballon à l’aide d’un entonnoir dans une ampoule à décanter, rincer le ballon avec 20mL d’eau distillée froide et récupérer cette eau de lavage dans l’ampoule à décanter. > Ajouter dans l’ampoule à décanter 50mL d’une solution aqueuse de chlorure de sodium saturée préalablement refroidie dans le bain eau + glace pilée. > Agiter l’ampoule à décanter et laisser reposer quelques minutes  afin de séparer la phase aqueuse et la phase organique. Eliminer la phase aqueuse. La phase organique est peu abondante. > Laver la phase organique avec 50mL d’une solution d’hydrogénocarbonate de sodium à 5 %, solution préalablement refroidie dans le bain réfrigérant. > Attention au dégagement gazeux !! Lorsque celui-ci est atténué, agiter l’ampoule à décanter en dégazant l’ampoule plusieurs fois. Laisser reposer et éliminer la phase aqueuse.* > Laver une dernière fois la phase organique avec 50mL d’une solution aqueuse de chlorure de sodium saturée, préalablement  refroidie dans le bain réfrigérant. Eliminer la phase aqueuse et recueillir la phase organique dans un erlenmeyer propre. 
 
-(to do mettre photo)
+{% include image.html img="img/chimique/figure19.png" caption="Photo du montage lorsque l’eau de Javel coule en goutte à goutte" %}
 
->3.	Séchage de la phase organique >Sécher la phase organique avec un sel anhydre comme par exemple du sulfate de magnésium anhydre*
 
-(to do mettre photo)
 
->4.	Filtrer la phase organique avec un dispositif de Büchner
+{% include image.html img="img/chimique/figure20.png" caption="Photo de l’eau de la solution d’hydrogénosulfite de sodium qui coule  doucement, la solution auparavant jaune est devenue incolore" %}
 
-(to do mettre photo)
 
-> 5.	Caractérisation du groupe carbonyle de la cétone obtenue > Dans un tube à essai, verser environ 2 mL de solution de D.N.P.H. et y ajouter quelques gouttes d’octan-2-ol. Agiter le tube à essai et observer. > Refaire la même opération avec quelques gouttes du liquide organique obtenu au cours de cette synthèse.* > Conclure.    (mettre la photo)
 
-La synthèse enfin terminée, nous pouvons donner l’équation de la réaction d’oxydoréduction lors de cette transformation chimique :  (mettre photo de l'équation)
+>**2. Lavages de la phase organique :**
+>
+>Récupérer le turbulent. Transvaser le contenu du ballon à l’aide d’un entonnoir dans une ampoule à décanter, rincer le ballon avec 20mL d’eau distillée froide et récupérer cette eau de lavage dans l’ampoule à décanter.
+>
+>Ajouter dans l’ampoule à décanter 50mL d’une solution aqueuse de chlorure de sodium saturée préalablement refroidie dans le bain eau + glace pilée.
+>
+>Agiter l’ampoule à décanter et laisser reposer quelques minutes afin de séparer la phase aqueuse et la phase organique. Eliminer la phase aqueuse. La phase organique est peu abondante.
+>
+>Laver la phase organique avec 50mL d’une solution d’hydrogénocarbonate de sodium à 5 %, solution préalablement refroidie dans le bain réfrigérant.
+>
+>**Attention au dégagement gazeux !** Lorsque celui-ci est atténué, agiter l’ampoule à décanter en dégazant l’ampoule plusieurs fois. Laisser reposer et éliminer la phase aqueuse.
+>
+>Laver une dernière fois la phase organique avec 50mL d’une solution aqueuse de chlorure de sodium saturée, préalablement refroidie dans le bain réfrigérant. Eliminer la phase aqueuse et recueillir la phase organique dans un erlenmeyer propre.   
+
+
+
+{% include image.html img="img/chimique/figure21.png" caption="Photo de l’ampoule à décanter lors du dernier lavage de la phase organique avec 50ml d’une solution aqueuse de chlorure de sodium saturée, préalablement refroidie dans le bain réfrigérant" %}
+
+
+
+
+>**3. Séchage de la phase organique :**
+>
+>Sécher la phase organique avec un sel anhydre comme par exemple du sulfate de magnésium anhydre.
+
+
+{% include image.html img="img/chimique/figure22.png" caption="Photo du séchage de la phase organique avec du sel anydre" %}
+
+
+>**4. Filtrer la phase organique avec un dispositif de Büchner**
+
+
+{% include image.html img="img/chimique/figure23.png" caption="Photo du dispositif de Büchner réalisé afin d’obtenir le produit" %}
+
+
+>**5. Caractérisation du groupe carbonyle de la cétone obtenue :**
+>
+>Dans un tube à essai, verser environ 2 mL de solution de D.N.P.H. et y ajouter quelques gouttes d’octan-2-ol. Agiter le tube à essai et observer.
+>
+>Refaire la même opération avec quelques gouttes du liquide organique obtenu au cours de cette synthèse.
+
+
+{% include image.html img="img/chimique/figure24.png" caption="Photo du tube à essai contenant le liquide organique, ajout de quelques gouttes de DNPH" %}
+
+
+La synthèse enfin terminée, nous pouvons donner l’équation de la réaction d’oxydoréduction lors de cette transformation chimique :
+
+ClOH + H^+^(aq) + 2 *e*^-^ = Cl^-^ + H~2~O
+{: style="text-align: center"}
+
+C~8~H~18~O = C~8~H~16~O + 2 H^+^(aq) + 2 *e*^-
+{: style="text-align: center"}
+--------------------
+^C~8~H~18~O + ClOH &rarr; C~8~H~16~O + H^+^(aq) + Cl^-^ + H~2~O
+{: style="text-align: center"}
 
 Grâce à un tableau d’avancement ci-dessous nous pouvons calculer le rendement maximum de la synthèse de l’octan-2-ol.
 
