@@ -173,9 +173,9 @@ L'énergie rediffusée par les hématies revient vers la sonde qui va mesurer la
 
 La différence entre la fréquence du signal émis et celle du signal reçu par la sonde suit la formule:
 
-Avec: $$\deltaF = 2F(\frac{V}{C})\cos\theta$$
+$$ \delta F = 2F(\frac{V}{C}) \cos \theta$$
 
-$$\deltaF$$ : différence entre la fréquence de l'onde émise et celle de l'onde reçue
+$$\delta F$$ : différence entre la fréquence de l'onde émise et celle de l'onde reçue
 
 $$F$$ : fréquence de l'onde émise
 
@@ -183,7 +183,7 @@ $$V$$ : vitesse du sang
 
 $$C$$ : célérité des ultrasons dans les tissus mous (1540 m/s)
 
-$$\cos\theta$$ = cosinus de l'angle que forme la direction du faisceau ultrasonore et la direction de l'écoulement sanguin.
+$$\cos \theta$$ : cosinus de l'angle que forme la direction du faisceau ultrasonore et la direction de l'écoulement sanguin.
 
 {% include buttons.html %}
 
