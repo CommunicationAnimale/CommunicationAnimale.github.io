@@ -267,9 +267,9 @@ La synthèse enfin terminée, nous pouvons donner l’équation de la réaction 
 ClOH + H^+^(aq) + 2 *e*^-^ = Cl^-^ + H~2~O
 {: style="text-align: center"}
 
-C~8~H~18~O = C~8~H~16~O + 2 H^+^(aq) + 2 *e*^-{:.underline}
+C~8~H~18~O = C~8~H~16~O + 2 H^+^(aq) + 2 *e*^-
 {: style="text-align: center"}
-
+<HR SIZE="6">
 ^C~8~H~18~O + ClOH &rarr; C~8~H~16~O + H^+^(aq) + Cl^-^ + H~2~O
 {: style="text-align: center"}
 
