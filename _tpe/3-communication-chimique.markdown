@@ -264,13 +264,15 @@ Dans des conditions de pression et de température normales on doit dissoudre 24
 
 La synthèse enfin terminée, nous pouvons donner l’équation de la réaction d’oxydoréduction lors de cette transformation chimique :
 
-ClOH + H^+^(aq) + 2 *e*^-^ = Cl^-^ + H~2~O
+
+
+ClOH + H<sup>+</sup>(aq) + 2 *e*<sup>&ndash;</sup> = Cl<sup>&ndash;</sup> + H<sub>2</sub>O
 {: style="text-align: center"}
 
-C~8~H~18~O = C~8~H~16~O + 2 H^+^(aq) + 2 *e*^-
+C<sub>8</sub>H<sub>18</sub>O = C<sub>8</sub>H<sub>16</sub>O + 2 H<sup>+</sup>(aq) + 2 *e*<sup>&ndash;</sup>
 {: style="text-align: center"}
 <hr>
-^C~8~H~18~O + ClOH &rarr; C~8~H~16~O + H^+^(aq) + Cl^-^ + H~2~O
+C<sub>8</sub>H<sub>18</sub>O + ClOH &rarr; C<sub>8</sub>H<sub>16</sub>O + H<sup>+<sup>(aq) + Cl<sup>&ndash;<sup> + H<sub>2</sub>O
 {: style="text-align: center"}
 
 Grâce à un tableau d’avancement ci-dessous nous pouvons calculer le rendement maximum de la synthèse de l’octan-2-ol.
