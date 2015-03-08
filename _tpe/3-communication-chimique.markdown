@@ -174,21 +174,23 @@ Afin de se servir de ces connaissances en matière de communication chimique, l�
 
 Nous avons donc suivi un protocole expérimental réalisé par un enseignant de l’académie de Nantes que nous avons modifié afin de répondre au mieux aux contraintes de matériel de laboratoire.
 
-> Mise en place des réactifs et déroulement de la transformation chimique
+>**1. Mise en place des réactifs et déroulement de la transformation chimique :**
 >
-> Introduire dans le ballon le turbulent et, à l’aide d’éprouvettes graduées, sous la hotte :
+>Introduire dans le ballon le turbulent et, à l’aide d’éprouvettes graduées, sous la hotte :
 >
-> - 5 mL d’octan-2-ol,
+>   - 5 mL d’octan-2-ol,
 >
-> - 10 mL d’acide éthanoïque .
+>   - 10 mL d’acide éthanoïque .
 >
-> Mettre l’agitateur magnétique en fonctionnement.
+>Mettre l’agitateur magnétique en fonctionnement.
 >
-> Suivre la diminution de la température jusqu'à 15°C avec un thermomètre, avant de placer l'ensemble bouchon + tulipe + tube.
+>Suivre la diminution de la température jusqu'à 15°C avec un thermomètre, avant de placer l'ensemble bouchon + tulipe + tube.
 >
-> Introduire dans l’ampoule de coulée isobare 40mL d’eau de javel à 24 °chl.
+>Introduire dans l’ampoule de coulée isobare 40mL d’eau de javel à 24 °chl.
 
-Afin de doser la concentration de l’eau de javel à 24 °chl comme le recommande le protocole, nous avons étudié la définition du degré chlorométrique. Ainsi, Le degré chlorométrique d est le nombre de litres de dichlore gazeux Cl2, pris dans les conditions normales de température et de pression, qu’il faut dissoudre dans un litre d’une solution d’hydroxyde de sodium pour obtenir un litre d’eau de javel titrant d °chl, selon la réaction :    (mettre une photo de l'équation)
+Afin de doser la concentration de l’eau de javel à 24 °chl comme le recommande le protocole, nous avons étudié la définition du degré chlorométrique. Ainsi, le degré chlorométrique *d* est le nombre de litres de dichlore gazeux Cl<sub>2</sub>, pris dans les conditions normales de température et de pression, qu’il faut dissoudre dans un litre d’une solution d’hydroxyde de sodium pour obtenir un litre d’eau de javel titrant *d* °chl, selon la réaction :
+
+Cl<sub>2</sub>(g) + 2Na<sup>+</sup> + 2OH<sup>-</sup> &rarr; 2 Na<sup>+</sup> + ClO<sup>-</sup> + Cl<sup>-</sup> + H<sub>2</sub>O
 
 Dans des conditions normales (de pression et de température normal) on doit dissoudre 24L de dichlore gazeux dans 1L de soude afin d’obtenir 1L d’eau de Javel.  (to do mettre photo)
 
