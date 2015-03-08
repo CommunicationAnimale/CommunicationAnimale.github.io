@@ -67,79 +67,110 @@ Nous pouvons réaliser une expérience permettant de démontrer l’utilisation 
 
 {% include image.html img="img/chimique/figure5.png" caption="Schéma des parcours utilisé lors des expériences et observation de différents moments " %}
 
-On constate que plus les fourmis font des aller- retour, plus elles ont tendance à emprunter le chemin le plus court. Ainsi, le bouquet phéromone des phéromones de piste permet aux fourmis de marquer un « trajet » qu’elle signale à d’autres fourmis. De plus ; les substances secrétées permettent aussi aux autre fourmis de connaître la quantité de nourriture disponible qui à leur tour sécrèteront ce bouquet jusqu’à temps que la nourriture est disponible. 
+On constate que plus les fourmis font des aller- retour, plus elles ont tendance à emprunter le chemin le plus court. Ainsi, le bouquet phéromone des phéromones de piste permet aux fourmis de marquer un « trajet » qu’elles signalent à d’autres fourmis. De plus, les substances secrétées permettent aussi aux autre fourmis de connaître la quantité de nourriture disponible, à leur tour elles sécrèteront ce bouquet tant que la nourriture est disponible.
 
-Exemple de phéromones de piste que nous avons modélisées grâce au logiciel ChemSketch ; il faut noter que ce logiciel ne prend pas en compte les liaisons doubles :    {% include image.html img="img/chimique/figure4.png" caption="Schéma des parcours utilisé lors des expériences et observation de différents moments " %}   On doit ajouter à cela que les scientifiques Regnier et Wilson ont calculé l’efficacité de la perception des phéromones d’alarme chez certaines espèces. Ainsi, les Acanthomyops claviger perçoivent les phéromones d’alarme dès lors que la concentration atteint 1010 à 1012 molécules/cm3. Et chez les Atta Texana,  l’efficacité est atteinte dès lors que la concentration est de 108 molécules/cm3.
+Voici deux exemples de phéromones de piste :
 
--	Les phéromones d’agrégation : Les phéromones d’agrégation sont un véritable outil chez les fourmis pour assurer la cohésion sociale. Ainsi, elles ont un rôle important pour la reproduction, pour l’hibernation, pour nidifier, pour estiver ou encore la protection social. Ces phéromones ont une durée de vie très variable les unes des autres. En effet ; elles peuvent agir temporairement ou de façon permanente pour assurer la cohésion sociale. Voici un exemple de phéromones d’agrégation, il s’agit d’une phéromone spécifique des Coléoptères. En effet ; il existe très peu d’étude concernant les phéromones d’agrégation des fourmis.
+{% include image.html img="img/chimique/figure6.png" %}
 
-(to do mettre le tableau)
+On doit ajouter à cela que les scientifiques Regnier et Wilson ont calculé l’efficacité de la perception des phéromones d’alarme chez certaines espèces. Ainsi, les Acanthomyops claviger perçoivent les phéromones d’alarme dès lors que la concentration atteint 10<sup>10</sup> à 10<sup>12</sup> molécules/cm<sup>3</sup>. Et chez les Atta Texana, l’efficacité est atteinte dès lors que la concentration est de 10<sup>8</sup> molécules/cm<sup>3</sup>.
 
--	Les phéromones passeports : elles sont comparables à une « carte d’identité » de la fourmi. Ainsi, elles sont imprégnées sur leurs cuticule et permettent aux autres fourmis de les identifier par rapport à leur fourmilière à partir d’un contact antennaire ces phéromones sont certes des substances chimiques mais leurs modes de communication est tactile et nom chimique c’est pour cela que nous n’allons pas les détailler. Cependant ; on peut aussi considérer que le nid imprégner de phéromones passeport permet aux colonies de se reconnaître les uns par aux autres. Voici un exemple de phéromones passeport : (to do mettre tableau)
 
--	Les  phéromones sexuelles : Elément essentiel lors de la reproduction, les phéromones sexuelles permettent aux fourmis d’attirer les fourmis du sexe opposé. Il faut noter que ces phéromones sont la plupart du temps émises par les femelles afin d’attirer les mâles.  Selon des études, la plupart des phéromones émises par les femelles sont des hydrocarbures. La longueur de la chaine carbonique moyenne est de 10 à 20 atomes de carbone. Elles permettent aussi de connaître le sexe de l’individu. Ces phéromones sont de véritables signaux olfactifs présents chez de nombreux insectes.
+-   **Les phéromones d’agrégation :** Les phéromones d’agrégation sont un véritable outil chez les fourmis pour assurer la cohésion sociale. Ainsi, elles ont un rôle important pour la reproduction, pour l’hibernation, pour nidifier, pour estiver ou encore la protection sociale. Ces phéromones ont une durée de vie très variable les unes des autres. En effet, elles peuvent agir temporairement ou de façon permanente pour assurer la cohésion sociale. Voici un exemple de phéromones d’agrégation, il s’agit d’une phéromone spécifique des Coléoptères. En effet, il existe très peu d’étude concernant les phéromones d’agrégation des fourmis.
 
- On distingue deux catégories de phéromones sexuelles : les substances d’appels secrétés par des glandes en dehors de l’appareil génital ainsi que les substances aphrodisiaques qui entrainent l’accouplent. C’est le cas de certains alcaloïdes Voici un exemple de phéromone sexuelle qui est une cétone :
+{% include image.html img="img/chimique/figure7.png" %}
 
-(TODO mettre tableau)
+-   **Les phéromones passeports** : elles sont comparables à une « carte d’identité » de la fourmi. Ainsi, elles sont imprégnées sur leurs cuticules et permettent aux autres fourmis de les identifier par rapport à leur fourmilière à partir d’un contact antennaire. Ces phéromones sont certes des substances chimiques mais leurs modes de communication est tactile et non chimique c’est pour cela que nous n’allons pas les détailler. Cependant, on peut aussi considérer que le nid imprégné de phéromones passeport permet aux colonies de se reconnaître les unes par aux autres. Voici un exemple de phéromones passeport :
 
--	Les phéromones de recrutement : elles permettent de recruter d’autres fourmis afin de donner une aide.  Elle provoque un regroupement de plusieurs fourmis en un point précis. Elles sont utilisées par exemple pour l’approvisionnement en nourriture. Elles sont un enchaînement  des phéromones de piste.  Ces phéromones sont aussi utilisées lors d’un déménagement d’un nid à l’autre. Il faut noter que les phéromones d’alarme provoque aussi un regroupement mais celui-ci est défensif, de plus ce n’est pas le rôle premier des phéromones d’alarme. C’est pour cela qu’il ne faut pas les confondre avec les phéromones de recrutement.
+{% include image.html img="img/chimique/figure8.png" %}
 
-(mettre le tableau)
+-   **Les phéromones sexuelles** : Elément essentiel lors de la reproduction, les phéromones sexuelles permettent aux fourmis d’attirer les fourmis du sexe opposé. Il faut noter que ces phéromones sont la plupart du temps émises par les femelles afin d’attirer les mâles. Selon des études, la plupart des phéromones émises par les femelles sont des hydrocarbures. La longueur de la chaine carbonique moyenne est de dix à vingts atomes de carbone. Elles permettent aussi de connaître le sexe de l’individu. Ces phéromones sont de véritables signaux olfactifs présents chez de nombreux insectes.
 
-**Bilan sur les différents types de phéromones utilisés dans la communication chimique des fourmis :** Tous les phéromones que nous avons citées précédemment sont des molécules organiques car elles possèdent principalement les éléments carbone et hydrogène. Généralement ; la longueur de la chaine carbonée témoigne de l’efficacité de la molécule. Certaines phéromones sont spécifiques de l’espèce (c’est le cas de la phéromone d’agrégation des coléoptères) mais elles sont dans d’autre cas utilisées par plusieurs insectes. D’autre part ; certaines phéromones sont utilisées dans le même but comme par exemple la phéromone de piste et les phéromones de recrutement lors de l’approvisionnement en nourriture. Ainsi, le message émis par les fourmis ne résulte pas d’une seule phéromone mais de différents types de phéromones constituants le bouquet phéromonale.
+On distingue deux catégories de phéromones sexuelles :
 
- ##1. Emission des phéromones 
+-   Les substances d’appels secrétés par des glandes en dehors de l’appareil génital.
 
-**Synthèse et le transport des phéromones**
+-   Les substances aphrodisiaques qui entrainent l’accouplement. C’est le cas de certains alcaloïdes.
 
-Les fourmis produisent des messagers chimiques par le biais de cellules sécrétrices dont l’ensemble forme des glandes. Ces messages chimiques se répandent dans l’environnement. En effet ; il s’agit de substances chimiques volatiles : des phéromones qui possèdent une durée de vie limitée. Il faut noter que l’effet de phéromone résulte de la taille de la molécule. En outre ; on constate que plus la durée d’action de la molécule est longue plus la molécule est grande.
+Voici un exemple de phéromone sexuelle qui est une cétone :
 
-Ces substances chimiques sont synthétisées par une fourmi émettrice afin de transmettre une information à une fourmi réceptrice.  Ainsi, ces phéromones peuvent être transmises par le transport de l’air, le placement au sol, et par contact.
+{% include image.html img="img/chimique/figure9.png" %}
 
-##2.2.	La  structure des glandes exocrine et  les différents types de glandes.
+-   **Les phéromones de recrutement :** elles permettent de recruter d’autres fourmis afin de donner une aide. Elles provoquent un regroupement de plusieurs fourmis en un point précis. Elles sont utilisées par exemple pour l’approvisionnement en nourriture. Elles sont un enchaînement des phéromones de piste. Ces phéromones sont aussi utilisées lors d’un déménagement d’un nid à l’autre. Il faut noter que les phéromones d’alarme provoquent aussi un regroupement mais celui-ci est défensif, de plus ce n’est pas le rôle premier des phéromones d’alarme. C’est pour cela qu’il ne faut pas les confondre avec les phéromones de recrutement.
 
-**2.2.1.	Structure des glandes exocrines**
+Synthèse des différents types de phéromones utilisés dans la communication chimique des fourmis :
 
-Définition : Une glande exocrine est un organe sécrétant des substances chimiques. Dans notre cas, il s’agit des phéromones, qui sont rejetées à l’extérieur de l’organisme des fourmis. De plus, ces glandes ont aussi pour rôle de synthétiser les phéromones qu’elles sécrètent.
+Toutes les phéromones que nous avons citées précédemment sont des molécules organiques car elles possèdent principalement les éléments carbone et hydrogène. Généralement, la longueur de la chaine carbonée témoigne de l’efficacité de la molécule. Certaines phéromones sont spécifiques de l’espèce (c’est le cas de la phéromone d’agrégation des coléoptères) mais elles sont dans d’autre cas utilisées par plusieurs insectes. D’autre part, certaines phéromones sont utilisées dans le même but comme par exemple la phéromone de piste et les phéromones de recrutement lors de l’approvisionnement en nourriture. Le message émis par les fourmis ne résulte pas d’une seule phéromone mais de différents types de phéromones constituants le bouquet phéromonal.
 
-Il existe au moins trois types de glande exocrine pouvant être distingué selon le tableau suivant :
+## Emission des phéromones
 
-(to do mettre tableau)
+### Synthèse et transport des phéromones
 
-Nous pouvons voir la structure de ces glandes grâce au schéma ci-dessous et ainsi étudier l’évacuation des phéromones. (mettre le schema)
+Les fourmis produisent des messagers chimiques par le biais de cellules sécrétrices dont l’ensemble forme des glandes. Ces messages chimiques se répandent dans l’environnement. En effet, il s’agit de substances chimiques volatiles : des phéromones qui possèdent une durée de vie limitée. Il faut noter que l’effet de phéromone résulte de la taille de la molécule. En outre, on constate que plus la durée d’action de la molécule est longue plus la molécule est grande.
 
-L’évacuation des phéromones dépend des différents pores de la glande. Selon le type de cellules où se trouve la phéromone, l’évacuation est différente. Pour les cellules de types 1 : cellules glandulaire épidermique, la phéromone est rejetée par canaux très étroit qui se situe dans la cuticule. En ce qui concerne les cellules de type 2 : les cellules glandulaires intra-épidermique, la phéromone est évacuée par  des canaux fins ou par les chambres d’évacuation suite à leurs transports par les cellules adjacents. Enfin,  les cellules de type 3 : les cellules sous-épidermique, la phéromone est rejetée par un réservoir central grâce à un canal cuticulaire.
+Ces substances chimiques sont synthétisées par une fourmi émettrice afin de transmettre une information à une fourmi réceptrice. Ainsi, ces phéromones peuvent être transmises par le transport de l’air, le placement au sol, et par contact.
 
-**2.2.2.	Les différentes glandes exocrines** (to do mettre le schéma)
 
- Glande mandibulaire : Située en dessous des mandibules, la glande mandibulaire synthétise les phéromones d’alarme. Elles produisent aussi un liquide peu fluide qui permet de malaxer et de ramollir la nourriture retrouvée par les fourmis. Ces substances chimiques sont principalement constituées de citronellol et de citronellal qui ont respectivement une fonction défensive et déclencheur d’alarme. D’autre part ; ces glandes mandibulaire permettent du maintien de la hiérarchie sociale
 
-Glande métathoracique: elle produise des substances chimiques qui contribuent sans doute au repérage ou à la défense. 
+### La  structure des glandes exocrine et  les différents types de glandes.
 
-Glande Anale : elle contient principalement des esters volatiles. Ces glandes produisent l’acide formique qui est une substance chimique défensive. Cet acide peut être projeté à plusieurs centimètres. 
+#### Structure des glandes exocrines
 
-Les glandes pygidiale : elle produit des phéromones d’alarme et permet ainsi d’alerter les autres fourmis.    La glande de Dufour ou alcaline : surnommée le « flacon à parfum » des fourmis. Il s’agit d’une phéromone de piste, qui est le moyen de recruter les congénères, grâce au traçage d’une piste chimique. Cette substance chimique est active durant 100 secondes.   Ces phéromones sont ensuite rejetées par l’aiguillon.
+Définition : Une glande exocrine est un organe sécrétant des substances chimiques. Dans notre cas, il s’agit des phéromones, qui sont rejetées à l’extérieur de l’organisme des fourmis. De plus, ces glandes ont aussi pour rôle de synthétiser les phéromones qu’elles sécrètent.
 
-La glande à poison ou à venin : comme la glande anale, elle produit de l’acide formique, il s’agit donc d’une glande qui synthétise des phéromones d’alarme qu’elle utilise face à un danger.  Cette glande, chez certaine espèce, rejette du venin qui a un rôle paralysant, d’où son nom. Ces substances chimiques sont ensuite secrétées par l’aiguillon.
+Il existe au moins trois types de glandes exocrines pouvant être distinguées selon le tableau suivant :
 
-##3.	Réception d’un signal chimique :  les antennes, des récepteurs sensoriels 
+{% include image.html img="img/chimique/figure10.png" %}
 
-Chez la fourmi comme tous les autres insectes, la réception des signaux chimiques se fait par le biais de récepteurs sensoriels. Ces chimiorécepteur sont de cellules sensorielles spécialisées qui se situent au niveau des organes olfactifs c’est-à-dire les antennes. 
+Nous pouvons voir la structure de ces glandes grâce au schéma ci-dessous et ainsi étudier l’évacuation des phéromones.
 
-Les fourmis possèdent toutes, deux antennes constituées de cellules sensorielles. Nous pouvons les observer grâce à un microscope optique à balayage.  (to do mettre photo)
+{% include image.html img="img/chimique/figure11.png" caption="Schéma de la structure des glandes à phéromones chez les insectes, selon Brossut, 1996"%}
 
-Nous observons ainsi que les antennes sont constituées de cils. En effet, il s’agit de sensilles. Chaque sensille réagit à une phéromone ou un bouquet phéromones. Lorsque nous observons de plus près ces sensilles, on remarque qu’ils sont constitués de plusieurs pores qui permettent la traversée des phéromones.  (mettre schema to do)
+L’évacuation des phéromones dépend des différents pores de la glande. Selon le type de cellules où se trouve la phéromone, l’évacuation est différente. Pour les cellules de types 1 : cellules glandulaire épidermique, la phéromone est rejetée par des canaux très étroits qui se situent dans la cuticule. En ce qui concerne les cellules de type 2 : les cellules glandulaires intra-épidermique, la phéromone est évacuée par des canaux fins ou par les chambres d’évacuation suite à leurs transports par les cellules adjacentes. Enfin, les cellules de type 3 : les cellules sous-épidermique, la phéromone est rejetée par un réservoir central grâce à un canal cuticulaire.
 
-Les sensilles sont constituées de dendrites. Il s’agit de neurones sensoriels qui permettent la réception et la transmission d’un signal chimique auparavant qui se transforme en signal électrique aux corps nerveux composés de cellules sensorielles. Il faut noter qu’une sensille peut contenir de 2 à 5 neurones olfactifs. Les cellules sensorielles sont reliées à l’axone qui permettent de transférer le message électrique au cerveau des fourmis qui l’analysera pour obtenir des  informations concernant une source alimentaire retrouvée par une fourmi (la qualité, ou sa quantité). (mettre le schéma )
+#### Les différentes glandes exocrines
 
-On trouve, au niveau des dendrites, des récepteurs olfactifs permettant l’identification du stimulus (éléments extérieurs capables de déclencher des phénomènes spéciaux dans l'organisme : odeur, phéromones).  Les récepteurs olfactifs se composent d’une protéine et  d’un glucide qui forment un site actif auquel se fixe la molécule (la ou les  phéromone(s)). Ainsi les récepteurs olfactifs sont spécifiques d’une molécule ou plusieurs molécules (pour les bouquets phéromonaux). En effet ; les phéromones sont transportées dans le liquide sensillaire grâce aux OBP (olfactorybindingproteins) et les PBP (pheromonebindingprotein), qui sont des protéines spécifiques.  La molécule odorante est ensuite perçue par l’odorant receptorprotein (Or) afin d’être transmise par les dendrites au corps nerveux des cellules sensorielles.  (mettre le schéma)
+{% include image.html img="img/chimique/figure12.png" caption="Schéma du système glandulaire de la fourmi"%}
 
-#II. Utilisation de ces connaissances par l’homme
+- **Glande mandibulaire :** Située en dessous des mandibules, la glande mandibulaire synthétise les phéromones d’alarme. Elle produise aussi un liquide peu fluide qui permet de malaxer et de ramollir la nourriture retrouvée par les fourmis. Ces substances chimiques sont principalement constituées de citronellol et de citronellal qui ont respectivement une fonction défensive et déclencheur d’alarme. D’autre part, ces glandes mandibulaires permettent le maintien de la hiérarchie sociale.
 
-##1. Synthèse d’une phéromone par l’homme 
+- **Glande métathoracique :** elle produit des substances chimiques qui contribuent sans doute au repérage ou à la défense.
 
-Afin de se servir de ces connaissances en matière de communication chimique, l’homme doit copier le système de communication chimique c’est-à-dire les phéromones, en les synthétisant. On doit étudier précisément la composition phéromonale des glandes, afin de synthétiser une  phéromone laboratoire comme par exemple l’octan-2-one. Les synthèses des phéromones permettent à l’homme de les utiliser en tant qu’outil contre la destruction culturale comme nous allons le voir un peu plus tard. Nous avons donc procéder à une expérience afin de synthétiser  l’octan-2-one, une phéromone,  grâce à l’octan-2-ol.  Cette phéromone se trouve dans les glandes mandibulaires des fourmis.  Voici les représentations du réactif principal et du produit. (to do mettre le tableau)
+- **Glande Anale :** elle contient principalement des esters volatiles. Ces glandes produisent l’acide formique qui est une substance chimique défensive. Cet acide peut être projeté à plusieurs centimètres.
+
+- **Glandes pygidiale :** elle produit des phéromones d’alarme et permet ainsi d’alerter les autres fourmis.
+
+- **Glande de Dufour ou alcaline :** surnommée le « flacon à parfum » des fourmis. Il s’agit d’une phéromone de piste, qui est le moyen de recruter les congénères, grâce au traçage d’une piste chimique. Cette substance chimique est active durant 100 secondes. Ces phéromones sont ensuite rejetées par l’aiguillon.
+
+- **Glande à poison ou à venin :** comme la glande anale, elle produit de l’acide formique, il s’agit donc d’une glande qui synthétise des phéromones d’alarme qu’elle utilise face à un danger. Cette glande, chez certaines espèces, rejette du venin qui a un rôle paralysant, d’où son nom. Ces substances chimiques sont ensuite secrétées par l’aiguillon.
+
+
+# Réception d’un signal chimique : les antennes, des récepteurs sensoriels
+
+Chez la fourmi, comme tous les autres insectes, la réception des signaux chimiques se fait par le biais de récepteurs sensoriels. Ces chimiorécepteurs sont des cellules sensorielles spécialisées qui se situent au niveau des organes olfactifs c’est-à-dire les antennes.
+
+Les fourmis possèdent toutes, deux antennes constituées de cellules sensorielles. Elles sont observables au microscope optique à balayage.
+
+{% include image.html img="img/chimique/figure13.png" %}
+
+Nous observons ainsi que les antennes sont constituées de cils. En effet, il s’agit de sensilles. Chaque sensille réagit à une phéromone ou un bouquet phéromones. Lorsque nous observons de plus près ces sensilles, on remarque qu’ils sont constitués de plusieurs pores qui permettent la traversée des phéromones.
+
+Les sensilles sont constituées de dendrites. Il s’agit de neurones sensoriels qui permettent la réception et la transmission d’un signal chimique auparavant qui se transforme en signal électrique aux corps nerveux composés de cellules sensorielles. Il faut noter qu’une sensille peut contenir de 2 à 5 neurones olfactifs. Les cellules sensorielles sont reliées à l’axone qui permet de transférer le message électrique au cerveau des fourmis qui l’analyse pour obtenir des informations concernant une source alimentaire retrouvée par une fourmi (la qualité, ou la quantité).
+
+{% include image.html img="img/chimique/figure14.png" caption="Schéma de la structure d’une sensille" %}
+
+On trouve, au niveau des dendrites, des récepteurs olfactifs permettant l’identification du stimulus (éléments extérieurs capables de déclencher des phénomènes spéciaux dans l'organisme : odeur, phéromones). Les récepteurs olfactifs se composent d’une protéine et d’un glucide qui forment un site actif auquel se fixe la molécule (la ou les phéromone(s)). Ainsi les récepteurs olfactifs sont spécifiques d’une molécule ou plusieurs molécules (pour les bouquets phéromonaux). En effet, les phéromones sont transportées dans le liquide sensillaire grâce aux OBP (olfactorybindingproteins) et les PBP (pheromonebindingprotein), qui sont des protéines spécifiques. La molécule odorante est ensuite perçue par l’odorant receptorprotein (Or) afin d’être transmise par les dendrites au corps nerveux des cellules sensorielles.
+
+{% include image.html img="img/chimique/figure15.png" caption="Schéma de la réception des phéromones au niveau du liquide sensillaire" %}
+
+
+# Utilisation de ces connaissances par l’homme 
+
+## Synthèse d’une phéromone par l’homme 
+
+Afin de se servir de ces connaissances en matière de communication chimique, l’homme doit copier le système de communication chimique c’est-à-dire les phéromones, en les synthétisant. On doit étudier précisément la composition phéromonale des glandes, afin de synthétiser une phéromone laboratoire comme par exemple l’octan-2-one. Les synthèses des phéromones permettent à l’homme de les utiliser en tant qu’outil contre la destruction culturale comme nous allons le voir un peu plus tard. Nous avons donc procédé à une expérience afin de synthétiser l’octan-2-one, une phéromone, grâce à l’octan-2-ol. Cette phéromone se trouve dans les glandes mandibulaires des fourmis. Voici les représentations du réactif principal et du produit.
+
+{% include image.html img="img/chimique/figure16.png" %}
 
 Nous avons donc suivi un protocole expérimental réalisé par un enseignant de l’académie de Nantes que nous avons  modifié afin de répondre au mieux aux contraintes de matériel de laboratoire. 
 
