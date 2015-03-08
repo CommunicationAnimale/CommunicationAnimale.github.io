@@ -142,10 +142,8 @@ Passée la valeur de la vitesse minimale ("sound velocity minimum" : Vmin), la p
 Nous pouvons remarquer que la vitesse de propagation des ondes sonores dans l’eau n’est pas constante. Elle est maximale dans les eaux de surface puis décroit dans la zone intermédiaire jusqu’à sa vitesse minimale pour augmenter de nouveau dans les eaux profondes.
 
 Ces données peuvent justifier ceci grâce à ces données :
-
-- Dans l'air, le signal reçu a un retard de 600 µs sur le signal émis.
-
-- Dans l'eau, le signal reçu a un retard de 150 µs sur le signal émis.
++ Dans l'air, le signal reçu a un retard de 600 µs sur le signal émis.
++ Dans l'eau, le signal reçu a un retard de 150 µs sur le signal émis.
 
 Ainsi les ultrasons se déplacent plus rapidement dans l'eau que dans l'air, à raison de 300m/s dans l'air et de 1500m/s dans un milieu liquide comme l'eau.
 
