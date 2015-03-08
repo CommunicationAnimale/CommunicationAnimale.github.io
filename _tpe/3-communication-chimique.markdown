@@ -268,8 +268,8 @@ ClOH + H^+^(aq) + 2 *e*^-^ = Cl^-^ + H~2~O
 {: style="text-align: center"}
 
 C~8~H~18~O = C~8~H~16~O + 2 H^+^(aq) + 2 *e*^-
-{: style="text-align: center"}
---------------------
+{: style="text-align: center"}{:.underline}
+
 ^C~8~H~18~O + ClOH &rarr; C~8~H~16~O + H^+^(aq) + Cl^-^ + H~2~O
 {: style="text-align: center"}
 
