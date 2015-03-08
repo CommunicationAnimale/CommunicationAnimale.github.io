@@ -77,7 +77,8 @@ p, ol, ul, dl {
   margin-bottom: 1em;
 }
 ol, ul {
-  list-style-position: inside;
+  list-style-position: outside;
+  margin-left: 1em;
 }
 hr {
   display: block;
