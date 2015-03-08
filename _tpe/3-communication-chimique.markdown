@@ -190,7 +190,7 @@ Nous avons donc suivi un protocole expérimental réalisé par un enseignant de 
 
 Afin de doser la concentration de l’eau de javel à 24 °chl comme le recommande le protocole, nous avons étudié la définition du degré chlorométrique. Ainsi, le degré chlorométrique *d* est le nombre de litres de dichlore gazeux Cl<sub>2</sub>, pris dans les conditions normales de température et de pression, qu’il faut dissoudre dans un litre d’une solution d’hydroxyde de sodium pour obtenir un litre d’eau de javel titrant *d* °chl, selon la réaction :
 
-Cl<sub>2</sub>(g) + 2Na<sup>+</sup> + 2OH<sup>-</sup> &rarr; 2 Na<sup>+</sup> + ClO<sup>-</sup> + Cl<sup>-</sup> + H<sub>2</sub>O
+Cl<sub>2</sub>(g) + 2Na<sup>+</sup> + 2OH<sup>&ndash;</sup> &rarr; 2 Na<sup>+</sup> + ClO<sup>&ndash;</sup> + Cl<sup>&ndash;</sup> + H<sub>2</sub>O
 
 Dans des conditions normales (de pression et de température normal) on doit dissoudre 24L de dichlore gazeux dans 1L de soude afin d’obtenir 1L d’eau de Javel.  (to do mettre photo)
 
