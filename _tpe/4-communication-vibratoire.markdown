@@ -105,27 +105,22 @@ Ces mesures permettent de tracer un graphique. La proportionnalité entre le dia
 Dès lors on peut calculer :
 
 $$ D(fil) = \frac{\frac{1}{L}}{0.76}$$
-{: style="text-align: center"}
 
 Donc :
 
 $$D(filA) = \frac{9,26\times10^{-3}}{0.76}$$
-{: style="text-align: center"}
-
+ 
 Soit :
 
 $$D(filA) = 1,2\times10^{-2} \text{mm} = 1,2\times10^{-5} \text{m} = 12 \mu\text{m}$$
-{: style="text-align: center"}
 
 Et,
 
 $$D(filB) = \frac{1,25\times10^{-2}}{0.76}$$
-{: style="text-align: center"}
 
 Soit :
 
 $$D(filB) = 1,6\times10^{-2} \text{mm} = 1,6\times10^{-5} \text{m} = 16 \mu\text{m}$$
-{: style="text-align: center"}
 
 D'après nos mesures, le fil de soie d'araignée à un diamètre ordre 15µm soit environ un dixième de la taille d’un cheveu.
 
