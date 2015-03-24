@@ -67,21 +67,21 @@ Les ondes acoustiques peuvent aussi être reçues par le maxillaire inférieur, 
 
 #### L’effet Doppler
 
-Pour recevoir les signaux réfléchis par les cibles, le dauphin exploite des tissus adipeux situés sous sa mâchoire, qui remontent jusqu’à son oreille interne. Le son est donc transmis à l’oreille interne, puis au cerveau, qui l’analyse. Le dauphin peut alors déterminer la distance de la cible, sa taille, ainsi que sa vitesse en mesurant la différence de fréquence en exploitant l’effet Doppler. C’est à dire le décalage de fréquence d’une onde entre la mesure à l'émission et la mesure à la réception lorsque la distance entre l'émetteur et le récepteur varie au cours du temps. On réserve le terme d'« effet Doppler-Fizeau » aux ondes électromagnétiques. Le dauphin peut aussi sonder sous les sédiments, étant donné que le son se propage sous le sable.
+Pour recevoir les signaux réfléchis par les cibles, le dauphin exploite des tissus adipeux situés sous sa mâchoire, qui remontent jusqu’à son oreille interne. Le son est donc transmis à l’oreille interne, puis au cerveau, qui l’analyse. Le dauphin peut alors déterminer la distance de la cible, sa taille, ainsi que sa vitesse en mesurant la différence de fréquence en exploitant l’effet Doppler. C’est à dire le décalage de fréquence d’une onde entre la mesure à l'émission et la mesure à la réception lorsque la distance entre l'émetteur et le récepteur varie au cours du temps. Le dauphin peut aussi sonder sous les sédiments, étant donné que le son se propage sous le sable.
 
 L’effet Doppler est le décalage de fréquence d’une onde acoustique ou électromagnétique entre la mesure à l’émission et la mesure à la réception lorsque la distance entre l’émetteur et le récepteur varie au cours du temps elle renseigne aussi sur la vitesse de la cible par rapport à l’émetteur.
 
 {% include image.html img="img/ultrasons/image4.png" caption="Mise en image de l'effet Doppler : « à l'arrêt »"%}
 
-La perception d'un signal dépend de la vitesse relative entre la source et le récepteur.
+La la longueur d'onde du signal perçu dépend de la vitesse relative entre la source et le récepteur.
 
-Si un observateur en mouvement cherche à mesurer cette durée, il lui trouve une valeur différente, plus élevée s'il se déplace dans le sens de l'onde, plus courte s'il se déplace en sens contraire.
+Si un observateur en mouvement cherche à mesurer cette longueur, il lui trouve une valeur différente, plus élevée s'il se déplace dans le sens de l'onde, plus courte s'il se déplace en sens contraire.
 
 {% include image.html img="img/ultrasons/image5.jpeg" caption="Mise en image de l'effet Doppler : « en approche »" %}
 
 {% include image.html img="img/ultrasons/image6.jpeg" caption="L'effet Doppler"%}
 
-Si la vitesse $$V_{r}$$ (vitesse de l’objet mobile perçue par l'observateur) est petite devant $$c$$ (vitesse de la lumière), en termes de longueur d’onde, $$\lambda = c \times T$$, l’observateur perçoit un rayonnement de longueur d’onde :
+Si la vitesse $$V_{r}$$ (vitesse de l’objet mobile perçue par l'observateur) est petite devant $$c$$ (vitesse de l'onde perçue), en termes de longueur d’onde $$\lambda = c \times T$$, l’observateur perçoit un rayonnement de longueur d’onde :
 
 $$\lambda' = \lambda \times (1 + \frac{V_{r}}{c})$$
 
@@ -91,7 +91,7 @@ $$\Delta\lambda = \lambda' - \lambda$$
 
 Tel que
 
-$$\Delta\lambda = \frac{V_{r}}{c}$$
+$$\Delta\lambda = \frac{V_{r}}{c}\times\lambda$$
 
 Ce calcul montre que le décalage relatif de la longueur d'onde est proportionnel au rapport de la vitesse de la source par rapport à l'observateur à la vitesse de la lumière.
 
