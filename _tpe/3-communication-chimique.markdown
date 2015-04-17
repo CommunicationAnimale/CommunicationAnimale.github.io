@@ -343,7 +343,6 @@ Actuellement, seules les phéromones sexuelles et les phéromones d’agrégatio
 Le réchauffement climatique fait craindre le pire aux scientifiques qui étudient les fourmis et plus particulièrement, les fourmis d’argentine. En effet, cela peut causer leur invasion. Ils étudient ainsi cette espèce invasive afin de pouvoir intervenir si une invasion se produit. Ils font l’expérience que nous avons décrite précédemment lors de l’étude des phéromones de piste, ils obtiennent les mêmes conclusions. Ils décident d’extraire la glande produisant les phéromones de piste et d’utiliser son contenu pour des besoins expérimentaux. Ainsi, ils tracent un nouveau parcours plus long que le précédent et y dépose la phéromone extraite afin de tracer une piste. Ils observent que les fourmis dévient de leurs chemins et suivent la piste tracée par les scientifiques. A long terme, ils veulent synthétiser ces phéromones et les diffuser dans une colonie. Les phéromones vont ainsi perturber la communication des fourmis. Dès lors, elles ne pourraient plus approvisionner correctement la fourmilière. Cette méthode pourrait ainsi aboutir à une diminution des fourmis d’Argentine (voir vidéo ci-dessous).
 
 <div class="videoWrapper">
-    <!-- Copy & Pasted from YouTube -->
     <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wvW84EPsgnM" frameborder="0" allowfullscreen></iframe>
 </div>
 
