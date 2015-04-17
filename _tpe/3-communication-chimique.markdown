@@ -344,7 +344,7 @@ Le réchauffement climatique fait craindre le pire aux scientifiques qui étudie
 
 <div class="videoWrapper">
     <!-- Copy & Pasted from YouTube -->
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/wvW84EPsgnM" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wvW84EPsgnM" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
