@@ -17,10 +17,13 @@ html {
 }
 body {
   color: $text-color;
-  font-family: $font-sans;
+  font-family: Helvetica, Arial, sans-serif;
   font-size: $font-size;
   word-wrap: break-word;
   text-rendering: optimizeLegibility;
+}
+.open-sans-loaded body {
+  font-family: $font-sans;
 }
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.3;
