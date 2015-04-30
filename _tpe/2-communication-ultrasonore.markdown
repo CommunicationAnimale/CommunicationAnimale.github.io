@@ -29,7 +29,7 @@ L’écholocation des dauphins est la capacité de ces deniers à repérer et si
 
 Le dauphin est capable d’émettre différents types de son, de fréquences variables, certains servant à communiquer, d’autres à se repérer dans l’espace. Le système d’émission chez le dauphin est bien plus complexe que chez l’homme. L’homme n’est en effet capable de produire que des sons qui luis sont audibles, c’est-à-dire entre 20 et 20 000 Hz.
 
-{% include image.html img="img/ultrasons/image1.jpeg" caption="Schéma des fréquences des ultrasons"%}
+{% include image.html img="ultrasons/image1.jpeg" caption="Schéma des fréquences des ultrasons"%}
 
 On peut séparer les ondes acoustiques émises par les dauphins en deux grands groupes : les sifflements, utilisés pour communiquer, et les clics servant à l’écholocation. Le langage des dauphins est mal connu et semble complexe. Tout au plus peut-on dire qu’il présente de grandes variations en fonction du groupe de dauphins étudié et des individus. Les sifflements sont bien localisés en fréquence et se situent plutôt dans les ultrasons (\< 25 kHz).
 
@@ -39,9 +39,9 @@ Les clics d’écholocation sont des signaux très brefs (quelques dizaines de m
 
 Ces clics peuvent être représentés selon deux types. Le premier est sous la forme d’un faisceau large de basse fréquence, d’émission lente et de longue portée. Ils sont utilisés pour créer des images de son environnement. Le second type des clics d’écholocation est représenté par un faisceau étroit à courte portée, occupant une large bande de haute fréquence. Ils servent à analyser une potentielle proie ou un objet rencontré.
 
-{% include image.html img="img/ultrasons/image2.png" caption="Représentaion temporelle d'un clic 1"%}
+{% include image.html img="ultrasons/image2.png" caption="Représentaion temporelle d'un clic 1"%}
 
-{% include image.html img="img/ultrasons/image3.png" caption="Représentation fréquentielle d'un clic 1"%}
+{% include image.html img="ultrasons/image3.png" caption="Représentation fréquentielle d'un clic 1"%}
 
 #### L’émetteur
 
@@ -49,7 +49,7 @@ Le dauphin ne possède pas de cordes vocales mais trois pairs de sacs aériens, 
 
 Le larynx est aussi utilisé pour l’émission sonore. Le dauphin peut en effet expulser de l’air par ses poumons et cet air fait vibrer des muscles puissants du conduit respiratoire. Ces muscles vont alors transmettre ces vibrations à des os dont ceux des maxillaires.
 
-{% include image.html img="img/ultrasons/image8.jpeg" caption="Anatomie du système d'émission des ultra-sons"%}
+{% include image.html img="ultrasons/image8.jpeg" caption="Anatomie du système d'émission des ultra-sons"%}
 
 
 
@@ -63,7 +63,7 @@ Ils sont ensuite transmis au cerveau par l’influx nerveux d’un nerf acoustiq
 
 Les ondes acoustiques peuvent aussi être reçues par le maxillaire inférieur, les sons s’y propagent mieux. Les ondes sonores sont donc reçues par l’extrémité du bec de l’animal, elles se propagent dans un corps graisseux au niveau du maxillaire et sont transmises à l’oreille interne au niveau de l’articulation de la mâchoire. Ensuite, tout ce passe comme ce qui a été expliqué précédemment.
 
-{% include image.html img="img/ultrasons/image7.png" caption="Profil d'une tête de dauphin"%}
+{% include image.html img="ultrasons/image7.png" caption="Profil d'une tête de dauphin"%}
 
 #### L’effet Doppler
 
@@ -71,15 +71,15 @@ Pour recevoir les signaux réfléchis par les cibles, le dauphin exploite des ti
 
 L’effet Doppler est le décalage de fréquence d’une onde acoustique ou électromagnétique entre la mesure à l’émission et la mesure à la réception lorsque la distance entre l’émetteur et le récepteur varie au cours du temps elle renseigne aussi sur la vitesse de la cible par rapport à l’émetteur.
 
-{% include image.html img="img/ultrasons/image4.png" caption="Mise en image de l'effet Doppler : « à l'arrêt »"%}
+{% include image.html img="ultrasons/image4.png" caption="Mise en image de l'effet Doppler : « à l'arrêt »"%}
 
 La la longueur d'onde du signal perçu dépend de la vitesse relative entre la source et le récepteur.
 
 Si un observateur en mouvement cherche à mesurer cette longueur, il lui trouve une valeur différente, plus élevée s'il se déplace dans le sens de l'onde, plus courte s'il se déplace en sens contraire.
 
-{% include image.html img="img/ultrasons/image5.jpeg" caption="Mise en image de l'effet Doppler : « en approche »" %}
+{% include image.html img="ultrasons/image5.jpeg" caption="Mise en image de l'effet Doppler : « en approche »" %}
 
-{% include image.html img="img/ultrasons/image6.jpeg" caption="L'effet Doppler"%}
+{% include image.html img="ultrasons/image6.jpeg" caption="L'effet Doppler"%}
 
 Si la vitesse $$V_{r}$$ (vitesse de l’objet mobile perçue par l'observateur) est petite devant $$c$$ (vitesse de l'onde perçue), en termes de longueur d’onde $$\lambda = c \times T$$, l’observateur perçoit un rayonnement de longueur d’onde :
 
@@ -106,7 +106,7 @@ L’équipe sino-britannique de Stephen Rossiter (University of London, GB) et l
 En construisant des arbres phylogénétiques uniquement basés sur l’évolution de la prestine (et non sur les autres caractéristiques de ces mammifères), les deux équipes ont abouti à des rapprochements surprenants. Les chauves-souris et dauphins doués pour l’écholocation devenaient cousins, formant un groupe évolutif cohérent.
 
 
-{% include image.html img="img/ultrasons/arbre.png" caption="Arbres phylogénétiques marquant l’évolution de la prestine" %}
+{% include image.html img="ultrasons/arbre.png" caption="Arbres phylogénétiques marquant l’évolution de la prestine" %}
 
 
 Les dauphins (en bleu) au milieu des chauves-souris (en noir) et donc éloignées des baleines dépourvues d’écholocation (en bas en vert).
@@ -134,19 +134,19 @@ En 1942, la Suède a eu l’idée d’utiliser des phoques pour faire la chasse 
 Cette nouvelle tactique de guerre a ouvert la voie aux expériences militaires. L’US Navy utilise des otaries et des dauphins depuis 1960.
 
 
-{% include image.html img="img/ultrasons/NMMP.png" title="NMMP" %}
+{% include image.html img="ultrasons/NMMP.png" title="NMMP" %}
 
 
 Le programme de mammifères marins de la marine américaine, en anglais U.S. Navy Marine Mammal Program (NMMP), est un programme dirigé par la Marine américaine qui étudie l’emploi militaire de mammifères marins (le Grand dauphin qui émet et reçoit en un millième de seconde, des fréquences variant entre 220 et 250 000 hertz et l’otarie de Californie) et les entraîne à des tâches tels que la protection de navires et de ports, le repérage et le dégagement de mines, ainsi que la récupération d’objets. Le programme est basé à San Diego en Californie où les animaux sont entraînés. Les animaux du NMMP ont été déployés en zones de combat, notamment pendant la Guerre du Viêt Nam et la Guerre d'Irak. Cette dernière a permis aux américains d’ouvrir le golfe Arabique au marché international après la fin du conflit, en particulier grâce a ces animaux.La Navy a recours à certaines équipes humains-crétacés. Les équipes MK 4, 7 et 8 utilisent des dauphins; MK 5 utilise des otaries, et MK 6 utilise à la fois dauphins et otaries. Ces équipes peuvent être déployées partout sur le globe en 72 heures, vers des zones de conflits.
 
 
-{% include image.html img="img/ultrasons/soldat.jpg" caption="Soldat dauphin" %}
+{% include image.html img="ultrasons/soldat.jpg" caption="Soldat dauphin" %}
 
 
 ### Les ondes dans le milieu liquide
 
 
-{% include image.html img="img/ultrasons/niveauxProfondeur.png" caption="Niveaux de profondeur dans l'eau" %}
+{% include image.html img="ultrasons/niveauxProfondeur.png" caption="Niveaux de profondeur dans l'eau" %}
 
 
 Trois niveaux de profondeur sont visibles : la zone proche de la surface ("seasonal thermocline") dont la température dépend de la saison de l’année, la zone intermédiaire thermocline ("permanent thermocline") puis la zone des eaux froides profondes ("deep-water isothermal layer").

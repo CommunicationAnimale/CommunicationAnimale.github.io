@@ -10,7 +10,7 @@ published: true
 
  Les substances sémiochimiques sont des molécules organiques synthétisées par un organisme vivant et qui interviennent comme moyen de communication que ce soit de manière intraspécifique ou de manière interspécifique. Ces substances sémiochimiques modifie le comportement ou la physiologie du récepteur.
 
-{% include image.html img="img/chimique/figure1.png" %}
+{% include image.html img="chimique/figure1.png" %}
 
 Les actions interspécifiques, ont lieu grâce aux substances allélochimiques, ce sont des actions concernant les relations entre différentes espèces alors que les actions intraspécifiques, ayant lieu grâce aux phéromones sont relatifs aux rapports qui se produisent au sein d’une même espèce.
 
@@ -36,7 +36,7 @@ Dans ces deux catégories, on distingue différents types de phéromones. Nous a
 
 -   **phéromones d’alarme** : comme leur noms l’indique, ces phéromones utilisées par les insectes, les poissons, et mammifères permettent aux animaux d’alerter d’un danger. Chez les fourmis, on constate que la réaction agit de façon collective. En effet, dès lors qu’une fourmi sécrète une phéromone d’alarme, les autres fourmis présentent réagissent et sécrètent à leurs tours cette même phéromone ainsi la réaction devenant collective permet de mieux contrôler les dangers. On en conclut alors que le rôle premier de ces substances chimiques est d’avertir les autres congénères de la fourmilière d’un danger. Selon BLUM et PASSERA, « ces phéromones constituent un progrès dans l'évolution des espèces eusociales ». Les jets d’acide formique, tirées à plusieurs centimètres par les fourmis, sont un exemple de ce phénomène
 
-{% include image.html img="img/chimique/figure2.png" caption="Photo illustrant les jets d’acide formique" %}
+{% include image.html img="chimique/figure2.png" caption="Photo illustrant les jets d’acide formique" %}
 
 Le comportement d’alarme peut-être divisé en deux activités. Tout d’abord, on constate « un mouvement de panique », ainsi les différentes fourmis adoptent un comportement agressif auquel s’ajoute un déplacement à grande vitesse vers le danger. Puis, les fourmis adoptent une attitude d’attaque, elles ouvrent leurs mandibules et attaquent l’insecte dangereux en piquant pour déposer du venin.
 
@@ -48,13 +48,13 @@ Différentes phéromones d’alarme sont utilisées par les mêmes espèces. Ell
 
 Chez certaines espèces, on a pu tracer différents cercles démontrant les champs d’action des phéromones. Par exemple, la fourmi tisserande d'Afrique *Oecophyllalonginoda* secrète grâce à ses glandes mandibulaires quatre substances principales qui agissent dans un périmètre particulier. En voici, le schéma :
 
-{% include image.html img="img/chimique/figure3.png" caption="Phéromones d’alarme : comportement d’une ouvrière tisserande Oecophyllalonginodo alarmée par une glande mandibulaire écrasée au centre du dispositif circulaire. Les diverses phéromones d’alarme sont plus au moins volatiles et déclenchent des comportements différents. B : 2-butyl-2-octénal, U : 3-undécanone, R : répulsion (modifié d’après Bradshaw)" %}
+{% include image.html img="chimique/figure3.png" caption="Phéromones d’alarme : comportement d’une ouvrière tisserande Oecophyllalonginodo alarmée par une glande mandibulaire écrasée au centre du dispositif circulaire. Les diverses phéromones d’alarme sont plus au moins volatiles et déclenchent des comportements différents. B : 2-butyl-2-octénal, U : 3-undécanone, R : répulsion (modifié d’après Bradshaw)" %}
 
 L’hexanal, composé organique de la famille des aldéhydes, est la substance chimique la plus volatile, elle déclenche un état d’alerte chez les fourmis se trouvant à une dizaine de centimètre de la source qui a été mordue. Lorsque les fourmis ouvrières s’approchent et se trouvent à cinq centimètres, elles sont attirées par le centre mais le 1-hexanol, substance chimique qualifiable de « lourde » agit comme répulsif, cependant son temps de vie est limité. Cette action répulsive permet d’attirer plus de fourmis dans le cercle afin de permettre à un ensemble de fourmis de s’attaquer collectivement et efficacement. Peu à peu, l’effet répulsif diminue par évaporation. Ainsi, le 3-undécanone et le 2-butyl-2-oclénal se trouvant au centre du dispositif sont les substances chimiques les plus « lourdes », elles permettent de déclencher un comportement de morsure 
 
 Exemple de phéromones de piste que nous avons modélisées grâce au logiciel ChemSketch, il faut noter que ce logiciel ne prend pas en compte les liaisons doubles :
 
-{% include image.html img="img/chimique/figure4.png" %}
+{% include image.html img="chimique/figure4.png" %}
 
 
 
@@ -65,24 +65,24 @@ Les chercheurs ont démontré qu’il existe au moins neuf glandes permettant la
 
 Nous pouvons réaliser une expérience permettant de démontrer l’utilisation d’une piste chimique : prenons une fourmi qui va de la fourmilière vers une source de nourriture. La première fourmi va secréter une phéromone qui « traversera son chemin » de retour à sa fourmilière. Les autres fourmis sont alertées et suivront la même piste qu’a suivie la première fourmi pour apporter de la nourriture à la fourmilière.
 
-{% include image.html img="img/chimique/figure5.png" caption="Schéma des parcours utilisé lors des expériences et observation de différents moments " %}
+{% include image.html img="chimique/figure5.png" caption="Schéma des parcours utilisé lors des expériences et observation de différents moments " %}
 
 On constate que plus les fourmis font des aller- retour, plus elles ont tendance à emprunter le chemin le plus court. Ainsi, le bouquet phéromone des phéromones de piste permet aux fourmis de marquer un « trajet » qu’elles signalent à d’autres fourmis. De plus, les substances secrétées permettent aussi aux autre fourmis de connaître la quantité de nourriture disponible, à leur tour elles sécrèteront ce bouquet tant que la nourriture est disponible.
 
 Voici deux exemples de phéromones de piste :
 
-{% include image.html img="img/chimique/figure6.png" %}
+{% include image.html img="chimique/figure6.png" %}
 
 On doit ajouter à cela que les scientifiques Regnier et Wilson ont calculé l’efficacité de la perception des phéromones d’alarme chez certaines espèces. Ainsi, les Acanthomyops claviger perçoivent les phéromones d’alarme dès lors que la concentration atteint 10<sup>10</sup> à 10<sup>12</sup> molécules/cm<sup>3</sup>. Et chez les Atta Texana, l’efficacité est atteinte dès lors que la concentration est de 10<sup>8</sup> molécules/cm<sup>3</sup>.
 
 
 -   **Les phéromones d’agrégation :** Les phéromones d’agrégation sont un véritable outil chez les fourmis pour assurer la cohésion sociale. Ainsi, elles ont un rôle important pour la reproduction, pour l’hibernation, pour nidifier, pour estiver ou encore la protection sociale. Ces phéromones ont une durée de vie très variable les unes des autres. En effet, elles peuvent agir temporairement ou de façon permanente pour assurer la cohésion sociale. Voici un exemple de phéromones d’agrégation, il s’agit d’une phéromone spécifique des Coléoptères. En effet, il existe très peu d’étude concernant les phéromones d’agrégation des fourmis.
 
-{% include image.html img="img/chimique/figure7.png" %}
+{% include image.html img="chimique/figure7.png" %}
 
 -   **Les phéromones passeports** : elles sont comparables à une « carte d’identité » de la fourmi. Ainsi, elles sont imprégnées sur leurs cuticules et permettent aux autres fourmis de les identifier par rapport à leur fourmilière à partir d’un contact antennaire. Ces phéromones sont certes des substances chimiques mais leurs modes de communication est tactile et non chimique c’est pour cela que nous n’allons pas les détailler. Cependant, on peut aussi considérer que le nid imprégné de phéromones passeport permet aux colonies de se reconnaître les unes par aux autres. Voici un exemple de phéromones passeport :
 
-{% include image.html img="img/chimique/figure8.png" %}
+{% include image.html img="chimique/figure8.png" %}
 
 -   **Les phéromones sexuelles** : Elément essentiel lors de la reproduction, les phéromones sexuelles permettent aux fourmis d’attirer les fourmis du sexe opposé. Il faut noter que ces phéromones sont la plupart du temps émises par les femelles afin d’attirer les mâles. Selon des études, la plupart des phéromones émises par les femelles sont des hydrocarbures. La longueur de la chaine carbonique moyenne est de dix à vingts atomes de carbone. Elles permettent aussi de connaître le sexe de l’individu. Ces phéromones sont de véritables signaux olfactifs présents chez de nombreux insectes.
 
@@ -94,7 +94,7 @@ On distingue deux catégories de phéromones sexuelles :
 
 Voici un exemple de phéromone sexuelle qui est une cétone :
 
-{% include image.html img="img/chimique/figure9.png" %}
+{% include image.html img="chimique/figure9.png" %}
 
 -   **Les phéromones de recrutement :** elles permettent de recruter d’autres fourmis afin de donner une aide. Elles provoquent un regroupement de plusieurs fourmis en un point précis. Elles sont utilisées par exemple pour l’approvisionnement en nourriture. Elles sont un enchaînement des phéromones de piste. Ces phéromones sont aussi utilisées lors d’un déménagement d’un nid à l’autre. Il faut noter que les phéromones d’alarme provoquent aussi un regroupement mais celui-ci est défensif, de plus ce n’est pas le rôle premier des phéromones d’alarme. C’est pour cela qu’il ne faut pas les confondre avec les phéromones de recrutement.
 
@@ -120,17 +120,17 @@ Définition : Une glande exocrine est un organe sécrétant des substances chim
 
 Il existe au moins trois types de glandes exocrines pouvant être distinguées selon le tableau suivant :
 
-{% include image.html img="img/chimique/figure10.png" %}
+{% include image.html img="chimique/figure10.png" %}
 
 Nous pouvons voir la structure de ces glandes grâce au schéma ci-dessous et ainsi étudier l’évacuation des phéromones.
 
-{% include image.html img="img/chimique/figure11.png" caption="Schéma de la structure des glandes à phéromones chez les insectes, selon Brossut, 1996" %}
+{% include image.html img="chimique/figure11.png" caption="Schéma de la structure des glandes à phéromones chez les insectes, selon Brossut, 1996" %}
 
 L’évacuation des phéromones dépend des différents pores de la glande. Selon le type de cellules où se trouve la phéromone, l’évacuation est différente. Pour les cellules de types 1 : cellules glandulaire épidermique, la phéromone est rejetée par des canaux très étroits qui se situent dans la cuticule. En ce qui concerne les cellules de type 2 : les cellules glandulaires intra-épidermique, la phéromone est évacuée par des canaux fins ou par les chambres d’évacuation suite à leurs transports par les cellules adjacentes. Enfin, les cellules de type 3 : les cellules sous-épidermique, la phéromone est rejetée par un réservoir central grâce à un canal cuticulaire.
 
 #### Les différentes glandes exocrines
 
-{% include image.html img="img/chimique/figure12.png" caption="Schéma du système glandulaire de la fourmi" %}
+{% include image.html img="chimique/figure12.png" caption="Schéma du système glandulaire de la fourmi" %}
 
 - **Glande mandibulaire :** Située en dessous des mandibules, la glande mandibulaire synthétise les phéromones d’alarme. Elle produise aussi un liquide peu fluide qui permet de malaxer et de ramollir la nourriture retrouvée par les fourmis. Ces substances chimiques sont principalement constituées de citronellol et de citronellal qui ont respectivement une fonction défensive et déclencheur d’alarme. D’autre part, ces glandes mandibulaires permettent le maintien de la hiérarchie sociale.
 
@@ -151,17 +151,17 @@ Chez la fourmi, comme tous les autres insectes, la réception des signaux chimiq
 
 Les fourmis possèdent toutes, deux antennes constituées de cellules sensorielles. Elles sont observables au microscope optique à balayage.
 
-{% include image.html img="img/chimique/figure13.png" %}
+{% include image.html img="chimique/figure13.png" %}
 
 Nous observons ainsi que les antennes sont constituées de cils. En effet, il s’agit de sensilles. Chaque sensille réagit à une phéromone ou un bouquet phéromones. Lorsque nous observons de plus près ces sensilles, on remarque qu’ils sont constitués de plusieurs pores qui permettent la traversée des phéromones.
 
 Les sensilles sont constituées de dendrites. Il s’agit de neurones sensoriels qui permettent la réception et la transmission d’un signal chimique auparavant qui se transforme en signal électrique aux corps nerveux composés de cellules sensorielles. Il faut noter qu’une sensille peut contenir de 2 à 5 neurones olfactifs. Les cellules sensorielles sont reliées à l’axone qui permet de transférer le message électrique au cerveau des fourmis qui l’analyse pour obtenir des informations concernant une source alimentaire retrouvée par une fourmi (la qualité, ou la quantité).
 
-{% include image.html img="img/chimique/figure14.png" caption="Schéma de la structure d’une sensille" %}
+{% include image.html img="chimique/figure14.png" caption="Schéma de la structure d’une sensille" %}
 
 On trouve, au niveau des dendrites, des récepteurs olfactifs permettant l’identification du stimulus (éléments extérieurs capables de déclencher des phénomènes spéciaux dans l'organisme : odeur, phéromones). Les récepteurs olfactifs se composent d’une protéine et d’un glucide qui forment un site actif auquel se fixe la molécule (la ou les phéromone(s)). Ainsi les récepteurs olfactifs sont spécifiques d’une molécule ou plusieurs molécules (pour les bouquets phéromonaux). En effet, les phéromones sont transportées dans le liquide sensillaire grâce aux OBP (olfactorybindingproteins) et les PBP (pheromonebindingprotein), qui sont des protéines spécifiques. La molécule odorante est ensuite perçue par l’odorant receptorprotein (Or) afin d’être transmise par les dendrites au corps nerveux des cellules sensorielles.
 
-{% include image.html img="img/chimique/figure15.png" caption="Schéma de la réception des phéromones au niveau du liquide sensillaire" %}
+{% include image.html img="chimique/figure15.png" caption="Schéma de la réception des phéromones au niveau du liquide sensillaire" %}
 
 
 ## Utilisation de ces connaissances par l’homme 
@@ -170,7 +170,7 @@ On trouve, au niveau des dendrites, des récepteurs olfactifs permettant l’ide
 
 Afin de se servir de ces connaissances en matière de communication chimique, l’homme doit copier le système de communication chimique c’est-à-dire les phéromones, en les synthétisant. On doit étudier précisément la composition phéromonale des glandes, afin de synthétiser une phéromone laboratoire comme par exemple l’octan-2-one. Les synthèses des phéromones permettent à l’homme de les utiliser en tant qu’outil contre la destruction culturale comme nous allons le voir un peu plus tard. Nous avons donc procédé à une expérience afin de synthétiser l’octan-2-one, une phéromone, grâce à l’octan-2-ol. Cette phéromone se trouve dans les glandes mandibulaires des fourmis. Voici les représentations du réactif principal et du produit.
 
-{% include image.html img="img/chimique/figure16.png" %}
+{% include image.html img="chimique/figure16.png" %}
 
 Nous avons donc suivi un protocole expérimental réalisé par un enseignant de l’académie de Nantes que nous avons modifié afin de répondre au mieux aux contraintes de matériel de laboratoire.
 
@@ -195,7 +195,7 @@ Cl<sub>2</sub>(g) + 2Na<sup>+</sup> + 2OH<sup>&ndash;</sup> &rarr; 2 Na<sup>+</s
 
 Dans des conditions de pression et de température normales on doit dissoudre 24L de dichlore gazeux dans 1L de soude afin d’obtenir 1L d’eau de Javel.
 
-{% include image.html img="img/chimique/figure18.png" caption="Photo du montage expérimental que nous avons réalisé, l’ampoule de coulée isobare n’a pas été encore introduite" %}
+{% include image.html img="chimique/figure18.png" caption="Photo du montage expérimental que nous avons réalisé, l’ampoule de coulée isobare n’a pas été encore introduite" %}
 
 
 
@@ -209,11 +209,11 @@ Dans des conditions de pression et de température normales on doit dissoudre 24
 
 
 
-{% include image.html img="img/chimique/figure19.png" caption="Photo du montage lorsque l’eau de Javel coule en goutte à goutte" %}
+{% include image.html img="chimique/figure19.png" caption="Photo du montage lorsque l’eau de Javel coule en goutte à goutte" %}
 
 
 
-{% include image.html img="img/chimique/figure20.png" caption="Photo de l’eau de la solution d’hydrogénosulfite de sodium qui coule  doucement, la solution auparavant jaune est devenue incolore" %}
+{% include image.html img="chimique/figure20.png" caption="Photo de l’eau de la solution d’hydrogénosulfite de sodium qui coule  doucement, la solution auparavant jaune est devenue incolore" %}
 
 
 
@@ -233,7 +233,7 @@ Dans des conditions de pression et de température normales on doit dissoudre 24
 
 
 
-{% include image.html img="img/chimique/figure21.png" caption="Photo de l’ampoule à décanter lors du dernier lavage de la phase organique avec 50ml d’une solution aqueuse de chlorure de sodium saturée, préalablement refroidie dans le bain réfrigérant" %}
+{% include image.html img="chimique/figure21.png" caption="Photo de l’ampoule à décanter lors du dernier lavage de la phase organique avec 50ml d’une solution aqueuse de chlorure de sodium saturée, préalablement refroidie dans le bain réfrigérant" %}
 
 
 
@@ -243,13 +243,13 @@ Dans des conditions de pression et de température normales on doit dissoudre 24
 >Sécher la phase organique avec un sel anhydre comme par exemple du sulfate de magnésium anhydre.
 
 
-{% include image.html img="img/chimique/figure22.png" caption="Photo du séchage de la phase organique avec du sel anydre" %}
+{% include image.html img="chimique/figure22.png" caption="Photo du séchage de la phase organique avec du sel anydre" %}
 
 
 >**4. Filtrer la phase organique avec un dispositif de Büchner**
 
 
-{% include image.html img="img/chimique/figure23.png" caption="Photo du dispositif de Büchner réalisé afin d’obtenir le produit" %}
+{% include image.html img="chimique/figure23.png" caption="Photo du dispositif de Büchner réalisé afin d’obtenir le produit" %}
 
 
 >**5. Caractérisation du groupe carbonyle de la cétone obtenue :**
@@ -259,7 +259,7 @@ Dans des conditions de pression et de température normales on doit dissoudre 24
 >Refaire la même opération avec quelques gouttes du liquide organique obtenu au cours de cette synthèse.
 
 
-{% include image.html img="img/chimique/figure24.png" caption="Photo du tube à essai contenant le liquide organique, ajout de quelques gouttes de DNPH" %}
+{% include image.html img="chimique/figure24.png" caption="Photo du tube à essai contenant le liquide organique, ajout de quelques gouttes de DNPH" %}
 
 
 La synthèse enfin terminée, nous pouvons donner l’équation de la réaction d’oxydoréduction lors de cette transformation chimique :
@@ -279,7 +279,7 @@ Grâce à un tableau d’avancement ci-dessous nous pouvons calculer le rendemen
 
 
 
-{% include image.html img="img/chimique/figure26.png" %}
+{% include image.html img="chimique/figure26.png" %}
 
 
 Quelque calcul afin de remplir le tableau :
@@ -323,13 +323,13 @@ On utilise par exemple la méthode du piégeage sélectif, du ravageur mâle ou 
 Les pièges à entonnoir et le pièges à ailette : une capsule permettant la diffusion de phéromones y est fixée. Chaque capsule est spécifique d’une seule espèce. Le récipient contient de l’eau afin que les insectes se noient. Les ravageurs souvent des lépidoptères sont attirés par la phéromone. Ils volent ainsi tous autour jusqu’à un épuisement total pour enfin tomber dans l’entonnoir. Ces pièges sont souvent destinés à des cultures de petite taille ou pour des jardins.
 
 
-{% include image.html img="img/chimique/figure29.png" %}
+{% include image.html img="chimique/figure29.png" %}
 
 
 Les pièges Delta : Ils agissent sur le même principe que les pièges à entonnoir. Cependant les insectes tombent sur une plaque de glu. Ce type de piège est souvent utilisé afin de faire des statistiques sur les insectes ravageurs, de connaître la période de reproduction. Un quadrillage y est dessiné afin de faciliter le comptage.
 
 
-{% include image.html img="img/chimique/figure30.png" %}
+{% include image.html img="chimique/figure30.png" %}
 
 
 Quel que soit le piège utilisé, l’agriculteur en changeant la capsule et les plaques collantes peut les réutiliser infiniment. Les capsules ont la plupart du temps un mode d’action sur une dizaine de mètres.
