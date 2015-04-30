@@ -66,8 +66,8 @@ Une fois produit par l’araignée, la vibration se propage dans le substrat, la
 
 Nous avons procédé à une analyse microscopique de fil de soie d’araignée. Afin d’avoir les fils, nous avons capturé une araignée qui a ensuite fait sa toile dans une boite. Grâce à un appareil photo numérique pour microscope, nous avons pu obtenir des clichés du fil d’araignée.
 
-{% include image.html img="vibrations/FilMicroscopeA.png" title="Photographie A de fil d'araignée"%}
-{% include image.html img="vibrations/FilMicroscopeB.png" caption="Figure 4 : Photographies de fils d’araignée vus au microscope optique (×600)" title="Photographie B de fil d'araignée"%}
+{% include image.html img="vibrations/FilMicroscopeA.jpg" title="Photographie A de fil d'araignée"%}
+{% include image.html img="vibrations/FilMicroscopeB.jpg" caption="Figure 4 : Photographies de fils d’araignée vus au microscope optique (×600)" title="Photographie B de fil d'araignée"%}
 
 Le premier fil n’a pas été coloré, et le second a été coloré au bleu de méthylène. Nous pouvons voir sur ces photographies que les fils d’araignée sont en fait constitués de plusieurs fils tressés les uns autour des autres, toutefois la coloration au bleu de méthylène ne permet pas de différencier différente partie dans chacun des fils.
 
