@@ -1,8 +1,12 @@
 <!-- _includes/image.html -->
 <div class="image-wrapper" >
-    <a href="{{ site.url }}/img/full/{{ include.img }}" title="{{ include.title }}" target="_blank">
-        <img src="{{ site.url }}/img/thumbs/{{ include.img }}" {% if include.fallback %}onerror="this.src={{ site.url }}/{{ include.fallback }}"{% endif  %} {% if include.title %}alt="{{ include.title }}"{% elsif include.caption%}alt="{{ include.caption }}"{% endif %}/>
-    </a>
+    {% if include.url %}
+        <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
+    {% endif %}
+        <img src="{{ site.url }}/img/{{ include.img }}" {% if include.fallback %}onerror="this.src={{ site.url }}/img/{{ include.fallback }}"{% endif  %} {% if include.title %}alt="{{ include.title }}"{% elsif include.caption%}alt="{{ include.caption }}"{% endif %}/>
+    {% if include.url %}
+        </a>
+    {% endif %}
     {% if include.caption %}
         <p class="image-caption">{{ include.caption }}</p>
     {% endif %}
