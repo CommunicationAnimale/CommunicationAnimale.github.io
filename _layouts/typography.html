@@ -11,8 +11,8 @@
 <pre>{{ temp3.first | newline_to_br }}</pre>
 {% endif %}
 {% assign t = temp3.last %}
-{% assign t = t | replace: '&ldquo;' , '«&#160;' %}
-{% assign t = t | replace: '&rdquo;' , '&#160;»' %}
+{% assign t = t | replace: '&ldquo;' , 'Â«&#160;' %}
+{% assign t = t | replace: '&rdquo;' , '&#160;Â»' %}
 {% assign t = t | replace: ' :',       '&#160;:' %}
 {% assign t = t | replace: ' %',       '&#160;%' %}
 {% assign t = t | replace: ' ;', '<span style="white-space:nowrap">&thinsp;</span>;' %}
