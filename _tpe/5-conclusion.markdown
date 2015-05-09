@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Conclusion
+published: true
 ---
 
 Notre travail nous a permis de constater le rôle de l’amélioration de l’analyse des signaux et de leur traitement dans la compréhension des phénomènes mis en œuvre dans la communication animale. L’amélioration des connaissances au sujet des phénomènes physiques et chimiques mis en œuvre a également rendu possible la découverte de leur diversité.

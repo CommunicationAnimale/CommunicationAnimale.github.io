@@ -1,9 +1,9 @@
 ---
 layout: page
 title: La communication ultrasonore
+published: true
+katex: 1
 ---
-
-{% include katex_import.html %}
 
 ## Introduction
 
@@ -188,5 +188,3 @@ $$C$$ : célérité des ultrasons dans les tissus mous (1540 m/s)
 $$\cos \theta$$ : cosinus de l'angle que forme la direction du faisceau ultrasonore et la direction de l'écoulement sanguin.
 
 {% include buttons.html %}
-
-{% include katex_render.html %}

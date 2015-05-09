@@ -2,9 +2,8 @@
 layout: page
 title: La communication vibratoire
 published: true
+katex: 1
 ---
-
-{% include katex_import.html %}
 
 De nombreux animaux communiquent par l’intermédiaire de vibrations : les punaises vertes (*Nezara virudula*) communiquent à l’aide de vibrations transmises par les feuilles sur lesquelles elles se trouvent lors de leur parade amoureuse. De même, les éléphants émettent des signaux vibratoires en frappant le sol de leurs pattes pouvant être reçus par d’autres éléphants à plusieurs kilomètres de distances, selon une étude d’<span style="font-variant:small-caps;">O’Connel - Rodwell</span>. Par ailleurs, les araignées communiquent par des vibrations transmises dans la toile et celle-ci présente de nombreux aspects : elle est utilisée non seulement lors de la parade amoureuse, mais aussi au sein de sociétés d’araignées sociales et permet la détection d’intrus ou de proie. De plus, le substrat, c’est-à-dire la base matérielle, le support de la communication vibratoire chez les araignées est tout à fait particulier : ce sont les fils de soie, produits par les araignées.
 
@@ -162,7 +161,7 @@ Masse linéique (masse par unité de longueur) : $$\mu_B = \frac{2,1\times10^{-1
 
 Dès lors on peut remarquer que plus la tension de la corde est élevée, et plus la propagation se déplace rapidement dans la corde, et plus la corde a une masse linéique élevé, et plus la propagation se déplace lentement.
 
-Le calcul théorique de la vitesse $v$ d’une onde dans une corde est $$v = \sqrt{\frac{T}{\mu}}$$, où $$T$$ est la tension de la corde et $$\mu$$ sa masse linéique, ce qui est en accord avec nos observations.
+Le calcul théorique de la vitesse $$v$$ d’une onde dans une corde est $$v = \sqrt{\frac{T}{\mu}}$$, où $$T$$ est la tension de la corde et $$\mu$$ sa masse linéique, ce qui est en accord avec nos observations.
 
 
 Selon [une étude menée conjointement par des universités américaines et japonaises](http://web.mit.edu/course/3/3.064/www/slides/Ko_spider_silk.pdf), la masse linéique d’une fibre de soie d’araignée est $$\mu_{\text{fibre}} = 1,4 \times 10^{- 8}\text{kg.m}$$<sup>-1</sup>, même s’il est composé de plusieurs fibres, le fil de soie d’araignée a une masse linéique extrêmement faible. Par ailleurs, la toile est sous tension. Les ondes se déplacent donc extrêmement rapidement dans la toile, ce qui est un des atouts majeurs de la communication vibratoire pour les araignées.
@@ -228,5 +227,3 @@ De plus, ils soulignent les limitations techniques de cette méthode : l’atté
 Par ailleurs, la situation du champ de vignes étudiée par Anna <span style="font-variant:small-caps;">Eriksson</span> était une situation idéale, car les vignes forment une ligne et chaque pied de vigne est relié au suivant, facilitant la transmission de vibrations d’un pied de vigne au suivant. Dès lors, on peut se demander si cette méthode est vraiment applicable.
 
 {% include buttons.html %}
-
-{% include katex_render.html %}

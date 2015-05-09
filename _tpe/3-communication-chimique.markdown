@@ -2,9 +2,8 @@
 layout: page
 title: La communication chimique
 published: true
+katex: 1
 ---
-
-{% include katex_import.html %}
 
 ## Les substances sémiochimiques :
 
@@ -352,4 +351,3 @@ D’autre part, les entomologistes du centre INRA Bordeaux-Aquitaine ont réussi
 
 {% include buttons.html %}
 
-{% include katex_render.html %}

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sources
+published: true
 ---
 
 ## Bibliographie
