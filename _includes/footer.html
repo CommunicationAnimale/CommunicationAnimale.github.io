@@ -3,3 +3,9 @@
 	<p class="text">{{ site.theme.footer_text }}</p>
 </footer>
 {% endif %}
+
+{% if page.katex %}
+<script>
+    renderMathInElement(document.body);
+</script>
+{% endif %}
