@@ -1,11 +1,10 @@
+{% if page.katex %}
+    <script src="{{ "/js/katexRender.js" | prepend: site.baseurl }}"></script>
+{% endif %}
+
 {% if site.theme.footer_text %}
 <footer class="site-footer">
 	<p class="text">{{ site.theme.footer_text }}</p>
 </footer>
 {% endif %}
 
-{% if page.katex %}
-<script>
-    renderMathInElement(document.body);
-</script>
-{% endif %}
