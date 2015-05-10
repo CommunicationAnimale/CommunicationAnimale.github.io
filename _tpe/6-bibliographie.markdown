@@ -26,7 +26,7 @@ published: true
 
 10. Claude PAVIS. Les sécrétions exocrines des hétéroptères (allomones et phéromones). Une mise au point bibliographique. Agronomie, EDP Sciences, 1987, 7 (8), pp.547-561.
 
-11. Ying Li, Zhen Liu, Peng Shi, Jianzhi Zhang, « The hearing gene Prestin unites echolocating bats and whales. », *Current Biology*, 2010.
+11. Ying Li, Zhen Liu, Peng Shi, Jianzhi Zhang, "The hearing gene Prestin unites echolocating bats and whales.", *Current Biology*, 2010.
 
 12. J. W. S. Pringle, « The function of the lyriform organs of arachnids », *Journal of Experimental Biology*, vol. 32, n<sup>o</sup> 2, p. 270–278, 1955.
 
