@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+{% if page.katex %}
+    <script src="{{ "/js/katexRender.js" | prepend: site.baseurl }}"></script>
+{% endif %}
+=======
+<script src="{{ "/js/main.js" | prepend: site.baseurl }}"></script>
+>>>>>>> fac4fd9b584bb7e9146278917def5b5eba550ed9
+
+{% if site.theme.footer_text %}
+<footer class="site-footer">
+	<p class="text">{{ site.theme.footer_text }}</p>
+</footer>
+{% endif %}
+<<<<<<< HEAD
+
+=======
+>>>>>>> fac4fd9b584bb7e9146278917def5b5eba550ed9
