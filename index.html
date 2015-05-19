@@ -3,27 +3,32 @@ layout: default
 ---
 
 <div class="home">
-
   {% if site.theme.header_text %}
-  <div class="call-out">{{ site.theme.header_text }}</div>
+  <div class="call-out" 
+  style="background-image: url('{{ site.baseurl }}/{{ site.theme.header_text_feature_image }}')">
+    {{ site.theme.header_text }}
+  </div>
   {% endif %}
 
   <div class="pages">
     {% for post in site.tpe %}
     <div class="pages-teaser">
-    
       <header>
         <h1>
-          <a class="page-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+            {{ post.title }}
+          </a>
         </h1>
+        <p class="meta">
+          {{ post.date | date: "%B %-d, %Y" }}
+        </p>
       </header>
-
       <div class="excerpt">
         {{ post.excerpt | strip_html }}
-
-        <a class="button" href="{{ post.url | prepend: site.baseurl }}">{{ site.theme.str_continue_reading }}</a>
+        <a class="button" href="{{ post.url | prepend: site.baseurl }}">
+          {{ site.theme.str_continue_reading }}
+        </a>
       </div>
-      
     </div>
     {% endfor %}
   </div>
