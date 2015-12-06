@@ -282,8 +282,8 @@ Grâce à un tableau d’avancement ci-dessous nous pouvons calculer le rendemen
 
 
 Quelque calcul afin de remplir le tableau :
-
-*m*(C<sub>8</sub>H<sub>16</sub>O) = 5 × 0,819 = V(C<sub>8</sub>H<sub>16</sub>O) × d(C<sub>8</sub>H<sub>16</sub>O) = 4,09 g
+m(C<sub>8</sub>H<sub>16</sub>O) = V(C<sub>8</sub>H<sub>16</sub>O) × d(C<sub>8</sub>H<sub>16</sub>O) × ρ<sub>eau</sub>
+m(C<sub>8</sub>H<sub>16</sub>O) = 5.0 × 0,819 × 1.00 = 4,1 g
 
 Donc n(C<sub>8</sub>H<sub>16</sub>O) = $$\frac{m(C_{8}H_{16}O)}{M(C_{8}H_{16}O)}$$ = 3,15.10<sup>-2</sup> mol
 
