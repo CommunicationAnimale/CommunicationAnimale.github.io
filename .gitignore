@@ -42,6 +42,10 @@ Thumbs.db
 _site
 .sass-cache
 
+# Bundle #
+##########
+.bundle
+
 # Latex #
 #########
 *.aux
