@@ -63,7 +63,7 @@ gems: [jekyll-paginate]
 markdown: kramdown
 highlighter: rouge
 kramdown:
-   math_engine: mathjax 
+   math_engine: +nil+
 sass:
   sass_dir: _sass
   style: :compressed

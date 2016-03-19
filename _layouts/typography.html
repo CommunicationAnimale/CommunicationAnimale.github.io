@@ -15,7 +15,8 @@ layout: compress.html
 {% endif %}
 
 {% assign t = temp3.last %}
-{% assign t = t | replace: "&#39;", "’" | replace: "~", "&nbsp;" %}
+{% assign t = t | replace: "&#39;", "’" %}
+{% assign t = t | replace: "~", "&nbsp;" %}
 {% assign t = t | replace: "[[", "<span class='as'></span><span class='br'> (</span><span class='mar'>" %}
 {% assign t = t | replace: "]]", "</span><span class='br'>)</span>" %}
 {% assign t = t | replace: "&ldquo;" , "«&#160;" | replace: "&rdquo;" , "&#160;»" %}
