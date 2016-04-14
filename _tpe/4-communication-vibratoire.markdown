@@ -104,23 +104,23 @@ Ces mesures permettent de tracer un graphique. La proportionnalité entre le dia
 
 Dès lors on peut calculer :
 
-\[ D(fil) = \frac{\frac{1}{L}}{0.76} \]
+$] D(fil) = \frac{\frac{1}{L}}{0.76} $]
 
 Donc :
 
-\[ D(filA) = \frac{9,26\times10^{-3}}{0.76} \]
+$] D(filA) = \frac{9,26\times10^{-3}}{0.76} $]
  
 Soit :
 
-\[ D(filA) = 1,2\times10^{-2} \text{mm} = 1,2\times10^{-5} \text{m} = 12 \mu\text{m} \]
+$] D(filA) = 1,2\times10^{-2} \text{mm} = 1,2\times10^{-5} \text{m} = 12 \mu\text{m} $]
 
 Et,
 
-\[ D(filB) = \frac{1,25\times10^{-2}}{0.76} \]
+$] D(filB) = \frac{1,25\times10^{-2}}{0.76} $]
 
 Soit :
 
-\[ D(filB) = 1,6\times10^{-2} \text{mm} = 1,6\times10^{-5} \text{m} = 16 \mu\text{m} \]
+$] D(filB) = 1,6\times10^{-2} \text{mm} = 1,6\times10^{-5} \text{m} = 16 \mu\text{m} $]
 
 D'après nos mesures, le fil de soie d'araignée à un diamètre ordre 15µm soit environ un dixième de la taille d’un cheveu.
 
@@ -138,11 +138,11 @@ Afin d’étudier la vitesse d’une onde dans la toile, nous avons décidé de 
 
 Corde A :
 
-Masse de la corde : \( m_A = 4,6\times10^{-2} \text{kg} \)
+Masse de la corde : $( m_A = 4,6\times10^{-2} \text{kg} $)
 
-Longueur de la corde : \( L_A = 2,08 \text{m} \)
+Longueur de la corde : $( L_A = 2,08 \text{m} $)
 
-Masse linéique (masse par unité de longueur) : \( \mu_A = \frac{m}{L} = \frac{4,6\times10^{-2}}{2,08} = 2,2\times10^{-2} \text{kg.m}\)<sup>-1</sup>
+Masse linéique (masse par unité de longueur) : $( \mu_A = \frac{m}{L} = \frac{4,6\times10^{-2}}{2,08} = 2,2\times10^{-2} \text{kg.m}$)<sup>-1</sup>
 
 
 {% include image.html img="vibrations/VfilA.svg" fallback="img/vibrations/VfilA.png" caption="Durée Δt (s×10<sup>-3</sup>) que prend la vibration à parcourir un mètre sur la corde A en fonction de la tension (avec A<B<C<D)" %}
@@ -150,11 +150,11 @@ Masse linéique (masse par unité de longueur) : \( \mu_A = \frac{m}{L} = \frac{
 
 Corde B :
 
-Masse de la corde : \( m_B = 2,1\times10^{-1} \text{kg} \)
+Masse de la corde : $( m_B = 2,1\times10^{-1} \text{kg} $)
 
-Longueur de la corde : \( L_B = 3,07 \text{m} \)
+Longueur de la corde : $( L_B = 3,07 \text{m} $)
 
-Masse linéique (masse par unité de longueur) : \( \mu_B = \frac{2,1\times10^{-1}}{3,07} = 7,0\times10^{-2} \text{kg.m}\)<sup>-1</sup> \( > \mu_A \)
+Masse linéique (masse par unité de longueur) : $( \mu_B = \frac{2,1\times10^{-1}}{3,07} = 7,0\times10^{-2} \text{kg.m}$)<sup>-1</sup> $( > \mu_A $)
 
 
 {% include image.html img="vibrations/VfilB.svg" fallback="img/vibrations/VfilB.png" caption="Durée Δt (s×10<sup>-3</sup>) que prend la vibration à parcourir un mètre sur la corde B en fonction de la tension (avec A'<B')" %}
@@ -162,10 +162,10 @@ Masse linéique (masse par unité de longueur) : \( \mu_B = \frac{2,1\times10^{-
 
 Dès lors on peut remarquer que plus la tension de la corde est élevée, et plus la propagation se déplace rapidement dans la corde, et plus la corde a une masse linéique élevé, et plus la propagation se déplace lentement.
 
-Le calcul théorique de la vitesse \(v\) d’une onde dans une corde est \( v = \sqrt{\frac{T}{\mu}} \), où \(T\) est la tension de la corde et \(\mu\) sa masse linéique, ce qui est en accord avec nos observations.
+Le calcul théorique de la vitesse $(v$) d’une onde dans une corde est $( v = \sqrt{\frac{T}{\mu}} $), où $(T$) est la tension de la corde et $(\mu$) sa masse linéique, ce qui est en accord avec nos observations.
 
 
-Selon [une étude menée conjointement par des universités américaines et japonaises](http://web.mit.edu/course/3/3.064/www/slides/Ko_spider_silk.pdf), la masse linéique d’une fibre de soie d’araignée est \( \mu_{\text{fibre}} = 1,4 \times 10^{- 8}\text{kg.m}\)<sup>-1</sup>, même s’il est composé de plusieurs fibres, le fil de soie d’araignée a une masse linéique extrêmement faible. Par ailleurs, la toile est sous tension. Les ondes se déplacent donc extrêmement rapidement dans la toile, ce qui est un des atouts majeurs de la communication vibratoire pour les araignées.
+Selon [une étude menée conjointement par des universités américaines et japonaises](http://web.mit.edu/course/3/3.064/www/slides/Ko_spider_silk.pdf), la masse linéique d’une fibre de soie d’araignée est $( \mu_{\text{fibre}} = 1,4 \times 10^{- 8}\text{kg.m}$)<sup>-1</sup>, même s’il est composé de plusieurs fibres, le fil de soie d’araignée a une masse linéique extrêmement faible. Par ailleurs, la toile est sous tension. Les ondes se déplacent donc extrêmement rapidement dans la toile, ce qui est un des atouts majeurs de la communication vibratoire pour les araignées.
 
 ## Perception des signaux vibratoires
 

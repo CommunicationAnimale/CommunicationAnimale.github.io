@@ -81,17 +81,17 @@ Si un observateur en mouvement cherche à mesurer cette longueur, il lui trouve 
 
 {% include image.html img="ultrasons/image6.jpeg" caption="L'effet Doppler"%}
 
-Si la vitesse \( V_{r} \) (vitesse de l’objet mobile perçue par l'observateur) est petite devant \(c\) (vitesse de l'onde perçue), en termes de longueur d’onde \( \lambda = c \times T \), l’observateur perçoit un rayonnement de longueur d’onde :
+Si la vitesse $( V_{r} $) (vitesse de l’objet mobile perçue par l'observateur) est petite devant $(c$) (vitesse de l'onde perçue), en termes de longueur d’onde $( \lambda = c \times T $), l’observateur perçoit un rayonnement de longueur d’onde :
 
-\[ \lambda\' = \lambda \times (1 + \frac{V_{r}}{c}) \]
+$[ \lambda\' = \lambda \times (1 + \frac{V_{r}}{c}) $]
 
 Soit un rayonnement décalé de la quantité
 
-\[ \Delta\lambda = \lambda\' - \lambda \]
+$[ \Delta\lambda = \lambda\' - \lambda $]
 
 Tel que
 
-\[ \Delta\lambda = \frac{V_{r}}{c}\times\lambda \]
+$[ \Delta\lambda = \frac{V_{r}}{c}\times\lambda $]
 
 Ce calcul montre que le décalage relatif de la longueur d'onde est proportionnel au rapport de la vitesse de la source par rapport à l'observateur à la vitesse de la lumière.
 
@@ -173,18 +173,18 @@ L'énergie rediffusée par les hématies revient vers la sonde qui va mesurer la
 
 La différence entre la fréquence du signal émis et celle du signal reçu par la sonde suit la formule:
 
-\[ \delta F = 2F(\frac{V}{C}) \cos \theta \]
+$[ \delta F = 2F(\frac{V}{C}) \cos \theta $]
 
 Avec
 
-\( \delta F \) : différence entre la fréquence de l'onde émise et celle de l'onde reçue
+$( \delta F $) : différence entre la fréquence de l'onde émise et celle de l'onde reçue
 
-\(F\) : fréquence de l'onde émise
+$(F$) : fréquence de l'onde émise
 
-\(V\) : vitesse du sang
+$(V$) : vitesse du sang
 
-\(C\) : célérité des ultrasons dans les tissus mous (1540 m/s)
+$(C$) : célérité des ultrasons dans les tissus mous (1540 m/s)
 
-\(\cos \theta\) : cosinus de l'angle que forme la direction du faisceau ultrasonore et la direction de l'écoulement sanguin.
+$(\cos \theta$) : cosinus de l'angle que forme la direction du faisceau ultrasonore et la direction de l'écoulement sanguin.
 
 {% include buttons.html %}
