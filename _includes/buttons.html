@@ -3,7 +3,7 @@
 {% for post in site.tpe %}
   {% if found %}
     <a href="{{ post.url }}" class="button" >
-      {{ site.theme.str_next }} 
+      {{ site.theme_settings.str_next }} 
       <i class="fa fa-chevron-right"></i>
     </a>
     {% break %}
@@ -14,7 +14,7 @@
     {% if previous_post %}
       <a href="{{ previous_post }}" class="button" >
         <i class="fa fa-chevron-left"></i> 
-        {{ site.theme.str_prev }}
+        {{ site.theme_settings.str_prev }}
       </a>
     {% endif %}
   {% endif %}

@@ -4,7 +4,7 @@ url: " https://communicationanimale.github.io/" # the base hostname & protocol f
 excerpt_separator: <!--more-->
 
 # THEME-SPECIFIC CONFIGURATION
-theme:
+theme_settings:
   # Meta
   title: La Communication Animale
   avatar: avatar.png

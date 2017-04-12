@@ -1,7 +1,7 @@
 <head>
     <meta charset="utf-8">
-    <title>{% if page.title %}{{ page.title }} |{% endif %} {{ site.theme.title }}</title>
-    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.theme.description }}{% endif %}">
+    <title>{% if page.title %}{{ page.title }} |{% endif %} {{ site.theme_settings.title }}</title>
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.theme_settings.description }}{% endif %}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta http-equiv="X-Frame-Options" content="sameorigin">
@@ -16,7 +16,7 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
     <!-- RSS -->
-    <link rel="alternate" type="application/atom+xml" title="{{ site.theme.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+    <link rel="alternate" type="application/atom+xml" title="{{ site.theme_settings.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
     <!-- Fonts -->
     <script>
@@ -24,12 +24,12 @@
     loadFont('Open Sans', [400, '400-italic', 600], 'sans-font-loaded')
     </script>
     
-    {% if site.theme.google_analytics %}
+    {% if site.theme_settings.google_analytics %}
     <!-- Google Analytics async : https://goo.gl/3FPNDx -->
     <script async src='//www.google-analytics.com/analytics.js'></script>
     <script>
     window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-    ga('create', '{{ site.theme.google_analytics }}', 'auto');
+    ga('create', '{{ site.theme_settings.google_analytics }}', 'auto');
     ga('send', 'pageview');
     </script>
     <!-- End Google Analytics -->
