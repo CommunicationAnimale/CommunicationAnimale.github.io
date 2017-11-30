@@ -59,7 +59,7 @@ paginate: 5
 paginate_path: "blog/page:num"
 
 # BUILD SETTINGS
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 markdown: kramdown
 highlighter: rouge
 kramdown:
