@@ -173,7 +173,7 @@ L'énergie rediffusée par les hématies revient vers la sonde qui va mesurer la
 
 La différence entre la fréquence du signal émis et celle du signal reçu par la sonde suit la formule:
 
-$[ \delta F = 2F(\frac{V}{C}) \cos \theta $]
+$[ \delta F = 2F\left(\frac{V}{C}\right) \cos \theta $]
 
 Avec
 
